@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "mother",
+    "wordMeaning": "അമ്മ",
+    "englishText": "My mother always wakes up early to prepare breakfast.",
+    "malayalamMeaning": "പ്രഭാതഭക്ഷണം തയ്യാറാക്കാൻ അമ്മ എപ്പോഴും നേരത്തെ എഴുന്നേൽക്കും.",
+    "usageExample": "Talking about mom.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "father",
+    "wordMeaning": "അച്ഛൻ",
+    "englishText": "His father taught him how to ride a bicycle in the courtyard.",
+    "malayalamMeaning": "മുറ്റത്ത് സൈക്കിൾ ചവിട്ടാൻ അച്ഛൻ പഠിപ്പിച്ചു.",
+    "usageExample": "Talking about dad.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mom",
+    "wordMeaning": "അമ്മ",
+    "englishText": "Mom packed a delicious lunch for my journey.",
+    "malayalamMeaning": "അമ്മ എൻ്റെ യാത്രയ്ക്ക് രുചികരമായ ഉച്ചഭക്ഷണം പാക്ക് ചെയ്തു.",
+    "usageExample": "Affectionate term for mother.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dad",
+    "wordMeaning": "അച്ഛൻ",
+    "englishText": "Dad called to see if I arrived safely at the hostel.",
+    "malayalamMeaning": "ഞാൻ സുരക്ഷിതമായി ഹോസ്റ്റലിൽ എത്തിയോ എന്നറിയാൻ അച്ഛൻ വിളിച്ചു.",
+    "usageExample": "Affectionate term for father.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "parent",
+    "wordMeaning": "രക്ഷിതാവ്",
+    "englishText": "Every parent wants a bright and safe future for their children.",
+    "malayalamMeaning": "ഓരോ മാതാപിതാക്കളും തങ്ങളുടെ കുട്ടികൾക്ക് ശോഭനവും സുരക്ഷിതവുമായ ഭാവി ആഗ്രഹിക്കുന്നു.",
+    "usageExample": "General parental role.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "child",
+    "wordMeaning": "കുട്ടി",
+    "englishText": "The child ran into her mother's arms with a wide smile.",
+    "malayalamMeaning": "നിറഞ്ഞ പുഞ്ചിരിയോടെ കുഞ്ഞ് അമ്മയുടെ കൈകളിലേക്ക് ഓടി.",
+    "usageExample": "Referring to a son/daughter.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "children",
+    "wordMeaning": "കുട്ടികൾ",
+    "englishText": "The children are playing happily in the front yard.",
+    "malayalamMeaning": "കുട്ടികൾ മുന്നിലെ മുറ്റത്ത് സന്തോഷത്തോടെ കളിക്കുന്നു.",
+    "usageExample": "Plural of child.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "son",
+    "wordMeaning": "മകൻ",
+    "englishText": "Their son is studying mechanical engineering in Kochi.",
+    "malayalamMeaning": "ഇവരുടെ മകൻ കൊച്ചിയിൽ മെക്കാനിക്കൽ എൻജിനീയറിങ്ങിന് പഠിക്കുന്നു.",
+    "usageExample": "Male child.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "daughter",
+    "wordMeaning": "മകൾ",
+    "englishText": "Their daughter won first prize in the school debate competition.",
+    "malayalamMeaning": "ഇവരുടെ മകൾ സ്കൂൾ ഡിബേറ്റ് മത്സരത്തിൽ ഒന്നാം സമ്മാനം നേടി.",
+    "usageExample": "Female child.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "brother",
+    "wordMeaning": "സഹോദരൻ",
+    "englishText": "My older brother helped me choose my first laptop.",
+    "malayalamMeaning": "എൻ്റെ ആദ്യത്തെ ലാപ്‌ടോപ്പ് തിരഞ്ഞെടുക്കാൻ എൻ്റെ ജ്യേഷ്ഠൻ എന്നെ സഹായിച്ചു.",
+    "usageExample": "Male sibling.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sister",
+    "wordMeaning": "സഹോദരി",
+    "englishText": "Her sister loves baking banana cakes on Sunday mornings.",
+    "malayalamMeaning": "ഞായറാഴ്ച രാവിലെ വാഴപ്പഴം ദോശ ചുടുന്നത് അവളുടെ സഹോദരിക്ക് ഇഷ്ടമാണ്.",
+    "usageExample": "Female sibling.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "baby",
+    "wordMeaning": "കുഞ്ഞ്",
+    "englishText": "The baby fell asleep peacefully in her wooden cradle.",
+    "malayalamMeaning": "കുഞ്ഞ് അവളുടെ മരത്തൊട്ടിലിൽ ശാന്തമായി ഉറങ്ങി.",
+    "usageExample": "Infant in the family.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grandma",
+    "wordMeaning": "മുത്തശ്ശി",
+    "englishText": "Grandma tells the most wonderful folk tales before bedtime.",
+    "malayalamMeaning": "ഉറങ്ങുന്നതിനുമുമ്പ് മുത്തശ്ശി ഏറ്റവും മനോഹരമായ നാടോടി കഥകൾ പറയുന്നു.",
+    "usageExample": "Grandmother.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grandpa",
+    "wordMeaning": "മുത്തച്ഛൻ",
+    "englishText": "Grandpa still goes for a brisk morning walk every single day.",
+    "malayalamMeaning": "മുത്തച്ഛൻ ഇപ്പോഴും എല്ലാ ദിവസവും പ്രഭാത നടത്തത്തിന് പോകാറുണ്ട്.",
+    "usageExample": "Grandfather.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grandmother",
+    "wordMeaning": "മുത്തശ്ശി",
+    "englishText": "My grandmother makes the best mango pickle in our town.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പട്ടണത്തിലെ ഏറ്റവും നല്ല മാങ്ങാ അച്ചാർ ഉണ്ടാക്കുന്നത് എൻ്റെ അമ്മൂമ്മയാണ്.",
+    "usageExample": "Maternal or paternal grandmother.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grandfather",
+    "wordMeaning": "മുത്തച്ഛൻ",
+    "englishText": "My grandfather built this ancestral home fifty years ago.",
+    "malayalamMeaning": "അമ്പത് വർഷം മുമ്പാണ് എൻ്റെ മുത്തച്ഛൻ ഈ തറവാട് വീട് പണിതത്.",
+    "usageExample": "Maternal or paternal grandfather.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "uncle",
+    "wordMeaning": "അമ്മാവൻ",
+    "englishText": "My uncle sent us fresh cashew nuts from his farm.",
+    "malayalamMeaning": "എൻ്റെ അമ്മാവൻ അവൻ്റെ ഫാമിൽ നിന്ന് പുതിയ കശുവണ്ടിപ്പരിപ്പ് ഞങ്ങൾക്ക് അയച്ചുതന്നു.",
+    "usageExample": "Father or mother's brother.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "aunt",
+    "wordMeaning": "അമ്മായി",
+    "englishText": "Aunt Priya invited all of us over for evening snacks.",
+    "malayalamMeaning": "പ്രിയ അമ്മായി ഞങ്ങളെ എല്ലാവരെയും വൈകുന്നേരത്തെ ലഘുഭക്ഷണത്തിന് ക്ഷണിച്ചു.",
+    "usageExample": "Father or mother's sister.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cousin",
+    "wordMeaning": "ബന്ധു",
+    "englishText": "My cousin and I used to climb mango trees together during holidays.",
+    "malayalamMeaning": "അവധി ദിവസങ്ങളിൽ ഞാനും അപ്പുണ്ണിയും ഒരുമിച്ചാണ് മാങ്ങ കയറുന്നത്.",
+    "usageExample": "Extended family member.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "relative",
+    "wordMeaning": "ബന്ധു",
+    "englishText": "All our close relatives gathered at home for the festival.",
+    "malayalamMeaning": "ഞങ്ങളുടെ അടുത്ത ബന്ധുക്കളെല്ലാം പെരുന്നാളിന് വീട്ടിൽ ഒത്തുകൂടി.",
+    "usageExample": "Family relations.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "family",
+    "wordMeaning": "കുടുംബം",
+    "englishText": "Family is the strongest support system throughout our lives.",
+    "malayalamMeaning": "നമ്മുടെ ജീവിതത്തിലുടനീളം ഏറ്റവും ശക്തമായ പിന്തുണാ സംവിധാനമാണ് കുടുംബം.",
+    "usageExample": "Family unit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "home",
+    "wordMeaning": "വീട്",
+    "englishText": "Coming home after a tiring day brings a feeling of deep peace.",
+    "malayalamMeaning": "ക്ഷീണിച്ച ഒരു ദിവസത്തിന് ശേഷം വീട്ടിലേക്ക് വരുന്നത് ആഴത്തിലുള്ള സമാധാനം നൽകുന്നു.",
+    "usageExample": "Family residence.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "house",
+    "wordMeaning": "വീട്",
+    "englishText": "Our family house has a big veranda facing the garden.",
+    "malayalamMeaning": "ഞങ്ങളുടെ തറവാട് വീടിന് പൂന്തോട്ടത്തിന് അഭിമുഖമായി ഒരു വലിയ വരാന്തയുണ്ട്.",
+    "usageExample": "Physical home.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "love",
+    "wordMeaning": "സ്നേഹം",
+    "englishText": "Parents love their children without expecting anything in return.",
+    "malayalamMeaning": "തിരിച്ചൊന്നും പ്രതീക്ഷിക്കാതെ മാതാപിതാക്കൾ മക്കളെ സ്നേഹിക്കുന്നു.",
+    "usageExample": "Family affection.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "care",
+    "wordMeaning": "പരിചരണം",
+    "englishText": "Elders need our gentle care and loving attention every day.",
+    "malayalamMeaning": "മൂപ്പന്മാർക്ക് എല്ലാ ദിവസവും നമ്മുടെ സൌമ്യമായ പരിചരണവും സ്നേഹപൂർവമായ ശ്രദ്ധയും ആവശ്യമാണ്.",
+    "usageExample": "Looking after someone.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hug",
+    "wordMeaning": "ആലിംഗനം",
+    "englishText": "A warm hug from mother can wash away any sadness.",
+    "malayalamMeaning": "അമ്മയുടെ ഊഷ്മളമായ ആലിംഗനത്തിന് ഏത് സങ്കടവും ഇല്ലാതാക്കാൻ കഴിയും.",
+    "usageExample": "Affectionate embrace.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kiss",
+    "wordMeaning": "ചുംബിക്കുക",
+    "englishText": "She gave her little baby a gentle kiss on the forehead.",
+    "malayalamMeaning": "അവൾ തൻ്റെ കുഞ്ഞിൻ്റെ നെറ്റിയിൽ ഒരു മൃദു ചുംബനം നൽകി.",
+    "usageExample": "Sign of tender love.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "help",
+    "wordMeaning": "സഹായിക്കുക",
+    "englishText": "Brothers and sisters should always help each other with chores.",
+    "malayalamMeaning": "സഹോദരീസഹോദരന്മാർ എപ്പോഴും ജോലികളിൽ പരസ്പരം സഹായിക്കണം.",
+    "usageExample": "Mutual assistance.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "share",
+    "wordMeaning": "പങ്കിടുക",
+    "englishText": "Growing up with siblings teaches you how to share everything.",
+    "malayalamMeaning": "സഹോദരങ്ങൾക്കൊപ്പം വളരുന്നത് എങ്ങനെ എല്ലാം പങ്കിടണമെന്ന് നിങ്ങളെ പഠിപ്പിക്കുന്നു.",
+    "usageExample": "Sharing possessions.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grow",
+    "wordMeaning": "വളരുക",
+    "englishText": "Children grow up so fast when you look back at old photos.",
+    "malayalamMeaning": "പഴയ ഫോട്ടോകളിലേക്ക് നോക്കുമ്പോൾ കുട്ടികൾ വളരെ വേഗത്തിൽ വളരുന്നു.",
+    "usageExample": "Physical maturation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "learn",
+    "wordMeaning": "പഠിക്കുക",
+    "englishText": "We learn our very first values and manners at home.",
+    "malayalamMeaning": "നമ്മുടെ ആദ്യത്തെ മൂല്യങ്ങളും പെരുമാറ്റരീതികളും ഞങ്ങൾ വീട്ടിൽ നിന്ന് പഠിക്കുന്നു.",
+    "usageExample": "Home education.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "teach",
+    "wordMeaning": "പഠിപ്പിക്കുക",
+    "englishText": "Parents teach their kids how to speak politely to elders.",
+    "malayalamMeaning": "മുതിർന്നവരോട് എങ്ങനെ മാന്യമായി സംസാരിക്കണമെന്ന് മാതാപിതാക്കൾ കുട്ടികളെ പഠിപ്പിക്കുന്നു.",
+    "usageExample": "Guiding children.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "guide",
+    "wordMeaning": "വഴികാട്ടി",
+    "englishText": "Grandparents guide the younger generation with their life wisdom.",
+    "malayalamMeaning": "മുത്തശ്ശിമാർ അവരുടെ ജീവിത ജ്ഞാനം കൊണ്ട് യുവതലമുറയെ നയിക്കുന്നു.",
+    "usageExample": "Mentoring role.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "protect",
+    "wordMeaning": "സംരക്ഷിക്കുക",
+    "englishText": "An elder brother will always try to protect his younger sister.",
+    "malayalamMeaning": "ഒരു ജ്യേഷ്ഠൻ എപ്പോഴും തൻ്റെ അനുജത്തിയെ സംരക്ഷിക്കാൻ ശ്രമിക്കും.",
+    "usageExample": "Shielding from harm.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dinner",
+    "wordMeaning": "അത്താഴം",
+    "englishText": "Our family makes it a rule to eat dinner together every night.",
+    "malayalamMeaning": "എല്ലാ രാത്രിയിലും ഒരുമിച്ചിരുന്ന് അത്താഴം കഴിക്കണമെന്ന് ഞങ്ങളുടെ കുടുംബം ചട്ടം വെച്ചിട്ടുണ്ട്.",
+    "usageExample": "Family evening meal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lunch",
+    "wordMeaning": "ഉച്ചഭക്ഷണം",
+    "englishText": "Sunday lunch is always a special feast with all cousins present.",
+    "malayalamMeaning": "ഞായറാഴ്ച ഉച്ചഭക്ഷണം എല്ലായ്പ്പോഴും എല്ലാ കസിൻസുകളുമൊത്തുള്ള ഒരു പ്രത്യേക വിരുന്നാണ്.",
+    "usageExample": "Afternoon family meal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "breakfast",
+    "wordMeaning": "പ്രാതൽ",
+    "englishText": "Mother prepared hot idlis and chutney for our morning breakfast.",
+    "malayalamMeaning": "പ്രഭാതഭക്ഷണത്തിനായി അമ്മ ചൂടുള്ള ഇഡ്ഡലിയും ചട്ണിയും തയ്യാറാക്കി.",
+    "usageExample": "Morning family meal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kitchen",
+    "wordMeaning": "അടുക്കള",
+    "englishText": "The kitchen smelled wonderful as mother cooked the holiday feast.",
+    "malayalamMeaning": "അമ്മ അവധിക്കാല വിരുന്ന് പാകം ചെയ്യുമ്പോൾ അടുക്കളയിൽ നല്ല മണം.",
+    "usageExample": "Heart of the home.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cook",
+    "wordMeaning": "പാചകം ചെയ്യുക",
+    "englishText": "My father loves to cook special fish curry on weekends.",
+    "malayalamMeaning": "വാരാന്ത്യങ്ങളിൽ സ്പെഷ്യൽ മീൻ കറി പാകം ചെയ്യാൻ അച്ഛന് ഇഷ്ടമാണ്.",
+    "usageExample": "Preparing home meals.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "eat",
+    "wordMeaning": "തിന്നുക",
+    "englishText": "It is polite to wait until everyone sits down before you eat.",
+    "malayalamMeaning": "ഭക്ഷണം കഴിക്കുന്നതിന് മുമ്പ് എല്ലാവരും ഇരിക്കുന്നത് വരെ കാത്തിരിക്കുന്നത് മര്യാദയാണ്.",
+    "usageExample": "Dining etiquette.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "table",
+    "wordMeaning": "മേശ",
+    "englishText": "We gathered around the dining table to celebrate grandma's birthday.",
+    "malayalamMeaning": "മുത്തശ്ശിയുടെ ജന്മദിനം ആഘോഷിക്കാൻ ഞങ്ങൾ ഡൈനിംഗ് ടേബിളിന് ചുറ്റും ഒത്തുകൂടി.",
+    "usageExample": "Family meeting place.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clean",
+    "wordMeaning": "ശുദ്ധമായ",
+    "englishText": "On Saturday mornings, we all help clean the house.",
+    "malayalamMeaning": "ശനിയാഴ്ച രാവിലെ, ഞങ്ങൾ എല്ലാവരും വീട് വൃത്തിയാക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Household teamwork.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wash",
+    "wordMeaning": "കഴുകുക",
+    "englishText": "He helped his mother wash the dinner plates after the meal.",
+    "malayalamMeaning": "ഭക്ഷണം കഴിഞ്ഞ് ഡിന്നർ പ്ലേറ്റുകൾ കഴുകാൻ അമ്മയെ സഹായിച്ചു.",
+    "usageExample": "Daily chores.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "room",
+    "wordMeaning": "മുറി",
+    "englishText": "My brother and I shared a bedroom throughout our school days.",
+    "malayalamMeaning": "ഞങ്ങളുടെ സ്കൂൾ ദിനങ്ങളിൽ ഞാനും എൻ്റെ സഹോദരനും ഒരു കിടപ്പുമുറി പങ്കിട്ടു.",
+    "usageExample": "Living space.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bed",
+    "wordMeaning": "കിടക്ക",
+    "englishText": "Mother tucked the little child into bed and read a bedtime story.",
+    "malayalamMeaning": "അമ്മ കുഞ്ഞിനെ കിടക്കയിൽ കിടത്തി ഉറക്കസമയം കഥ വായിച്ചു.",
+    "usageExample": "Resting place.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wake",
+    "wordMeaning": "ഉണരുക",
+    "englishText": "My grandfather wakes up before sunrise to water the garden.",
+    "malayalamMeaning": "പൂന്തോട്ടം നനയ്ക്കാൻ എൻ്റെ മുത്തച്ഛൻ സൂര്യോദയത്തിന് മുമ്പ് ഉണരും.",
+    "usageExample": "Morning routine.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sleep",
+    "wordMeaning": "ഉറങ്ങുക",
+    "englishText": "The baby needs at least ten hours of quiet sleep each night.",
+    "malayalamMeaning": "ഓരോ രാത്രിയിലും കുഞ്ഞിന് കുറഞ്ഞത് പത്ത് മണിക്കൂറെങ്കിലും ശാന്തമായ ഉറക്കം ആവശ്യമാണ്.",
+    "usageExample": "Rest routine.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "play",
+    "wordMeaning": "കളിക്കുക",
+    "englishText": "The children love to play hide-and-seek in the courtyard.",
+    "malayalamMeaning": "കുട്ടികൾ മുറ്റത്ത് ഒളിച്ചു കളിക്കാൻ ഇഷ്ടപ്പെടുന്നു.",
+    "usageExample": "Childhood games.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "game",
+    "wordMeaning": "കളി",
+    "englishText": "Our family enjoys playing board games together on rainy evenings.",
+    "malayalamMeaning": "മഴയുള്ള വൈകുന്നേരങ്ങളിൽ ഞങ്ങളുടെ കുടുംബം ഒരുമിച്ച് ബോർഡ് ഗെയിമുകൾ കളിക്കുന്നത് ആസ്വദിക്കുന്നു.",
+    "usageExample": "Indoor fun.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "photo",
+    "wordMeaning": "ഫോട്ടോ",
+    "englishText": "We keep an old photo album filled with black-and-white family pictures.",
+    "malayalamMeaning": "കറുപ്പും വെളുപ്പും കുടുംബചിത്രങ്ങൾ നിറഞ്ഞ ഒരു പഴയ ഫോട്ടോ ആൽബം ഞങ്ങൾ സൂക്ഷിക്കുന്നു.",
+    "usageExample": "Preserving memories.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "album",
+    "wordMeaning": "ആൽബം",
+    "englishText": "Looking through the wedding album brought back so many smiles.",
+    "malayalamMeaning": "വിവാഹ ആൽബത്തിലൂടെ നോക്കുമ്പോൾ ഒരുപാട് പുഞ്ചിരികൾ വന്നു.",
+    "usageExample": "Memory book.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "memory",
+    "wordMeaning": "ഓർമ്മ",
+    "englishText": "My fondest childhood memory is visiting the village temple with grandpa.",
+    "malayalamMeaning": "എൻ്റെ ബാല്യകാല ഓർമ്മയിൽ മുത്തച്ഛനോടൊപ്പം ഗ്രാമത്തിലെ ക്ഷേത്രം സന്ദർശിച്ചതാണ്.",
+    "usageExample": "Cherished recollection.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "holiday",
+    "wordMeaning": "അവധി",
+    "englishText": "We all travel to our village home during the Onam holiday.",
+    "malayalamMeaning": "ഓണാവധിക്കാലത്ത് നമ്മളെല്ലാവരും നമ്മുടെ ഗ്രാമത്തിലെ വീട്ടിലേക്ക് യാത്ര ചെയ്യും.",
+    "usageExample": "Family vacation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trip",
+    "wordMeaning": "യാത്ര",
+    "englishText": "Our family took an unforgettable road trip to the hill station.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കുടുംബം ഹിൽ സ്റ്റേഷനിലേക്ക് അവിസ്മരണീയമായ ഒരു റോഡ് യാത്ര നടത്തി.",
+    "usageExample": "Traveling together.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "festival",
+    "wordMeaning": "ഉത്സവം",
+    "englishText": "Festivals are truly joyous when the whole family is together.",
+    "malayalamMeaning": "കുടുംബം മുഴുവനും ഒരുമിച്ചിരിക്കുമ്പോഴാണ് ഉത്സവങ്ങൾ ശരിക്കും സന്തോഷകരമാകുന്നത്.",
+    "usageExample": "Cultural celebration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "gift",
+    "wordMeaning": "സമ്മാനം",
+    "englishText": "Grandpa brought wooden toys as a gift for each grandchild.",
+    "malayalamMeaning": "മുത്തച്ഛൻ ഓരോ പേരക്കുട്ടികൾക്കും സമ്മാനമായി മരം കളിപ്പാട്ടങ്ങൾ കൊണ്ടുവന്നു.",
+    "usageExample": "Present for family.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "present",
+    "wordMeaning": "ഹാജർ",
+    "englishText": "She wrapped a lovely birthday present for her younger sister.",
+    "malayalamMeaning": "അവൾ തൻ്റെ അനുജത്തിക്ക് മനോഹരമായ ഒരു ജന്മദിന സമ്മാനം പൊതിഞ്ഞു.",
+    "usageExample": "Giving a token of love.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "birthday",
+    "wordMeaning": "ജന്മദിനം",
+    "englishText": "We threw a surprise birthday party for our father yesterday.",
+    "malayalamMeaning": "ഇന്നലെ ഞങ്ങൾ അച്ഛന് ഒരു സർപ്രൈസ് ബർത്ത്ഡേ പാർട്ടി നടത്തി.",
+    "usageExample": "Milestone celebration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wedding",
+    "wordMeaning": "കല്യാണം",
+    "englishText": "All our extended relatives came together for my cousin's wedding.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ബന്ധുമിത്രാദികളെല്ലാം എൻ്റെ ബന്ധുവിൻ്റെ വിവാഹത്തിന് ഒത്തുകൂടി.",
+    "usageExample": "Family ceremony.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "age",
+    "wordMeaning": "പ്രായം",
+    "englishText": "With age comes wisdom, patience, and a deeper understanding of life.",
+    "malayalamMeaning": "പ്രായത്തിനനുസരിച്ച് ജ്ഞാനവും ക്ഷമയും ജീവിതത്തെക്കുറിച്ചുള്ള ആഴത്തിലുള്ള ധാരണയും വരുന്നു.",
+    "usageExample": "Growing older.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "old",
+    "wordMeaning": "പഴയത്",
+    "englishText": "We should treat old people in our family with the greatest dignity.",
+    "malayalamMeaning": "നമ്മുടെ കുടുംബത്തിലെ പ്രായമായവരോട് ഏറ്റവും മാന്യമായി പെരുമാറണം.",
+    "usageExample": "Respect for seniors.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "young",
+    "wordMeaning": "ചെറുപ്പക്കാർ",
+    "englishText": "The young children were full of curiosity and endless questions.",
+    "malayalamMeaning": "കൗതുകവും ഒടുങ്ങാത്ത ചോദ്യങ്ങളും നിറഞ്ഞതായിരുന്നു കൊച്ചുകുട്ടികൾ.",
+    "usageExample": "Youth in family.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "elder",
+    "wordMeaning": "മൂത്ത",
+    "englishText": "In our culture, seeking the blessings of an elder is a sacred tradition.",
+    "malayalamMeaning": "നമ്മുടെ സംസ്കാരത്തിൽ, ഒരു മുതിർന്ന വ്യക്തിയുടെ അനുഗ്രഹം തേടുന്നത് ഒരു വിശുദ്ധ പാരമ്പര്യമാണ്.",
+    "usageExample": "Family senior.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "born",
+    "wordMeaning": "ജനിച്ചത്",
+    "englishText": "Our little nephew was born on a rainy Tuesday morning.",
+    "malayalamMeaning": "മഴയുള്ള ഒരു ചൊവ്വാഴ്ച രാവിലെയാണ് ഞങ്ങളുടെ ചെറിയ മരുമകൻ ജനിച്ചത്.",
+    "usageExample": "New life.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "birth",
+    "wordMeaning": "ജനനം",
+    "englishText": "The birth of a child brings boundless happiness to the entire family.",
+    "malayalamMeaning": "ഒരു കുട്ടിയുടെ ജനനം മുഴുവൻ കുടുംബത്തിനും അതിരുകളില്ലാത്ത സന്തോഷം നൽകുന്നു.",
+    "usageExample": "Welcoming a baby.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "name",
+    "wordMeaning": "പേര്",
+    "englishText": "The grandparents gathered to choose a meaningful name for the baby.",
+    "malayalamMeaning": "കുഞ്ഞിന് അർത്ഥവത്തായ ഒരു പേര് തിരഞ്ഞെടുക്കാൻ മുത്തശ്ശിമാർ ഒത്തുകൂടി.",
+    "usageExample": "Naming ceremony.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "call",
+    "wordMeaning": "വിളിക്കുക",
+    "englishText": "I make sure to call my mother every evening after work.",
+    "malayalamMeaning": "എല്ലാ ദിവസവും വൈകുന്നേരം ജോലി കഴിഞ്ഞ് അമ്മയെ വിളിക്കുന്നത് ഞാൻ ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Staying connected.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "text",
+    "wordMeaning": "വാചകം",
+    "englishText": "My sister sent a quick text to let us know she had reached safely.",
+    "malayalamMeaning": "അവൾ സുരക്ഷിതമായി എത്തിയെന്ന് ഞങ്ങളെ അറിയിക്കാൻ എൻ്റെ സഹോദരി പെട്ടെന്ന് ഒരു സന്ദേശം അയച്ചു.",
+    "usageExample": "Messaging family.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "talk",
+    "wordMeaning": "സംസാരിക്കുക",
+    "englishText": "Father and son sat on the porch to talk about future career plans.",
+    "malayalamMeaning": "ഭാവി കരിയർ പ്ലാനുകളെ കുറിച്ച് സംസാരിക്കാൻ അച്ഛനും മകനും വരാന്തയിൽ ഇരുന്നു.",
+    "usageExample": "Meaningful dialogue.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "listen",
+    "wordMeaning": "കേൾക്കുക",
+    "englishText": "Children should listen carefully when parents offer life advice.",
+    "malayalamMeaning": "മാതാപിതാക്കൾ ജീവിത ഉപദേശങ്ങൾ നൽകുമ്പോൾ കുട്ടികൾ ശ്രദ്ധയോടെ കേൾക്കണം.",
+    "usageExample": "Showing obedience.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "advice",
+    "wordMeaning": "ഉപദേശം",
+    "englishText": "My uncle gave me practical financial advice before I started my job.",
+    "malayalamMeaning": "ഞാൻ ജോലി ആരംഭിക്കുന്നതിന് മുമ്പ് എൻ്റെ അമ്മാവൻ എനിക്ക് പ്രായോഗിക സാമ്പത്തിക ഉപദേശം നൽകി.",
+    "usageExample": "Wise counsel.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rule",
+    "wordMeaning": "ഭരണം",
+    "englishText": "One strict household rule is no mobile phones at the dining table.",
+    "malayalamMeaning": "ഒരു കർശനമായ ഗാർഹിക നിയമം ഡൈനിംഗ് ടേബിളിൽ മൊബൈൽ ഫോണുകൾ പാടില്ല.",
+    "usageExample": "Family discipline.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "respect",
+    "wordMeaning": "ബഹുമാനം",
+    "englishText": "Mutual respect between husband and wife creates a peaceful home.",
+    "malayalamMeaning": "ഭാര്യാഭർത്താക്കന്മാർ തമ്മിലുള്ള പരസ്പര ബഹുമാനം സമാധാനപരമായ ഒരു ഭവനം സൃഷ്ടിക്കുന്നു.",
+    "usageExample": "Core family value.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "honor",
+    "wordMeaning": "ബഹുമാനം",
+    "englishText": "We must always honor the sacrifices our parents made for our education.",
+    "malayalamMeaning": "നമ്മുടെ വിദ്യാഭ്യാസത്തിനായി നമ്മുടെ മാതാപിതാക്കൾ ചെയ്യുന്ന ത്യാഗങ്ങളെ നാം എപ്പോഴും ബഹുമാനിക്കണം.",
+    "usageExample": "Gratitude to parents.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trust",
+    "wordMeaning": "വിശ്വസിക്കുക",
+    "englishText": "A healthy family is built on total honesty and unwavering trust.",
+    "malayalamMeaning": "പൂർണമായ സത്യസന്ധതയിലും അചഞ്ചലമായ വിശ്വാസത്തിലുമാണ് ആരോഗ്യമുള്ള കുടുംബം കെട്ടിപ്പടുക്കുന്നത്.",
+    "usageExample": "Foundation of relationships.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "safe",
+    "wordMeaning": "സുരക്ഷിതം",
+    "englishText": "A child should always feel completely safe and protected at home.",
+    "malayalamMeaning": "ഒരു കുട്ടിക്ക് എല്ലായ്പ്പോഴും വീട്ടിൽ സുരക്ഷിതത്വവും സുരക്ഷിതത്വവും അനുഭവപ്പെടണം.",
+    "usageExample": "Emotional security.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "warm",
+    "wordMeaning": "ചൂട്",
+    "englishText": "Her mother gave her a warm blanket as the night turned chilly.",
+    "malayalamMeaning": "രാത്രി തണുത്തുറഞ്ഞപ്പോൾ അമ്മ അവൾക്ക് ഒരു ചൂടുള്ള പുതപ്പ് നൽകി.",
+    "usageExample": "Physical and emotional warmth.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "smile",
+    "wordMeaning": "പുഞ്ചിരി",
+    "englishText": "Seeing her son succeed brought a proud smile to mother's face.",
+    "malayalamMeaning": "മകൻ വിജയിക്കുന്നത് കണ്ടപ്പോൾ അമ്മയുടെ മുഖത്ത് അഭിമാനകരമായ പുഞ്ചിരി വിടർന്നു.",
+    "usageExample": "Expression of pride.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cry",
+    "wordMeaning": "കരയുക",
+    "englishText": "The baby started to cry when his toy rolled under the sofa.",
+    "malayalamMeaning": "കളിപ്പാട്ടം സോഫയുടെ അടിയിൽ വീണപ്പോൾ കുഞ്ഞ് കരയാൻ തുടങ്ങി.",
+    "usageExample": "Infant distress.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "comfort",
+    "wordMeaning": "ആശ്വാസം",
+    "englishText": "Mother knows exactly how to comfort her child when he is scared.",
+    "malayalamMeaning": "കുട്ടി ഭയക്കുമ്പോൾ എങ്ങനെ ആശ്വസിപ്പിക്കണമെന്ന് അമ്മയ്ക്ക് കൃത്യമായി അറിയാം.",
+    "usageExample": "Soothing distress.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kind",
+    "wordMeaning": "ദയയുള്ള",
+    "englishText": "My aunt is exceptionally kind and always feeds stray animals.",
+    "malayalamMeaning": "എൻ്റെ അമ്മായി അസാധാരണമാംവിധം ദയയുള്ളവളാണ്, തെരുവ് മൃഗങ്ങൾക്ക് എപ്പോഴും ഭക്ഷണം നൽകുന്നു.",
+    "usageExample": "Gentle nature.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sweet",
+    "wordMeaning": "മധുരം",
+    "englishText": "My sister baked a sweet coconut cake for our anniversary.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വാർഷികത്തിന് എൻ്റെ സഹോദരി മധുരമുള്ള തേങ്ങാ ദോശ ചുട്ടു.",
+    "usageExample": "Pleasant gesture.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "praise",
+    "wordMeaning": "സ്തുതി",
+    "englishText": "Parents should praise their children when they work hard in school.",
+    "malayalamMeaning": "സ്‌കൂളിൽ കഠിനാധ്വാനം ചെയ്യുമ്പോൾ രക്ഷിതാക്കൾ കുട്ടികളെ അഭിനന്ദിക്കണം.",
+    "usageExample": "Positive reinforcement.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "proud",
+    "wordMeaning": "അഭിമാനിക്കുന്നു",
+    "englishText": "Father was so proud when his daughter received her medical degree.",
+    "malayalamMeaning": "മകൾ മെഡിക്കൽ ബിരുദം നേടിയപ്പോൾ അച്ഛൻ അഭിമാനിച്ചു.",
+    "usageExample": "Parental pride.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "joy",
+    "wordMeaning": "സന്തോഷം",
+    "englishText": "The laughter of little grandchildren fills the home with immense joy.",
+    "malayalamMeaning": "കൊച്ചുമക്കളുടെ ചിരി ആ വീട്ടിൽ ആനന്ദം നിറയ്ക്കുന്നു.",
+    "usageExample": "Household happiness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "peace",
+    "wordMeaning": "സമാധാനം",
+    "englishText": "A loving family brings a sense of lasting peace to your mind.",
+    "malayalamMeaning": "സ്നേഹനിർഭരമായ കുടുംബം നിങ്ങളുടെ മനസ്സിന് ശാശ്വതമായ സമാധാനം നൽകുന്നു.",
+    "usageExample": "Harmonious living.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "harmony",
+    "wordMeaning": "ഐക്യം",
+    "englishText": "Living in peace and harmony with relatives is a true blessing.",
+    "malayalamMeaning": "ബന്ധുക്കളുമായി സമാധാനത്തോടെയും ഐക്യത്തോടെയും ജീവിക്കുന്നത് ഒരു യഥാർത്ഥ അനുഗ്രഹമാണ്.",
+    "usageExample": "Family unity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "story",
+    "wordMeaning": "കഥ",
+    "englishText": "Grandmother told us an inspiring story about our great-grandparents.",
+    "malayalamMeaning": "മുത്തശ്ശി ഞങ്ങളുടെ മുത്തശ്ശിമാരെക്കുറിച്ചുള്ള പ്രചോദനാത്മകമായ ഒരു കഥ പറഞ്ഞു.",
+    "usageExample": "Family folklore.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tell",
+    "wordMeaning": "പറയൂ",
+    "englishText": "Could you tell me what life was like when you were young, grandpa?",
+    "malayalamMeaning": "ചെറുപ്പത്തിലെ ജീവിതം എങ്ങനെയായിരുന്നു എന്ന് പറയാമോ അപ്പൂപ്പൻ?",
+    "usageExample": "Learning family history.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "remember",
+    "wordMeaning": "ഓർക്കുക",
+    "englishText": "I will always remember how father held my hand on my first school day.",
+    "malayalamMeaning": "എൻ്റെ ആദ്യത്തെ സ്കൂൾ ദിനത്തിൽ അച്ഛൻ എൻ്റെ കൈ പിടിച്ചത് ഞാൻ എപ്പോഴും ഓർക്കും.",
+    "usageExample": "Treasured memory.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "forget",
+    "wordMeaning": "മറക്കുക",
+    "englishText": "Never forget the roots and values your family gave to you.",
+    "malayalamMeaning": "നിങ്ങളുടെ കുടുംബം നിങ്ങൾക്ക് നൽകിയ വേരുകളും മൂല്യങ്ങളും ഒരിക്കലും മറക്കരുത്.",
+    "usageExample": "Staying grounded.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "roots",
+    "wordMeaning": "വേരുകൾ",
+    "englishText": "Knowing your family roots gives you a strong sense of identity.",
+    "malayalamMeaning": "നിങ്ങളുടെ കുടുംബ വേരുകൾ അറിയുന്നത് നിങ്ങൾക്ക് ശക്തമായ സ്വത്വബോധം നൽകുന്നു.",
+    "usageExample": "Heritage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "heritage",
+    "wordMeaning": "പൈതൃകം",
+    "englishText": "Our family heritage is rich with traditions of music and art.",
+    "malayalamMeaning": "നമ്മുടെ കുടുംബ പാരമ്പര്യം സംഗീതത്തിൻ്റെയും കലയുടെയും പാരമ്പര്യങ്ങളാൽ സമ്പന്നമാണ്.",
+    "usageExample": "Ancestral legacy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tradition",
+    "wordMeaning": "പാരമ്പര്യം",
+    "englishText": "Making sweets together on festival eve is our favorite family tradition.",
+    "malayalamMeaning": "ഉത്സവ തലേന്ന് ഒരുമിച്ച് മധുരപലഹാരങ്ങൾ ഉണ്ടാക്കുന്നത് ഞങ്ങളുടെ പ്രിയപ്പെട്ട കുടുംബ പാരമ്പര്യമാണ്.",
+    "usageExample": "Family custom.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "custom",
+    "wordMeaning": "ആചാരം",
+    "englishText": "It is our custom to touch our parents' feet before setting out on a journey.",
+    "malayalamMeaning": "യാത്ര പുറപ്പെടുന്നതിന് മുമ്പ് മാതാപിതാക്കളുടെ കാൽ തൊടുന്നത് നമ്മുടെ പതിവാണ്.",
+    "usageExample": "Respectful tradition.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "blessing",
+    "wordMeaning": "അനുഗ്രഹം",
+    "englishText": "A mother's blessing is the greatest armor a person can carry.",
+    "malayalamMeaning": "ഒരു വ്യക്തിക്ക് വഹിക്കാൻ കഴിയുന്ന ഏറ്റവും വലിയ കവചമാണ് അമ്മയുടെ അനുഗ്രഹം.",
+    "usageExample": "Spiritual protection.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pray",
+    "wordMeaning": "പ്രാർത്ഥിക്കുക",
+    "englishText": "The whole family gathers in front of the lamp to pray every twilight.",
+    "malayalamMeaning": "എല്ലാ സന്ധ്യകളിലും പ്രാർത്ഥിക്കാൻ കുടുംബം മുഴുവൻ വിളക്കിന് മുന്നിൽ ഒത്തുകൂടുന്നു.",
+    "usageExample": "Family devotion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "together",
+    "wordMeaning": "ഒരുമിച്ച്",
+    "englishText": "Nothing feels more reassuring than having the whole family together.",
+    "malayalamMeaning": "മുഴുവൻ കുടുംബവും ഒന്നിച്ചിരിക്കുന്നതിനേക്കാൾ ആശ്വാസകരമായ മറ്റൊന്നും തോന്നുന്നില്ല.",
+    "usageExample": "Unity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "close",
+    "wordMeaning": "അടുത്ത്",
+    "englishText": "My sister and I are very close and share all our personal secrets.",
+    "malayalamMeaning": "ഞാനും എൻ്റെ സഹോദരിയും വളരെ അടുത്താണ്, ഞങ്ങളുടെ എല്ലാ സ്വകാര്യ രഹസ്യങ്ങളും പങ്കിടുന്നു.",
+    "usageExample": "Intimate bond.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bond",
+    "wordMeaning": "ബോണ്ട്",
+    "englishText": "The bond between a mother and her newborn is instantaneous and unbreakable.",
+    "malayalamMeaning": "അമ്മയും അവളുടെ നവജാതശിശുവും തമ്മിലുള്ള ബന്ധം തൽക്ഷണവും അഭേദ്യവുമാണ്.",
+    "usageExample": "Deep connection.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tie",
+    "wordMeaning": "കെട്ടുക",
+    "englishText": "Strong family ties help people overcome severe life hardships.",
+    "malayalamMeaning": "ശക്തമായ കുടുംബബന്ധങ്ങൾ കഠിനമായ ജീവിത പ്രയാസങ്ങളെ തരണം ചെയ്യാൻ ആളുകളെ സഹായിക്കുന്നു.",
+    "usageExample": "Relationship strength.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "support",
+    "wordMeaning": "പിന്തുണ",
+    "englishText": "When illness struck our family, all our relatives offered financial support.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കുടുംബത്തിന് അസുഖം വന്നപ്പോൾ ബന്ധുക്കളെല്ലാം സാമ്പത്തിക സഹായം വാഗ്ദാനം ചെയ്തു.",
+    "usageExample": "Assistance in crisis.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cheer",
+    "wordMeaning": "സന്തോഷിപ്പിക്കുക",
+    "englishText": "The whole family came to the stadium to cheer for my brother's match.",
+    "malayalamMeaning": "എൻ്റെ സഹോദരൻ്റെ മത്സരത്തിന് സന്തോഷിക്കാൻ കുടുംബം മുഴുവൻ സ്റ്റേഡിയത്തിലെത്തി.",
+    "usageExample": "Encouragement.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stand",
+    "wordMeaning": "നിൽക്കുക",
+    "englishText": "True family members stand by you even when the rest of the world turns away.",
+    "malayalamMeaning": "ലോകത്തിൻ്റെ മറ്റ് ഭാഗങ്ങൾ പിന്തിരിയുമ്പോഴും യഥാർത്ഥ കുടുംബാംഗങ്ങൾ നിങ്ങളോടൊപ്പം നിൽക്കുന്നു.",
+    "usageExample": "Loyalty.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stay",
+    "wordMeaning": "താമസിക്കുക",
+    "englishText": "My grandparents prefer to stay in their quiet village home.",
+    "malayalamMeaning": "എൻ്റെ മുത്തശ്ശിമാർ അവരുടെ ശാന്തമായ ഗ്രാമത്തിൽ താമസിക്കാൻ ഇഷ്ടപ്പെടുന്നു.",
+    "usageExample": "Living preference.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "visit",
+    "wordMeaning": "സന്ദർശിക്കുക",
+    "englishText": "We make it a point to visit our maternal grandparents twice every year.",
+    "malayalamMeaning": "എല്ലാ വർഷവും രണ്ടുതവണ ഞങ്ങളുടെ മാതൃ മുത്തശ്ശിമാരെ സന്ദർശിക്കുന്നത് ഞങ്ങൾ ഒരു പോയിൻ്റ് ആക്കുന്നു.",
+    "usageExample": "Visiting family.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "welcome",
+    "wordMeaning": "സ്വാഗതം",
+    "englishText": "My mother always welcomes unexpected guests with hot tea and snacks.",
+    "malayalamMeaning": "എൻ്റെ അമ്മ എപ്പോഴും അപ്രതീക്ഷിത അതിഥികളെ ചൂട് ചായയും ലഘുഭക്ഷണവും നൽകി സ്വാഗതം ചെയ്യുന്നു.",
+    "usageExample": "Warm hospitality.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "host",
+    "wordMeaning": "ഹോസ്റ്റ്",
+    "englishText": "Our parents hosted a grand reunion for all forty family members.",
+    "malayalamMeaning": "ഞങ്ങളുടെ മാതാപിതാക്കൾ എല്ലാ നാൽപ്പത് കുടുംബാംഗങ്ങൾക്കും ഒരു മഹത്തായ സംഗമം നടത്തി.",
+    "usageExample": "Entertaining family.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "guest",
+    "wordMeaning": "അതിഥി",
+    "englishText": "Treating a guest with utmost reverence is an ancient Indian virtue.",
+    "malayalamMeaning": "അതിഥിയോട് അങ്ങേയറ്റം ആദരവോടെ പെരുമാറുന്നത് പുരാതന ഭാരതീയ പുണ്യമാണ്.",
+    "usageExample": "Hospitality.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "meal",
+    "wordMeaning": "ഭക്ഷണം",
+    "englishText": "Sharing a simple home-cooked meal fosters deep conversations.",
+    "malayalamMeaning": "വീട്ടിൽ പാകം ചെയ്ത ലളിതമായ ഭക്ഷണം പങ്കിടുന്നത് ആഴത്തിലുള്ള സംഭാഷണങ്ങൾ വളർത്തുന്നു.",
+    "usageExample": "Family dining.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "feed",
+    "wordMeaning": "തീറ്റ",
+    "englishText": "The mother patiently fed the baby small spoonfuls of mashed banana.",
+    "malayalamMeaning": "അമ്മ ക്ഷമയോടെ കുഞ്ഞിന് ചെറിയ തവി വാഴപ്പഴം നൽകി.",
+    "usageExample": "Nourishing children.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dress",
+    "wordMeaning": "വസ്ത്രധാരണം",
+    "englishText": "Mother ironed my best traditional dress for the temple ceremony.",
+    "malayalamMeaning": "അമ്പലത്തിലെ ചടങ്ങുകൾക്ക് എൻ്റെ ഏറ്റവും നല്ല പരമ്പരാഗത വസ്ത്രം അമ്മ ഇസ്തിരിയിട്ടു.",
+    "usageExample": "Clothing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shoes",
+    "wordMeaning": "ഷൂസ്",
+    "englishText": "Father bought his son a sturdy pair of shoes for the new school term.",
+    "malayalamMeaning": "പുതിയ സ്കൂൾ കാലയളവിനായി പിതാവ് മകന് ഒരു ജോഡി ഷൂ വാങ്ങി.",
+    "usageExample": "Providing necessities.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bag",
+    "wordMeaning": "ബാഗ്",
+    "englishText": "Mother packed my school bag with notebooks and fresh water.",
+    "malayalamMeaning": "അമ്മ എൻ്റെ സ്കൂൾ ബാഗ് നോട്ട്ബുക്കുകളും ശുദ്ധജലവും കൊണ്ട് പാക്ക് ചെയ്തു.",
+    "usageExample": "School preparation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "school",
+    "wordMeaning": "സ്കൂൾ",
+    "englishText": "Parents walked their excited children to the primary school gates.",
+    "malayalamMeaning": "പ്രൈമറി സ്കൂൾ കവാടത്തിലേക്ക് ആവേശഭരിതരായ കുട്ടികളെ മാതാപിതാക്കൾ നടന്നു.",
+    "usageExample": "Education milestone.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "study",
+    "wordMeaning": "പഠനം",
+    "englishText": "Father sat with his son every evening to help him study mathematics.",
+    "malayalamMeaning": "ഗണിതശാസ്ത്രം പഠിക്കാൻ സഹായിക്കുന്നതിനായി അച്ഛൻ എല്ലാ വൈകുന്നേരവും മകനോടൊപ്പം ഇരുന്നു.",
+    "usageExample": "Assisting with study.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "book",
+    "wordMeaning": "പുസ്തകം",
+    "englishText": "My older sister passed down all her school storybooks to me.",
+    "malayalamMeaning": "എൻ്റെ മൂത്ത സഹോദരി അവളുടെ സ്കൂൾ കഥാപുസ്തകങ്ങളെല്ലാം എനിക്ക് കൈമാറി.",
+    "usageExample": "Sharing resources.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "toy",
+    "wordMeaning": "കളിപ്പാട്ടം",
+    "englishText": "The little boy shared his wooden train toy with his baby sister.",
+    "malayalamMeaning": "കൊച്ചുകുട്ടി തൻ്റെ തടി തീവണ്ടി കളിപ്പാട്ടം തൻ്റെ കുഞ്ഞു സഹോദരിയുമായി പങ്കിട്ടു.",
+    "usageExample": "Childhood sharing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "laugh",
+    "wordMeaning": "ചിരിക്കുക",
+    "englishText": "We could hear the cheerful laughter of cousins playing on the rooftop.",
+    "malayalamMeaning": "മേൽക്കൂരയിൽ കളിക്കുന്ന കസിൻസിൻ്റെ സന്തോഷകരമായ ചിരി ഞങ്ങൾക്ക് കേൾക്കാമായിരുന്നു.",
+    "usageExample": "Family merriment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tears",
+    "wordMeaning": "കണ്ണുനീർ",
+    "englishText": "Mother wiped away her happy tears when her daughter graduated.",
+    "malayalamMeaning": "മകൾ ബിരുദം നേടിയപ്പോൾ അമ്മ സന്തോഷക്കണ്ണീർ തുടച്ചു.",
+    "usageExample": "Emotional tears.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "worry",
+    "wordMeaning": "വിഷമിക്കുക",
+    "englishText": "Do not worry about the medical expenses; the whole family will manage.",
+    "malayalamMeaning": "ചികിത്സാ ചെലവുകളെ കുറിച്ച് വിഷമിക്കേണ്ട; മുഴുവൻ കുടുംബവും കൈകാര്യം ചെയ്യും.",
+    "usageExample": "Easing anxiety.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "problem",
+    "wordMeaning": "പ്രശ്നം",
+    "englishText": "We sat down as a family to discuss and solve the financial problem.",
+    "malayalamMeaning": "സാമ്പത്തിക പ്രശ്നം ചർച്ച ചെയ്യാനും പരിഹരിക്കാനും ഞങ്ങൾ കുടുംബമായി ഇരുന്നു.",
+    "usageExample": "Collaborative problem-solving.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "solution",
+    "wordMeaning": "പരിഹാരം",
+    "englishText": "Father's calm approach helped us find the best solution to our dispute.",
+    "malayalamMeaning": "പിതാവിൻ്റെ ശാന്തമായ സമീപനം ഞങ്ങളുടെ തർക്കത്തിന് ഏറ്റവും നല്ല പരിഹാരം കണ്ടെത്താൻ ഞങ്ങളെ സഹായിച്ചു.",
+    "usageExample": "Resolving conflict.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "forgive",
+    "wordMeaning": "പൊറുക്കുക",
+    "englishText": "Families thrive when members learn to quickly forgive small mistakes.",
+    "malayalamMeaning": "ചെറിയ തെറ്റുകൾ പെട്ടെന്ന് ക്ഷമിക്കാൻ അംഗങ്ങൾ പഠിക്കുമ്പോൾ കുടുംബം അഭിവൃദ്ധി പ്രാപിക്കുന്നു.",
+    "usageExample": "Forgiveness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mistake",
+    "wordMeaning": "തെറ്റ്",
+    "englishText": "A kind parent teaches a child how to learn from an honest mistake.",
+    "malayalamMeaning": "സത്യസന്ധമായ ഒരു തെറ്റിൽ നിന്ന് എങ്ങനെ പഠിക്കാമെന്ന് ദയയുള്ള ഒരു രക്ഷകർത്താവ് കുട്ടിയെ പഠിപ്പിക്കുന്നു.",
+    "usageExample": "Parental guidance.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "patient",
+    "wordMeaning": "രോഗി",
+    "englishText": "Mother was always remarkably patient when teaching us how to read.",
+    "malayalamMeaning": "ഞങ്ങളെ എങ്ങനെ വായിക്കണമെന്ന് പഠിപ്പിക്കുമ്പോൾ അമ്മ എപ്പോഴും വളരെ ക്ഷമയോടെ പെരുമാറി.",
+    "usageExample": "Patience.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "calm",
+    "wordMeaning": "ശാന്തം",
+    "englishText": "Grandmother's calm presence always defuses heated household arguments.",
+    "malayalamMeaning": "മുത്തശ്ശിയുടെ ശാന്തമായ സാന്നിദ്ധ്യം എപ്പോഴും ചൂടേറിയ വീട്ടുതർക്കങ്ങളെ ഇല്ലാതാക്കുന്നു.",
+    "usageExample": "Composure.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "strong",
+    "wordMeaning": "ശക്തമായ",
+    "englishText": "My mother is the strongest pillar of our entire household.",
+    "malayalamMeaning": "ഞങ്ങളുടെ മുഴുവൻ കുടുംബത്തിൻ്റെയും ഏറ്റവും ശക്തമായ സ്തംഭമാണ് എൻ്റെ അമ്മ.",
+    "usageExample": "Emotional resilience.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "healthy",
+    "wordMeaning": "ആരോഗ്യമുള്ള",
+    "englishText": "Cooking at home ensures that the whole family stays healthy and fit.",
+    "malayalamMeaning": "വീട്ടിൽ പാചകം ചെയ്യുന്നത് മുഴുവൻ കുടുംബവും ആരോഗ്യകരവും ആരോഗ്യകരവുമായി തുടരുന്നുവെന്ന് ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Wellness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sick",
+    "wordMeaning": "രോഗിയായ",
+    "englishText": "When my brother fell sick, mother stayed awake all night by his bedside.",
+    "malayalamMeaning": "എൻ്റെ സഹോദരന് അസുഖം വന്നപ്പോൾ അമ്മ രാത്രി മുഴുവൻ അവൻ്റെ കട്ടിലിനരികിൽ ഉണർന്നിരുന്നു.",
+    "usageExample": "Caring for ill members.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cure",
+    "wordMeaning": "രോഗശമനം",
+    "englishText": "Grandma knows traditional herbal remedies to cure common colds.",
+    "malayalamMeaning": "ജലദോഷം ഭേദമാക്കാനുള്ള പരമ്പരാഗത ഔഷധങ്ങൾ മുത്തശ്ശിക്ക് അറിയാം.",
+    "usageExample": "Home medicine.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rest",
+    "wordMeaning": "വിശ്രമം",
+    "englishText": "Father needs proper rest after working twelve hours at the factory.",
+    "malayalamMeaning": "ഫാക്‌ടറിയിൽ പന്ത്രണ്ട് മണിക്കൂർ ജോലി ചെയ്ത ശേഷം അച്ഛന് ശരിയായ വിശ്രമം ആവശ്യമാണ്.",
+    "usageExample": "Physical recovery.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "walk",
+    "wordMeaning": "നടക്കുക",
+    "englishText": "Grandpa and grandson go for a peaceful evening walk through the village.",
+    "malayalamMeaning": "മുത്തച്ഛനും ചെറുമകനും ഗ്രാമത്തിലൂടെ സമാധാനപരമായ സായാഹ്ന നടത്തത്തിന് പോകുന്നു.",
+    "usageExample": "Intergenerational bonding.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hear",
+    "wordMeaning": "കേൾക്കുക",
+    "englishText": "It was heartwarming to hear grandma singing lullabies to the baby.",
+    "malayalamMeaning": "മുത്തശ്ശി കുഞ്ഞിന് പാട്ട് പാടുന്നത് ഹൃദയഹാരിയായി.",
+    "usageExample": "Listening to elders.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "song",
+    "wordMeaning": "പാട്ട്",
+    "englishText": "Mother sang a sweet Malayalam lullaby until the baby closed her eyes.",
+    "malayalamMeaning": "കുഞ്ഞ് കണ്ണടയ്ക്കുന്നത് വരെ അമ്മ മധുര മലയാളം ലാലേട്ടൻ പാടി.",
+    "usageExample": "Lullaby.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dance",
+    "wordMeaning": "നൃത്തം",
+    "englishText": "All the young cousins performed a joyous dance at the family wedding.",
+    "malayalamMeaning": "എല്ലാ യുവ കസിൻസും കുടുംബ വിവാഹത്തിൽ ആഹ്ലാദകരമായ നൃത്തം അവതരിപ്പിച്ചു.",
+    "usageExample": "Celebration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clapping",
+    "wordMeaning": "കൈകൊട്ടി",
+    "englishText": "The proud parents were clapping enthusiastically at their daughter's recital.",
+    "malayalamMeaning": "അഭിമാനികളായ മാതാപിതാക്കൾ മകളുടെ പാരായണത്തിൽ ആവേശത്തോടെ കൈകൊട്ടി.",
+    "usageExample": "Cheering achievements.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "holding",
+    "wordMeaning": "പിടിക്കുന്നു",
+    "englishText": "The toddler was holding his father's finger tightly as they crossed the lane.",
+    "malayalamMeaning": "അവർ ലെയ്ൻ മുറിച്ചുകടക്കുമ്പോൾ പിഞ്ചുകുഞ്ഞും അച്ഛൻ്റെ വിരൽ മുറുകെ പിടിച്ചിരുന്നു.",
+    "usageExample": "Trust and security.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hand",
+    "wordMeaning": "കൈ",
+    "englishText": "Take your little brother's hand when walking near the busy street.",
+    "malayalamMeaning": "തിരക്കേറിയ തെരുവിലൂടെ നടക്കുമ്പോൾ നിങ്ങളുടെ ചെറിയ സഹോദരൻ്റെ കൈ പിടിക്കുക.",
+    "usageExample": "Protective care.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "foot",
+    "wordMeaning": "കാൽ",
+    "englishText": "The little girl fell asleep on her mother's lap with her feet curled up.",
+    "malayalamMeaning": "അമ്മയുടെ മടിയിലിരുന്ന് ചുരുണ്ടുകൂടിയ കാലുമായി കൊച്ചുപെൺകുട്ടി ഉറങ്ങിപ്പോയി.",
+    "usageExample": "Tender imagery.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "eyes",
+    "wordMeaning": "കണ്ണുകൾ",
+    "englishText": "Her bright eyes sparkled with excitement as she opened her birthday gift.",
+    "malayalamMeaning": "പിറന്നാൾ സമ്മാനം തുറന്നപ്പോൾ അവളുടെ തിളങ്ങുന്ന കണ്ണുകൾ ആവേശത്താൽ തിളങ്ങി.",
+    "usageExample": "Expressing delight.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "face",
+    "wordMeaning": "മുഖം",
+    "englishText": "A contented smile illuminated grandmother's wrinkled, beautiful face.",
+    "malayalamMeaning": "സംതൃപ്തമായ ഒരു പുഞ്ചിരി മുത്തശ്ശിയുടെ ചുളിവുകൾ നിറഞ്ഞ സുന്ദരമായ മുഖത്തെ പ്രകാശിപ്പിച്ചു.",
+    "usageExample": "Elders' warmth.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "voice",
+    "wordMeaning": "ശബ്ദം",
+    "englishText": "The soothing voice of a mother can calm any terrified toddler.",
+    "malayalamMeaning": "ഒരു അമ്മയുടെ ശാന്തമായ ശബ്ദത്തിന് ഭയചകിതരായ ഏതൊരു പിഞ്ചുകുഞ്ഞിനെയും ശാന്തമാക്കാൻ കഴിയും.",
+    "usageExample": "Maternal tone.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "heart",
+    "wordMeaning": "ഹൃദയം",
+    "englishText": "A mother holds her children's hands for a while, but their hearts forever.",
+    "malayalamMeaning": "ഒരു അമ്മ തൻ്റെ മക്കളുടെ കൈകളിൽ അൽപനേരം പിടിക്കുന്നു, പക്ഷേ അവരുടെ ഹൃദയങ്ങൾ എന്നെന്നേക്കുമായി.",
+    "usageExample": "Eternal maternal love.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "life",
+    "wordMeaning": "ജീവിതം",
+    "englishText": "Our parents dedicate their entire life to raising us with moral integrity.",
+    "malayalamMeaning": "ധാർമ്മികമായ സമഗ്രതയോടെ നമ്മെ വളർത്തുന്നതിനായി നമ്മുടെ മാതാപിതാക്കൾ അവരുടെ ജീവിതം മുഴുവൻ സമർപ്പിക്കുന്നു.",
+    "usageExample": "Parental dedication.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sibling",
+    "wordMeaning": "സഹോദരൻ",
+    "englishText": "Do you have any siblings living in Kerala?",
+    "malayalamMeaning": "നിങ്ങൾക്ക് കേരളത്തിൽ താമസിക്കുന്ന സഹോദരങ്ങൾ ഉണ്ടോ?",
+    "usageExample": "Brothers or sisters.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "upbringing",
+    "wordMeaning": "വളർത്തൽ",
+    "englishText": "Parents play a crucial role in a child's upbringing.",
+    "malayalamMeaning": "ഒരു കുട്ടിയെ വളർത്തുന്നതിൽ മാതാപിതാക്കൾ നിർണായക പങ്ക് വഹിക്കുന്നു.",
+    "usageExample": "Child rearing.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cherish",
+    "wordMeaning": "വിലമതിക്കുന്നു",
+    "englishText": "I cherish the memories of spending summer holidays with my grandparents.",
+    "malayalamMeaning": "വേനലവധിക്കാലം എൻ്റെ മുത്തശ്ശിമാർക്കൊപ്പം ചിലവഴിച്ചതിൻ്റെ ഓർമ്മകൾ ഞാൻ നെഞ്ചേറ്റുന്നു.",
+    "usageExample": "Holding dear.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "affectionate",
+    "wordMeaning": "വാത്സല്യമുള്ള",
+    "englishText": "My mother is extremely affectionate towards all children.",
+    "malayalamMeaning": "എൻ്റെ അമ്മ എല്ലാ കുട്ടികളോടും അങ്ങേയറ്റം വാത്സല്യമുള്ളവളാണ്.",
+    "usageExample": "Demonstrating love.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "guidance",
+    "wordMeaning": "മാർഗ്ഗനിർദ്ദേശം",
+    "englishText": "Young adults need gentle parental guidance when choosing a profession.",
+    "malayalamMeaning": "ഒരു തൊഴിൽ തിരഞ്ഞെടുക്കുമ്പോൾ ചെറുപ്പക്കാർക്ക് സൗമ്യമായ രക്ഷാകർതൃ മാർഗനിർദേശം ആവശ്യമാണ്.",
+    "usageExample": "Advisory role.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "discipline",
+    "wordMeaning": "അച്ചടക്കം",
+    "englishText": "Consistent discipline taught with kindness shapes good character.",
+    "malayalamMeaning": "ദയയോടെ പഠിപ്പിക്കുന്ന സ്ഥിരമായ ശിക്ഷണം നല്ല സ്വഭാവത്തെ രൂപപ്പെടുത്തുന്നു.",
+    "usageExample": "Moral training.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nurture",
+    "wordMeaning": "പരിപോഷിപ്പിക്കുക",
+    "englishText": "A supportive home environment helps nurture a child's natural talents.",
+    "malayalamMeaning": "ഒരു കുട്ടിയുടെ സ്വാഭാവിക കഴിവുകൾ പരിപോഷിപ്പിക്കാൻ സഹായിക്കുന്ന ഒരു വീട്ടുപരിസരം സഹായിക്കുന്നു.",
+    "usageExample": "Fostering growth.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "kinship",
+    "wordMeaning": "ബന്ധുത്വം",
+    "englishText": "The entire village feels a strong sense of kinship and mutual duty.",
+    "malayalamMeaning": "ഈ ഗ്രാമം മുഴുവൻ ബന്ധുത്വത്തിൻ്റെയും പരസ്പര കടമയുടെയും ശക്തമായ ബോധം അനുഭവിക്കുന്നു.",
+    "usageExample": "Extended family ties.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "household",
+    "wordMeaning": "വീട്ടുകാർ",
+    "englishText": "Managing a busy household requires cooperation from every family member.",
+    "malayalamMeaning": "തിരക്കുള്ള ഒരു കുടുംബം കൈകാര്യം ചെയ്യുന്നതിന് എല്ലാ കുടുംബാംഗങ്ങളുടെയും സഹകരണം ആവശ്യമാണ്.",
+    "usageExample": "Domestic unit.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "resemblance",
+    "wordMeaning": "സാദൃശ്യം",
+    "englishText": "There is a striking resemblance between the son and his grandfather.",
+    "malayalamMeaning": "മകനും മുത്തച്ഛനും തമ്മിൽ അസാമാന്യമായ സാമ്യമുണ്ട്.",
+    "usageExample": "Physical similarity.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ancestor",
+    "wordMeaning": "പൂർവ്വികൻ",
+    "englishText": "Our ancestors settled along the banks of the Periyar river centuries ago.",
+    "malayalamMeaning": "നമ്മുടെ പൂർവികർ നൂറ്റാണ്ടുകൾക്കുമുമ്പ് പെരിയാർ നദിയുടെ തീരത്ത് താമസമാക്കിയവരാണ്.",
+    "usageExample": "Forebears.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "lineage",
+    "wordMeaning": "വംശപരമ്പര",
+    "englishText": "He can trace his family lineage back seven generations.",
+    "malayalamMeaning": "ഏഴ് തലമുറകൾ പിന്നിലേക്ക് തൻ്റെ കുടുംബപരമ്പരയെ കണ്ടെത്താനാകും.",
+    "usageExample": "Family tree.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "generation",
+    "wordMeaning": "തലമുറ",
+    "englishText": "Bridging the generation gap requires mutual patience and respectful listening.",
+    "malayalamMeaning": "തലമുറകളുടെ വിടവ് നികത്തുന്നതിന് പരസ്പര ക്ഷമയും മാന്യമായ ശ്രവണവും ആവശ്യമാണ്.",
+    "usageExample": "Age group.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "traditions",
+    "wordMeaning": "പാരമ്പര്യങ്ങൾ",
+    "englishText": "We strictly uphold our family traditions during festive occasions.",
+    "malayalamMeaning": "ആഘോഷവേളകളിൽ ഞങ്ങൾ ഞങ്ങളുടെ കുടുംബ പാരമ്പര്യങ്ങൾ കർശനമായി ഉയർത്തിപ്പിടിക്കുന്നു.",
+    "usageExample": "Established customs.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "values",
+    "wordMeaning": "മൂല്യങ്ങൾ",
+    "englishText": "Moral values learned at home guide a person through ethical dilemmas.",
+    "malayalamMeaning": "വീട്ടിൽ നിന്ന് പഠിക്കുന്ന ധാർമ്മിക മൂല്യങ്ങൾ ഒരു വ്യക്തിയെ ധാർമ്മിക പ്രതിസന്ധികളിലൂടെ നയിക്കുന്നു.",
+    "usageExample": "Core beliefs.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "bonding",
+    "wordMeaning": "ബന്ധനം",
+    "englishText": "Cooking Sunday meals together creates wonderful opportunities for bonding.",
+    "malayalamMeaning": "ഞായറാഴ്ച ഭക്ഷണം ഒരുമിച്ച് പാചകം ചെയ്യുന്നത് ബന്ധത്തിന് മികച്ച അവസരങ്ങൾ സൃഷ്ടിക്കുന്നു.",
+    "usageExample": "Strengthening relationships.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "conflict",
+    "wordMeaning": "സംഘർഷം",
+    "englishText": "Wise parents help their children resolve sibling conflict calmly.",
+    "malayalamMeaning": "ജ്ഞാനികളായ മാതാപിതാക്കൾ തങ്ങളുടെ കുട്ടികളെ സഹോദര സംഘർഷം ശാന്തമായി പരിഹരിക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Interpersonal disagreement.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "reconciliation",
+    "wordMeaning": "അനുരഞ്ജനം",
+    "englishText": "The festival reunion led to a joyful reconciliation between the estranged brothers.",
+    "malayalamMeaning": "പെരുന്നാൾ സംഗമം വേർപിരിഞ്ഞ സഹോദരങ്ങൾക്കിടയിൽ സന്തോഷകരമായ അനുരഞ്ജനത്തിന് കാരണമായി.",
+    "usageExample": "Restoring friendship.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "forgiveness",
+    "wordMeaning": "ക്ഷമ",
+    "englishText": "Practicing genuine forgiveness is essential for long-term domestic peace.",
+    "malayalamMeaning": "ദീർഘകാല ഗാർഹിക സമാധാനത്തിന് യഥാർത്ഥ ക്ഷമ ശീലിക്കുന്നത് അത്യന്താപേക്ഷിതമാണ്.",
+    "usageExample": "Pardoning offenses.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sacrifice",
+    "wordMeaning": "ത്യാഗം",
+    "englishText": "We can never fully repay the immense sacrifice our parents made for us.",
+    "malayalamMeaning": "നമ്മുടെ മാതാപിതാക്കൾ നമുക്കുവേണ്ടി ചെയ്ത അപാരമായ ത്യാഗത്തിന് നമുക്ക് ഒരിക്കലും പൂർണമായി തിരിച്ചുനൽകാൻ കഴിയില്ല.",
+    "usageExample": "Giving up for others.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "unconditional",
+    "wordMeaning": "നിരുപാധികം",
+    "englishText": "A parent's love is unconditional and endures through every hardship.",
+    "malayalamMeaning": "മാതാപിതാക്കളുടെ സ്നേഹം നിരുപാധികവും എല്ലാ പ്രയാസങ്ങളും സഹിക്കുന്നതുമാണ്.",
+    "usageExample": "Without conditions.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "devotion",
+    "wordMeaning": "ഭക്തി",
+    "englishText": "Her steadfast devotion to nursing her ailing father touched everyone.",
+    "malayalamMeaning": "രോഗിയായ അച്ഛനെ ശുശ്രൂഷിക്കുന്നതിൽ അവളുടെ അചഞ്ചലമായ ഭക്തി എല്ലാവരെയും സ്പർശിച്ചു.",
+    "usageExample": "Dedicated service.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "dutiful",
+    "wordMeaning": "കർത്തവ്യം",
+    "englishText": "He is a dutiful son who manages all his parents' medical care with dedication.",
+    "malayalamMeaning": "മാതാപിതാക്കളുടെ എല്ലാ ചികിൽസാ സഹായങ്ങളും സമർപ്പണത്തോടെ കൈകാര്യം ചെയ്യുന്ന കടമയുള്ള മകനാണ്.",
+    "usageExample": "Fulfilling duties.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "responsibility",
+    "wordMeaning": "ഉത്തരവാദിത്തം",
+    "englishText": "Being the eldest child brings a sense of family responsibility.",
+    "malayalamMeaning": "മൂത്ത കുട്ടിയാകുന്നത് കുടുംബ ഉത്തരവാദിത്തബോധം കൊണ്ടുവരുന്നു.",
+    "usageExample": "Duty to look after others.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "guardian",
+    "wordMeaning": "രക്ഷാധികാരി",
+    "englishText": "His uncle was appointed as his legal guardian after the unfortunate accident.",
+    "malayalamMeaning": "നിർഭാഗ്യകരമായ അപകടത്തെത്തുടർന്ന് അമ്മാവനെ നിയമപരമായ രക്ഷാധികാരിയായി നിയമിച്ചു.",
+    "usageExample": "Protective caregiver.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "paternal",
+    "wordMeaning": "പിതൃപരം",
+    "englishText": "My paternal grandfather was a well-known Ayurvedic physician in the village.",
+    "malayalamMeaning": "എൻ്റെ പിതാമഹൻ ഗ്രാമത്തിലെ അറിയപ്പെടുന്ന ആയുർവേദ വൈദ്യനായിരുന്നു.",
+    "usageExample": "Father's side of family.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "maternal",
+    "wordMeaning": "മാതൃപരമായ",
+    "englishText": "We always visit our maternal aunt's home during the festival holidays.",
+    "malayalamMeaning": "ഉത്സവ അവധി ദിവസങ്ങളിൽ ഞങ്ങൾ എപ്പോഴും ഞങ്ങളുടെ അമ്മായിയുടെ വീട്ടിൽ പോകാറുണ്ട്.",
+    "usageExample": "Mother's side of family.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "in-laws",
+    "wordMeaning": "മരുമക്കൾ",
+    "englishText": "She shares an exceptionally warm and friendly relationship with her in-laws.",
+    "malayalamMeaning": "അവൾ അവളുടെ അമ്മായിയമ്മമാരുമായി അസാധാരണമായ ഊഷ്മളവും സൗഹൃദപരവുമായ ബന്ധം പങ്കിടുന്നു.",
+    "usageExample": "Spouse's relatives.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stepmother",
+    "wordMeaning": "രണ്ടാനമ്മ",
+    "englishText": "Her stepmother treated her with genuine kindness and affection.",
+    "malayalamMeaning": "അവളുടെ രണ്ടാനമ്മ അവളോട് യഥാർത്ഥ ദയയോടും വാത്സല്യത്തോടും കൂടി പെരുമാറി.",
+    "usageExample": "Father's new spouse.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stepfather",
+    "wordMeaning": "രണ്ടാനച്ഛൻ",
+    "englishText": "His stepfather supported his passion for music from day one.",
+    "malayalamMeaning": "ആദ്യ ദിവസം മുതൽ സംഗീതത്തോടുള്ള അദ്ദേഹത്തിൻ്റെ അഭിനിവേശത്തെ അദ്ദേഹത്തിൻ്റെ രണ്ടാനച്ഛൻ പിന്തുണച്ചു.",
+    "usageExample": "Mother's new spouse.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stepbrother",
+    "wordMeaning": "രണ്ടാനച്ഛൻ",
+    "englishText": "He and his stepbrother grew up as close companions and best friends.",
+    "malayalamMeaning": "അവനും അവൻ്റെ രണ്ടാനച്ഛനും അടുത്ത കൂട്ടുകാരായും ഉറ്റ സുഹൃത്തുക്കളായും വളർന്നു.",
+    "usageExample": "Non-biological brother.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stepsister",
+    "wordMeaning": "രണ്ടാനമ്മ",
+    "englishText": "She helped her stepsister prepare for the medical entrance test.",
+    "malayalamMeaning": "മെഡിക്കൽ പ്രവേശന പരീക്ഷയ്ക്ക് തയ്യാറെടുക്കാൻ അവൾ തൻ്റെ രണ്ടാനമ്മയെ സഹായിച്ചു.",
+    "usageExample": "Non-biological sister.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nephew",
+    "wordMeaning": "മരുമകൻ",
+    "englishText": "My little nephew is fascinated by airplanes and wants to be a pilot.",
+    "malayalamMeaning": "എൻ്റെ ചെറിയ മരുമകൻ വിമാനങ്ങളിൽ ആകൃഷ്ടനാണ്, പൈലറ്റാകാൻ ആഗ്രഹിക്കുന്നു.",
+    "usageExample": "Sibling's son.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "niece",
+    "wordMeaning": "മരുമകൾ",
+    "englishText": "I bought a colorful watercolor set for my ten-year-old niece.",
+    "malayalamMeaning": "പത്തുവയസ്സുള്ള എൻ്റെ മരുമകൾക്കായി ഞാൻ ഒരു വർണ്ണാഭമായ വാട്ടർ കളർ സെറ്റ് വാങ്ങി.",
+    "usageExample": "Sibling's daughter.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "grandchild",
+    "wordMeaning": "പേരക്കുട്ടി",
+    "englishText": "Having a grandchild brings a second wave of youth into elderly lives.",
+    "malayalamMeaning": "ഒരു പേരക്കുട്ടി ഉള്ളത് പ്രായമായ ജീവിതത്തിലേക്ക് യുവത്വത്തിൻ്റെ രണ്ടാം തരംഗത്തെ കൊണ്ടുവരുന്നു.",
+    "usageExample": "Child's child.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "grandson",
+    "wordMeaning": "പേരക്കുട്ടി",
+    "englishText": "Grandfather taught his grandson the basics of organic farming.",
+    "malayalamMeaning": "മുത്തച്ഛൻ തൻ്റെ കൊച്ചുമകനെ ജൈവകൃഷിയുടെ അടിസ്ഥാനകാര്യങ്ങൾ പഠിപ്പിച്ചു.",
+    "usageExample": "Son's or daughter's son.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "granddaughter",
+    "wordMeaning": "കൊച്ചുമകൾ",
+    "englishText": "Her granddaughter visits every Saturday to read the newspaper aloud to her.",
+    "malayalamMeaning": "പത്രം ഉറക്കെ വായിക്കാൻ അവളുടെ ചെറുമകൾ എല്ലാ ശനിയാഴ്ചയും വരാറുണ്ട്.",
+    "usageExample": "Son's or daughter's daughter.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "great-grandmother",
+    "wordMeaning": "മുത്തശ്ശി",
+    "englishText": "Our great-grandmother lived a healthy, inspiring life of ninety-eight years.",
+    "malayalamMeaning": "ഞങ്ങളുടെ മുത്തശ്ശി തൊണ്ണൂറ്റിയെട്ട് വർഷത്തെ ആരോഗ്യകരമായ, പ്രചോദനാത്മകമായ ജീവിതം നയിച്ചു.",
+    "usageExample": "Grandparent's mother.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "great-grandfather",
+    "wordMeaning": "മുത്തച്ഛൻ",
+    "englishText": "Our great-grandfather planted the massive banyan tree in the center of the yard.",
+    "malayalamMeaning": "ഞങ്ങളുടെ മുത്തച്ഛൻ മുറ്റത്തിൻ്റെ നടുവിൽ കൂറ്റൻ ആൽമരം നട്ടുപിടിപ്പിച്ചു.",
+    "usageExample": "Grandparent's father.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "infant",
+    "wordMeaning": "ശിശു",
+    "englishText": "The doctor reassured the parents that the infant's growth was completely normal.",
+    "malayalamMeaning": "കുഞ്ഞിൻ്റെ വളർച്ച പൂർണമായും സാധാരണ നിലയിലാണെന്ന് ഡോക്ടർ മാതാപിതാക്കളെ ആശ്വസിപ്പിച്ചു.",
+    "usageExample": "Very young baby.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "toddler",
+    "wordMeaning": "കൊച്ചുകുട്ടി",
+    "englishText": "A curious toddler needs constant supervision to prevent household accidents.",
+    "malayalamMeaning": "ഗാർഹിക അപകടങ്ങൾ തടയാൻ ജിജ്ഞാസയുള്ള ഒരു കൊച്ചുകുട്ടിക്ക് നിരന്തരമായ മേൽനോട്ടം ആവശ്യമാണ്.",
+    "usageExample": "Walking young child.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "adolescent",
+    "wordMeaning": "കൗമാരക്കാരൻ",
+    "englishText": "Patience is required when communicating with an emotional adolescent.",
+    "malayalamMeaning": "ഒരു വൈകാരിക കൗമാരക്കാരുമായി ആശയവിനിമയം നടത്തുമ്പോൾ ക്ഷമ ആവശ്യമാണ്.",
+    "usageExample": "Teenage youth.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "maturity",
+    "wordMeaning": "പക്വത",
+    "englishText": "Facing early family hardships instilled great maturity in the young girl.",
+    "malayalamMeaning": "ആദ്യകാല കുടുംബ ക്ലേശങ്ങൾ പെൺകുട്ടിയിൽ വലിയ പക്വത വളർത്തി.",
+    "usageExample": "Grown-up wisdom.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "wholesome",
+    "wordMeaning": "ആരോഗ്യകരമായ",
+    "englishText": "Mother always insists on serving wholesome, home-cooked food.",
+    "malayalamMeaning": "വീട്ടിൽ പാകം ചെയ്ത ഭക്ഷണം വിളമ്പാൻ അമ്മ എപ്പോഴും നിർബന്ധിക്കുന്നു.",
+    "usageExample": "Healthy and nourishing.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nourishment",
+    "wordMeaning": "പോഷണം",
+    "englishText": "A mother's care provides both physical and emotional nourishment.",
+    "malayalamMeaning": "അമ്മയുടെ പരിചരണം ശാരീരികവും വൈകാരികവുമായ പോഷണം നൽകുന്നു.",
+    "usageExample": "Sustenance.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "comforting",
+    "wordMeaning": "സാന്ത്വനിപ്പിക്കുന്നത്",
+    "englishText": "Grandmother's warm lap is the most comforting place in the entire world.",
+    "malayalamMeaning": "മുത്തശ്ശിയുടെ ഊഷ്മളമായ മടിത്തട്ടാണ് ലോകത്തിലെ ഏറ്റവും ആശ്വാസകരമായ സ്ഥലം.",
+    "usageExample": "Soothing distress.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "reassuring",
+    "wordMeaning": "ആശ്വസിപ്പിക്കുന്നത്",
+    "englishText": "Father's reassuring words helped me overcome my fear of public speaking.",
+    "malayalamMeaning": "പരസ്യമായി സംസാരിക്കാനുള്ള ഭയം അകറ്റാൻ അച്ഛൻ്റെ ആശ്വാസ വാക്കുകൾ എന്നെ സഹായിച്ചു.",
+    "usageExample": "Dispelling doubt.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cherished",
+    "wordMeaning": "വിലമതിച്ചു",
+    "englishText": "The gold necklace was a cherished family heirloom handed down through generations.",
+    "malayalamMeaning": "തലമുറകളായി കൈമാറ്റം ചെയ്യപ്പെട്ട ഒരു കുടുംബ പാരമ്പര്യമായിരുന്നു സ്വർണ്ണമാല.",
+    "usageExample": "Highly treasured.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "heirloom",
+    "wordMeaning": "അവകാശം",
+    "englishText": "This antique brass lamp is a prized heirloom from our ancestors.",
+    "malayalamMeaning": "ഈ പുരാതന പിച്ചള വിളക്ക് നമ്മുടെ പൂർവ്വികരിൽ നിന്ന് വിലമതിക്കപ്പെട്ട ഒരു പാരമ്പര്യമാണ്.",
+    "usageExample": "Inherited antique.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "inheritance",
+    "wordMeaning": "അനന്തരാവകാശം",
+    "englishText": "The ancestral land was divided fairly as an inheritance among all heirs.",
+    "malayalamMeaning": "പൂർവ്വികരുടെ ഭൂമി എല്ലാ അവകാശികൾക്കും അവകാശമായി വിഭജിക്കപ്പെട്ടു.",
+    "usageExample": "Passed-down wealth.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "legacy",
+    "wordMeaning": "പാരമ്പര്യം",
+    "englishText": "A legacy of honesty and generosity is the greatest gift parents can leave.",
+    "malayalamMeaning": "സത്യസന്ധതയുടെയും ഔദാര്യത്തിൻ്റെയും പൈതൃകമാണ് മാതാപിതാക്കൾക്ക് ഉപേക്ഷിക്കാൻ കഴിയുന്ന ഏറ്റവും വലിയ സമ്മാനം.",
+    "usageExample": "Enduring impact.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sentiment",
+    "wordMeaning": "വികാരം",
+    "englishText": "There was immense sentimental value attached to the wooden cradle.",
+    "malayalamMeaning": "മരത്തൊട്ടിലിൽ അപാരമായ വൈകാരിക മൂല്യം ഘടിപ്പിച്ചിരുന്നു.",
+    "usageExample": "Emotional attachment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "affection",
+    "wordMeaning": "വാത്സല്യം",
+    "englishText": "She treated all her nieces and nephews with equal warmth and affection.",
+    "malayalamMeaning": "അവളുടെ എല്ലാ മരുമക്കളോടും അവൾ ഒരേ ഊഷ്മളതയോടും വാത്സല്യത്തോടും കൂടി പെരുമാറി.",
+    "usageExample": "Fond regard.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "fondness",
+    "wordMeaning": "ഇഷ്ടം",
+    "englishText": "He spoke with deep fondness of the childhood days spent on the farm.",
+    "malayalamMeaning": "ഫാമിൽ ചിലവഴിച്ച കുട്ടിക്കാലത്തെക്കുറിച്ച് അഗാധമായ ഇഷ്ടത്തോടെ അദ്ദേഹം സംസാരിച്ചു.",
+    "usageExample": "Warm liking.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nostalgia",
+    "wordMeaning": "ഗൃഹാതുരത്വം",
+    "englishText": "Looking at old family black-and-white portraits evoked sweet nostalgia.",
+    "malayalamMeaning": "പഴയ കുടുംബത്തിലെ കറുപ്പും വെളുപ്പും ഉള്ള ഛായാചിത്രങ്ങൾ നോക്കുമ്പോൾ മധുരമായ ഗൃഹാതുരത്വം ഉണർത്തി.",
+    "usageExample": "Sentimental longing.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "reminisce",
+    "wordMeaning": "ഓർമ്മിപ്പിക്കുന്നു",
+    "englishText": "During festival dinners, the elders love to reminisce about old village life.",
+    "malayalamMeaning": "പെരുന്നാൾ അത്താഴ വേളയിൽ, പഴയ ഗ്രാമീണ ജീവിതത്തെക്കുറിച്ച് ഓർമ്മിക്കാൻ മുതിർന്നവർ ഇഷ്ടപ്പെടുന്നു.",
+    "usageExample": "Recalling past days.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "togetherness",
+    "wordMeaning": "കൂട്ടായ്മ",
+    "englishText": "The festival celebrated the spirit of family togetherness and shared joy.",
+    "malayalamMeaning": "കുടുംബ കൂട്ടായ്മയുടെ ചൈതന്യത്തെ ആഘോഷമാക്കുകയും സന്തോഷം പങ്കുവെക്കുകയും ചെയ്തു.",
+    "usageExample": "Being unified.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "solidarity",
+    "wordMeaning": "ഐക്യദാർഢ്യം",
+    "englishText": "The family demonstrated complete solidarity when facing financial trouble.",
+    "malayalamMeaning": "സാമ്പത്തിക ബുദ്ധിമുട്ടുകൾ നേരിട്ടപ്പോൾ കുടുംബം തികഞ്ഞ ഐക്യദാർഢ്യം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Standing united.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "supportive",
+    "wordMeaning": "പിന്തുണയ്ക്കുന്ന",
+    "englishText": "My parents were always supportive of my unconventional career ambitions.",
+    "malayalamMeaning": "എൻ്റെ പാരമ്പര്യേതര തൊഴിൽ അഭിലാഷങ്ങളെ എൻ്റെ മാതാപിതാക്കൾ എപ്പോഴും പിന്തുണച്ചിരുന്നു.",
+    "usageExample": "Encouraging.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "protective",
+    "wordMeaning": "സംരക്ഷിത",
+    "englishText": "Elder brothers are often fiercely protective of their younger siblings.",
+    "malayalamMeaning": "മൂത്ത സഹോദരന്മാർ പലപ്പോഴും തങ്ങളുടെ ഇളയ സഹോദരങ്ങളെ കഠിനമായി സംരക്ഷിക്കുന്നു.",
+    "usageExample": "Guarding from harm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "overprotective",
+    "wordMeaning": "അമിത സംരക്ഷണം",
+    "englishText": "Parents must strike a balance and avoid being excessively overprotective.",
+    "malayalamMeaning": "മാതാപിതാക്കൾ സമനില പാലിക്കുകയും അമിതമായ സംരക്ഷണം ഒഴിവാക്കുകയും വേണം.",
+    "usageExample": "Too sheltering.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "independence",
+    "wordMeaning": "സ്വാതന്ത്ര്യം",
+    "englishText": "Encouraging children to do their own laundry fosters healthy independence.",
+    "malayalamMeaning": "സ്വന്തമായി അലക്കു ചെയ്യാൻ കുട്ടികളെ പ്രോത്സാഹിപ്പിക്കുന്നത് ആരോഗ്യകരമായ സ്വാതന്ത്ര്യം വളർത്തുന്നു.",
+    "usageExample": "Self-reliance.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "self-reliant",
+    "wordMeaning": "സ്വയം ആശ്രയിക്കുന്ന",
+    "englishText": "Her parents raised her to be confident, educated, and self-reliant.",
+    "malayalamMeaning": "അവളുടെ മാതാപിതാക്കൾ അവളെ ആത്മവിശ്വാസമുള്ളവളും വിദ്യാഭ്യാസമുള്ളവളും സ്വയം ആശ്രയിക്കുന്നവളുമായി വളർത്തി.",
+    "usageExample": "Relying on self.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "guideline",
+    "wordMeaning": "മാർഗ്ഗരേഖ",
+    "englishText": "Our household has clear guidelines regarding bedtime and internet use.",
+    "malayalamMeaning": "ഉറക്കസമയം, ഇൻ്റർനെറ്റ് ഉപയോഗം എന്നിവ സംബന്ധിച്ച് ഞങ്ങളുടെ വീട്ടുകാർക്ക് വ്യക്തമായ മാർഗ്ഗനിർദ്ദേശങ്ങളുണ്ട്.",
+    "usageExample": "Family rules.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "chores",
+    "wordMeaning": "വീട്ടുജോലികൾ",
+    "englishText": "Sharing household chores equally prevents anyone from feeling overwhelmed.",
+    "malayalamMeaning": "വീട്ടുജോലികൾ തുല്യമായി പങ്കിടുന്നത് ആരെയും അമിതഭാരം അനുഭവിക്കുന്നതിൽ നിന്ന് തടയുന്നു.",
+    "usageExample": "Domestic duties.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cooperation",
+    "wordMeaning": "സഹകരണം",
+    "englishText": "Smooth running of a big family demands continuous mutual cooperation.",
+    "malayalamMeaning": "ഒരു വലിയ കുടുംബത്തിൻ്റെ സുഗമമായ നടത്തിപ്പ് നിരന്തരമായ പരസ്പര സഹകരണം ആവശ്യപ്പെടുന്നു.",
+    "usageExample": "Working together.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "compromise",
+    "wordMeaning": "വിട്ടുവീഴ്ച",
+    "englishText": "Marriage requires both partners to understand the art of peaceful compromise.",
+    "malayalamMeaning": "വിവാഹത്തിന് രണ്ട് പങ്കാളികളും സമാധാനപരമായ വിട്ടുവീഴ്ചയുടെ കല മനസ്സിലാക്കേണ്ടതുണ്ട്.",
+    "usageExample": "Mutual concession.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "understanding",
+    "wordMeaning": "ധാരണ",
+    "englishText": "An understanding parent listens before passing quick judgment.",
+    "malayalamMeaning": "പെട്ടെന്നുള്ള വിധി പറയുന്നതിന് മുമ്പ് മനസ്സിലാക്കുന്ന ഒരു രക്ഷിതാവ് ശ്രദ്ധിക്കുന്നു.",
+    "usageExample": "Empathic comprehension.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "patience",
+    "wordMeaning": "ക്ഷമ",
+    "englishText": "Caring for an elderly family member requires limitless patience and love.",
+    "malayalamMeaning": "പ്രായമായ ഒരു കുടുംബാംഗത്തെ പരിപാലിക്കുന്നതിന് പരിധിയില്ലാത്ത ക്ഷമയും സ്നേഹവും ആവശ്യമാണ്.",
+    "usageExample": "Endurance with grace.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tolerance",
+    "wordMeaning": "സഹിഷ്ണുത",
+    "englishText": "Living in a joint family teaches children remarkable tolerance and adaptability.",
+    "malayalamMeaning": "ഒരു കൂട്ടുകുടുംബത്തിൽ താമസിക്കുന്നത് കുട്ടികളെ ശ്രദ്ധേയമായ സഹിഷ്ണുതയും പൊരുത്തപ്പെടുത്തലും പഠിപ്പിക്കുന്നു.",
+    "usageExample": "Accepting differences.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "adaptability",
+    "wordMeaning": "പൊരുത്തപ്പെടുത്തൽ",
+    "englishText": "Moving to a new city tested the family's resilience and adaptability.",
+    "malayalamMeaning": "ഒരു പുതിയ നഗരത്തിലേക്ക് മാറുന്നത് കുടുംബത്തിൻ്റെ പ്രതിരോധശേഷിയും പൊരുത്തപ്പെടുത്തലും പരീക്ഷിച്ചു.",
+    "usageExample": "Flexibility.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "resilience",
+    "wordMeaning": "പ്രതിരോധശേഷി",
+    "englishText": "The family showed extraordinary resilience after losing their ancestral shop in the flood.",
+    "malayalamMeaning": "പ്രളയത്തിൽ തറവാട്ടുകാരുടെ കട നഷ്ടപ്പെട്ടതോടെ അസാമാന്യമായ മനക്കരുത്താണ് ഈ കുടുംബം പ്രകടിപ്പിച്ചത്.",
+    "usageExample": "Bouncing back.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "welcoming",
+    "wordMeaning": "സ്വാഗതം ചെയ്യുന്നു",
+    "englishText": "Their family home has a famously welcoming vibe where visitors feel loved.",
+    "malayalamMeaning": "അവരുടെ കുടുംബവീട്ടിൽ സന്ദർശകർക്ക് പ്രിയപ്പെട്ടതായി തോന്നുന്ന ഒരു പ്രസിദ്ധമായ സ്വാഗത പ്രകമ്പനമുണ്ട്.",
+    "usageExample": "Inviting nature.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hospitable",
+    "wordMeaning": "അതിഥിപ്രിയം",
+    "englishText": "The maternal family was renowned throughout the district for being hospitable.",
+    "malayalamMeaning": "മാതൃകുടുംബം ആതിഥ്യമര്യാദയ്ക്ക് ജില്ലയിലുടനീളം പ്രശസ്തമായിരുന്നു.",
+    "usageExample": "Generous to guests.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "compassionate",
+    "wordMeaning": "അനുകമ്പയുള്ള",
+    "englishText": "Her compassionate nature was shaped by observing her mother feed hungry travelers.",
+    "malayalamMeaning": "വിശക്കുന്ന യാത്രക്കാർക്ക് അമ്മ ഭക്ഷണം നൽകുന്നത് നിരീക്ഷിച്ചാണ് അവളുടെ കരുണയുള്ള സ്വഭാവം രൂപപ്പെട്ടത്.",
+    "usageExample": "Caring deeply.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "unselfish",
+    "wordMeaning": "നിസ്വാർത്ഥ",
+    "englishText": "A mother's unselfish dedication to her children is beyond measure.",
+    "malayalamMeaning": "മക്കളോടുള്ള അമ്മയുടെ നിസ്വാർത്ഥമായ അർപ്പണബോധം അളവറ്റതാണ്.",
+    "usageExample": "Altruistic.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "thoughtful",
+    "wordMeaning": "ചിന്താശേഷിയുള്ള",
+    "englishText": "My sister sent a thoughtful care package containing my favorite homemade sweets.",
+    "malayalamMeaning": "എൻ്റെ പ്രിയപ്പെട്ട വീട്ടിലുണ്ടാക്കുന്ന മധുരപലഹാരങ്ങൾ അടങ്ങിയ ഒരു ചിന്താശേഷിയുള്ള കെയർ പാക്കേജ് എൻ്റെ സഹോദരി അയച്ചു.",
+    "usageExample": "Mindful of others.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "considerate",
+    "wordMeaning": "പരിഗണനയുള്ള",
+    "englishText": "It was considerate of my brother to drive grandfather to his clinic appointment.",
+    "malayalamMeaning": "മുത്തച്ഛനെ തൻ്റെ ക്ലിനിക്കിലേക്ക് കൊണ്ടുപോകുന്നത് എൻ്റെ സഹോദരൻ്റെ പരിഗണനയായിരുന്നു.",
+    "usageExample": "Showing care.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "dependable",
+    "wordMeaning": "ആശ്രയിക്കാവുന്ന",
+    "englishText": "Father has always been the most dependable rock in our changing lives.",
+    "malayalamMeaning": "നമ്മുടെ മാറിക്കൊണ്ടിരിക്കുന്ന ജീവിതത്തിൽ എപ്പോഴും ഏറ്റവും ആശ്രയിക്കാവുന്ന പാറയാണ് പിതാവ്.",
+    "usageExample": "Reliable.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "trustworthy",
+    "wordMeaning": "വിശ്വസനീയമായ",
+    "englishText": "A trustworthy family member will never disclose private domestic confidences.",
+    "malayalamMeaning": "വിശ്വസനീയമായ ഒരു കുടുംബാംഗം ഒരിക്കലും സ്വകാര്യ ഗാർഹിക വിശ്വാസങ്ങൾ വെളിപ്പെടുത്തുകയില്ല.",
+    "usageExample": "Reliable integrity.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "intimacy",
+    "wordMeaning": "അടുപ്പം",
+    "englishText": "True emotional intimacy allows family members to share their vulnerabilities.",
+    "malayalamMeaning": "യഥാർത്ഥ വൈകാരിക അടുപ്പം കുടുംബാംഗങ്ങളെ അവരുടെ പരാധീനതകൾ പങ്കിടാൻ അനുവദിക്കുന്നു.",
+    "usageExample": "Close connection.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "confidant",
+    "wordMeaning": "വിശ്വസ്തൻ",
+    "englishText": "My mother has always been my closest friend and most trusted confidant.",
+    "malayalamMeaning": "എൻ്റെ അമ്മ എപ്പോഴും എൻ്റെ ഏറ്റവും അടുത്ത സുഹൃത്തും ഏറ്റവും വിശ്വസ്തയായ വിശ്വസ്തയുമാണ്.",
+    "usageExample": "Secret keeper.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "admonish",
+    "wordMeaning": "ഉപദേശിക്കുക",
+    "englishText": "Father would gently admonish us whenever we spoke disrespectfully to anyone.",
+    "malayalamMeaning": "ആരോടെങ്കിലും അപമര്യാദയായി സംസാരിക്കുമ്പോഴെല്ലാം അച്ഛൻ ഞങ്ങളെ സൗമ്യമായി ഉപദേശിക്കുമായിരുന്നു.",
+    "usageExample": "Gently scold.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "correct",
+    "wordMeaning": "ശരിയാണ്",
+    "englishText": "Wise parents correct bad behavior in private rather than in front of guests.",
+    "malayalamMeaning": "ജ്ഞാനികളായ മാതാപിതാക്കൾ അതിഥികളുടെ മുമ്പിൽ വച്ചല്ല, സ്വകാര്യമായി മോശമായ പെരുമാറ്റം തിരുത്തുന്നു.",
+    "usageExample": "Disciplining gently.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "encourage",
+    "wordMeaning": "പ്രോത്സാഹിപ്പിക്കുക",
+    "englishText": "Parents should actively encourage their children to pursue creative arts.",
+    "malayalamMeaning": "ക്രിയാത്മക കലകൾ പിന്തുടരാൻ മാതാപിതാക്കൾ തങ്ങളുടെ കുട്ടികളെ സജീവമായി പ്രോത്സാഹിപ്പിക്കണം.",
+    "usageExample": "Inspiring confidence.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "appreciate",
+    "wordMeaning": "അഭിനന്ദിക്കുന്നു",
+    "englishText": "We must learn to appreciate the tireless silent efforts our mothers make.",
+    "malayalamMeaning": "നമ്മുടെ അമ്മമാർ നടത്തുന്ന അശ്രാന്തമായ നിശബ്ദ ശ്രമങ്ങളെ അഭിനന്ദിക്കാൻ നാം പഠിക്കണം.",
+    "usageExample": "Valuing worth.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cherishing",
+    "wordMeaning": "വിലമതിക്കുന്നു",
+    "englishText": "Cherishing the present moments with aging parents is of utmost importance.",
+    "malayalamMeaning": "പ്രായമായ മാതാപിതാക്കളോടൊപ്പമുള്ള ഇന്നത്തെ നിമിഷങ്ങളെ വിലമതിക്കുന്നത് വളരെ പ്രധാനമാണ്.",
+    "usageExample": "Valuing time.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "heartfelt",
+    "wordMeaning": "ഹൃദയംഗമമായ",
+    "englishText": "He offered a heartfelt thank-you to his parents during his graduation speech.",
+    "malayalamMeaning": "ബിരുദദാന പ്രസംഗത്തിനിടെ അദ്ദേഹം മാതാപിതാക്കൾക്ക് ഹൃദയംഗമമായ നന്ദി പറഞ്ഞു.",
+    "usageExample": "Deep sincerity.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "patriarch",
+    "wordMeaning": "ഗോത്രപിതാവ്",
+    "englishText": "The venerable patriarch guided four generations with wisdom and gentle authority.",
+    "malayalamMeaning": "ബഹുമാന്യനായ ഗോത്രപിതാവ് നാല് തലമുറകളെ വിവേകത്തോടെയും സൗമ്യമായ അധികാരത്തോടെയും നയിച്ചു.",
+    "usageExample": "Male family head.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "matriarch",
+    "wordMeaning": "മാതൃപിതാവ്",
+    "englishText": "The family matriarch was revered across the community for her philanthropic deeds.",
+    "malayalamMeaning": "അവളുടെ ജീവകാരുണ്യ പ്രവർത്തനങ്ങൾക്ക് കുടുംബ മാട്രിയാർക്കീസ് ​​സമൂഹത്തിലുടനീളം ആദരിക്കപ്പെട്ടു.",
+    "usageExample": "Female family head.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "primogeniture",
+    "wordMeaning": "പ്രൈമോജെനിച്ചർ",
+    "englishText": "In historical estates, inheritance was dictated by the custom of primogeniture.",
+    "malayalamMeaning": "ചരിത്രപരമായ എസ്റ്റേറ്റുകളിൽ, പ്രൈമോജെനിച്ചറിൻ്റെ ആചാരപ്രകാരമാണ് അനന്തരാവകാശം നിർണ്ണയിക്കുന്നത്.",
+    "usageExample": "Inheritance by firstborn.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "filial",
+    "wordMeaning": "പുത്രസ്വഭാവമുള്ള",
+    "englishText": "In traditional society, filial piety is regarded as the highest moral obligation.",
+    "malayalamMeaning": "പരമ്പരാഗത സമൂഹത്തിൽ, സന്താനഭക്തി ഏറ്റവും ഉയർന്ന ധാർമ്മിക ബാധ്യതയായി കണക്കാക്കപ്പെടുന്നു.",
+    "usageExample": "Duty toward parents.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "consanguinity",
+    "wordMeaning": "രക്തബന്ധം",
+    "englishText": "The genetic counselor analyzed the degree of consanguinity in the pedigree chart.",
+    "malayalamMeaning": "ജനിതക കൗൺസിലർ പെഡിഗ്രി ചാർട്ടിൽ രക്തബന്ധത്തിൻ്റെ അളവ് വിശകലനം ചെയ്തു.",
+    "usageExample": "Blood relation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "progenitor",
+    "wordMeaning": "പൂർവ്വികൻ",
+    "englishText": "The noble progenitor of our clan established the village school two centuries ago.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കുലത്തിൻ്റെ കുലീനനായ പൂർവ്വികൻ രണ്ട് നൂറ്റാണ്ടുകൾക്ക് മുമ്പ് ഗ്രാമത്തിലെ വിദ്യാലയം സ്ഥാപിച്ചു.",
+    "usageExample": "Direct ancestor.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "posterity",
+    "wordMeaning": "പിൻതലമുറ",
+    "englishText": "Our grandparents planted teak trees not for themselves, but for their posterity.",
+    "malayalamMeaning": "നമ്മുടെ മുത്തശ്ശിമാർ തേക്ക് നട്ടുപിടിപ്പിച്ചത് തങ്ങൾക്കുവേണ്ടിയല്ല, അവരുടെ പിൻഗാമികൾക്ക് വേണ്ടിയാണ്.",
+    "usageExample": "Future generations.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "progeny",
+    "wordMeaning": "സന്തതി",
+    "englishText": "He took immense pride in seeing his brilliant progeny serve society.",
+    "malayalamMeaning": "തൻ്റെ പ്രഗത്ഭരായ സന്തതികൾ സമൂഹത്തെ സേവിക്കുന്നത് കാണുന്നതിൽ അദ്ദേഹം വളരെയധികം അഭിമാനിച്ചു.",
+    "usageExample": "Offspring/children.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "genealogy",
+    "wordMeaning": "വംശാവലി",
+    "englishText": "She spent years researching church archives to construct her family genealogy.",
+    "malayalamMeaning": "അവളുടെ കുടുംബ വംശാവലി നിർമ്മിക്കുന്നതിനായി അവൾ വർഷങ്ങളോളം പള്ളി ആർക്കൈവുകളിൽ ഗവേഷണം നടത്തി.",
+    "usageExample": "Family history science.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hereditary",
+    "wordMeaning": "പാരമ്പര്യം",
+    "englishText": "The doctors investigated whether the condition had a hereditary basis.",
+    "malayalamMeaning": "ഈ രോഗത്തിന് പാരമ്പര്യ അടിസ്ഥാനമുണ്ടോ എന്ന് ഡോക്ടർമാർ പരിശോധിച്ചു.",
+    "usageExample": "Genetically transmitted.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "scion",
+    "wordMeaning": "സിയോൺ",
+    "englishText": "The young scion of the industrial family decided to start his own software venture.",
+    "malayalamMeaning": "വ്യാവസായിക കുടുംബത്തിലെ യുവതലമുറ സ്വന്തമായി ഒരു സോഫ്‌റ്റ്‌വെയർ സംരംഭം തുടങ്ങാൻ തീരുമാനിച്ചു.",
+    "usageExample": "Descendant of noble line.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "testament",
+    "wordMeaning": "നിയമം",
+    "englishText": "His peaceful household was a testament to forty years of loving companionship.",
+    "malayalamMeaning": "നാൽപ്പതുവർഷത്തെ സ്‌നേഹനിർഭരമായ സഹവാസത്തിൻ്റെ തെളിവായിരുന്നു അദ്ദേഹത്തിൻ്റെ സമാധാനപരമായ കുടുംബം.",
+    "usageExample": "Living proof.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bequeath",
+    "wordMeaning": "വസ്വിയ്യത്ത്",
+    "englishText": "Grandfather wished to bequeath his extensive personal library to the local university.",
+    "malayalamMeaning": "തൻ്റെ വിപുലമായ സ്വകാര്യ ലൈബ്രറി പ്രാദേശിക സർവകലാശാലയ്ക്ക് വിട്ടുകൊടുക്കാൻ മുത്തച്ഛൻ ആഗ്രഹിച്ചു.",
+    "usageExample": "Leave by will.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "beneficiary",
+    "wordMeaning": "ഗുണഭോക്താവ്",
+    "englishText": "All three siblings were named as equal beneficiaries in the father's estate.",
+    "malayalamMeaning": "മൂന്ന് സഹോദരങ്ങളെയും പിതാവിൻ്റെ എസ്റ്റേറ്റിൽ തുല്യ ഗുണഭോക്താക്കളായി നാമകരണം ചെയ്തു.",
+    "usageExample": "Inheritance receiver.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "stewardship",
+    "wordMeaning": "കാര്യസ്ഥൻ",
+    "englishText": "The elder son demonstrated prudent stewardship of the family properties.",
+    "malayalamMeaning": "മൂത്തമകൻ കുടുംബ സ്വത്തുക്കളുടെ വിവേകപൂർണ്ണമായ മേൽനോട്ടം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Careful management.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "cohesion",
+    "wordMeaning": "കെട്ടുറപ്പ്",
+    "englishText": "Shared religious festivals reinforce social and domestic cohesion across clans.",
+    "malayalamMeaning": "പങ്കിട്ട മതപരമായ ഉത്സവങ്ങൾ വംശങ്ങൾക്കിടയിൽ സാമൂഹികവും ഗാർഹികവുമായ ഐക്യത്തെ ശക്തിപ്പെടുത്തുന്നു.",
+    "usageExample": "Bonding solidarity.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "fraternal",
+    "wordMeaning": "സാഹോദര്യം",
+    "englishText": "The brothers maintained exemplary fraternal harmony throughout their lives.",
+    "malayalamMeaning": "സഹോദരങ്ങൾ ജീവിതത്തിലുടനീളം മാതൃകാപരമായ സാഹോദര്യം കാത്തുസൂക്ഷിച്ചു.",
+    "usageExample": "Brotherly bond.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sororal",
+    "wordMeaning": "സോറൽ",
+    "englishText": "A deep sororal affection united the three sisters despite living across continents.",
+    "malayalamMeaning": "ഭൂഖണ്ഡങ്ങൾ കടന്ന് ജീവിച്ചിട്ടും അഗാധമായ വാത്സല്യം മൂന്ന് സഹോദരിമാരെ ഒന്നിപ്പിച്ചു.",
+    "usageExample": "Sisterly bond.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "avuncular",
+    "wordMeaning": "അണ്ഡാകൃതിയിലുള്ള",
+    "englishText": "He treated his nephews and nieces with warm, avuncular indulgence.",
+    "malayalamMeaning": "അവൻ തൻ്റെ മരുമക്കളോടും മരുമക്കളോടും ഊഷ്മളമായ ആഹ്ലാദത്തോടെ പെരുമാറി.",
+    "usageExample": "Kindly uncle-like.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "maternalistic",
+    "wordMeaning": "മാതൃത്വപരമായ",
+    "englishText": "Her maternalistic instincts extended to protecting all the neighborhood orphans.",
+    "malayalamMeaning": "അവളുടെ മാതൃസഹജമായ സഹജാവബോധം അയൽപക്കത്തെ എല്ലാ അനാഥരെയും സംരക്ഷിക്കുന്നതിലേക്ക് വ്യാപിച്ചു.",
+    "usageExample": "Motherly care.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "paternalistic",
+    "wordMeaning": "പിതൃത്വപരമായ",
+    "englishText": "The village elder exercised a gentle, paternalistic guidance over the community.",
+    "malayalamMeaning": "ഗ്രാമത്തിലെ മൂപ്പൻ സമൂഹത്തിന്മേൽ സൗമ്യവും പിതൃത്വപരമായ മാർഗ്ഗനിർദ്ദേശവും പ്രയോഗിച്ചു.",
+    "usageExample": "Fatherly oversight.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sacrosanct",
+    "wordMeaning": "പവിത്രമായ",
+    "englishText": "The tradition of Sunday dinner at grandmother's house was considered sacrosanct.",
+    "malayalamMeaning": "അമ്മൂമ്മയുടെ വീട്ടിലെ ഞായറാഴ്ച അത്താഴത്തിൻ്റെ പാരമ്പര്യം പവിത്രമായി കണക്കാക്കപ്പെട്ടിരുന്നു.",
+    "usageExample": "Sacred and inviolable.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "inviolable",
+    "wordMeaning": "അലംഘനീയമായ",
+    "englishText": "The trust between a mother and child ought to remain inviolable.",
+    "malayalamMeaning": "അമ്മയും കുഞ്ഞും തമ്മിലുള്ള വിശ്വാസം അലംഘനീയമായി നിലനിൽക്കണം.",
+    "usageExample": "Never to be broken.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bedrock",
+    "wordMeaning": "അടിത്തട്ട്",
+    "englishText": "Unconditional familial support is the emotional bedrock of a happy human life.",
+    "malayalamMeaning": "സന്തുഷ്ടമായ ഒരു മനുഷ്യജീവിതത്തിൻ്റെ വൈകാരിക അടിത്തറയാണ് നിരുപാധികമായ കുടുംബ പിന്തുണ.",
+    "usageExample": "Fundamental base.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "steadfastness",
+    "wordMeaning": "സ്ഥിരത",
+    "englishText": "Mother's steadfastness during the financial crisis kept the home secure.",
+    "malayalamMeaning": "സാമ്പത്തിക പ്രതിസന്ധിയിൽ അമ്മയുടെ ദൃഢത വീടിനെ സുരക്ഷിതമാക്കി.",
+    "usageExample": "Unwavering strength.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "magnanimity",
+    "wordMeaning": "മഹാമനസ്കത",
+    "englishText": "In a display of familial magnanimity, the elder brother waived his share of the land.",
+    "malayalamMeaning": "കുടുംബപരമായ മഹത്വത്തിൻ്റെ പ്രകടനത്തിൽ, ജ്യേഷ്ഠൻ തൻ്റെ ഭൂമിയുടെ വിഹിതം ഒഴിവാക്കി.",
+    "usageExample": "Noble generosity.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "forbearance",
+    "wordMeaning": "സഹിഷ്ണുത",
+    "englishText": "Grandmother exercised great forbearance when dealing with youthful rebelliousness.",
+    "malayalamMeaning": "ചെറുപ്പത്തിലെ വിമതത്വത്തെ കൈകാര്യം ചെയ്യുമ്പോൾ മുത്തശ്ശി വളരെ സഹിഷ്ണുത പുലർത്തി.",
+    "usageExample": "Patient restraint.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "equanimity",
+    "wordMeaning": "സമചിത്തത",
+    "englishText": "The parents weathered life's vicissitudes with dignified equanimity.",
+    "malayalamMeaning": "അന്തസ്സോടെ സമചിത്തതയോടെയാണ് മാതാപിതാക്കൾ ജീവിത പ്രതിസന്ധികളെ നേരിട്ടത്.",
+    "usageExample": "Mental composure.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "solicitude",
+    "wordMeaning": "അഭ്യർത്ഥന",
+    "englishText": "Her deep solicitude for her ailing parents was evident in every thoughtful deed.",
+    "malayalamMeaning": "രോഗിയായ മാതാപിതാക്കളോടുള്ള അവളുടെ അഗാധമായ അഭ്യർത്ഥന ചിന്താപൂർവ്വമായ ഓരോ പ്രവൃത്തിയിലും പ്രകടമായിരുന്നു.",
+    "usageExample": "Attentive care.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "benevolence",
+    "wordMeaning": "പരോപകാരം",
+    "englishText": "The patriarch's boundless benevolence benefited hundreds of impoverished villagers.",
+    "malayalamMeaning": "ഗോത്രപിതാവിൻ്റെ അതിരുകളില്ലാത്ത കാരുണ്യം നൂറുകണക്കിന് ദരിദ്രരായ ഗ്രാമീണർക്ക് പ്രയോജനം ചെയ്തു.",
+    "usageExample": "Active kindness.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "altruism",
+    "wordMeaning": "പരോപകാരം",
+    "englishText": "Parenthood is perhaps the most profound daily expression of human altruism.",
+    "malayalamMeaning": "രക്ഷാകർതൃത്വം ഒരുപക്ഷേ മനുഷ്യൻ്റെ പരോപകാരത്തിൻ്റെ ഏറ്റവും ആഴത്തിലുള്ള ദൈനംദിന പ്രകടനമാണ്.",
+    "usageExample": "Selfless concern.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "vicissitude",
+    "wordMeaning": "വിചിത്രത",
+    "englishText": "Family solidarity helps individuals endure the unpredictable vicissitudes of fortune.",
+    "malayalamMeaning": "കുടുംബ ഐക്യദാർഢ്യം, ഭാഗ്യത്തിൻ്റെ പ്രവചനാതീതമായ വ്യതിയാനങ്ങൾ സഹിക്കാൻ വ്യക്തികളെ സഹായിക്കുന്നു.",
+    "usageExample": "Shifts of fortune.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "nurturance",
+    "wordMeaning": "പോഷണം",
+    "englishText": "Early emotional nurturance builds cognitive resilience in growing children.",
+    "malayalamMeaning": "ആദ്യകാല വൈകാരിക പോഷണം വളരുന്ന കുട്ടികളിൽ വൈജ്ഞാനിക പ്രതിരോധശേഷി ഉണ്ടാക്കുന്നു.",
+    "usageExample": "Affectionate rearing.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "pedigree",
+    "wordMeaning": "വംശാവലി",
+    "englishText": "The family kept a meticulously documented pedigree of their prize cattle and land.",
+    "malayalamMeaning": "ഈ കുടുംബം തങ്ങളുടെ സമ്മാനമായ കന്നുകാലികളുടെയും ഭൂമിയുടെയും സൂക്ഷ്മമായി രേഖപ്പെടുത്തപ്പെട്ട വംശാവലി സൂക്ഷിച്ചു.",
+    "usageExample": "Ancestral record.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ancestral",
+    "wordMeaning": "പൂർവ്വികർ",
+    "englishText": "We gathered at our ancestral estate to celebrate the centenary of the household.",
+    "malayalamMeaning": "വീടിൻ്റെ ശതാബ്ദി ആഘോഷിക്കാൻ ഞങ്ങൾ ഞങ്ങളുടെ പൂർവ്വിക എസ്റ്റേറ്റിൽ ഒത്തുകൂടി.",
+    "usageExample": "Inherited from forebears.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "homestead",
+    "wordMeaning": "പുരയിടം",
+    "englishText": "The old family homestead was surrounded by lush coconut and areca palms.",
+    "malayalamMeaning": "പഴയ തറവാടിൻ്റെ പുരയിടത്തിന് ചുറ്റും സമൃദ്ധമായ തെങ്ങുകളും ഈന്തപ്പനകളും ഉണ്ടായിരുന്നു.",
+    "usageExample": "Ancestral farm house.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "abode",
+    "wordMeaning": "വാസസ്ഥലം",
+    "englishText": "Their modest village abode was always open to tired travelers seeking shelter.",
+    "malayalamMeaning": "അവരുടെ എളിമയുള്ള ഗ്രാമ വാസസ്ഥലം അഭയം തേടുന്ന ക്ഷീണിതരായ യാത്രക്കാർക്ക് എപ്പോഴും തുറന്നിരുന്നു.",
+    "usageExample": "Home or dwelling.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "convivial",
+    "wordMeaning": "സുഖപ്രദമായ",
+    "englishText": "Every festival brought convivial family gatherings filled with storytelling and laughter.",
+    "malayalamMeaning": "ഓരോ ഉത്സവവും കഥാപ്രസംഗവും ചിരിയും നിറഞ്ഞ കുടുംബസംഗമങ്ങൾ കൊണ്ടുവന്നു.",
+    "usageExample": "Festively sociable.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bonhomie",
+    "wordMeaning": "ബോൺഹോമി",
+    "englishText": "A genuine bonhomie united the cousins as they reminisced about childhood pranks.",
+    "malayalamMeaning": "കുട്ടിക്കാലത്തെ തമാശകളെക്കുറിച്ച് ഓർമ്മിപ്പിച്ചുകൊണ്ട് ഒരു യഥാർത്ഥ ബോൺഹോമി കസിൻസിനെ ഒന്നിപ്പിച്ചു.",
+    "usageExample": "Good-natured warmth.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "cordiality",
+    "wordMeaning": "ഹൃദ്യത",
+    "englishText": "The two branches of the family greeted each other with sincere cordiality.",
+    "malayalamMeaning": "കുടുംബത്തിലെ രണ്ട് ശാഖകളും ആത്മാർത്ഥമായ സ്നേഹത്തോടെ പരസ്പരം അഭിവാദ്യം ചെയ്തു.",
+    "usageExample": "Warm civility.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "camaraderie",
+    "wordMeaning": "സൗഹൃദം",
+    "englishText": "The siblings shared an enduring camaraderie that sustained them through tough years.",
+    "malayalamMeaning": "കഠിനമായ വർഷങ്ങളിൽ അവരെ നിലനിറുത്തിയ ശാശ്വതമായ സൗഹൃദം സഹോദരങ്ങൾ പങ്കിട്ടു.",
+    "usageExample": "Deep companionship.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "tranquility",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "The ancestral courtyard offered an oasis of serenity and family tranquility.",
+    "malayalamMeaning": "പൂർവ്വികരുടെ മുറ്റം ശാന്തതയുടെയും കുടുംബ ശാന്തതയുടെയും ഒരു മരുപ്പച്ച വാഗ്ദാനം ചെയ്തു.",
+    "usageExample": "Peaceful calm.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hallowed",
+    "wordMeaning": "വിശുദ്ധീകരിച്ചു",
+    "englishText": "We stepped into the hallowed halls of our great-grandfather's historic library.",
+    "malayalamMeaning": "ഞങ്ങളുടെ മുത്തച്ഛൻ്റെ ചരിത്ര ഗ്രന്ഥശാലയുടെ വിശുദ്ധമായ ഹാളുകളിലേക്ക് ഞങ്ങൾ കാലെടുത്തുവച്ചു.",
+    "usageExample": "Revered and holy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "venerable",
+    "wordMeaning": "ആദരണീയൻ",
+    "englishText": "The venerable grandmother gave her blessings to the newlyweds with tears of joy.",
+    "malayalamMeaning": "ആദരണീയയായ മുത്തശ്ശി സന്തോഷാശ്രുക്കളോടെ നവദമ്പതികൾക്ക് അനുഗ്രഹം നൽകി.",
+    "usageExample": "Worthy of deep respect.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "reverence",
+    "wordMeaning": "ബഹുമാനം",
+    "englishText": "The children listened with quiet reverence as their father recited ancient poems.",
+    "malayalamMeaning": "അച്ഛൻ പ്രാചീനകവിതകൾ ചൊല്ലുന്നത് കുട്ടികൾ ശാന്തമായ ഭക്തിയോടെ കേട്ടു.",
+    "usageExample": "Deep respectful awe.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "homage",
+    "wordMeaning": "ആദരാഞ്ജലികൾ",
+    "englishText": "Every year, the family pays solemn homage to their ancestors on memorial day.",
+    "malayalamMeaning": "എല്ലാ വർഷവും, സ്മാരക ദിനത്തിൽ കുടുംബം അവരുടെ പൂർവ്വികർക്ക് ആദരാഞ്ജലികൾ അർപ്പിക്കുന്നു.",
+    "usageExample": "Formal tribute.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "tribute",
+    "wordMeaning": "ആദരാഞ്ജലി",
+    "englishText": "The documentary was a moving tribute to the sacrifices made by ordinary mothers.",
+    "malayalamMeaning": "ഡോക്യുമെൻ്ററി സാധാരണ അമ്മമാരുടെ ത്യാഗങ്ങൾക്കുള്ള ഹൃദയസ്പർശിയായിരുന്നു.",
+    "usageExample": "Expression of gratitude.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "devout",
+    "wordMeaning": "ഭക്തൻ",
+    "englishText": "The devout family began every single day with morning prayers and meditation.",
+    "malayalamMeaning": "ഭക്തരായ കുടുംബം എല്ലാ ദിവസവും രാവിലെ പ്രാർത്ഥനയോടും ധ്യാനത്തോടും കൂടി ആരംഭിച്ചു.",
+    "usageExample": "Deeply religious/devoted.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sanctuary",
+    "wordMeaning": "സങ്കേതം",
+    "englishText": "To a weary soul, a loving family home serves as an impenetrable sanctuary.",
+    "malayalamMeaning": "ക്ഷീണിതനായ ഒരു ആത്മാവിന്, സ്നേഹനിർഭരമായ ഒരു കുടുംബഭവനം അഭേദ്യമായ ഒരു സങ്കേതമായി വർത്തിക്കുന്നു.",
+    "usageExample": "Safe refuge.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bastion",
+    "wordMeaning": "കൊത്തളം",
+    "englishText": "The family remained an unshakeable bastion of moral rectitude and compassion.",
+    "malayalamMeaning": "ധാർമ്മിക കൃത്യതയുടെയും അനുകമ്പയുടെയും അചഞ്ചലമായ കോട്ടയായി കുടുംബം തുടർന്നു.",
+    "usageExample": "Stronghold of values.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unflinching",
+    "wordMeaning": "അനിയന്ത്രിതമായ",
+    "englishText": "Her unflinching loyalty to her brother was admired throughout the community.",
+    "malayalamMeaning": "അവളുടെ സഹോദരനോടുള്ള അവളുടെ അചഞ്ചലമായ വിശ്വസ്തത സമൂഹത്തിലുടനീളം പ്രശംസിക്കപ്പെട്ടു.",
+    "usageExample": "Unwavering commitment.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "indomitable",
+    "wordMeaning": "അദമ്യമായ",
+    "englishText": "Mother possessed an indomitable spirit that no amount of adversity could crush.",
+    "malayalamMeaning": "എത്ര ആപത്തുകൾ വന്നാലും തകർത്തുകളയാൻ കഴിയാത്ത ഒരു അജയ്യമായ ആത്മാവിൻ്റെ ഉടമയായിരുന്നു അമ്മ.",
+    "usageExample": "Unconquerable courage.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "munificent",
+    "wordMeaning": "സമൃദ്ധമായ",
+    "englishText": "The family made a munificent donation to construct the pediatric hospital wing.",
+    "malayalamMeaning": "പീഡിയാട്രിക് ഹോസ്പിറ്റൽ വിംഗ് നിർമ്മിക്കുന്നതിന് കുടുംബം ഒരു വലിയ സംഭാവന നൽകി.",
+    "usageExample": "Extremely generous.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "self-abnegation",
+    "wordMeaning": "സ്വയം നിരാകരിക്കൽ",
+    "englishText": "Maternal devotion often involves acts of silent, heroic self-abnegation.",
+    "malayalamMeaning": "മാതൃഭക്തിയിൽ പലപ്പോഴും നിശ്ശബ്ദമായ, വീരോചിതമായ ആത്മനിന്ദയുടെ പ്രവൃത്തികൾ ഉൾപ്പെടുന്നു.",
+    "usageExample": "Selfless sacrifice.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "paragon",
+    "wordMeaning": "പാരാഗൺ",
+    "englishText": "My grandmother was universally celebrated as a paragon of grace and humility.",
+    "malayalamMeaning": "കൃപയുടെയും വിനയത്തിൻ്റെയും മാതൃകയായി എൻ്റെ മുത്തശ്ശി സാർവത്രികമായി ആഘോഷിക്കപ്പെട്ടു.",
+    "usageExample": "Model of excellence.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "godmother",
+    "wordMeaning": "ദേവമാതാവ്",
+    "englishText": "Her godmother presented her with an engraved silver locket for her baptism.",
+    "malayalamMeaning": "അവളുടെ ദൈവമാതാവ് അവളുടെ സ്നാനത്തിനായി ഒരു കൊത്തുപണികളുള്ള വെള്ളി ലോക്കറ്റ് സമ്മാനിച്ചു.",
+    "usageExample": "Spiritual mother.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "godfather",
+    "wordMeaning": "ഗോഡ്ഫാദർ",
+    "englishText": "His godfather sponsored his primary school education and musical training.",
+    "malayalamMeaning": "പ്രൈമറി സ്കൂൾ വിദ്യാഭ്യാസവും സംഗീത പരിശീലനവും അദ്ദേഹത്തിൻ്റെ ഗോഡ്ഫാദർ സ്പോൺസർ ചെയ്തു.",
+    "usageExample": "Spiritual father.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kinsman",
+    "wordMeaning": "ബന്ധു",
+    "englishText": "All the village kinsmen gathered at the ancestral courtyard for the annual festival.",
+    "malayalamMeaning": "ഗ്രാമത്തിലെ എല്ലാ ബന്ധുക്കളും വാർഷിക ഉത്സവത്തിന് തറവാട്ടുമുറ്റത്ത് ഒത്തുകൂടി.",
+    "usageExample": "Relative.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kinswoman",
+    "wordMeaning": "ബന്ധു സ്ത്രീ",
+    "englishText": "The wise kinswoman settled the property dispute between the cousins amicably.",
+    "malayalamMeaning": "ബന്ധുക്കൾ തമ്മിലുള്ള സ്വത്ത് തർക്കം ജ്ഞാനിയായ ബന്ധുക്കൾ രമ്യമായി പരിഹരിച്ചു.",
+    "usageExample": "Female relative.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stepdaughter",
+    "wordMeaning": "രണ്ടാനമ്മ",
+    "englishText": "She treated her stepdaughter with the exact same tender love as her own children.",
+    "malayalamMeaning": "സ്വന്തം മക്കളെപ്പോലെ ആർദ്രമായ സ്നേഹത്തോടെയാണ് അവൾ തൻ്റെ രണ്ടാനമ്മയോടും പെരുമാറിയത്.",
+    "usageExample": "Spouse's daughter.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stepson",
+    "wordMeaning": "രണ്ടാനച്ഛൻ",
+    "englishText": "His stepson designed the layout for the family's new organic farm retreat.",
+    "malayalamMeaning": "കുടുംബത്തിൻ്റെ പുതിയ ഓർഗാനിക് ഫാം റിട്രീറ്റിനായുള്ള ലേഔട്ട് അദ്ദേഹത്തിൻ്റെ രണ്ടാനച്ഛൻ രൂപകൽപ്പന ചെയ്‌തു.",
+    "usageExample": "Spouse's son.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "great-uncle",
+    "wordMeaning": "അമ്മാവൻ",
+    "englishText": "Our great-uncle served as a decorated captain in the merchant navy for thirty years.",
+    "malayalamMeaning": "ഞങ്ങളുടെ അമ്മാവൻ മുപ്പത് വർഷത്തോളം മർച്ചൻ്റ് നേവിയിൽ അലങ്കരിച്ച ക്യാപ്റ്റനായി സേവനമനുഷ്ഠിച്ചു.",
+    "usageExample": "Grandparent brother.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "great-aunt",
+    "wordMeaning": "വലിയ അമ്മായി",
+    "englishText": "Great-aunt Mary made the most delicious plum cake every Christmas season.",
+    "malayalamMeaning": "മുത്തശ്ശി മേരി എല്ലാ ക്രിസ്മസ് സീസണിലും ഏറ്റവും രുചികരമായ പ്ലം കേക്ക് ഉണ്ടാക്കി.",
+    "usageExample": "Grandparent sister.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "kinfolk",
+    "wordMeaning": "ബന്ധുക്കൾ",
+    "englishText": "The harvest festival was an occasion for kinfolk from across the state to reunite.",
+    "malayalamMeaning": "സംസ്ഥാനത്തുടനീളമുള്ള ബന്ധുക്കൾ ഒത്തുചേരാനുള്ള അവസരമായിരുന്നു കൊയ്ത്തുത്സവം.",
+    "usageExample": "Family relations.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "foster parent",
+    "wordMeaning": "വളർത്തു രക്ഷിതാവ്",
+    "englishText": "The compassionate foster parents provided a safe, loving home for the orphaned twins.",
+    "malayalamMeaning": "അനുകമ്പയുള്ള വളർത്തു മാതാപിതാക്കൾ അനാഥരായ ഇരട്ടക്കുട്ടികൾക്ക് സുരക്ഷിതവും സ്നേഹനിർഭരവുമായ ഒരു ഭവനം നൽകി.",
+    "usageExample": "Care parent.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "matriarch",
+    "wordMeaning": "മാതൃപിതാവ്",
+    "englishText": "The venerable family matriarch lived to celebrate her one-hundredth birthday in good health.",
+    "malayalamMeaning": "തൻ്റെ നൂറാം ജന്മദിനം നല്ല ആരോഗ്യത്തോടെ ആഘോഷിക്കാൻ ബഹുമാനപ്പെട്ട കുടുംബ മാത്രിയാർക്കീസ് ​​ജീവിച്ചു.",
+    "usageExample": "Female leader.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "patriarch",
+    "wordMeaning": "ഗോത്രപിതാവ്",
+    "englishText": "The respected patriarch guided four generations with wisdom, patience, and love.",
+    "malayalamMeaning": "ആദരണീയനായ ഗോത്രപിതാവ് ജ്ഞാനം, ക്ഷമ, സ്നേഹം എന്നിവയാൽ നാല് തലമുറകളെ നയിച്ചു.",
+    "usageExample": "Male leader.",
+    "difficulty": "ADVANCED"
+  }
+]

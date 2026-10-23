@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "feel",
+    "wordMeaning": "തോന്നുന്നു",
+    "englishText": "I feel remarkably refreshed after a long walk along the sea coast.",
+    "malayalamMeaning": "കടൽത്തീരത്തുകൂടെ ഒരു നീണ്ട നടത്തത്തിന് ശേഷം എനിക്ക് അതിശയകരമായ ഉന്മേഷം തോന്നുന്നു.",
+    "usageExample": "Experience sensation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "feeling",
+    "wordMeaning": "തോന്നൽ",
+    "englishText": "There is a wonderful feeling of calm in this quiet village garden.",
+    "malayalamMeaning": "ശാന്തമായ ഈ ഗ്രാമോദ്യാനത്തിൽ ഒരു അത്ഭുതകരമായ ശാന്തതയുണ്ട്.",
+    "usageExample": "Emotional state.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "emotion",
+    "wordMeaning": "വികാരം",
+    "englishText": "Music has the profound power to evoke deep human emotion.",
+    "malayalamMeaning": "ആഴത്തിലുള്ള മനുഷ്യവികാരങ്ങളെ ഉണർത്താനുള്ള അഗാധമായ ശക്തി സംഗീതത്തിനുണ്ട്.",
+    "usageExample": "Affective state.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "happy",
+    "wordMeaning": "സന്തോഷം",
+    "englishText": "Seeing her little daughter laugh made the mother intensely happy.",
+    "malayalamMeaning": "കൊച്ചു മകൾ ചിരിക്കുന്നത് കണ്ടപ്പോൾ അമ്മയ്ക്ക് വല്ലാത്ത സന്തോഷം തോന്നി.",
+    "usageExample": "Joyful.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "glad",
+    "wordMeaning": "സന്തോഷം",
+    "englishText": "I am so glad you arrived home safely before the monsoon storm hit.",
+    "malayalamMeaning": "മൺസൂൺ കൊടുങ്കാറ്റ് ആഞ്ഞടിക്കും മുമ്പ് നിങ്ങൾ സുരക്ഷിതമായി വീട്ടിലെത്തിയതിൽ എനിക്ക് അതിയായ സന്തോഷമുണ്ട്.",
+    "usageExample": "Pleased.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "joy",
+    "wordMeaning": "സന്തോഷം",
+    "englishText": "The festival filled every home in the village with boundless joy.",
+    "malayalamMeaning": "ഉത്സവം ഗ്രാമത്തിലെ എല്ലാ വീടുകളിലും അതിരുകളില്ലാത്ത സന്തോഷം നിറച്ചു.",
+    "usageExample": "Delight.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "smile",
+    "wordMeaning": "പുഞ്ചിരി",
+    "englishText": "A warm, genuine smile can instantly dissolve tension between strangers.",
+    "malayalamMeaning": "ഊഷ്മളവും യഥാർത്ഥവുമായ പുഞ്ചിരിക്ക് അപരിചിതർ തമ്മിലുള്ള പിരിമുറുക്കം തൽക്ഷണം ഇല്ലാതാക്കാൻ കഴിയും.",
+    "usageExample": "Facial expression.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "laugh",
+    "wordMeaning": "ചിരിക്കുക",
+    "englishText": "We shared a hearty laugh over funny memories from our school days.",
+    "malayalamMeaning": "ഞങ്ങളുടെ സ്കൂൾ കാലത്തെ രസകരമായ ഓർമ്മകളിൽ ഞങ്ങൾ ഹൃദ്യമായ ചിരി പങ്കിട്ടു.",
+    "usageExample": "Chuckle.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cheer",
+    "wordMeaning": "സന്തോഷിപ്പിക്കുക",
+    "englishText": "Friends gathered at the finish line to cheer for the marathon runner.",
+    "malayalamMeaning": "മാരത്തൺ ഓട്ടക്കാരനെ പ്രോത്സാഹിപ്പിക്കാൻ സുഹൃത്തുക്കൾ ഫിനിഷിംഗ് ലൈനിൽ ഒത്തുകൂടി.",
+    "usageExample": "Encourage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fun",
+    "wordMeaning": "രസകരം",
+    "englishText": "Swimming in the clear river with cousins was so much fun yesterday.",
+    "malayalamMeaning": "കസിൻസിനൊപ്പം തെളിഞ്ഞ നദിയിൽ നീന്തുന്നത് ഇന്നലെ വളരെ രസകരമായിരുന്നു.",
+    "usageExample": "Amusement.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "excited",
+    "wordMeaning": "ആവേശഭരിതനായി",
+    "englishText": "The students were excited about their upcoming field trip to the space center.",
+    "malayalamMeaning": "ബഹിരാകാശ കേന്ദ്രത്തിലേക്കുള്ള തങ്ങളുടെ വരാനിരിക്കുന്ന ഫീൽഡ് യാത്രയെക്കുറിച്ച് വിദ്യാർത്ഥികൾ ആവേശഭരിതരായി.",
+    "usageExample": "Thrilled.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "proud",
+    "wordMeaning": "അഭിമാനിക്കുന്നു",
+    "englishText": "Father was so proud when his son graduated with top academic honors.",
+    "malayalamMeaning": "മകൻ ഉന്നത അക്കാദമിക ബഹുമതികളോടെ ബിരുദം നേടിയപ്പോൾ പിതാവ് അഭിമാനിച്ചു.",
+    "usageExample": "Feeling pride.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "love",
+    "wordMeaning": "സ്നേഹം",
+    "englishText": "Mother's love is a boundless sanctuary that endures through every hardship.",
+    "malayalamMeaning": "എല്ലാ പ്രയാസങ്ങളും സഹിക്കുന്ന അതിരുകളില്ലാത്ത സങ്കേതമാണ് അമ്മയുടെ സ്നേഹം.",
+    "usageExample": "Deep affection.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "care",
+    "wordMeaning": "പരിചരണം",
+    "englishText": "Take gentle care of yourself during this stressful examination week.",
+    "malayalamMeaning": "ഈ സമ്മർദപൂരിതമായ പരീക്ഷാ ആഴ്‌ചയിൽ നിങ്ങളെത്തന്നെ സൗമ്യമായി പരിപാലിക്കുക.",
+    "usageExample": "Thoughtful concern.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kind",
+    "wordMeaning": "ദയയുള്ള",
+    "englishText": "It was remarkably kind of the stranger to help change our flat car tire.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഫ്ലാറ്റ് കാറിൻ്റെ ടയർ മാറ്റാൻ സഹായിക്കുന്ന അപരിചിതനായിരുന്നു അത്.",
+    "usageExample": "Gentle/good.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "gentle",
+    "wordMeaning": "സൗമ്യമായ",
+    "englishText": "He spoke to the frightened little puppy in a soothing, gentle tone.",
+    "malayalamMeaning": "അവൻ പേടിച്ചരണ്ട ചെറിയ നായ്ക്കുട്ടിയോട് ശാന്തവും സൗമ്യവുമായ സ്വരത്തിൽ സംസാരിച്ചു.",
+    "usageExample": "Soft/tender.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sweet",
+    "wordMeaning": "മധുരം",
+    "englishText": "She sent a sweet handwritten letter thanking her aunt for the hospitality.",
+    "malayalamMeaning": "അമ്മായിയുടെ ആതിഥ്യത്തിന് നന്ദി പറഞ്ഞുകൊണ്ട് അവൾ കൈകൊണ്ട് എഴുതിയ ഒരു കത്ത് അയച്ചു.",
+    "usageExample": "Charming/kind.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "warm",
+    "wordMeaning": "ചൂട്",
+    "englishText": "They gave us a warm welcome with hot cardamom tea and homemade snacks.",
+    "malayalamMeaning": "ചൂടുള്ള ഏലക്ക ചായയും വീട്ടിലുണ്ടാക്കിയ പലഹാരങ്ങളും നൽകി അവർ ഞങ്ങൾക്ക് ഊഷ്മളമായ സ്വീകരണം നൽകി.",
+    "usageExample": "Affectionate.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "calm",
+    "wordMeaning": "ശാന്തം",
+    "englishText": "Staying calm during emergency situations helps everyone make rational choices.",
+    "malayalamMeaning": "അടിയന്തിര സാഹചര്യങ്ങളിൽ ശാന്തത പാലിക്കുന്നത് യുക്തിസഹമായ തിരഞ്ഞെടുപ്പുകൾ നടത്താൻ എല്ലാവരെയും സഹായിക്കുന്നു.",
+    "usageExample": "Composed.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "quiet",
+    "wordMeaning": "നിശബ്ദം",
+    "englishText": "Sitting in a quiet temple courtyard brings deep peace to a troubled mind.",
+    "malayalamMeaning": "ശാന്തമായ ക്ഷേത്രമുറ്റത്ത് ഇരിക്കുന്നത് അസ്വസ്ഥമായ മനസ്സിന് അഗാധമായ സമാധാനം നൽകുന്നു.",
+    "usageExample": "Tranquil.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "peace",
+    "wordMeaning": "സമാധാനം",
+    "englishText": "Living in peace with your neighbors is essential for a happy life.",
+    "malayalamMeaning": "അയൽക്കാരുമായി സമാധാനത്തോടെ ജീവിക്കുക എന്നത് സന്തോഷകരമായ ജീവിതത്തിന് അത്യന്താപേക്ഷിതമാണ്.",
+    "usageExample": "Harmony.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "safe",
+    "wordMeaning": "സുരക്ഷിതം",
+    "englishText": "A child should always feel completely safe and loved in their home.",
+    "malayalamMeaning": "ഒരു കുട്ടിക്ക് അവരുടെ വീട്ടിൽ എപ്പോഴും പൂർണ്ണമായും സുരക്ഷിതത്വവും സ്നേഹവും അനുഭവപ്പെടണം.",
+    "usageExample": "Secure.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hope",
+    "wordMeaning": "പ്രത്യാശ",
+    "englishText": "Never lose hope, for even the darkest night eventually gives way to dawn.",
+    "malayalamMeaning": "ഒരിക്കലും പ്രതീക്ഷ കൈവിടരുത്, കാരണം ഇരുണ്ട രാത്രി പോലും ഒടുവിൽ പ്രഭാതത്തിലേക്ക് വഴിമാറുന്നു.",
+    "usageExample": "Optimistic faith.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wish",
+    "wordMeaning": "ആഗ്രഹിക്കുക",
+    "englishText": "I wish you good health, prosperity, and joy on your birthday.",
+    "malayalamMeaning": "നിങ്ങളുടെ ജന്മദിനത്തിൽ നിങ്ങൾക്ക് നല്ല ആരോഗ്യവും സമൃദ്ധിയും സന്തോഷവും നേരുന്നു.",
+    "usageExample": "Desire/well-wish.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "brave",
+    "wordMeaning": "ധീരൻ",
+    "englishText": "The brave firefighter rushed into the burning house to rescue the trapped kitten.",
+    "malayalamMeaning": "കുടുങ്ങിയ പൂച്ചക്കുട്ടിയെ രക്ഷിക്കാൻ ധീരരായ അഗ്നിശമനസേനാ ഉദ്യോഗസ്ഥൻ തീപിടിച്ച വീട്ടിലേക്ക് ഓടിക്കയറി.",
+    "usageExample": "Courageous.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "strong",
+    "wordMeaning": "ശക്തമായ",
+    "englishText": "She remained strong and supported her family after the tragic loss.",
+    "malayalamMeaning": "ദാരുണമായ നഷ്ടത്തിന് ശേഷം അവൾ ശക്തയായി തുടരുകയും കുടുംബത്തെ പിന്തുണയ്ക്കുകയും ചെയ്തു.",
+    "usageExample": "Resilient.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sad",
+    "wordMeaning": "ദുഃഖം",
+    "englishText": "It made him deeply sad to watch his childhood ancestral home get demolished.",
+    "malayalamMeaning": "തൻ്റെ കുട്ടിക്കാലത്തെ തറവാട്ടുവീട് തകരുന്നത് കാണുമ്പോൾ അത് അവനെ വല്ലാതെ സങ്കടപ്പെടുത്തി.",
+    "usageExample": "Unhappy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cry",
+    "wordMeaning": "കരയുക",
+    "englishText": "It is completely normal to cry when you lose someone dear to your heart.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഹൃദയത്തിന് പ്രിയപ്പെട്ട ഒരാളെ നഷ്ടപ്പെടുമ്പോൾ കരയുന്നത് തികച്ചും സാധാരണമാണ്.",
+    "usageExample": "Shed tears.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tears",
+    "wordMeaning": "കണ്ണുനീർ",
+    "englishText": "Tears of pure happiness streamed down her face as she hugged her son.",
+    "malayalamMeaning": "മകനെ കെട്ടിപ്പിടിച്ചപ്പോൾ അവളുടെ മുഖത്ത് ശുദ്ധമായ സന്തോഷത്തിൻ്റെ കണ്ണുനീർ ഒഴുകി.",
+    "usageExample": "Weeping drops.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sorrow",
+    "wordMeaning": "ദുഃഖം",
+    "englishText": "Time and loving family support gradually ease the sharp pain of sorrow.",
+    "malayalamMeaning": "സമയവും സ്നേഹനിർഭരമായ കുടുംബ പിന്തുണയും ദുഃഖത്തിൻ്റെ മൂർച്ചയുള്ള വേദനയെ ക്രമേണ ലഘൂകരിക്കുന്നു.",
+    "usageExample": "Deep grief.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pain",
+    "wordMeaning": "വേദന",
+    "englishText": "A kind word from a friend can soothe emotional pain and heartbreak.",
+    "malayalamMeaning": "ഒരു സുഹൃത്തിൽ നിന്നുള്ള ഒരു നല്ല വാക്ക് വൈകാരിക വേദനയും ഹൃദയാഘാതവും ശമിപ്പിക്കും.",
+    "usageExample": "Suffering.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hurt",
+    "wordMeaning": "വേദനിപ്പിച്ചു",
+    "englishText": "Harsh, thoughtless words can hurt someone far deeper than physical blows.",
+    "malayalamMeaning": "കഠിനമായ, ചിന്താശൂന്യമായ വാക്കുകൾക്ക് ശാരീരിക പ്രഹരങ്ങളേക്കാൾ ആഴത്തിൽ ഒരാളെ വേദനിപ്പിക്കാൻ കഴിയും.",
+    "usageExample": "Wound emotionally.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "weep",
+    "wordMeaning": "കരയുക",
+    "englishText": "The grieving villagers wept as they bade farewell to their revered teacher.",
+    "malayalamMeaning": "തങ്ങളുടെ ആദരണീയനായ അധ്യാപകനോട് വിടപറയുമ്പോൾ ദുഃഖിതരായ ഗ്രാമീണർ കരഞ്ഞു.",
+    "usageExample": "Cry bitterly.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "upset",
+    "wordMeaning": "അസ്വസ്ഥത",
+    "englishText": "Do not be upset over minor setbacks; focus on what you can control.",
+    "malayalamMeaning": "ചെറിയ തിരിച്ചടികളിൽ അസ്വസ്ഥരാകരുത്; നിങ്ങൾക്ക് നിയന്ത്രിക്കാൻ കഴിയുന്ന കാര്യങ്ങളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുക.",
+    "usageExample": "Disturbed.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "down",
+    "wordMeaning": "താഴേക്ക്",
+    "englishText": "Whenever I feel down, listening to classical acoustic music lifts my spirits.",
+    "malayalamMeaning": "എനിക്ക് വിഷമം തോന്നുമ്പോഴെല്ലാം, ക്ലാസിക്കൽ അക്കോസ്റ്റിക് സംഗീതം കേൾക്കുന്നത് എൻ്റെ ആത്മാവിനെ ഉയർത്തുന്നു.",
+    "usageExample": "Depressed mood.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lonely",
+    "wordMeaning": "ഏകാന്തമായ",
+    "englishText": "Moving to a foreign city where you know nobody can feel intensely lonely.",
+    "malayalamMeaning": "ആർക്കും തീവ്രമായ ഏകാന്തത അനുഭവപ്പെടില്ലെന്ന് നിങ്ങൾക്കറിയാവുന്ന ഒരു വിദേശ നഗരത്തിലേക്ക് നീങ്ങുന്നു.",
+    "usageExample": "Isolated.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "alone",
+    "wordMeaning": "ഒറ്റയ്ക്ക്",
+    "englishText": "Please remember that you are never alone; your friends are always here.",
+    "malayalamMeaning": "നിങ്ങൾ ഒരിക്കലും തനിച്ചല്ലെന്ന് ദയവായി ഓർക്കുക; നിങ്ങളുടെ സുഹൃത്തുക്കൾ എപ്പോഴും ഇവിടെയുണ്ട്.",
+    "usageExample": "Solitary.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "miss",
+    "wordMeaning": "മിസ്സ്",
+    "englishText": "I miss the sweet sound of rain falling on the clay roof tiles back home.",
+    "malayalamMeaning": "വീട്ടിലെ കളിമൺ മേൽക്കൂരയിലെ ഓടുകളിൽ പെയ്യുന്ന മഴയുടെ മധുരമായ ശബ്ദം എനിക്ക് നഷ്ടമായി.",
+    "usageExample": "Long for.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fear",
+    "wordMeaning": "ഭയം",
+    "englishText": "Knowledge and preparation help conquer the paralyzing fear of public speaking.",
+    "malayalamMeaning": "അറിവും തയ്യാറെടുപ്പും പൊതു സംസാരത്തെ തളർത്തുന്ന ഭയത്തെ കീഴടക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Dread.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "afraid",
+    "wordMeaning": "ഭയപ്പെട്ടു",
+    "englishText": "Do not be afraid to admit when you do not know the answer to a question.",
+    "malayalamMeaning": "ഒരു ചോദ്യത്തിനുള്ള ഉത്തരം നിങ്ങൾക്ക് അറിയില്ലെങ്കിൽ സമ്മതിക്കാൻ ഭയപ്പെടരുത്.",
+    "usageExample": "Frightened.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scared",
+    "wordMeaning": "പേടിച്ചു",
+    "englishText": "The loud thunderclaps made the little toddler scared during the night.",
+    "malayalamMeaning": "ഉച്ചത്തിലുള്ള ഇടിമുഴക്കം രാത്രിയിൽ കൊച്ചുകുട്ടിയെ ഭയപ്പെടുത്തി.",
+    "usageExample": "Frightened.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "worry",
+    "wordMeaning": "വിഷമിക്കുക",
+    "englishText": "Try not to worry excessively about the future; live fully in the present.",
+    "malayalamMeaning": "ഭാവിയെക്കുറിച്ച് അമിതമായി വിഷമിക്കാതിരിക്കാൻ ശ്രമിക്കുക; വർത്തമാനകാലത്ത് പൂർണ്ണമായും ജീവിക്കുക.",
+    "usageExample": "Anxiety.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "panic",
+    "wordMeaning": "പരിഭ്രാന്തി",
+    "englishText": "Taking deep, slow breaths helps prevent a sudden wave of panic from escalating.",
+    "malayalamMeaning": "ആഴത്തിലുള്ളതും സാവധാനത്തിലുള്ളതുമായ ശ്വാസം എടുക്കുന്നത് പെട്ടെന്നുള്ള പരിഭ്രാന്തി പരത്തുന്നത് തടയാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Sudden terror.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shock",
+    "wordMeaning": "ഞെട്ടൽ",
+    "englishText": "The unexpected news of his sudden resignation came as a massive shock.",
+    "malayalamMeaning": "അദ്ദേഹത്തിൻ്റെ പെട്ടെന്നുള്ള രാജിയെക്കുറിച്ചുള്ള അപ്രതീക്ഷിത വാർത്ത വലിയ ഞെട്ടലുണ്ടാക്കി.",
+    "usageExample": "Startled disbelief.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "surprise",
+    "wordMeaning": "ആശ്ചര്യം",
+    "englishText": "We planned a surprise rooftop birthday dinner for our sister.",
+    "malayalamMeaning": "ഞങ്ങളുടെ സഹോദരിക്ക് വേണ്ടി ഞങ്ങൾ ഒരു സർപ്രൈസ് റൂഫ്‌ടോപ്പ് ജന്മദിന അത്താഴം പ്ലാൻ ചെയ്തു.",
+    "usageExample": "Astonishment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "anger",
+    "wordMeaning": "കോപം",
+    "englishText": "Count to ten slowly before speaking to control a sudden surge of anger.",
+    "malayalamMeaning": "പെട്ടെന്നുള്ള കോപം നിയന്ത്രിക്കാൻ സംസാരിക്കുന്നതിന് മുമ്പ് പതുക്കെ പത്ത് വരെ എണ്ണുക.",
+    "usageExample": "Rage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "angry",
+    "wordMeaning": "ദേഷ്യം",
+    "englishText": "He was angry about the delayed train, but he spoke politely to the staff.",
+    "malayalamMeaning": "ട്രെയിന് വൈകിയതില് ദേഷ്യം വന്നെങ്കിലും ജീവനക്കാരോട് മാന്യമായി സംസാരിച്ചു.",
+    "usageExample": "Enraged.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mad",
+    "wordMeaning": "ഭ്രാന്തൻ",
+    "englishText": "Do not stay mad at your brother over a silly disagreement about video games.",
+    "malayalamMeaning": "വീഡിയോ ഗെയിമുകളെക്കുറിച്ചുള്ള വിഡ്ഢിത്തമായ അഭിപ്രായവ്യത്യാസത്തിൻ്റെ പേരിൽ നിങ്ങളുടെ സഹോദരനോട് ദേഷ്യപ്പെടരുത്.",
+    "usageExample": "Furious.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cross",
+    "wordMeaning": "കുരിശ്",
+    "englishText": "Grandmother looked cross when the children tracked wet garden mud inside.",
+    "malayalamMeaning": "കുട്ടികൾ ഉള്ളിലെ നനഞ്ഞ പൂന്തോട്ടത്തിലെ ചെളി ട്രാക്ക് ചെയ്തപ്പോൾ മുത്തശ്ശി കുറുകെ നോക്കി.",
+    "usageExample": "Irritated.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "annoyed",
+    "wordMeaning": "അലോസരപ്പെടുത്തി",
+    "englishText": "She felt annoyed by the loud motorcycle revving down the quiet street.",
+    "malayalamMeaning": "ശാന്തമായ തെരുവിലൂടെ ഉറക്കെയുള്ള മോട്ടോർ സൈക്കിൾ വീശുന്നത് അവൾക്ക് അരോചകമായി തോന്നി.",
+    "usageExample": "Vexed.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "irritated",
+    "wordMeaning": "പ്രകോപിതനായി",
+    "englishText": "Wearing itchy woolen clothing in hot weather made the toddler irritated.",
+    "malayalamMeaning": "ചൂടുള്ള കാലാവസ്ഥയിൽ ചൊറിച്ചിൽ കമ്പിളി വസ്ത്രം ധരിക്കുന്നത് കുഞ്ഞിനെ പ്രകോപിപ്പിച്ചു.",
+    "usageExample": "Bothered.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hate",
+    "wordMeaning": "വെറുക്കുന്നു",
+    "englishText": "Never allow hatred to poison your heart; choose forgiveness instead.",
+    "malayalamMeaning": "വിദ്വേഷം നിങ്ങളുടെ ഹൃദയത്തെ വിഷലിപ്തമാക്കാൻ ഒരിക്കലും അനുവദിക്കരുത്; പകരം ക്ഷമ തിരഞ്ഞെടുക്കുക.",
+    "usageExample": "Intense dislike.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "jealous",
+    "wordMeaning": "അസൂയയുള്ള",
+    "englishText": "He felt a pang of jealous longing when his colleague bought a new sports car.",
+    "malayalamMeaning": "തൻ്റെ സഹപ്രവർത്തകൻ ഒരു പുതിയ സ്‌പോർട്‌സ് കാർ വാങ്ങിയപ്പോൾ അയാൾക്ക് അസൂയ നിറഞ്ഞ ആഗ്രഹം തോന്നി.",
+    "usageExample": "Envious.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "envy",
+    "wordMeaning": "അസൂയ",
+    "englishText": "Envy robs you of your own contentment and blinds you to your blessings.",
+    "malayalamMeaning": "അസൂയ നിങ്ങളുടെ സ്വന്തം സംതൃപ്തിയെ കവർന്നെടുക്കുകയും നിങ്ങളുടെ അനുഗ്രഹങ്ങളിൽ നിന്ന് നിങ്ങളെ അന്ധരാക്കുകയും ചെയ്യുന്നു.",
+    "usageExample": "Covetousness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shame",
+    "wordMeaning": "നാണക്കേട്",
+    "englishText": "He hung his head in shame after getting caught cheating on the unit test.",
+    "malayalamMeaning": "യൂണിറ്റ് ടെസ്റ്റിൽ കോപ്പിയടിച്ച് പിടിക്കപ്പെട്ടപ്പോൾ നാണിച്ച് തല താഴ്ത്തി.",
+    "usageExample": "Disgrace.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shy",
+    "wordMeaning": "ലജ്ജാശീലം",
+    "englishText": "The little girl was shy at first, hiding behind her mother's saree pleats.",
+    "malayalamMeaning": "അമ്മയുടെ സാരി പ്ലീറ്റുകൾക്ക് പിന്നിൽ മറഞ്ഞിരുന്ന ചെറിയ പെൺകുട്ടി ആദ്യം ലജ്ജിച്ചു.",
+    "usageExample": "Timid.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "blush",
+    "wordMeaning": "നാണം",
+    "englishText": "A delicate pink blush spread across her cheeks as the crowd applauded her.",
+    "malayalamMeaning": "ജനക്കൂട്ടം അവളെ അഭിനന്ദിച്ചപ്പോൾ അവളുടെ കവിളുകളിൽ അതിലോലമായ പിങ്ക് ബ്ലഷ് പടർന്നു.",
+    "usageExample": "Reddening face.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "guilt",
+    "wordMeaning": "കുറ്റബോധം",
+    "englishText": "Admitting your mistake honestly and apologizing is the best cure for guilt.",
+    "malayalamMeaning": "നിങ്ങളുടെ തെറ്റ് സത്യസന്ധമായി സമ്മതിക്കുകയും ക്ഷമ ചോദിക്കുകയും ചെയ്യുന്നത് കുറ്റബോധത്തിനുള്ള ഏറ്റവും നല്ല പ്രതിവിധിയാണ്.",
+    "usageExample": "Self-reproach.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sorry",
+    "wordMeaning": "ക്ഷമിക്കണം",
+    "englishText": "I am truly sorry for arriving late and keeping you waiting in the heat.",
+    "malayalamMeaning": "വൈകിയെത്തുന്നതിനും ചൂടിൽ നിങ്ങളെ കാത്തിരിക്കുന്നതിനും ഞാൻ ഖേദിക്കുന്നു.",
+    "usageExample": "Apologetic.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tired",
+    "wordMeaning": "തളർന്നു",
+    "englishText": "After working twelve hours in the fields, the farmer felt thoroughly tired.",
+    "malayalamMeaning": "പന്ത്രണ്ട് മണിക്കൂർ പാടത്ത് പണിയെടുത്തപ്പോൾ കർഷകന് നല്ല ക്ഷീണം തോന്നി.",
+    "usageExample": "Fatigued.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sleepy",
+    "wordMeaning": "ഉറക്കം",
+    "englishText": "A warm glass of milk makes the baby sleepy and ready for bed.",
+    "malayalamMeaning": "ഒരു ചൂടുള്ള ഗ്ലാസ് പാൽ കുഞ്ഞിന് ഉറക്കം വരുത്തുകയും ഉറങ്ങാൻ തയ്യാറാകുകയും ചെയ്യുന്നു.",
+    "usageExample": "Drowsy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "weak",
+    "wordMeaning": "ദുർബലമായ",
+    "englishText": "He felt physically weak after battling high viral fever for three days.",
+    "malayalamMeaning": "മൂന്ന് ദിവസത്തോളം കടുത്ത വൈറൽ പനിയുമായി മല്ലിട്ടതോടെ അദ്ദേഹത്തിന് ശാരീരികമായി തളർച്ച അനുഭവപ്പെട്ടു.",
+    "usageExample": "Lacking strength.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sick",
+    "wordMeaning": "രോഗിയായ",
+    "englishText": "Stay warm and drink hot herbal broth when you feel sick with a cold.",
+    "malayalamMeaning": "നിങ്ങൾക്ക് ജലദോഷം അനുഭവപ്പെടുമ്പോൾ ചൂടുള്ള ഹെർബൽ ചാറു കുടിക്കുക.",
+    "usageExample": "Unwell.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bored",
+    "wordMeaning": "വിരസത",
+    "englishText": "Children get bored easily when trapped indoors on rainy afternoons.",
+    "malayalamMeaning": "മഴയുള്ള വൈകുന്നേരങ്ങളിൽ വീടിനുള്ളിൽ കുടുങ്ങിക്കിടക്കുമ്പോൾ കുട്ടികൾക്ക് എളുപ്പത്തിൽ ബോറടിക്കുന്നു.",
+    "usageExample": "Unstimulated.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lazy",
+    "wordMeaning": "മടിയൻ",
+    "englishText": "A cool Sunday morning makes you want to stay in bed and be delightfully lazy.",
+    "malayalamMeaning": "ഒരു തണുത്ത ഞായറാഴ്ച പ്രഭാതം നിങ്ങളെ കിടക്കയിൽ ഇരിക്കാനും സന്തോഷകരമായ മടിയനായിരിക്കാനും ആഗ്രഹിക്കുന്നു.",
+    "usageExample": "Sluggish.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rest",
+    "wordMeaning": "വിശ്രമം",
+    "englishText": "Take a short twenty-minute rest after lunch to recharge your mental energy.",
+    "malayalamMeaning": "നിങ്ങളുടെ മാനസിക ഊർജ്ജം വീണ്ടെടുക്കാൻ ഉച്ചഭക്ഷണത്തിന് ശേഷം ഇരുപത് മിനിറ്റ് വിശ്രമിക്കുക.",
+    "usageExample": "Repose.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "relax",
+    "wordMeaning": "വിശ്രമിക്കുക",
+    "englishText": "Listening to the sound of ocean waves is the best way to relax.",
+    "malayalamMeaning": "സമുദ്രത്തിലെ തിരമാലകളുടെ ശബ്ദം കേൾക്കുന്നതാണ് വിശ്രമിക്കാനുള്ള ഏറ്റവും നല്ല മാർഗം.",
+    "usageExample": "Unwind.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wonder",
+    "wordMeaning": "അത്ഭുതം",
+    "englishText": "Children gaze up at the twinkling night sky in innocent wonder.",
+    "malayalamMeaning": "കുട്ടികൾ നിഷ്കളങ്കമായ അത്ഭുതത്തോടെ മിന്നിത്തിളങ്ങുന്ന രാത്രി ആകാശത്തേക്ക് നോക്കുന്നു.",
+    "usageExample": "Awe/curiosity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "curious",
+    "wordMeaning": "ജിജ്ഞാസയുള്ള",
+    "englishText": "A curious mind is the greatest asset any young student can possess.",
+    "malayalamMeaning": "ജിജ്ഞാസയുള്ള മനസ്സാണ് ഏതൊരു യുവ വിദ്യാർത്ഥിക്കും കൈവശം വയ്ക്കാവുന്ന ഏറ്റവും വലിയ സമ്പത്ത്.",
+    "usageExample": "Inquisitive.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "interest",
+    "wordMeaning": "പലിശ",
+    "englishText": "She showed a keen interest in learning classical Indian vocal music.",
+    "malayalamMeaning": "ക്ലാസിക്കൽ ഇന്ത്യൻ വോക്കൽ മ്യൂസിക് പഠിക്കാൻ അവൾ അതീവ താല്പര്യം കാണിച്ചു.",
+    "usageExample": "Attentive focus.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "eager",
+    "wordMeaning": "ആകാംക്ഷയോടെ",
+    "englishText": "The young graduates were eager to begin their first professional assignments.",
+    "malayalamMeaning": "യുവ ബിരുദധാരികൾ അവരുടെ ആദ്യത്തെ പ്രൊഫഷണൽ അസൈൻമെൻ്റുകൾ ആരംഭിക്കാൻ ഉത്സുകരായിരുന്നു.",
+    "usageExample": "Keenly enthusiastic.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ready",
+    "wordMeaning": "തയ്യാറാണ്",
+    "englishText": "Take a deep breath and tell yourself that you are fully ready for the exam.",
+    "malayalamMeaning": "ഒരു ദീർഘനിശ്വാസം എടുത്ത് നിങ്ങൾ പരീക്ഷയ്ക്ക് പൂർണ്ണമായും തയ്യാറാണെന്ന് സ്വയം പറയുക.",
+    "usageExample": "Prepared.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sure",
+    "wordMeaning": "ഉറപ്പാണ്",
+    "englishText": "I am completely sure that things will turn out well for you in the end.",
+    "malayalamMeaning": "ആത്യന്തികമായി കാര്യങ്ങൾ നിങ്ങൾക്ക് അനുകൂലമായി മാറുമെന്ന് എനിക്ക് പൂർണ്ണമായും ഉറപ്പുണ്ട്.",
+    "usageExample": "Certain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "doubtful",
+    "wordMeaning": "സംശയാസ്പദമായ",
+    "englishText": "He was doubtful about the weather forecast, so he packed an umbrella.",
+    "malayalamMeaning": "കാലാവസ്ഥാ പ്രവചനത്തെക്കുറിച്ച് അയാൾക്ക് സംശയം തോന്നിയതിനാൽ അയാൾ ഒരു കുട പായ്ക്ക് ചെയ്തു.",
+    "usageExample": "Uncertain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trust",
+    "wordMeaning": "വിശ്വസിക്കുക",
+    "englishText": "It takes years to build mutual trust, but only seconds to destroy it.",
+    "malayalamMeaning": "പരസ്പര വിശ്വാസം വളർത്തിയെടുക്കാൻ വർഷങ്ങളെടുക്കും, പക്ഷേ അത് നശിപ്പിക്കാൻ നിമിഷങ്ങൾ മാത്രം.",
+    "usageExample": "Reliance.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "faith",
+    "wordMeaning": "വിശ്വാസം",
+    "englishText": "Her unwavering spiritual faith sustained her through life's deepest trials.",
+    "malayalamMeaning": "അവളുടെ അചഞ്ചലമായ ആത്മീയ വിശ്വാസം ജീവിതത്തിലെ ആഴമേറിയ പരീക്ഷണങ്ങളിലൂടെ അവളെ താങ്ങിനിർത്തി.",
+    "usageExample": "Belief.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "doubt",
+    "wordMeaning": "സംശയം",
+    "englishText": "Do not let self-doubt hold you back from pursuing your artistic dreams.",
+    "malayalamMeaning": "നിങ്ങളുടെ കലാപരമായ സ്വപ്നങ്ങൾ പിന്തുടരുന്നതിൽ നിന്ന് സ്വയം സംശയം നിങ്ങളെ തടയാൻ അനുവദിക്കരുത്.",
+    "usageExample": "Skepticism.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "believe",
+    "wordMeaning": "വിശ്വസിക്കുന്നു",
+    "englishText": "Always believe in your inner strength and capacity to overcome hardships.",
+    "malayalamMeaning": "നിങ്ങളുടെ ആന്തരിക ശക്തിയിലും പ്രയാസങ്ങളെ തരണം ചെയ്യാനുള്ള കഴിവിലും എപ്പോഴും വിശ്വസിക്കുക.",
+    "usageExample": "Hold true.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dream",
+    "wordMeaning": "സ്വപ്നം",
+    "englishText": "Her childhood dream was to build a free medical clinic in her home village.",
+    "malayalamMeaning": "സ്വന്തം ഗ്രാമത്തിൽ സൗജന്യ മെഡിക്കൽ ക്ലിനിക് നിർമ്മിക്കുക എന്നതായിരുന്നു അവളുടെ ബാല്യകാല സ്വപ്നം.",
+    "usageExample": "Aspiration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mood",
+    "wordMeaning": "മാനസികാവസ്ഥ",
+    "englishText": "A bright, sunny morning puts everyone in an energetic, cheerful mood.",
+    "malayalamMeaning": "ശോഭയുള്ള, സണ്ണി പ്രഭാതം എല്ലാവരേയും ഊർജ്ജസ്വലവും സന്തോഷപ്രദവുമായ മാനസികാവസ്ഥയിലാക്കുന്നു.",
+    "usageExample": "Emotional state.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bad",
+    "wordMeaning": "മോശം",
+    "englishText": "She had a bad day at work, so her family cooked her favorite comforting meal.",
+    "malayalamMeaning": "അവൾക്ക് ജോലിസ്ഥലത്ത് മോശം ദിവസമായിരുന്നു, അതിനാൽ അവളുടെ കുടുംബം അവളുടെ പ്രിയപ്പെട്ട ആശ്വാസകരമായ ഭക്ഷണം പാകം ചെയ്തു.",
+    "usageExample": "Unfavorable.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "good",
+    "wordMeaning": "നല്ലത്",
+    "englishText": "A good laugh with childhood friends is the best medicine for a heavy heart.",
+    "malayalamMeaning": "ബാല്യകാല സുഹൃത്തുക്കളോടൊപ്പമുള്ള ഒരു നല്ല ചിരിയാണ് ഹൃദയഭാരത്തിനുള്ള ഏറ്റവും നല്ല മരുന്ന്.",
+    "usageExample": "Pleasant.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "great",
+    "wordMeaning": "വലിയ",
+    "englishText": "It gives me great joy to see my former students achieving immense success.",
+    "malayalamMeaning": "എൻ്റെ പൂർവവിദ്യാർത്ഥികൾ അപാരമായ വിജയം കൈവരിക്കുന്നത് കാണുന്നതിൽ എനിക്ക് വലിയ സന്തോഷമുണ്ട്.",
+    "usageExample": "Elevated.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "super",
+    "wordMeaning": "സൂപ്പർ",
+    "englishText": "We felt super energized after our morning yoga session on the beach.",
+    "malayalamMeaning": "കടൽത്തീരത്ത് പ്രഭാത യോഗ സെഷനുശേഷം ഞങ്ങൾക്ക് ഊർജ്ജസ്വലത അനുഭവപ്പെട്ടു.",
+    "usageExample": "High quality.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fine",
+    "wordMeaning": "നന്നായി",
+    "englishText": "Despite the minor accident, everyone in the car was completely fine.",
+    "malayalamMeaning": "ചെറിയ അപകടമുണ്ടായെങ്കിലും കാറിലുണ്ടായിരുന്ന എല്ലാവരും സുഖമായിരിക്കുന്നു.",
+    "usageExample": "Satisfactory.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "well",
+    "wordMeaning": "നന്നായി",
+    "englishText": "She is recovering very well after her routine knee replacement surgery.",
+    "malayalamMeaning": "അവളുടെ പതിവ് കാൽമുട്ട് മാറ്റിവയ്ക്കൽ ശസ്ത്രക്രിയയ്ക്ക് ശേഷം അവൾ സുഖം പ്രാപിക്കുന്നു.",
+    "usageExample": "Healthy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "heavy",
+    "wordMeaning": "കനത്ത",
+    "englishText": "Carrying a heavy burden of unresolved resentment harms your own health.",
+    "malayalamMeaning": "പരിഹരിക്കപ്പെടാത്ത നീരസത്തിൻ്റെ വലിയ ഭാരം ചുമക്കുന്നത് നിങ്ങളുടെ സ്വന്തം ആരോഗ്യത്തിന് ഹാനികരമാണ്.",
+    "usageExample": "Weighing down.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "light",
+    "wordMeaning": "വെളിച്ചം",
+    "englishText": "Sharing your private worries with a trusted friend makes your heart feel light.",
+    "malayalamMeaning": "നിങ്ങളുടെ സ്വകാര്യ വേവലാതികൾ വിശ്വസ്തനായ ഒരു സുഹൃത്തുമായി പങ്കുവയ്ക്കുന്നത് നിങ്ങളുടെ ഹൃദയത്തെ ലഘുവാക്കി.",
+    "usageExample": "Buoyant.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bright",
+    "wordMeaning": "ശോഭയുള്ള",
+    "englishText": "Her bright, optimistic smile brought cheer to the hospital pediatric ward.",
+    "malayalamMeaning": "അവളുടെ ശുഭാപ്തിവിശ്വാസം നിറഞ്ഞ പുഞ്ചിരി ആശുപത്രിയിലെ പീഡിയാട്രിക് വാർഡിന് സന്തോഷം നൽകി.",
+    "usageExample": "Luminous.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dark",
+    "wordMeaning": "ഇരുണ്ട്",
+    "englishText": "During dark moments of despair, look to the steadfast love of your family.",
+    "malayalamMeaning": "നിരാശയുടെ ഇരുണ്ട നിമിഷങ്ങളിൽ, നിങ്ങളുടെ കുടുംബത്തിൻ്റെ അചഞ്ചലമായ സ്നേഹത്തിലേക്ക് നോക്കുക.",
+    "usageExample": "Gloomy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "true",
+    "wordMeaning": "സത്യം",
+    "englishText": "True contentment comes from within, not from accumulating material luxury.",
+    "malayalamMeaning": "യഥാർത്ഥ സംതൃപ്തി ഉള്ളിൽ നിന്നാണ് വരുന്നത്, ഭൗതിക ആഡംബരങ്ങൾ ശേഖരിക്കുന്നതിൽ നിന്നല്ല.",
+    "usageExample": "Genuine.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "real",
+    "wordMeaning": "യഥാർത്ഥമായ",
+    "englishText": "He showed real courage by standing up against unfair workplace bullying.",
+    "malayalamMeaning": "അന്യായമായ ജോലിസ്ഥലത്തെ ഭീഷണിക്കെതിരെ നിലകൊണ്ട അദ്ദേഹം യഥാർത്ഥ ധൈര്യം കാണിച്ചു.",
+    "usageExample": "Authentic.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "deep",
+    "wordMeaning": "ആഴമുള്ള",
+    "englishText": "They shared a deep spiritual connection grounded in shared life values.",
+    "malayalamMeaning": "പങ്കിട്ട ജീവിത മൂല്യങ്ങളിൽ അധിഷ്ഠിതമായ ആഴത്തിലുള്ള ആത്മീയ ബന്ധം അവർ പങ്കിട്ടു.",
+    "usageExample": "Profound.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "simple",
+    "wordMeaning": "ലളിതമായ",
+    "englishText": "Finding joy in simple daily pleasures—like birdsong—is the secret to happiness.",
+    "malayalamMeaning": "പക്ഷികളുടെ പാട്ട് പോലെയുള്ള ലളിതമായ ദൈനംദിന ആനന്ദങ്ങളിൽ സന്തോഷം കണ്ടെത്തുന്നത് സന്തോഷത്തിൻ്റെ രഹസ്യമാണ്.",
+    "usageExample": "Uncomplicated.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clear",
+    "wordMeaning": "വ്യക്തമായ",
+    "englishText": "A morning walk in nature clears away the mental clutter from your mind.",
+    "malayalamMeaning": "പ്രകൃതിയിലെ പ്രഭാത നടത്തം നിങ്ങളുടെ മനസ്സിൽ നിന്ന് മാനസിക അസ്വസ്ഥതകൾ ഇല്ലാതാക്കുന്നു.",
+    "usageExample": "Unclouded.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "heart",
+    "wordMeaning": "ഹൃദയം",
+    "englishText": "She poured her entire heart and soul into creating this watercolor painting.",
+    "malayalamMeaning": "ഈ വാട്ടർ കളർ പെയിൻ്റിംഗ് സൃഷ്ടിക്കാൻ അവൾ തൻ്റെ മുഴുവൻ ഹൃദയവും ആത്മാവും പകർന്നു.",
+    "usageExample": "Emotional seat.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mind",
+    "wordMeaning": "മനസ്സ്",
+    "englishText": "A peaceful mind allows you to make wise and compassionate life decisions.",
+    "malayalamMeaning": "ജ്ഞാനപൂർവകവും അനുകമ്പയുള്ളതുമായ ജീവിത തീരുമാനങ്ങൾ എടുക്കാൻ ശാന്തമായ മനസ്സ് നിങ്ങളെ അനുവദിക്കുന്നു.",
+    "usageExample": "Mental seat.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "soul",
+    "wordMeaning": "ആത്മാവ്",
+    "englishText": "Classical devotional music touches something profound and eternal in the soul.",
+    "malayalamMeaning": "ശാസ്ത്രീയ ഭക്തി സംഗീതം ആത്മാവിൽ അഗാധവും ശാശ്വതവുമായ ഒന്നിനെ സ്പർശിക്കുന്നു.",
+    "usageExample": "Spiritual essence.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "thought",
+    "wordMeaning": "ചിന്തിച്ചു",
+    "englishText": "Banish negative thoughts and replace them with affirmations of gratitude.",
+    "malayalamMeaning": "നിഷേധാത്മക ചിന്തകൾ ഒഴിവാക്കുകയും നന്ദിയുടെ സ്ഥിരീകരണങ്ങൾ ഉപയോഗിച്ച് അവയെ മാറ്റിസ്ഥാപിക്കുകയും ചെയ്യുക.",
+    "usageExample": "Mental idea.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sense",
+    "wordMeaning": "ഇന്ദ്രിയം",
+    "englishText": "He had an intuitive sense that something wonderful was about to happen.",
+    "malayalamMeaning": "അദ്ഭുതകരമായ എന്തെങ്കിലും സംഭവിക്കാൻ പോകുന്നു എന്ന അവബോധജന്യമായ ബോധം അവനുണ്ടായിരുന്നു.",
+    "usageExample": "Perception.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "touch",
+    "wordMeaning": "സ്പർശിക്കുക",
+    "englishText": "A gentle maternal touch can instantly comfort a crying, frightened child.",
+    "malayalamMeaning": "കരയുന്ന, പേടിച്ചരണ്ട ഒരു കുട്ടിയെ തൽക്ഷണം ആശ്വസിപ്പിക്കാൻ മൃദുലമായ മാതൃസ്പർശനത്തിന് കഴിയും.",
+    "usageExample": "Physical contact.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hug",
+    "wordMeaning": "ആലിംഗനം",
+    "englishText": "A warm, lingering hug from a best friend washes away all loneliness.",
+    "malayalamMeaning": "ഒരു ഉറ്റ ചങ്ങാതിയുടെ ഊഷ്മളമായ, നീണ്ടുനിൽക്കുന്ന ആലിംഗനം എല്ലാ ഏകാന്തതയെയും കഴുകിക്കളയുന്നു.",
+    "usageExample": "Embrace.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hold",
+    "wordMeaning": "പിടിക്കുക",
+    "englishText": "Hold onto hope even when facing severe adversity and financial strain.",
+    "malayalamMeaning": "കഠിനമായ പ്രതികൂല സാഹചര്യങ്ങളും സാമ്പത്തിക ഞെരുക്കവും നേരിടുമ്പോഴും പ്രതീക്ഷ കാത്തുസൂക്ഷിക്കുക.",
+    "usageExample": "Grasp firmly.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "comfort",
+    "wordMeaning": "ആശ്വാസം",
+    "englishText": "Her comforting words brought immense relief to the grieving family.",
+    "malayalamMeaning": "അവളുടെ ആശ്വാസ വാക്കുകൾ ദുഃഖിതരായ കുടുംബത്തിന് വലിയ ആശ്വാസം പകർന്നു.",
+    "usageExample": "Ease distress.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "solace",
+    "wordMeaning": "ആശ്വാസം",
+    "englishText": "He found quiet solace in gardening and watching butterflies in his courtyard.",
+    "malayalamMeaning": "പൂന്തോട്ടപരിപാലനത്തിലും തൻ്റെ മുറ്റത്ത് ചിത്രശലഭങ്ങളെ കാണുന്നതിലും അയാൾ ശാന്തമായ ആശ്വാസം കണ്ടെത്തി.",
+    "usageExample": "Peaceful relief.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "help",
+    "wordMeaning": "സഹായിക്കുക",
+    "englishText": "Offering timely help to those in distress brings profound personal fulfillment.",
+    "malayalamMeaning": "ദുരിതമനുഭവിക്കുന്നവർക്ക് സമയോചിതമായ സഹായം വാഗ്ദാനം ചെയ്യുന്നത് അഗാധമായ വ്യക്തിപരമായ സംതൃപ്തി കൈവരുത്തുന്നു.",
+    "usageExample": "Aid.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "support",
+    "wordMeaning": "പിന്തുണ",
+    "englishText": "The unconditional emotional support of my parents gave me wings to fly.",
+    "malayalamMeaning": "എൻ്റെ മാതാപിതാക്കളുടെ നിരുപാധികമായ വൈകാരിക പിന്തുണ എനിക്ക് പറക്കാൻ ചിറകുകൾ നൽകി.",
+    "usageExample": "Standing by.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "patient",
+    "wordMeaning": "രോഗി",
+    "englishText": "Be patient with yourself as you learn and acquire new life skills.",
+    "malayalamMeaning": "പുതിയ ജീവിത നൈപുണ്യങ്ങൾ പഠിക്കുകയും നേടുകയും ചെയ്യുമ്പോൾ നിങ്ങളോട് ക്ഷമയോടെ കാത്തിരിക്കുക.",
+    "usageExample": "Tolerant.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "soft",
+    "wordMeaning": "മൃദുവായ",
+    "englishText": "Her soft, gentle voice calmed the agitated patient within minutes.",
+    "malayalamMeaning": "അവളുടെ മൃദുലവും സൗമ്യവുമായ ശബ്ദം മിനിറ്റുകൾക്കുള്ളിൽ പ്രകോപിതനായ രോഗിയെ ശാന്തനാക്കി.",
+    "usageExample": "Tender.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "loud",
+    "wordMeaning": "ഉച്ചത്തിൽ",
+    "englishText": "Loud, angry shouting only escalates arguments and shuts down communication.",
+    "malayalamMeaning": "ഉച്ചത്തിലുള്ള, കോപത്തോടെയുള്ള നിലവിളി തർക്കങ്ങൾ വർദ്ധിപ്പിക്കുകയും ആശയവിനിമയം അവസാനിപ്പിക്കുകയും ചെയ്യുന്നു.",
+    "usageExample": "High volume.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cool",
+    "wordMeaning": "തണുത്ത",
+    "englishText": "Maintain a cool head and composed demeanor during heated boardroom debates.",
+    "malayalamMeaning": "ചൂടേറിയ ബോർഡ് റൂം സംവാദങ്ങളിൽ ശാന്തമായ തലയും സംയോജിത പെരുമാറ്റവും നിലനിർത്തുക.",
+    "usageExample": "Unflustered.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "free",
+    "wordMeaning": "സ്വതന്ത്ര",
+    "englishText": "Walking along the vast ocean shore makes you feel limitless and free.",
+    "malayalamMeaning": "വിശാലമായ കടൽത്തീരത്തിലൂടെ നടക്കുന്നത് നിങ്ങളെ പരിധിയില്ലാത്തതും സ്വതന്ത്രവുമാക്കുന്നു.",
+    "usageExample": "Unburdened.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trapped",
+    "wordMeaning": "കുടുങ്ങി",
+    "englishText": "She felt trapped in her unfulfilling corporate job and decided to resign.",
+    "malayalamMeaning": "പൂർത്തീകരിക്കാത്ത കോർപ്പറേറ്റ് ജോലിയിൽ കുടുങ്ങിപ്പോയ അവൾ രാജിവയ്ക്കാൻ തീരുമാനിച്ചു.",
+    "usageExample": "Confined.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lost",
+    "wordMeaning": "നഷ്ടപ്പെട്ടു",
+    "englishText": "The young traveler felt momentarily lost in the sprawling unfamiliar city.",
+    "malayalamMeaning": "വിശാലമായ അപരിചിതമായ നഗരത്തിൽ ഒരു നിമിഷം നഷ്ടപ്പെട്ടതായി യുവ സഞ്ചാരിക്ക് തോന്നി.",
+    "usageExample": "Disoriented.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "found",
+    "wordMeaning": "കണ്ടെത്തി",
+    "englishText": "He finally found his true calling in life teaching village school children.",
+    "malayalamMeaning": "ഒടുവിൽ ഗ്രാമത്തിലെ സ്‌കൂൾ കുട്ടികളെ പഠിപ്പിക്കുന്ന തൻ്റെ യഥാർത്ഥ ജീവിതം അദ്ദേഹം കണ്ടെത്തി.",
+    "usageExample": "Discovered.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "thank",
+    "wordMeaning": "നന്ദി",
+    "englishText": "I want to thank you from the bottom of my heart for your unwavering kindness.",
+    "malayalamMeaning": "നിങ്ങളുടെ അചഞ്ചലമായ ദയയ്ക്ക് എൻ്റെ ഹൃദയത്തിൻ്റെ അടിത്തട്ടിൽ നിന്ന് നന്ദി പറയാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.",
+    "usageExample": "Express gratitude.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grateful",
+    "wordMeaning": "നന്ദിയുള്ള",
+    "englishText": "I am deeply grateful for the roof over my head and food on my table.",
+    "malayalamMeaning": "എൻ്റെ തലയ്ക്ക് മുകളിലുള്ള മേൽക്കൂരയ്ക്കും എൻ്റെ മേശയിലെ ഭക്ഷണത്തിനും ഞാൻ വളരെ നന്ദിയുള്ളവനാണ്.",
+    "usageExample": "Thankful.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "content",
+    "wordMeaning": "ഉള്ളടക്കം",
+    "englishText": "Living a modest, purposeful life makes a person peaceful and content.",
+    "malayalamMeaning": "എളിമയുള്ളതും ലക്ഷ്യബോധമുള്ളതുമായ ജീവിതം ഒരു വ്യക്തിയെ സമാധാനവും സംതൃപ്തനുമാക്കുന്നു.",
+    "usageExample": "Satisfied.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "peaceful",
+    "wordMeaning": "സമാധാനപരമായ",
+    "englishText": "The dawn mist over the backwater lake was breathtakingly peaceful.",
+    "malayalamMeaning": "കായൽ തടാകത്തിന് മുകളിലുള്ള പ്രഭാത മൂടൽമഞ്ഞ് ആശ്വാസകരമാംവിധം ശാന്തമായിരുന്നു.",
+    "usageExample": "Tranquil.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "joyful",
+    "wordMeaning": "സന്തോഷകരമായ",
+    "englishText": "The festival celebrated the joyous reunion of four generations of family.",
+    "malayalamMeaning": "കുടുംബത്തിലെ നാല് തലമുറകളുടെ ആഹ്ലാദകരമായ ഒത്തുചേരലിൻ്റെ ആഘോഷമായിരുന്നു ഉത്സവം.",
+    "usageExample": "Full of joy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "radiant",
+    "wordMeaning": "പ്രസരിപ്പുള്ള",
+    "englishText": "The bride looked radiant with happiness as she walked down the aisle.",
+    "malayalamMeaning": "ഇടനാഴിയിലൂടെ നടക്കുമ്പോൾ വധു സന്തോഷത്താൽ തിളങ്ങി.",
+    "usageExample": "Glowing brightly.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cheerful",
+    "wordMeaning": "പ്രസന്നമായ",
+    "englishText": "Her cheerful morning greeting lifted the spirits of the entire office.",
+    "malayalamMeaning": "അവളുടെ പ്രസന്നമായ പ്രഭാത ആശംസകൾ ഓഫീസിനെയാകെ ഉണർത്തി.",
+    "usageExample": "Sunny disposition.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tender",
+    "wordMeaning": "ടെൻഡർ",
+    "englishText": "Mother gave her sleeping newborn baby a tender kiss on the forehead.",
+    "malayalamMeaning": "ഉറങ്ങിക്കിടക്കുന്ന നവജാത ശിശുവിന് അമ്മ നെറ്റിയിൽ ഒരു ചുംബനം നൽകി.",
+    "usageExample": "Gentle/loving.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "gloom",
+    "wordMeaning": "ഇരുട്ട്",
+    "englishText": "A pall of gloom descended over the football team after the final defeat.",
+    "malayalamMeaning": "അവസാന തോൽവിക്ക് ശേഷം ഫുട്ബോൾ ടീമിന് മേൽ ഇരുട്ടടി.",
+    "usageExample": "Melancholy air.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shocked",
+    "wordMeaning": "ഞെട്ടിപ്പോയി",
+    "englishText": "We were utterly shocked to hear of the sudden factory closure.",
+    "malayalamMeaning": "പെട്ടെന്നുള്ള ഫാക്ടറി അടച്ചുപൂട്ടൽ കേട്ടപ്പോൾ ഞങ്ങൾ ഞെട്ടിപ്പോയി.",
+    "usageExample": "Stunned.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "amazed",
+    "wordMeaning": "ആശ്ചര്യപ്പെട്ടു",
+    "englishText": "The scientists were amazed by the intricate intelligence of honeybees.",
+    "malayalamMeaning": "തേനീച്ചകളുടെ സങ്കീർണ്ണമായ ബുദ്ധി ശാസ്ത്രജ്ഞരെ അത്ഭുതപ്പെടുത്തി.",
+    "usageExample": "Filled with wonder.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "thrilled",
+    "wordMeaning": "രോമാഞ്ചം",
+    "englishText": "She was thrilled to receive an official invitation to the literature festival.",
+    "malayalamMeaning": "സാഹിത്യോത്സവത്തിലേക്കുള്ള ഔദ്യോഗിക ക്ഷണം ലഭിച്ചതിൻ്റെ ആവേശത്തിലായിരുന്നു അവൾ.",
+    "usageExample": "Excited joy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "furious",
+    "wordMeaning": "ക്രുദ്ധനായ",
+    "englishText": "Father was furious when he discovered that the car brakes had been tampered with.",
+    "malayalamMeaning": "കാറിൻ്റെ ബ്രേക്കിൽ കൃത്രിമം നടന്നിട്ടുണ്ടെന്നറിഞ്ഞപ്പോൾ അച്ഛൻ ദേഷ്യപ്പെട്ടു.",
+    "usageExample": "Extremely angry.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "delighted",
+    "wordMeaning": "സന്തോഷിച്ചു",
+    "englishText": "We were delighted to welcome our childhood teacher to our home for tea.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കുട്ടിക്കാലത്തെ ടീച്ചറെ ചായകുടിക്കാൻ ഞങ്ങളുടെ വീട്ടിലേക്ക് സ്വാഗതം ചെയ്യുന്നതിൽ ഞങ്ങൾ സന്തോഷിച്ചു.",
+    "usageExample": "Very pleased.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pleased",
+    "wordMeaning": "സന്തോഷിച്ചു",
+    "englishText": "The professor was pleased with the thoroughness of the student's research.",
+    "malayalamMeaning": "വിദ്യാർത്ഥിയുടെ ഗവേഷണത്തിൻ്റെ സമഗ്രതയിൽ പ്രൊഫസർ സന്തോഷിച്ചു.",
+    "usageExample": "Satisfied.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "grumpy",
+    "wordMeaning": "മുഷിഞ്ഞ",
+    "englishText": "He is always a bit grumpy and quiet until he finishes his morning coffee.",
+    "malayalamMeaning": "രാവിലെ കോഫി കഴിയ്ക്കുന്നത് വരെ അവൻ എപ്പോഴും അൽപ്പം ദേഷ്യക്കാരനും നിശബ്ദനുമാണ്.",
+    "usageExample": "Bad-tempered.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "nervous",
+    "wordMeaning": "പരിഭ്രമം",
+    "englishText": "It is natural to feel nervous before stepping onto the stage for a speech.",
+    "malayalamMeaning": "പ്രസംഗത്തിനായി സ്റ്റേജിൽ കയറുന്നതിന് മുമ്പ് പരിഭ്രമം തോന്നുക സ്വാഭാവികമാണ്.",
+    "usageExample": "Anxious.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "confident",
+    "wordMeaning": "ആത്മവിശ്വാസം",
+    "englishText": "Thorough preparation and daily practice make you feel confident on exam day.",
+    "malayalamMeaning": "സമഗ്രമായ തയ്യാറെടുപ്പും ദൈനംദിന പരിശീലനവും പരീക്ഷാ ദിവസം നിങ്ങൾക്ക് ആത്മവിശ്വാസം നൽകുന്നു.",
+    "usageExample": "Self-assured.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ashamed",
+    "wordMeaning": "ലജ്ജിച്ചു",
+    "englishText": "He felt ashamed of having spoken harshly to his aging mother.",
+    "malayalamMeaning": "പ്രായമായ അമ്മയോട് പരുഷമായി സംസാരിച്ചതിൽ അയാൾക്ക് ലജ്ജ തോന്നി.",
+    "usageExample": "Feeling guilt.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hopeful",
+    "wordMeaning": "പ്രതീക്ഷയുള്ള",
+    "englishText": "The farmers felt hopeful as dark monsoon rain clouds gathered on the horizon.",
+    "malayalamMeaning": "ഇരുണ്ട മൺസൂൺ മഴ മേഘങ്ങൾ ചക്രവാളത്തിൽ ഒത്തുകൂടിയപ്പോൾ കർഷകർക്ക് പ്രതീക്ഷ തോന്നി.",
+    "usageExample": "Optimistic.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "despair",
+    "wordMeaning": "നിരാശ",
+    "englishText": "Even in moments of deep despair, remember that life can turn around in a day.",
+    "malayalamMeaning": "അഗാധമായ നിരാശയുടെ നിമിഷങ്ങളിൽ പോലും, ജീവിതം ഒരു ദിവസം കൊണ്ട് മാറുമെന്ന് ഓർക്കുക.",
+    "usageExample": "Hopelessness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "relief",
+    "wordMeaning": "ആശ്വാസം",
+    "englishText": "Hearing that the biopsy results were negative brought an overwhelming sense of relief.",
+    "malayalamMeaning": "ബയോപ്സി ഫലം നെഗറ്റീവാണെന്ന് കേട്ടപ്പോൾ വല്ലാത്ത ആശ്വാസം തോന്നി.",
+    "usageExample": "Easing worry.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pity",
+    "wordMeaning": "സഹതാപം",
+    "englishText": "It is a pity that heavy rain canceled the long-awaited outdoor school picnic.",
+    "malayalamMeaning": "ഏറെ നാളായി കാത്തിരുന്ന അതിഗംഭീര സ്‌കൂൾ പിക്‌നിക് കനത്ത മഴ റദ്ദാക്കിയത് ദയനീയമാണ്.",
+    "usageExample": "Regret/sorrow.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sympathy",
+    "wordMeaning": "സഹതാപം",
+    "englishText": "She expressed sincere sympathy to her neighbor whose pet dog had passed away.",
+    "malayalamMeaning": "വളർത്തു നായ മരിച്ച അയൽക്കാരനോട് അവൾ ആത്മാർത്ഥമായ സഹതാപം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Compassion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "compassion",
+    "wordMeaning": "അനുകമ്പ",
+    "englishText": "Treating the vulnerable and elderly with compassion is a sacred duty.",
+    "malayalamMeaning": "ദുർബലരോടും പ്രായമായവരോടും അനുകമ്പയോടെ പെരുമാറുക എന്നത് പുണ്യമായ കടമയാണ്.",
+    "usageExample": "Deep caring.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mercy",
+    "wordMeaning": "കരുണ",
+    "englishText": "The judge showed judicial mercy taking into account the young man's genuine remorse.",
+    "malayalamMeaning": "യുവാവിൻ്റെ ആത്മാർത്ഥമായ പശ്ചാത്താപം കണക്കിലെടുത്താണ് ജഡ്ജി ജുഡീഷ്യൽ കരുണ കാണിച്ചത്.",
+    "usageExample": "Leniency.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "kindness",
+    "wordMeaning": "ദയ",
+    "englishText": "A simple, unexpected act of kindness can save a desperate soul from despair.",
+    "malayalamMeaning": "നിസ്സാരമായ, അപ്രതീക്ഷിതമായ ദയാപ്രവൃത്തി, നിരാശനായ ആത്മാവിനെ നിരാശയിൽ നിന്ന് രക്ഷിക്കും.",
+    "usageExample": "Goodwill.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "warmth",
+    "wordMeaning": "ഊഷ്മളത",
+    "englishText": "I will never forget the genuine warmth with which the villagers received us.",
+    "malayalamMeaning": "ഗ്രാമീണർ ഞങ്ങളെ സ്വീകരിച്ച ആത്മാർത്ഥമായ ഊഷ്മളത ഞാൻ ഒരിക്കലും മറക്കില്ല.",
+    "usageExample": "Affectionate love.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fond",
+    "wordMeaning": "ഇഷ്ടം",
+    "englishText": "I retain fond childhood memories of climbing mango trees during summer.",
+    "malayalamMeaning": "വേനൽക്കാലത്ത് മാമ്പഴം കയറുന്നതിൻ്റെ ബാല്യകാല ഓർമ്മകൾ ഞാൻ നിലനിർത്തുന്നു.",
+    "usageExample": "Loving regard.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "affection",
+    "wordMeaning": "വാത്സല്യം",
+    "englishText": "The old dog showed its deep affection by resting its head on my knee.",
+    "malayalamMeaning": "എൻ്റെ കാൽമുട്ടിൽ തല ചായ്ച്ച് വൃദ്ധനായ നായ അതിൻ്റെ അഗാധമായ വാത്സല്യം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Fond love.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "passion",
+    "wordMeaning": "അഭിനിവേശം",
+    "englishText": "He pursued his creative passion for documentary filmmaking with relentless zeal.",
+    "malayalamMeaning": "ഡോക്യുമെൻ്ററി ചലച്ചിത്രനിർമ്മാണത്തോടുള്ള തൻ്റെ സർഗ്ഗാത്മകമായ അഭിനിവേശം അദ്ദേഹം നിരന്തരമായ തീക്ഷ്ണതയോടെ പിന്തുടർന്നു.",
+    "usageExample": "Intense enthusiasm.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "desire",
+    "wordMeaning": "ആഗ്രഹം",
+    "englishText": "A sincere desire to help others is the most noble motivation for public service.",
+    "malayalamMeaning": "മറ്റുള്ളവരെ സഹായിക്കാനുള്ള ആത്മാർത്ഥമായ ആഗ്രഹമാണ് പൊതുസേവനത്തിനുള്ള ഏറ്റവും ഉദാത്തമായ പ്രചോദനം.",
+    "usageExample": "Earnest longing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "courage",
+    "wordMeaning": "ധൈര്യം",
+    "englishText": "It takes moral courage to stand alone and defend the truth against a crowd.",
+    "malayalamMeaning": "ഒറ്റയ്ക്ക് നിൽക്കാനും ആൾക്കൂട്ടത്തിനെതിരെ സത്യത്തെ പ്രതിരോധിക്കാനും ധാർമ്മിക ധൈര്യം ആവശ്യമാണ്.",
+    "usageExample": "Bravery.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "spirit",
+    "wordMeaning": "ആത്മാവ്",
+    "englishText": "Her joyful, indomitable spirit inspired everyone around her during the crisis.",
+    "malayalamMeaning": "അവളുടെ സന്തോഷവും അദമ്യവുമായ ആത്മാവ് പ്രതിസന്ധി ഘട്ടത്തിൽ ചുറ്റുമുള്ള എല്ലാവരേയും പ്രചോദിപ്പിച്ചു.",
+    "usageExample": "Vital energy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "anxiety",
+    "wordMeaning": "ഉത്കണ്ഠ",
+    "englishText": "Practicing mindful breathing exercises helps soothe acute examination anxiety.",
+    "malayalamMeaning": "ശ്രദ്ധാപൂർവമായ ശ്വസന വ്യായാമങ്ങൾ പരിശീലിക്കുന്നത് നിശിത പരീക്ഷാ ഉത്കണ്ഠയെ ശമിപ്പിക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Nervous worry.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "depression",
+    "wordMeaning": "വിഷാദം",
+    "englishText": "Clinical depression is a treatable medical condition that requires professional empathy.",
+    "malayalamMeaning": "പ്രൊഫഷണൽ സഹാനുഭൂതി ആവശ്യമുള്ള ചികിത്സിക്കാവുന്ന ഒരു മെഡിക്കൽ അവസ്ഥയാണ് ക്ലിനിക്കൽ ഡിപ്രഷൻ.",
+    "usageExample": "Severe gloom.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "enthusiasm",
+    "wordMeaning": "ഉത്സാഹം",
+    "englishText": "She tackled her new teaching assignment with contagious youthful enthusiasm.",
+    "malayalamMeaning": "അവൾ തൻ്റെ പുതിയ അധ്യാപന നിയമനം പകർച്ചവ്യാധിയായ യുവത്വ ആവേശത്തോടെ കൈകാര്യം ചെയ്തു.",
+    "usageExample": "Eager zeal.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "gratitude",
+    "wordMeaning": "നന്ദി",
+    "englishText": "Cultivating daily gratitude shifts your mental focus from scarcity to abundance.",
+    "malayalamMeaning": "ദൈനംദിന കൃതജ്ഞത നട്ടുവളർത്തുന്നത് നിങ്ങളുടെ മാനസിക ശ്രദ്ധയെ ദൗർലഭ്യത്തിൽ നിന്ന് സമൃദ്ധിയിലേക്ക് മാറ്റുന്നു.",
+    "usageExample": "Thankfulness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "frustration",
+    "wordMeaning": "നിരാശ",
+    "englishText": "Repeated software crashes caused intense frustration among the design team.",
+    "malayalamMeaning": "ആവർത്തിച്ചുള്ള സോഫ്‌റ്റ്‌വെയർ ക്രാഷുകൾ ഡിസൈൻ ടീമിൽ കടുത്ത നിരാശയുണ്ടാക്കി.",
+    "usageExample": "Exasperation.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "resentment",
+    "wordMeaning": "നീരസം",
+    "englishText": "Holding onto bitter resentment is like drinking poison and expecting the other to suffer.",
+    "malayalamMeaning": "കടുത്ത നീരസം മുറുകെ പിടിക്കുന്നത് വിഷം കുടിക്കുകയും അപരൻ കഷ്ടപ്പെടുമെന്ന് പ്രതീക്ഷിക്കുകയും ചെയ്യുന്നതുപോലെയാണ്.",
+    "usageExample": "Bitter grudge.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "jealousy",
+    "wordMeaning": "അസൂയ",
+    "englishText": "Petty jealousy between colleagues poisons collaborative workplace teamwork.",
+    "malayalamMeaning": "സഹപ്രവർത്തകർ തമ്മിലുള്ള നിസ്സാരമായ അസൂയ സഹകരിച്ചുള്ള ജോലിസ്ഥലത്തെ ടീം വർക്കിനെ വിഷലിപ്തമാക്കുന്നു.",
+    "usageExample": "Envious rivalry.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "empathy",
+    "wordMeaning": "സഹാനുഭൂതി",
+    "englishText": "Listening with non-judgmental empathy heals emotional wounds faster than advice.",
+    "malayalamMeaning": "വിവേചനരഹിതമായ സഹാനുഭൂതിയോടെ കേൾക്കുന്നത് ഉപദേശത്തേക്കാൾ വേഗത്തിൽ വൈകാരിക മുറിവുകളെ സുഖപ്പെടുത്തുന്നു.",
+    "usageExample": "Sharing feelings.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "optimism",
+    "wordMeaning": "ശുഭാപ്തിവിശ്വാസം",
+    "englishText": "His infectious optimism gave the stranded flood victims renewed hope.",
+    "malayalamMeaning": "അദ്ദേഹത്തിൻ്റെ സാംക്രമിക ശുഭാപ്തിവിശ്വാസം ഒറ്റപ്പെട്ട വെള്ളപ്പൊക്ക ബാധിതർക്ക് വീണ്ടും പ്രതീക്ഷ നൽകി.",
+    "usageExample": "Positive outlook.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pessimism",
+    "wordMeaning": "അശുഭാപ്തിവിശ്വാസം",
+    "englishText": "Cynical pessimism blinds you to creative solutions and paralyzes action.",
+    "malayalamMeaning": "ക്രിയാത്മകമായ അശുഭാപ്തിവിശ്വാസം നിങ്ങളെ ക്രിയാത്മകമായ പരിഹാരങ്ങളിലേക്ക് അന്ധരാക്കുകയും പ്രവർത്തനത്തെ തളർത്തുകയും ചെയ്യുന്നു.",
+    "usageExample": "Negative outlook.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "melancholy",
+    "wordMeaning": "വിഷാദം",
+    "englishText": "The wistful sound of the cello evoked a mood of gentle, sweet melancholy.",
+    "malayalamMeaning": "സെല്ലോയുടെ ആഹ്ലാദകരമായ ശബ്ദം സൗമ്യവും മധുരവുമായ വിഷാദത്തിൻ്റെ ഒരു മാനസികാവസ്ഥ ഉണർത്തി.",
+    "usageExample": "Poetic sadness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nostalgia",
+    "wordMeaning": "ഗൃഹാതുരത്വം",
+    "englishText": "Visiting his old high school campus filled him with deep, nostalgic warmth.",
+    "malayalamMeaning": "അവൻ്റെ പഴയ ഹൈസ്കൂൾ കാമ്പസ് സന്ദർശിക്കുന്നത് ആഴമേറിയതും ഗൃഹാതുരവുമായ ഊഷ്മളതയിൽ നിറഞ്ഞു.",
+    "usageExample": "Longing for past.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "adoration",
+    "wordMeaning": "ആരാധന",
+    "englishText": "The little boy looked up at his older brother with pure hero adoration.",
+    "malayalamMeaning": "ശുദ്ധനായ വീര ആരാധനയോടെ കൊച്ചുകുട്ടി തൻ്റെ ജ്യേഷ്ഠനെ നോക്കി.",
+    "usageExample": "Worshipful love.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ecstasy",
+    "wordMeaning": "പരമാനന്ദം",
+    "englishText": "Winning the national championship sent the entire college crowd into wild ecstasy.",
+    "malayalamMeaning": "ദേശീയ ചാമ്പ്യൻഷിപ്പ് നേടിയത് മുഴുവൻ കോളേജ് കാണികളെയും വന്യമായ ആനന്ദത്തിലേക്ക് നയിച്ചു.",
+    "usageExample": "Overwhelming joy.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "euphoria",
+    "wordMeaning": "ഉല്ലാസം",
+    "englishText": "Completing the grueling marathon triggered a wave of post-race endorphin euphoria.",
+    "malayalamMeaning": "കഠിനമായ മാരത്തൺ പൂർത്തിയാക്കിയത് റേസിന് ശേഷമുള്ള എൻഡോർഫിൻ ഉല്ലാസത്തിൻ്റെ ഒരു തരംഗത്തിന് കാരണമായി.",
+    "usageExample": "Intense elation.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "bliss",
+    "wordMeaning": "പരമാനന്ദം",
+    "englishText": "Sitting by the calm lake at dawn watching water lilies is pure spiritual bliss.",
+    "malayalamMeaning": "നേരം പുലരുമ്പോൾ ശാന്തമായ തടാകത്തിനരികിലിരുന്ന് താമരപ്പൂക്കൾ കാണുന്നത് ശുദ്ധമായ ആത്മീയ ആനന്ദമാണ്.",
+    "usageExample": "Supreme happiness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "serenity",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "The quiet mountain monastery breathed an aura of timeless, undisturbed serenity.",
+    "malayalamMeaning": "ശാന്തമായ പർവത ആശ്രമം കാലാതീതവും തടസ്സമില്ലാത്തതുമായ ശാന്തതയുടെ ഒരു പ്രഭാവലയം ശ്വസിച്ചു.",
+    "usageExample": "Deep peace.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "contentment",
+    "wordMeaning": "സംതൃപ്തി",
+    "englishText": "True contentment is wanting what you already have rather than craving more.",
+    "malayalamMeaning": "കൂടുതൽ ആഗ്രഹിക്കുന്നതിനുപകരം നിങ്ങൾക്ക് ഇതിനകം ഉള്ളത് ആഗ്രഹിക്കുന്നു എന്നതാണ് യഥാർത്ഥ സംതൃപ്തി.",
+    "usageExample": "Deep satisfaction.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tranquility",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "The ancestral courtyard provides a haven of domestic tranquility and silence.",
+    "malayalamMeaning": "പൂർവ്വികരുടെ മുറ്റം ഗാർഹിക ശാന്തതയുടെയും നിശബ്ദതയുടെയും ഒരു സങ്കേതം പ്രദാനം ചെയ്യുന്നു.",
+    "usageExample": "Peaceful calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "composure",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "She maintained her dignified composure even when provoked by harsh criticism.",
+    "malayalamMeaning": "കടുത്ത വിമർശനങ്ങളാൽ പ്രകോപിതരായപ്പോഴും അവൾ മാന്യമായ സംയമനം പാലിച്ചു.",
+    "usageExample": "Poised calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "equanimity",
+    "wordMeaning": "സമചിത്തത",
+    "englishText": "A seasoned leader faces praise and blame with identical emotional equanimity.",
+    "malayalamMeaning": "പരിചയസമ്പന്നനായ ഒരു നേതാവ് പുകഴ്ത്തലും കുറ്റപ്പെടുത്തലും ഒരേ വൈകാരിക സമചിത്തതയോടെ നേരിടുന്നു.",
+    "usageExample": "Mental balance.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "agitation",
+    "wordMeaning": "പ്രക്ഷോഭം",
+    "englishText": "Pacing restlessly across the hospital corridor revealed his intense agitation.",
+    "malayalamMeaning": "ഹോസ്പിറ്റൽ ഇടനാഴിയിലൂടെ വിശ്രമമില്ലാതെ നടക്കുമ്പോൾ അവൻ്റെ തീവ്രമായ പ്രക്ഷോഭം വെളിപ്പെട്ടു.",
+    "usageExample": "Nervous turmoil.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nervousness",
+    "wordMeaning": "അസ്വസ്ഥത",
+    "englishText": "Deep diaphragmatic breathing eliminated all trace of pre-speech nervousness.",
+    "malayalamMeaning": "ആഴത്തിലുള്ള ഡയഫ്രാമാറ്റിക് ശ്വസനം സംഭാഷണത്തിന് മുമ്പുള്ള അസ്വസ്ഥതയുടെ എല്ലാ അടയാളങ്ങളും ഇല്ലാതാക്കി.",
+    "usageExample": "Anxious flutter.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "apprehension",
+    "wordMeaning": "ഭയം",
+    "englishText": "She stepped into the examination hall with a slight flutter of apprehension.",
+    "malayalamMeaning": "ഒരു ചെറിയ പരിഭ്രമത്തോടെ അവൾ പരീക്ഷാ ഹാളിലേക്ക് കയറി.",
+    "usageExample": "Fearful dread.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "trepidation",
+    "wordMeaning": "വിറയൽ",
+    "englishText": "He opened the sealed medical test envelope with understandable trepidation.",
+    "malayalamMeaning": "മനസ്സിലാക്കാവുന്ന വിറയലോടെ അയാൾ സീൽ ചെയ്ത മെഡിക്കൽ ടെസ്റ്റ് കവർ തുറന്നു.",
+    "usageExample": "Fearful trembling.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "despondency",
+    "wordMeaning": "നിരാശ",
+    "englishText": "Prolonged unemployment drove the talented young engineer into deep despondency.",
+    "malayalamMeaning": "നീണ്ടുനിന്ന തൊഴിലില്ലായ്മ പ്രതിഭാധനനായ യുവ എഞ്ചിനീയറെ അഗാധമായ നിരാശയിലേക്ക് തള്ളിവിട്ടു.",
+    "usageExample": "Hopeless dejection.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "alienation",
+    "wordMeaning": "അന്യവൽക്കരണം",
+    "englishText": "Moving to an ultra-modern metropolis caused feelings of cultural alienation.",
+    "malayalamMeaning": "അത്യാധുനിക മെട്രോപോളിസിലേക്ക് മാറുന്നത് സാംസ്കാരിക അന്യതയുടെ വികാരങ്ങൾക്ക് കാരണമായി.",
+    "usageExample": "Feeling estranged.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "isolation",
+    "wordMeaning": "ഒറ്റപ്പെടൽ",
+    "englishText": "Living in extreme social isolation can severely damage cognitive and mental wellness.",
+    "malayalamMeaning": "അങ്ങേയറ്റം സാമൂഹികമായ ഒറ്റപ്പെടലിൽ ജീവിക്കുന്നത് വൈജ്ഞാനികവും മാനസികവുമായ ആരോഗ്യത്തെ സാരമായി ബാധിക്കും.",
+    "usageExample": "Solitude state.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "humiliation",
+    "wordMeaning": "അപമാനം",
+    "englishText": "Nobody should ever be subjected to public humiliation in a school or office.",
+    "malayalamMeaning": "സ്‌കൂളിലോ ഓഫീസിലോ ആരും ഒരിക്കലും പരസ്യമായി അപമാനിക്കപ്പെടരുത്.",
+    "usageExample": "Shameful disgrace.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "remorse",
+    "wordMeaning": "പശ്ചാത്താപം",
+    "englishText": "The defendant wept openly, expressing sincere remorse for his reckless actions.",
+    "malayalamMeaning": "തൻ്റെ അശ്രദ്ധമായ പ്രവൃത്തികളിൽ ആത്മാർത്ഥമായ പശ്ചാത്താപം പ്രകടിപ്പിച്ച് പ്രതി തുറന്നു കരഞ്ഞു.",
+    "usageExample": "Deep regret.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "regret",
+    "wordMeaning": "ഖേദിക്കുന്നു",
+    "englishText": "Live your life with integrity so you look back with pride rather than regret.",
+    "malayalamMeaning": "നിങ്ങളുടെ ജീവിതം സമഗ്രതയോടെ ജീവിക്കുക, അതിനാൽ നിങ്ങൾ പശ്ചാത്തപിക്കുന്നതിനുപകരം അഭിമാനത്തോടെ തിരിഞ്ഞുനോക്കുക.",
+    "usageExample": "Remorseful sorrow.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "anguish",
+    "wordMeaning": "വേദന",
+    "englishText": "The desperate mother cried out in mental anguish when her child went missing.",
+    "malayalamMeaning": "കുഞ്ഞിനെ കാണാതായപ്പോൾ നിരാശയായ അമ്മ മാനസികമായി നിലവിളിച്ചു.",
+    "usageExample": "Severe torment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "exasperation",
+    "wordMeaning": "പ്രകോപനം",
+    "englishText": "He threw his hands up in exasperation after his computer froze for the third time.",
+    "malayalamMeaning": "മൂന്നാം തവണയും കമ്പ്യൂട്ടർ മരവിച്ചതിനെത്തുടർന്ന് അയാൾ പ്രകോപിതനായി കൈകൾ ഉയർത്തി.",
+    "usageExample": "Intense irritation.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "indignation",
+    "wordMeaning": "രോഷം",
+    "englishText": "Citizens voiced righteous indignation over the illegal dumping of factory toxic waste.",
+    "malayalamMeaning": "ഫാക്ടറിയിലെ വിഷ മാലിന്യങ്ങൾ അനധികൃതമായി തള്ളുന്നതിനെതിരെ പൗരന്മാർ ന്യായമായ രോഷം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Anger at injustice.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "bitterness",
+    "wordMeaning": "കയ്പ്പ്",
+    "englishText": "Letting go of past family bitterness allows healing and reconciliation to bloom.",
+    "malayalamMeaning": "മുൻകാല കുടുംബ കയ്പുകൾ ഉപേക്ഷിക്കുന്നത് രോഗശാന്തിയും അനുരഞ്ജനവും പൂക്കാൻ അനുവദിക്കുന്നു.",
+    "usageExample": "Acrid resentment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "malice",
+    "wordMeaning": "ദുഷ്ടത",
+    "englishText": "Her gentle heart was completely devoid of malice, pettiness, or vindictiveness.",
+    "malayalamMeaning": "അവളുടെ സൗമ്യമായ ഹൃദയം ദുഷ്ടതയോ നിസ്സാരതയോ പ്രതികാരബുദ്ധിയോ ഇല്ലാത്തതായിരുന്നു.",
+    "usageExample": "Desire to harm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "benevolence",
+    "wordMeaning": "പരോപകാരം",
+    "englishText": "The venerable doctor was revered for his boundless benevolence toward poor patients.",
+    "malayalamMeaning": "പാവപ്പെട്ട രോഗികളോടുള്ള അതിരുകളില്ലാത്ത കാരുണ്യത്തിന് ആദരണീയനായ ഡോക്ടർ ബഹുമാനിക്കപ്പെട്ടു.",
+    "usageExample": "Active goodwill.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "generosity",
+    "wordMeaning": "ഔദാര്യം",
+    "englishText": "The community was moved by the quiet generosity of the anonymous benefactor.",
+    "malayalamMeaning": "അജ്ഞാതനായ അഭ്യുദയകാംക്ഷിയുടെ നിശ്ശബ്ദമായ ഔദാര്യം സമൂഹത്തെ ഇളക്കിമറിച്ചു.",
+    "usageExample": "Giving nature.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "vulnerable",
+    "wordMeaning": "ദുർബലമായ",
+    "englishText": "It takes immense emotional courage to allow yourself to be open and vulnerable.",
+    "malayalamMeaning": "സ്വയം തുറന്നുപറയാനും ദുർബലനാകാനും അനുവദിക്കുന്നതിന് അപാരമായ വൈകാരിക ധൈര്യം ആവശ്യമാണ്.",
+    "usageExample": "Open to wounds.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "resilient",
+    "wordMeaning": "പ്രതിരോധശേഷിയുള്ള",
+    "englishText": "Children raised in loving, supportive homes grow into remarkably resilient adults.",
+    "malayalamMeaning": "സ്‌നേഹവും പിന്തുണയും നൽകുന്ന വീടുകളിൽ വളർന്നുവരുന്ന കുട്ടികൾ അസാധാരണമായ പ്രതിരോധശേഷിയുള്ള മുതിർന്നവരായി വളരുന്നു.",
+    "usageExample": "Bouncing back.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "endurance",
+    "wordMeaning": "സഹിഷ്ണുത",
+    "englishText": "Running a desert ultra-marathon tests human physical and mental endurance to the limit.",
+    "malayalamMeaning": "മരുഭൂമിയിലെ അൾട്രാ മാരത്തൺ ഓട്ടം മനുഷ്യൻ്റെ ശാരീരികവും മാനസികവുമായ സഹിഷ്ണുതയെ പരിധിവരെ പരിശോധിക്കുന്നു.",
+    "usageExample": "Staying power.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "fortitude",
+    "wordMeaning": "ധൈര്യം",
+    "englishText": "She faced her chemotherapy treatments with inspiring courage and moral fortitude.",
+    "malayalamMeaning": "അവൾ അവളുടെ കീമോതെറാപ്പി ചികിത്സകളെ പ്രചോദിപ്പിക്കുന്ന ധൈര്യത്തോടെയും ധാർമ്മിക ധൈര്യത്തോടെയും നേരിട്ടു.",
+    "usageExample": "Courage in pain.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "patience",
+    "wordMeaning": "ക്ഷമ",
+    "englishText": "Teaching young children how to read requires limitless love and patient forbearance.",
+    "malayalamMeaning": "കൊച്ചുകുട്ടികളെ വായിക്കാൻ പഠിപ്പിക്കുന്നതിന് പരിധിയില്ലാത്ത സ്നേഹവും ക്ഷമയും ആവശ്യമാണ്.",
+    "usageExample": "Tolerant calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tolerance",
+    "wordMeaning": "സഹിഷ്ണുത",
+    "englishText": "A civilized society is built on mutual respect and broad intellectual tolerance.",
+    "malayalamMeaning": "പരസ്പര ബഹുമാനത്തിലും വിശാലമായ ബൗദ്ധിക സഹിഷ്ണുതയിലുമാണ് പരിഷ്കൃത സമൂഹം കെട്ടിപ്പടുക്കുന്നത്.",
+    "usageExample": "Acceptance.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "forbearance",
+    "wordMeaning": "സഹിഷ്ണുത",
+    "englishText": "Grandmother exercised loving forbearance whenever youthful high spirits flared.",
+    "malayalamMeaning": "യൗവനത്തിൻ്റെ ഉന്മേഷം ജ്വലിക്കുമ്പോഴെല്ലാം മുത്തശ്ശി സ്‌നേഹപൂർവകമായ സഹിഷ്ണുത പ്രകടമാക്കി.",
+    "usageExample": "Self-restraint.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "fervor",
+    "wordMeaning": "തീക്ഷ്ണത",
+    "englishText": "The choir sang the traditional festival hymn with thrilling spiritual fervor.",
+    "malayalamMeaning": "ആവേശകരമായ ആത്മീയ ആവേശത്തോടെ ഗായകസംഘം പരമ്പരാഗത ഉത്സവ ഗാനം ആലപിച്ചു.",
+    "usageExample": "Intense passion.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "delight",
+    "wordMeaning": "ആനന്ദം",
+    "englishText": "Her face lit up with childlike delight when she unwrapped the wooden toy.",
+    "malayalamMeaning": "തടികൊണ്ടുള്ള കളിപ്പാട്ടം അഴിച്ചപ്പോൾ അവളുടെ മുഖം കുട്ടികളുടെ സന്തോഷത്താൽ തിളങ്ങി.",
+    "usageExample": "High pleasure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "amusement",
+    "wordMeaning": "വിനോദം",
+    "englishText": "He watched the playful antics of the otter pups with evident amusement.",
+    "malayalamMeaning": "ഒട്ടർ കുഞ്ഞുങ്ങളുടെ കളിയായ കോമാളിത്തരങ്ങൾ അവൻ പ്രകടമായ വിനോദത്തോടെ വീക്ഷിച്ചു.",
+    "usageExample": "Pleasant fun.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "amazement",
+    "wordMeaning": "വിസ്മയം",
+    "englishText": "Tourists stared in absolute amazement at the architectural splendor of the temple.",
+    "malayalamMeaning": "ക്ഷേത്രത്തിൻ്റെ വാസ്തുവിദ്യാ വൈഭവത്തിൽ വിനോദസഞ്ചാരികൾ വിസ്മയത്തോടെ നോക്കിനിന്നു.",
+    "usageExample": "Astonished awe.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "bewilderment",
+    "wordMeaning": "ആശയക്കുഴപ്പം",
+    "englishText": "He scratched his head in utter bewilderment at the confusing transit map.",
+    "malayalamMeaning": "ആശയക്കുഴപ്പമുണ്ടാക്കുന്ന ട്രാൻസിറ്റ് മാപ്പിൽ അവൻ പരിഭ്രാന്തനായി തല കുലുക്കി.",
+    "usageExample": "Perplexed state.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "astonishment",
+    "wordMeaning": "വിസ്മയം",
+    "englishText": "To everyone's astonishment, the rank outsider won the state chess tournament.",
+    "malayalamMeaning": "എല്ലാവരെയും അമ്പരപ്പിച്ചുകൊണ്ട് സംസ്ഥാന ചെസ് ടൂർണമെൻ്റിൽ റാങ്ക് പുറത്തുള്ള താരം ജേതാക്കളായി.",
+    "usageExample": "Great surprise.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "perplexity",
+    "wordMeaning": "ആശയക്കുഴപ്പം",
+    "englishText": "The doctor pondered the patient's contradictory clinical symptoms with perplexity.",
+    "malayalamMeaning": "രോഗിയുടെ വൈരുദ്ധ്യാത്മക ക്ലിനിക്കൽ ലക്ഷണങ്ങളെ ഡോക്ടർ ആശയക്കുഴപ്പത്തോടെ ആലോചിച്ചു.",
+    "usageExample": "Puzzled state.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "skepticism",
+    "wordMeaning": "സംശയം",
+    "englishText": "Scientists approach extraordinary claims with rigorous, evidence-based skepticism.",
+    "malayalamMeaning": "ശാസ്ത്രജ്ഞർ അസാധാരണമായ അവകാശവാദങ്ങളെ സമീപിക്കുന്നത് കർശനമായ, തെളിവുകളെ അടിസ്ഥാനമാക്കിയുള്ള സന്ദേഹവാദത്തോടെയാണ്.",
+    "usageExample": "Doubtful inquiry.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cynicism",
+    "wordMeaning": "സിനിസിസം",
+    "englishText": "Do not let youthful idealism get corroded by worldly, unproductive cynicism.",
+    "malayalamMeaning": "ലൗകികവും ഉൽപ്പാദനക്ഷമമല്ലാത്തതുമായ സിനിസിസത്താൽ യുവത്വത്തിൻ്റെ ആദർശവാദത്തെ നശിപ്പിക്കാൻ അനുവദിക്കരുത്.",
+    "usageExample": "Distrustful scorn.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "apathy",
+    "wordMeaning": "നിസ്സംഗത",
+    "englishText": "Voter apathy is a dangerous threat to a vibrant and functioning democracy.",
+    "malayalamMeaning": "ഊർജ്ജസ്വലവും പ്രവർത്തനക്ഷമവുമായ ജനാധിപത്യത്തിന് അപകടകരമായ ഭീഷണിയാണ് വോട്ടർമാരുടെ നിസ്സംഗത.",
+    "usageExample": "Lack of caring.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "indifference",
+    "wordMeaning": "നിസ്സംഗത",
+    "englishText": "Treating the suffering of homeless people with cold indifference is cruel.",
+    "malayalamMeaning": "അശരണരായ ആളുകളുടെ കഷ്ടപ്പാടുകളോട് തണുത്ത നിസ്സംഗതയോടെ പെരുമാറുന്നത് ക്രൂരമാണ്.",
+    "usageExample": "Lack of interest.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "heartfelt",
+    "wordMeaning": "ഹൃദയംഗമമായ",
+    "englishText": "He offered a heartfelt apology that dissolved years of family misunderstanding.",
+    "malayalamMeaning": "വർഷങ്ങളായുള്ള കുടുംബത്തിലെ തെറ്റിദ്ധാരണകൾ ഇല്ലാതാക്കിയ അദ്ദേഹം ഹൃദയംഗമമായ ക്ഷമാപണം നടത്തി.",
+    "usageExample": "Deeply sincere.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "authentic",
+    "wordMeaning": "ആധികാരികമായ",
+    "englishText": "Her authentic warmth made everyone around her feel valued and respected.",
+    "malayalamMeaning": "അവളുടെ ആധികാരികമായ ഊഷ്മളത അവളുടെ ചുറ്റുമുള്ള എല്ലാവരേയും വിലമതിക്കുകയും ബഹുമാനിക്കുകയും ചെയ്തു.",
+    "usageExample": "Genuine nature.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "downcast",
+    "wordMeaning": "താഴ്ച്ച",
+    "englishText": "The boy sat with downcast eyes after losing the inter-school debate final.",
+    "malayalamMeaning": "ഇൻ്റർ സ്‌കൂൾ ഡിബേറ്റ് ഫൈനലിൽ തോറ്റതിന് ശേഷം തളർന്ന കണ്ണുകളോടെയാണ് കുട്ടി ഇരുന്നത്.",
+    "usageExample": "Dejected looking.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "dispirited",
+    "wordMeaning": "നിരാശപ്പെടുത്തി",
+    "englishText": "The team was dispirited by the early goal but fought back with fierce grit.",
+    "malayalamMeaning": "നേരത്തെ നേടിയ ഗോളിൽ ടീം നിരാശരായെങ്കിലും ശക്തമായി തിരിച്ചടിച്ചു.",
+    "usageExample": "Discouraged.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "crestfallen",
+    "wordMeaning": "കൊഴിഞ്ഞുവീണു",
+    "englishText": "He looked thoroughly crestfallen when his dream job application was rejected.",
+    "malayalamMeaning": "തൻ്റെ സ്വപ്ന ജോലി അപേക്ഷ നിരസിച്ചപ്പോൾ അയാൾ ആകെ തളർന്നുപോയതായി കാണപ്പെട്ടു.",
+    "usageExample": "Disappointed.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "exhilarated",
+    "wordMeaning": "ആഹ്ലാദഭരിതനായി",
+    "englishText": "Standing at the summit of the high mountain made the climbers feel exhilarated.",
+    "malayalamMeaning": "ഉയർന്ന പർവതത്തിൻ്റെ നെറുകയിൽ നിൽക്കുമ്പോൾ മലകയറ്റക്കാർക്ക് ആവേശം തോന്നി.",
+    "usageExample": "Electrified with joy.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "overjoyed",
+    "wordMeaning": "ആഹ്ലാദഭരിതനായി",
+    "englishText": "The grandparents were overjoyed to hold their newborn twin grandchildren.",
+    "malayalamMeaning": "നവജാതരായ ഇരട്ട പേരക്കുട്ടികളെ താങ്ങിപ്പിടിക്കുന്ന സന്തോഷത്തിലായിരുന്നു മുത്തശ്ശിമാർ.",
+    "usageExample": "Ecstatic.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "triumphant",
+    "wordMeaning": "വിജയം",
+    "englishText": "The young athlete raised her arms in a triumphant gesture as she broke the tape.",
+    "malayalamMeaning": "യുവ അത്‌ലറ്റ് ടേപ്പ് പൊട്ടിച്ചുകൊണ്ട് വിജയാഹ്ലാദത്തോടെ കൈകൾ ഉയർത്തി.",
+    "usageExample": "Victorious.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "buoyant",
+    "wordMeaning": "പൊങ്ങിക്കിടക്കുന്ന",
+    "englishText": "His naturally buoyant disposition helped the crew stay cheerful through storms.",
+    "malayalamMeaning": "അദ്ദേഹത്തിൻ്റെ സ്വാഭാവികമായും ഉന്മേഷദായകമായ സ്വഭാവം, കൊടുങ്കാറ്റുകളിൽ സന്തോഷത്തോടെ ഇരിക്കാൻ ക്രൂവിനെ സഹായിച്ചു.",
+    "usageExample": "Cheerfully resilient.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "vivacious",
+    "wordMeaning": "ചടുലമായ",
+    "englishText": "Her vivacious storytelling captivated everyone gathered around the evening hearth.",
+    "malayalamMeaning": "അവളുടെ ചടുലമായ കഥപറച്ചിൽ സായാഹ്ന അടുപ്പിന് ചുറ്റും കൂടിയിരുന്ന എല്ലാവരെയും ആകർഷിച്ചു.",
+    "usageExample": "Lively spirited.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "solemn",
+    "wordMeaning": "ഗംഭീരം",
+    "englishText": "The memorial service was conducted in an atmosphere of solemn, quiet dignity.",
+    "malayalamMeaning": "ഗംഭീരവും ശാന്തവുമായ അന്തസ്സുള്ള അന്തരീക്ഷത്തിലാണ് അനുസ്മരണ സമ്മേളനം നടന്നത്.",
+    "usageExample": "Grave and earnest.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "somber",
+    "wordMeaning": "ശാന്തമായ",
+    "englishText": "A somber mood settled over the village as news of the flood arrived.",
+    "malayalamMeaning": "വെള്ളപ്പൊക്കത്തെക്കുറിച്ചുള്ള വാർത്തകൾ വന്നതോടെ ഗ്രാമത്തിൽ ശാന്തമായ ഒരു മാനസികാവസ്ഥ നിലനിന്നു.",
+    "usageExample": "Dark and gloomy.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "wistful",
+    "wordMeaning": "കൊതിപ്പിക്കുന്ന",
+    "englishText": "She cast a wistful glance at her childhood bedroom before locking the door.",
+    "malayalamMeaning": "വാതിൽ പൂട്ടുന്നതിനുമുമ്പ് അവൾ തൻ്റെ ബാല്യകാല കിടപ്പുമുറിയിലേക്ക് ഒരു നോട്ടം നോക്കി.",
+    "usageExample": "Yearningly sad.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "yearning",
+    "wordMeaning": "കൊതിക്കുന്നു",
+    "englishText": "The immigrant felt an intense yearning for the green hills and rains of home.",
+    "malayalamMeaning": "ആ കുടിയേറ്റക്കാരന് വീടിൻ്റെ പച്ചപ്പ് നിറഞ്ഞ കുന്നുകളോടും മഴയോടും തീവ്രമായ ആഗ്രഹം തോന്നി.",
+    "usageExample": "Deep longing.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "longing",
+    "wordMeaning": "കൊതിക്കുന്നു",
+    "englishText": "A deep longing for inner peace drove him to seek a life of quiet reflection.",
+    "malayalamMeaning": "ആന്തരിക സമാധാനത്തിനായുള്ള അഗാധമായ ആഗ്രഹം, ശാന്തമായ പ്രതിഫലനത്തിൻ്റെ ജീവിതം തേടാൻ അവനെ പ്രേരിപ്പിച്ചു.",
+    "usageExample": "Earnest craving.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "heartache",
+    "wordMeaning": "ഹൃദയവേദന",
+    "englishText": "Time and loving companions gradually heal the sharp heartache of grief.",
+    "malayalamMeaning": "സമയവും സ്നേഹമുള്ള കൂട്ടാളികളും ദുഃഖത്തിൻ്റെ മൂർച്ചയുള്ള ഹൃദയവേദനയെ ക്രമേണ സുഖപ്പെടുത്തുന്നു.",
+    "usageExample": "Emotional anguish.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "grief",
+    "wordMeaning": "ദുഃഖം",
+    "englishText": "Allowing yourself to experience the natural stages of grief is part of healing.",
+    "malayalamMeaning": "ദുഃഖത്തിൻ്റെ സ്വാഭാവിക ഘട്ടങ്ങൾ അനുഭവിക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നത് രോഗശാന്തിയുടെ ഭാഗമാണ്.",
+    "usageExample": "Deep sorrow.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "mourning",
+    "wordMeaning": "വിലാപം",
+    "englishText": "The national flag was flown at half-mast as a symbol of collective mourning.",
+    "malayalamMeaning": "കൂട്ട വിലാപത്തിൻ്റെ പ്രതീകമായി ദേശീയ പതാക പകുതി താഴ്ത്തിക്കെട്ടി.",
+    "usageExample": "Grieving loss.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "consolation",
+    "wordMeaning": "ആശ്വാസം",
+    "englishText": "A friend's quiet presence offers the greatest consolation during dark hours.",
+    "malayalamMeaning": "ഒരു സുഹൃത്തിൻ്റെ ശാന്തമായ സാന്നിധ്യം ഇരുണ്ട സമയങ്ങളിൽ ഏറ്റവും വലിയ ആശ്വാസം പ്രദാനം ചെയ്യുന്നു.",
+    "usageExample": "Comfort in grief.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "compassionate",
+    "wordMeaning": "അനുകമ്പയുള്ള",
+    "englishText": "A compassionate physician treats the anxious patient, not merely the physical illness.",
+    "malayalamMeaning": "അനുകമ്പയുള്ള ഒരു വൈദ്യൻ ഉത്കണ്ഠയുള്ള രോഗിയെ ചികിത്സിക്കുന്നു, കേവലം ശാരീരിക രോഗത്തെ മാത്രമല്ല.",
+    "usageExample": "Deeply caring.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "unselfish",
+    "wordMeaning": "നിസ്വാർത്ഥ",
+    "englishText": "Her unselfish devotion to nursing her bedridden grandmother was inspiring.",
+    "malayalamMeaning": "കിടപ്പിലായ മുത്തശ്ശിയെ പരിചരിക്കുന്നതിൽ അവളുടെ നിസ്വാർത്ഥ ഭക്തി പ്രചോദനം നൽകുന്നതായിരുന്നു.",
+    "usageExample": "Altruistic.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "altruistic",
+    "wordMeaning": "പരോപകാരി",
+    "englishText": "He engaged in countless altruistic acts without ever seeking public fame.",
+    "malayalamMeaning": "അദ്ദേഹം ഒരിക്കലും പൊതു പ്രശസ്തി തേടാതെ എണ്ണമറ്റ പരോപകാര പ്രവർത്തനങ്ങളിൽ ഏർപ്പെട്ടു.",
+    "usageExample": "Selfless care.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "magnanimous",
+    "wordMeaning": "മഹാമനസ്കൻ",
+    "englishText": "In victory, the champion showed a magnanimous respect toward his defeated opponent.",
+    "malayalamMeaning": "വിജയത്തിൽ, ചാമ്പ്യൻ തോറ്റ എതിരാളിയോട് മാന്യമായ ബഹുമാനം കാണിച്ചു.",
+    "usageExample": "Nobly generous.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "solicitous",
+    "wordMeaning": "അഭ്യർത്ഥനയുള്ള",
+    "englishText": "The nurse was tenderly solicitous about the elderly patient's warmth and comfort.",
+    "malayalamMeaning": "പ്രായമായ രോഗിയുടെ ഊഷ്മളതയെയും ആശ്വാസത്തെയും കുറിച്ച് നഴ്സ് ആർദ്രമായി അഭ്യർത്ഥിച്ചു.",
+    "usageExample": "Attentively caring.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "benevolent",
+    "wordMeaning": "പരോപകാരി",
+    "englishText": "The benevolent teacher used his own savings to buy schoolbooks for poor kids.",
+    "malayalamMeaning": "ദയയുള്ള അധ്യാപകൻ സ്വന്തം സമ്പാദ്യം ഉപയോഗിച്ച് പാവപ്പെട്ട കുട്ടികൾക്ക് സ്കൂൾ പുസ്തകങ്ങൾ വാങ്ങി.",
+    "usageExample": "Kind and giving.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "unflappable",
+    "wordMeaning": "പൊള്ളാത്ത",
+    "englishText": "The flight captain remained totally unflappable during the violent turbulence.",
+    "malayalamMeaning": "അക്രമാസക്തമായ പ്രക്ഷുബ്ധാവസ്ഥയിൽ ഫ്ലൈറ്റ് ക്യാപ്റ്റൻ തീർത്തും അസ്വസ്ഥനായിരുന്നു.",
+    "usageExample": "Imperturbably calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stoic",
+    "wordMeaning": "സ്റ്റോയിക്ക്",
+    "englishText": "He bore his chronic physical ailments with dignified, silent stoic endurance.",
+    "malayalamMeaning": "തൻ്റെ വിട്ടുമാറാത്ത ശാരീരിക രോഗങ്ങളെ മാന്യവും നിശബ്ദവുമായ സഹിഷ്ണുതയോടെ അദ്ദേഹം സഹിച്ചു.",
+    "usageExample": "Indifferent to pain.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stoicism",
+    "wordMeaning": "സ്റ്റോയിസിസം",
+    "englishText": "Ancient philosophical stoicism teaches us to master our emotional reactions.",
+    "malayalamMeaning": "പുരാതന ദാർശനിക സ്റ്റോയിസിസം നമ്മുടെ വൈകാരിക പ്രതികരണങ്ങളിൽ പ്രാവീണ്യം നേടാൻ നമ്മെ പഠിപ്പിക്കുന്നു.",
+    "usageExample": "Philosophy of calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "serene",
+    "wordMeaning": "ശാന്തമായ",
+    "englishText": "The serene waters of the backwaters mirrored the golden hues of the setting sun.",
+    "malayalamMeaning": "കായലിലെ ശാന്തമായ ജലം അസ്തമയ സൂര്യൻ്റെ സ്വർണ്ണ നിറങ്ങളെ പ്രതിഫലിപ്പിച്ചു.",
+    "usageExample": "Tranquil.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "placidity",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "The placidity of the village lake was undisturbed except for swimming ducks.",
+    "malayalamMeaning": "നീന്തുന്ന താറാവുകൾ ഒഴികെ ഗ്രാമത്തിലെ തടാകത്തിൻ്റെ ശാന്തത അചഞ്ചലമായിരുന്നു.",
+    "usageExample": "Calm stillness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sangfroid",
+    "wordMeaning": "സാങ്ഫ്രോയിഡ്",
+    "englishText": "The surgeon displayed remarkable sangfroid during the sudden operative bleeding.",
+    "malayalamMeaning": "പെട്ടെന്നുള്ള ശസ്ത്രക്രിയാ രക്തസ്രാവത്തിനിടെ ശസ്ത്രക്രിയാ വിദഗ്ധൻ ശ്രദ്ധേയമായ സാങ്ഫ്രോയിഡ് പ്രദർശിപ്പിച്ചു.",
+    "usageExample": "Cold composure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "vicarious",
+    "wordMeaning": "വികാരിയായ",
+    "englishText": "Parents often experience profound vicarious joy through their children's achievements.",
+    "malayalamMeaning": "കുട്ടികളുടെ നേട്ടങ്ങളിലൂടെ മാതാപിതാക്കൾ പലപ്പോഴും അഗാധമായ വികാരഭരിതമായ സന്തോഷം അനുഭവിക്കുന്നു.",
+    "usageExample": "Felt through another.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "visceral",
+    "wordMeaning": "വിസെറൽ",
+    "englishText": "Watching the horror film evoked a visceral, heart-pounding physical reaction.",
+    "malayalamMeaning": "ഹൊറർ സിനിമ കാണുന്നത് ഹൃദയസ്പർശിയായ ഒരു ശാരീരിക പ്രതികരണം ഉളവാക്കി.",
+    "usageExample": "Deep gut feeling.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ephemeral",
+    "wordMeaning": "ക്ഷണികമായ",
+    "englishText": "Youthful vanity is ephemeral, but true character endures across decades.",
+    "malayalamMeaning": "യുവത്വത്തിൻ്റെ മായ ക്ഷണികമാണ്, എന്നാൽ യഥാർത്ഥ സ്വഭാവം പതിറ്റാണ്ടുകളോളം നിലനിൽക്കുന്നു.",
+    "usageExample": "Fleeting.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "melancholia",
+    "wordMeaning": "വിഷാദരോഗം",
+    "englishText": "The brooding landscapes in the museum reflected the painter's lifelong melancholia.",
+    "malayalamMeaning": "മ്യൂസിയത്തിലെ ബ്രൂഡിംഗ് ലാൻഡ്സ്കേപ്പുകൾ ചിത്രകാരൻ്റെ ആജീവനാന്ത വിഷാദത്തെ പ്രതിഫലിപ്പിച്ചു.",
+    "usageExample": "Deep mournfulness.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ennui",
+    "wordMeaning": "ennui",
+    "englishText": "Despite his vast inherited wealth, he suffered from a paralyzing sense of spiritual ennui.",
+    "malayalamMeaning": "പാരമ്പര്യമായി ലഭിച്ച വലിയ സമ്പത്ത് ഉണ്ടായിരുന്നിട്ടും, ആത്മീയമായ ഒരു തളർച്ച ബോധത്താൽ അദ്ദേഹം കഷ്ടപ്പെട്ടു.",
+    "usageExample": "Existential boredom.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "catharsis",
+    "wordMeaning": "കാതർസിസ്",
+    "englishText": "Weeping during the final act of the tragic play provided a healing emotional catharsis.",
+    "malayalamMeaning": "ദുരന്തനാടകത്തിൻ്റെ അവസാനഘട്ടത്തിലെ കരച്ചിൽ സുഖപ്പെടുത്തുന്ന വൈകാരിക കാതർസിസ് പ്രദാനം ചെയ്തു.",
+    "usageExample": "Emotional purging.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hubris",
+    "wordMeaning": "ഹബ്രിസ്",
+    "englishText": "Ancient Greek mythology warns that arrogant hubris invites inevitable divine retribution.",
+    "malayalamMeaning": "പുരാതന ഗ്രീക്ക് പുരാണങ്ങൾ അഹങ്കാരത്തോടെയുള്ള അഹങ്കാരം അനിവാര്യമായ ദൈവിക പ്രതികാരത്തെ ക്ഷണിച്ചുവരുത്തുന്നുവെന്ന് മുന്നറിയിപ്പ് നൽകുന്നു.",
+    "usageExample": "Excessive pride.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "antipathy",
+    "wordMeaning": "വിരോധം",
+    "englishText": "She harbored an instinctive antipathy toward dishonest, sycophantic behavior.",
+    "malayalamMeaning": "സത്യസന്ധമല്ലാത്ത, സഹജമായ പെരുമാറ്റത്തോട് അവൾ സഹജമായ വിരോധം പുലർത്തി.",
+    "usageExample": "Strong aversion.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ambivalence",
+    "wordMeaning": "അവ്യക്തത",
+    "englishText": "He felt acute ambivalence about moving abroad, torn between career and family.",
+    "malayalamMeaning": "കരിയറിനും കുടുംബത്തിനും ഇടയിൽ തകർന്ന വിദേശത്തേക്ക് മാറുന്നതിനെക്കുറിച്ച് അദ്ദേഹത്തിന് കടുത്ത അനിശ്ചിതത്വം തോന്നി.",
+    "usageExample": "Conflicted feelings.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bereavement",
+    "wordMeaning": "വിയോഗം",
+    "englishText": "The hospice provides counseling services to support families through bereavement.",
+    "malayalamMeaning": "വിയോഗത്തിലൂടെ കുടുംബങ്ങളെ സഹായിക്കാൻ ഹോസ്പിസ് കൗൺസിലിംഗ് സേവനങ്ങൾ നൽകുന്നു.",
+    "usageExample": "Loss by death.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "desolation",
+    "wordMeaning": "വിജനത",
+    "englishText": "The abandoned, drought-stricken farmland presented an image of utter desolation.",
+    "malayalamMeaning": "ഉപേക്ഷിക്കപ്പെട്ട, വരൾച്ച ബാധിച്ച കൃഷിയിടം തീർത്തും വിജനതയുടെ ഒരു ചിത്രം അവതരിപ്പിച്ചു.",
+    "usageExample": "Bleak emptiness.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "abjection",
+    "wordMeaning": "നിന്ദ",
+    "englishText": "Living in abjection and poverty did not crush her fierce inner self-respect.",
+    "malayalamMeaning": "നികൃഷ്ടതയിലും ദാരിദ്ര്യത്തിലും ജീവിക്കുന്നത് അവളുടെ ഉഗ്രമായ ആന്തരിക ആത്മാഭിമാനത്തെ തകർത്തില്ല.",
+    "usageExample": "Degraded misery.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "petulance",
+    "wordMeaning": "പെറ്റുലൻസ്",
+    "englishText": "The spoiled heir reacted with childish petulance when his demands were refused.",
+    "malayalamMeaning": "കേടായ അവകാശി തൻ്റെ ആവശ്യങ്ങൾ നിരസിച്ചപ്പോൾ ബാലിശമായ വാശിയോടെ പ്രതികരിച്ചു.",
+    "usageExample": "Peevish ill-temper.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "rancor",
+    "wordMeaning": "പക",
+    "englishText": "They resolved their property inheritance dispute without lingering bitterness or rancor.",
+    "malayalamMeaning": "അവർ തങ്ങളുടെ സ്വത്ത് അവകാശ തർക്കം കയ്പും പകയും വിട്ടുമാറാതെ പരിഹരിച്ചു.",
+    "usageExample": "Deep spiteful ill-will.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "vindictiveness",
+    "wordMeaning": "പ്രതികാരബുദ്ധി",
+    "englishText": "A mature soul rises above petty vindictiveness and chooses restorative justice.",
+    "malayalamMeaning": "പക്വതയുള്ള ഒരു ആത്മാവ് നിസ്സാരമായ പ്രതികാര മനോഭാവത്തെ മറികടന്ന് പുനഃസ്ഥാപിക്കുന്ന നീതി തിരഞ്ഞെടുക്കുന്നു.",
+    "usageExample": "Vengefulness.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "animosity",
+    "wordMeaning": "ശത്രുത",
+    "englishText": "Historical trade treaties eliminated centuries of military animosity between the nations.",
+    "malayalamMeaning": "ചരിത്രപരമായ വ്യാപാര ഉടമ്പടികൾ രാജ്യങ്ങൾ തമ്മിലുള്ള നൂറ്റാണ്ടുകളുടെ സൈനിക ശത്രുത ഇല്ലാതാക്കി.",
+    "usageExample": "Hostile hatred.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "malevolence",
+    "wordMeaning": "ദ്രോഹം",
+    "englishText": "His cold, calculating gaze seemed to harbor an unmistakable aura of malevolence.",
+    "malayalamMeaning": "അവൻ്റെ തണുത്ത, കണക്കുകൂട്ടൽ നോട്ടത്തിൽ, ദ്രോഹത്തിൻ്റെ അനിഷേധ്യമായ പ്രഭാവലയം നിഴലിക്കുന്നതായി തോന്നി.",
+    "usageExample": "Desire to cause harm.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "magnanimity",
+    "wordMeaning": "മഹാമനസ്കത",
+    "englishText": "In a display of magnanimity, the king pardoned the captured rebel leaders.",
+    "malayalamMeaning": "മഹാമനസ്കതയുടെ പ്രകടനത്തിൽ, പിടിക്കപ്പെട്ട വിമത നേതാക്കളോട് രാജാവ് ക്ഷമിച്ചു.",
+    "usageExample": "Noble generosity.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "altruism",
+    "wordMeaning": "പരോപകാരം",
+    "englishText": "Parenthood is perhaps the most profound daily expression of practical human altruism.",
+    "malayalamMeaning": "പ്രായോഗിക മാനുഷിക പരോപകാരത്തിൻ്റെ ഏറ്റവും ആഴമേറിയ ദൈനംദിന പ്രകടനമാണ് രക്ഷാകർതൃത്വം.",
+    "usageExample": "Selfless concern.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "solicitude",
+    "wordMeaning": "അഭ്യർത്ഥന",
+    "englishText": "Her deep maternal solicitude ensured that all five children flourished in life.",
+    "malayalamMeaning": "അവളുടെ ആഴത്തിലുള്ള മാതൃസഹകരണം അഞ്ച് കുട്ടികളും ജീവിതത്തിൽ അഭിവൃദ്ധി പ്രാപിച്ചുവെന്ന് ഉറപ്പാക്കി.",
+    "usageExample": "Attentive care.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "compunction",
+    "wordMeaning": "കോമ്പക്ഷൻ",
+    "englishText": "The dishonest merchant felt not the slightest compunction about overcharging tourists.",
+    "malayalamMeaning": "വിനോദസഞ്ചാരികളിൽ നിന്ന് അമിത നിരക്ക് ഈടാക്കുന്നതിൽ സത്യസന്ധതയില്ലാത്ത വ്യാപാരിക്ക് അൽപ്പം പോലും സഹതാപം തോന്നിയില്ല.",
+    "usageExample": "Qualm of conscience.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "contrition",
+    "wordMeaning": "പശ്ചാത്താപം",
+    "englishText": "His sincere tears of contrition moved the elders to grant him a second chance.",
+    "malayalamMeaning": "പശ്ചാത്താപത്തിൻ്റെ ആത്മാർത്ഥമായ കണ്ണുനീർ അദ്ദേഹത്തിന് രണ്ടാമതൊരു അവസരം നൽകാൻ മൂപ്പന്മാരെ പ്രേരിപ്പിച്ചു.",
+    "usageExample": "Sincere repentance.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "penitence",
+    "wordMeaning": "പശ്ചാത്താപം",
+    "englishText": "In a spirit of humble penitence, he dedicated his retirement to feeding the destitute.",
+    "malayalamMeaning": "എളിമയുള്ള പശ്ചാത്താപത്തിൻ്റെ ആത്മാവിൽ, അദ്ദേഹം തൻ്റെ വിരമിക്കൽ അഗതികൾക്ക് ഭക്ഷണം നൽകുന്നതിനായി സമർപ്പിച്ചു.",
+    "usageExample": "State of penance.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "consternation",
+    "wordMeaning": "പരിഭ്രാന്തി",
+    "englishText": "The unexpected cancellation of the public holiday caused great consternation among workers.",
+    "malayalamMeaning": "പൊതു അവധി അപ്രതീക്ഷിതമായി റദ്ദാക്കിയത് തൊഴിലാളികൾക്കിടയിൽ വലിയ അങ്കലാപ്പുണ്ടാക്കി.",
+    "usageExample": "Dismayed alarm.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "disquietude",
+    "wordMeaning": "അസ്വസ്ഥത",
+    "englishText": "A nagging sense of moral disquietude kept him awake long past midnight.",
+    "malayalamMeaning": "ധാർമ്മികമായ അസ്വസ്ഥതകൾ അർദ്ധരാത്രി കഴിഞ്ഞിട്ടും അവനെ ഉണർന്നില്ല.",
+    "usageExample": "Internal unease.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "perturbation",
+    "wordMeaning": "അസ്വസ്ഥത",
+    "englishText": "She received the disturbing telegram without displaying any outward perturbation.",
+    "malayalamMeaning": "ബാഹ്യപ്രക്ഷോഭമൊന്നും കാണിക്കാതെ അവൾക്ക് അസ്വസ്ഥതയുളവാക്കുന്ന ടെലിഗ്രാം ലഭിച്ചു.",
+    "usageExample": "Agitated mental state.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "foreboding",
+    "wordMeaning": "പ്രവചനം",
+    "englishText": "The eerie silence of the birds filled the villagers with a dark sense of foreboding.",
+    "malayalamMeaning": "പക്ഷികളുടെ ഭയാനകമായ നിശ്ശബ്ദത ഗ്രാമീണരിൽ ഒരു ഇരുണ്ട വികാരം നിറച്ചു.",
+    "usageExample": "Premonition of evil.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "exhilaration",
+    "wordMeaning": "ഉന്മേഷം",
+    "englishText": "Standing at the crest of the waterfall brought an exhilarating surge of vital energy.",
+    "malayalamMeaning": "വെള്ളച്ചാട്ടത്തിൻ്റെ നെറുകയിൽ നിൽക്കുമ്പോൾ ജീവൽ ഊർജ്ജത്തിൻ്റെ ഉന്മേഷദായകമായ കുതിപ്പ് ഉണ്ടായി.",
+    "usageExample": "Thrilling joy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "rhapsody",
+    "wordMeaning": "റാപ്സോഡി",
+    "englishText": "The poet composed an ecstatic rhapsody celebrating the majesty of the Western Ghats.",
+    "malayalamMeaning": "പശ്ചിമഘട്ടത്തിൻ്റെ മഹത്വം പ്രകീർത്തിച്ചുകൊണ്ട് കവി ഒരു ഉന്മേഷദായകമായ രാഗം രചിച്ചു.",
+    "usageExample": "Effusive praise.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "rapture",
+    "wordMeaning": "ആനന്ദം",
+    "englishText": "The child gazed in open rapture at the dazzling celestial fireworks display.",
+    "malayalamMeaning": "മിന്നുന്ന ആകാശ വെടിക്കെട്ടിൽ കുട്ടി തുറന്ന ആനന്ദത്തോടെ നോക്കി.",
+    "usageExample": "Transport of joy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ebullience",
+    "wordMeaning": "ഉന്മേഷം",
+    "englishText": "Her radiant ebullience charmed everyone at the diplomatic banquet dinner.",
+    "malayalamMeaning": "നയതന്ത്ര വിരുന്നിൽ അവളുടെ ഉജ്ജ്വലമായ ഉജ്ജ്വലത എല്ലാവരെയും ആകർഷിച്ചു.",
+    "usageExample": "Exuberant vitality.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "effervescence",
+    "wordMeaning": "ജ്വലനം",
+    "englishText": "Her sparkling effervescence made her the beloved center of every cultural gathering.",
+    "malayalamMeaning": "അവളുടെ മിന്നുന്ന പ്രസരിപ്പ് അവളെ എല്ലാ സാംസ്കാരിക സമ്മേളനങ്ങളുടെയും പ്രിയപ്പെട്ട കേന്ദ്രമാക്കി മാറ്റി.",
+    "usageExample": "Bubbly zest.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "exuberance",
+    "wordMeaning": "അമിതാവേശം",
+    "englishText": "The festive harvest celebration was marked by uninhibited music and youthful exuberance.",
+    "malayalamMeaning": "അനിയന്ത്രിതമായ സംഗീതവും യുവത്വത്തിൻ്റെ ആഹ്ലാദവും കൊണ്ട് ഉത്സവ വിളവെടുപ്പ് ആഘോഷം ശ്രദ്ധേയമായി.",
+    "usageExample": "Abundant spirits.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "buoyancy",
+    "wordMeaning": "ജ്വലനം",
+    "englishText": "His mental buoyancy allowed him to bounce back rapidly after financial setbacks.",
+    "malayalamMeaning": "അവൻ്റെ മാനസിക ഉന്മേഷം സാമ്പത്തിക തിരിച്ചടികൾക്ക് ശേഷം വേഗത്തിൽ തിരിച്ചുവരാൻ അവനെ അനുവദിച്ചു.",
+    "usageExample": "Resilient cheer.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "imperturbability",
+    "wordMeaning": "തടസ്സമില്ലാത്തത്",
+    "englishText": "His legendary imperturbability under intense media cross-examination was astonishing.",
+    "malayalamMeaning": "തീവ്രമായ മാധ്യമ ക്രോസ് വിസ്താരത്തിൻ കീഴിലുള്ള അദ്ദേഹത്തിൻ്റെ ഐതിഹാസികമായ അപചയം അതിശയിപ്പിക്കുന്നതായിരുന്നു.",
+    "usageExample": "Inability to be rattled.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sentimentality",
+    "wordMeaning": "വൈകാരികത",
+    "englishText": "The novel balances sweet emotional nostalgia without descending into mawkish sentimentality.",
+    "malayalamMeaning": "മൗകിഷ് വൈകാരികതയിലേക്ക് ഇറങ്ങാതെ മധുരമായ വൈകാരിക ഗൃഹാതുരത്വത്തെ നോവൽ സന്തുലിതമാക്കുന്നു.",
+    "usageExample": "Excessive emotion.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "vicariousness",
+    "wordMeaning": "വികാരിത്വം",
+    "englishText": "The vicariousness of reading allows us to experience a thousand lives in a single lifetime.",
+    "malayalamMeaning": "വായനയുടെ വൈകാരികത ഒരു ജീവിതകാലത്ത് ആയിരം ജീവിതങ്ങളെ അനുഭവിക്കാൻ നമ്മെ അനുവദിക്കുന്നു.",
+    "usageExample": "Experiencing through other.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "viscerality",
+    "wordMeaning": "വിസെറലിറ്റി",
+    "englishText": "The raw viscerality of the dramatic stage performance left the audience spellbound.",
+    "malayalamMeaning": "നാടകീയമായ സ്റ്റേജ് പ്രകടനത്തിൻ്റെ അസംസ്കൃത വിസറലിറ്റി സദസ്സിനെ വിസ്മയിപ്പിച്ചു.",
+    "usageExample": "Gut-level power.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ephemerality",
+    "wordMeaning": "ക്ഷണികത",
+    "englishText": "The poet reflected on the ephemerality of worldly glory and the permanence of love.",
+    "malayalamMeaning": "ലൗകിക മഹത്വത്തിൻ്റെ ക്ഷണികതയെയും പ്രണയത്തിൻ്റെ ശാശ്വതതയെയും കവി പ്രതിഫലിപ്പിച്ചു.",
+    "usageExample": "Transience of life.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "inscrutable",
+    "wordMeaning": "അവ്യക്തമായ",
+    "englishText": "The seasoned diplomat maintained an inscrutable countenance that revealed nothing.",
+    "malayalamMeaning": "പരിചയസമ്പന്നനായ നയതന്ത്രജ്ഞൻ ഒന്നും വെളിപ്പെടുത്താത്ത അദൃശ്യമായ മുഖഭാവം നിലനിർത്തി.",
+    "usageExample": "Impossible to read.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unflinching",
+    "wordMeaning": "അനിയന്ത്രിതമായ",
+    "englishText": "Her unflinching moral courage inspired thousands of citizens to protest injustice.",
+    "malayalamMeaning": "അവളുടെ അടങ്ങാത്ത ധാർമ്മിക ധൈര്യം അനീതിക്കെതിരെ പ്രതിഷേധിക്കാൻ ആയിരക്കണക്കിന് പൗരന്മാരെ പ്രചോദിപ്പിച്ചു.",
+    "usageExample": "Steadfast boldness.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "indomitable",
+    "wordMeaning": "അദമ്യമായ",
+    "englishText": "Mother possessed an indomitable will to ensure her children received a university education.",
+    "malayalamMeaning": "മക്കൾക്ക് സർവ്വകലാശാല വിദ്യാഭ്യാസം ഉറപ്പാക്കാൻ അമ്മയ്ക്ക് അദമ്യമായ ഇച്ഛാശക്തി ഉണ്ടായിരുന്നു.",
+    "usageExample": "Unconquerable.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "paragon",
+    "wordMeaning": "പാരാഗൺ",
+    "englishText": "He was revered as an exemplary paragon of compassion, humility, and moral integrity.",
+    "malayalamMeaning": "അനുകമ്പ, വിനയം, ധാർമ്മിക സമഗ്രത എന്നിവയുടെ മാതൃകാപരമായ മാതൃകയായി അദ്ദേഹം ആദരിക്കപ്പെട്ടു.",
+    "usageExample": "Model ideal.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "disarming",
+    "wordMeaning": "നിരായുധീകരണം",
+    "englishText": "Her disarming modesty quickly dissolved the initial hostility of the interview panel.",
+    "malayalamMeaning": "അവളുടെ നിരായുധീകരണ എളിമ ഇൻ്റർവ്യൂ പാനലിൻ്റെ പ്രാരംഭ ശത്രുതയെ പെട്ടെന്ന് ഇല്ലാതാക്കി.",
+    "usageExample": "Disarming enmity.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "felicitous",
+    "wordMeaning": "സന്തോഷകരമായ",
+    "englishText": "His felicitous remarks struck the perfect balance between gentle humor and deep reverence.",
+    "malayalamMeaning": "അദ്ദേഹത്തിൻ്റെ മഹത്തായ പരാമർശങ്ങൾ സൗമ്യമായ നർമ്മത്തിനും ആഴമായ ആദരവിനുമിടയിൽ തികഞ്ഞ സന്തുലിതാവസ്ഥ ഉണ്ടാക്കി.",
+    "usageExample": "Aptly suited.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "propitious",
+    "wordMeaning": "അനുകൂലമായ",
+    "englishText": "The clear morning skies offered a propitious beginning for the ambitious sea voyage.",
+    "malayalamMeaning": "പ്രഭാതത്തിലെ തെളിഞ്ഞ ആകാശം അതിമോഹമായ കടൽ യാത്രയ്ക്ക് അനുകൂലമായ തുടക്കം നൽകി.",
+    "usageExample": "Favorable omen.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "congenial",
+    "wordMeaning": "സൗഹാർദ്ദപരം",
+    "englishText": "We spent the evening in the most congenial company discussing art and world literature.",
+    "malayalamMeaning": "കലയെയും ലോകസാഹിത്യത്തെയും കുറിച്ച് ചർച്ച ചെയ്തുകൊണ്ട് ഞങ്ങൾ സായാഹ്നം ഏറ്റവും സൗഹാർദ്ദപരമായ കമ്പനിയിൽ ചെലവഴിച്ചു.",
+    "usageExample": "Pleasantly agreeable.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "amicable",
+    "wordMeaning": "സൗഹാർദ്ദപരമായ",
+    "englishText": "The two partners agreed to an amicable division of their commercial holdings.",
+    "malayalamMeaning": "രണ്ട് പങ്കാളികളും അവരുടെ വാണിജ്യ ഹോൾഡിംഗുകളുടെ സൗഹാർദ്ദപരമായ വിഭജനത്തിന് സമ്മതിച്ചു.",
+    "usageExample": "Friendly settlement.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "cordiality",
+    "wordMeaning": "ഹൃദ്യത",
+    "englishText": "They concluded their diplomatic summit in an atmosphere of sincere, mutual cordiality.",
+    "malayalamMeaning": "ആത്മാർത്ഥവും പരസ്പര സൗഹാർദ്ദപരവുമായ അന്തരീക്ഷത്തിൽ അവർ നയതന്ത്ര ഉച്ചകോടി അവസാനിപ്പിച്ചു.",
+    "usageExample": "Warm civility.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "circumspect",
+    "wordMeaning": "സൂക്ഷ്മത",
+    "englishText": "A wise judge is circumspect and avoids forming premature opinions before hearing evidence.",
+    "malayalamMeaning": "ജ്ഞാനിയായ ഒരു ന്യായാധിപൻ സൂക്ഷ്മത പുലർത്തുകയും തെളിവുകൾ കേൾക്കുന്നതിന് മുമ്പ് അകാല അഭിപ്രായങ്ങൾ രൂപപ്പെടുത്തുന്നത് ഒഴിവാക്കുകയും ചെയ്യുന്നു.",
+    "usageExample": "Prudently careful.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "discreet",
+    "wordMeaning": "വിവേകി",
+    "englishText": "Thank you for being discreet and guarding the confidentiality of our private talk.",
+    "malayalamMeaning": "ഞങ്ങളുടെ സ്വകാര്യ സംഭാഷണത്തിൻ്റെ രഹസ്യസ്വഭാവം കാത്തുസൂക്ഷിച്ചതിനും വിവേകിയായതിനും നന്ദി.",
+    "usageExample": "Guarding secrets.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unpretentious",
+    "wordMeaning": "ആഡംബരമില്ലാത്ത",
+    "englishText": "Despite his international fame, the author lived an unpretentious, quiet village life.",
+    "malayalamMeaning": "അന്തർദേശീയ പ്രശസ്തി ഉണ്ടായിരുന്നിട്ടും, രചയിതാവ് നിഷ്കളങ്കവും ശാന്തവുമായ ഗ്രാമജീവിതം നയിച്ചു.",
+    "usageExample": "Humble and modest.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "steadfastness",
+    "wordMeaning": "സ്ഥിരത",
+    "englishText": "The steadfastness of her loyalty to her brother through his trial was magnificent.",
+    "malayalamMeaning": "തൻ്റെ വിചാരണയിലൂടെ തൻ്റെ സഹോദരനോടുള്ള അവളുടെ വിശ്വസ്തതയുടെ അചഞ്ചലത ഗംഭീരമായിരുന്നു.",
+    "usageExample": "Unwavering loyalty.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "munificent",
+    "wordMeaning": "സമൃദ്ധമായ",
+    "englishText": "The philanthropist made a munificent endowment to build a free cancer treatment center.",
+    "malayalamMeaning": "സൗജന്യ കാൻസർ ചികിത്സാ കേന്ദ്രം നിർമ്മിക്കുന്നതിനായി മനുഷ്യസ്‌നേഹി ഒരു മഹത്തായ സംഭാവന നൽകി.",
+    "usageExample": "Extremely generous.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "gladness",
+    "wordMeaning": "സന്തോഷം",
+    "englishText": "Her heart was filled with radiant gladness as she held her grandchild.",
+    "malayalamMeaning": "പേരക്കുട്ടിയെ കൈയിലെടുക്കുമ്പോൾ അവളുടെ ഹൃദയം പ്രസന്നമായ ആനന്ദത്താൽ നിറഞ്ഞു.",
+    "usageExample": "Deep joy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "peacefulness",
+    "wordMeaning": "സമാധാനം",
+    "englishText": "The dawn meditation filled the room with an aura of unbroken peacefulness.",
+    "malayalamMeaning": "പ്രഭാത ധ്യാനം മുറിയിൽ മുറിയാത്ത ശാന്തതയുടെ പ്രഭാവത്താൽ നിറഞ്ഞു.",
+    "usageExample": "Calm state.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "yearning",
+    "wordMeaning": "കൊതിക്കുന്നു",
+    "englishText": "The homesick student felt an intense yearning for his mother's home cooking.",
+    "malayalamMeaning": "ഗൃഹാതുരനായ വിദ്യാർത്ഥിക്ക് അമ്മയുടെ വീട്ടിലെ പാചകത്തിനായി തീവ്രമായ ആഗ്രഹം തോന്നി.",
+    "usageExample": "Deep longing.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "heartache",
+    "wordMeaning": "ഹൃദയവേദന",
+    "englishText": "With time and patient companionship, the sharp heartache of loss begins to soften.",
+    "malayalamMeaning": "സമയവും ക്ഷമാപൂർവമായ സഹവാസവും, നഷ്ടത്തിൻ്റെ മൂർച്ചയുള്ള ഹൃദയവേദന മയപ്പെടുത്താൻ തുടങ്ങുന്നു.",
+    "usageExample": "Deep grief.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "wistful",
+    "wordMeaning": "കൊതിപ്പിക്കുന്ന",
+    "englishText": "She cast a wistful backward glance at the family home before driving away.",
+    "malayalamMeaning": "വണ്ടിയോടിക്കുന്നതിന് മുമ്പ് അവൾ ആ കുടുംബവീട്ടിലേക്ക് ഒരു തിരിഞ്ഞു നോട്ടം വീശി.",
+    "usageExample": "Yearningly pensive.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "equanimity",
+    "wordMeaning": "സമചിത്തത",
+    "englishText": "The venerable monk faced both lavish praise and bitter blame with equanimity.",
+    "malayalamMeaning": "ബഹുമാന്യനായ സന്യാസി ആഡംബര പ്രശംസയും കയ്പേറിയ കുറ്റപ്പെടുത്തലും സമചിത്തതയോടെ നേരിട്ടു.",
+    "usageExample": "Balanced poise.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "forbearance",
+    "wordMeaning": "സഹിഷ്ണുത",
+    "englishText": "Practicing patient forbearance prevents trivial arguments from escalating into feuds.",
+    "malayalamMeaning": "ക്ഷമയോടെയുള്ള സഹിഷ്ണുത പരിശീലിക്കുന്നത് നിസ്സാരമായ തർക്കങ്ങൾ പിണക്കത്തിലേക്ക് നീങ്ങുന്നത് തടയുന്നു.",
+    "usageExample": "Self-restraint.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "solicitude",
+    "wordMeaning": "അഭ്യർത്ഥന",
+    "englishText": "Her tender maternal solicitude was evident in every warm sweater she knitted.",
+    "malayalamMeaning": "അവൾ നെയ്തെടുത്ത ഓരോ ഊഷ്മള സ്വെറ്ററിലും അവളുടെ ആർദ്രമായ മാതൃസഹകരണം പ്രകടമായിരുന്നു.",
+    "usageExample": "Caring concern.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "magnanimity",
+    "wordMeaning": "മഹാമനസ്കത",
+    "englishText": "In a display of magnanimity, he congratulated his political rival on the victory.",
+    "malayalamMeaning": "മഹാമനസ്കതയുടെ പ്രകടനത്തിൽ, വിജയത്തിൽ തൻ്റെ രാഷ്ട്രീയ എതിരാളിയെ അദ്ദേഹം അഭിനന്ദിച്ചു.",
+    "usageExample": "Noble generosity.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unflappable",
+    "wordMeaning": "പൊള്ളാത്ത",
+    "englishText": "The captain remained completely unflappable as the storm battered the vessel.",
+    "malayalamMeaning": "കൊടുങ്കാറ്റ് കപ്പലിനെ തകർത്തതിനാൽ ക്യാപ്റ്റൻ പൂർണ്ണമായും അപ്രസക്തനായി.",
+    "usageExample": "Imperturbable.",
+    "difficulty": "ADVANCED"
+  }
+]

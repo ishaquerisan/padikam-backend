@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "health",
+    "wordMeaning": "ആരോഗ്യം",
+    "englishText": "Good health is the greatest wealth anyone can possess in life.",
+    "malayalamMeaning": "നല്ല ആരോഗ്യമാണ് ജീവിതത്തിലെ ഏറ്റവും വലിയ സമ്പത്ത്.",
+    "usageExample": "General wellness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "healthy",
+    "wordMeaning": "ആരോഗ്യമുള്ള",
+    "englishText": "Eating balanced home-cooked meals keeps your body healthy and strong.",
+    "malayalamMeaning": "വീട്ടിൽ പാകം ചെയ്ത സമീകൃത ഭക്ഷണം കഴിക്കുന്നത് നിങ്ങളുടെ ശരീരത്തെ ആരോഗ്യകരവും ശക്തവുമാക്കുന്നു.",
+    "usageExample": "In good shape.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "body",
+    "wordMeaning": "ശരീരം",
+    "englishText": "Exercise daily to maintain flexibility and strength throughout your body.",
+    "malayalamMeaning": "നിങ്ങളുടെ ശരീരത്തിലുടനീളം വഴക്കവും ശക്തിയും നിലനിർത്താൻ ദിവസവും വ്യായാമം ചെയ്യുക.",
+    "usageExample": "Physical form.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fit",
+    "wordMeaning": "അനുയോജ്യം",
+    "englishText": "Grandfather still walks five kilometers every morning to stay physically fit.",
+    "malayalamMeaning": "ശാരീരിക ക്ഷമത നിലനിർത്താൻ മുത്തച്ഛൻ ഇപ്പോഴും ദിവസവും രാവിലെ അഞ്ച് കിലോമീറ്റർ നടക്കുന്നു.",
+    "usageExample": "In shape.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "strong",
+    "wordMeaning": "ശക്തമായ",
+    "englishText": "A nutritious diet and regular workouts build strong bones and muscles.",
+    "malayalamMeaning": "പോഷകസമൃദ്ധമായ ഭക്ഷണക്രമവും ചിട്ടയായ വ്യായാമവും എല്ലുകളും പേശികളും ശക്തമാക്കുന്നു.",
+    "usageExample": "Powerful/robust.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "weak",
+    "wordMeaning": "ദുർബലമായ",
+    "englishText": "He felt weak and dizzy after fasting in the hot sun all day.",
+    "malayalamMeaning": "പകൽ മുഴുവൻ പൊരിവെയിലിൽ ഉപവസിച്ചപ്പോൾ തളർച്ചയും തലകറക്കവും അനുഭവപ്പെട്ടു.",
+    "usageExample": "Lacking strength.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sick",
+    "wordMeaning": "രോഗിയായ",
+    "englishText": "Stay home and rest if you feel sick with fever or chills.",
+    "malayalamMeaning": "നിങ്ങൾക്ക് പനിയും വിറയലും അനുഭവപ്പെടുന്നുണ്ടെങ്കിൽ വീട്ടിലിരുന്ന് വിശ്രമിക്കുക.",
+    "usageExample": "Unwell.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ill",
+    "wordMeaning": "അസുഖം",
+    "englishText": "When my brother fell critically ill, the community supported our family.",
+    "malayalamMeaning": "എൻ്റെ സഹോദരൻ ഗുരുതരാവസ്ഥയിലായപ്പോൾ സമൂഹം ഞങ്ങളുടെ കുടുംബത്തിന് താങ്ങായി.",
+    "usageExample": "Sickly state.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "disease",
+    "wordMeaning": "രോഗം",
+    "englishText": "Vaccination protects young children against infectious viral disease.",
+    "malayalamMeaning": "വാക്സിനേഷൻ ചെറിയ കുട്ടികളെ പകർച്ചവ്യാധികളിൽ നിന്ന് സംരക്ഷിക്കുന്നു.",
+    "usageExample": "Medical condition.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pain",
+    "wordMeaning": "വേദന",
+    "englishText": "Tell the doctor exactly where you feel the sharp pain in your abdomen.",
+    "malayalamMeaning": "നിങ്ങളുടെ അടിവയറ്റിലെ മൂർച്ചയുള്ള വേദന എവിടെയാണെന്ന് കൃത്യമായി ഡോക്ടറോട് പറയുക.",
+    "usageExample": "Physical ache.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hurt",
+    "wordMeaning": "വേദനിപ്പിച്ചു",
+    "englishText": "Does it hurt when I gently press around your swollen ankle?",
+    "malayalamMeaning": "നിങ്ങളുടെ വീർത്ത കണങ്കാലിന് ചുറ്റും ഞാൻ പതുക്കെ അമർത്തുമ്പോൾ വേദനയുണ്ടോ?",
+    "usageExample": "Cause discomfort.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ache",
+    "wordMeaning": "വേദന",
+    "englishText": "Sitting for eight hours with poor posture can cause a severe back ache.",
+    "malayalamMeaning": "മോശം ഭാവത്തിൽ എട്ട് മണിക്കൂർ ഇരിക്കുന്നത് കടുത്ത നടുവേദനയ്ക്ക് കാരണമാകും.",
+    "usageExample": "Dull pain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "head",
+    "wordMeaning": "തല",
+    "englishText": "Wear an insulated hat to protect your head from the scorching afternoon sun.",
+    "malayalamMeaning": "ഉച്ചതിരിഞ്ഞ് കത്തുന്ന സൂര്യനിൽ നിന്ന് നിങ്ങളുടെ തലയെ സംരക്ഷിക്കാൻ ഇൻസുലേറ്റഡ് തൊപ്പി ധരിക്കുക.",
+    "usageExample": "Cranial anatomy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "headache",
+    "wordMeaning": "തലവേദന",
+    "englishText": "Drinking a glass of cold water often relieves a dehydration headache.",
+    "malayalamMeaning": "ഒരു ഗ്ലാസ് തണുത്ത വെള്ളം കുടിക്കുന്നത് പലപ്പോഴും നിർജ്ജലീകരണം തലവേദന ഒഴിവാക്കുന്നു.",
+    "usageExample": "Head pain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "eye",
+    "wordMeaning": "കണ്ണ്",
+    "englishText": "The ophthalmologist examined her eye using a specialized slit lamp.",
+    "malayalamMeaning": "ഒരു പ്രത്യേക സ്ലിറ്റ് ലാമ്പ് ഉപയോഗിച്ച് നേത്രരോഗവിദഗ്ദ്ധൻ അവളുടെ കണ്ണ് പരിശോധിച്ചു.",
+    "usageExample": "Visual organ.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ear",
+    "wordMeaning": "ചെവി",
+    "englishText": "Clean your outer ear gently and never insert sharp objects into the ear canal.",
+    "malayalamMeaning": "നിങ്ങളുടെ പുറം ചെവി മൃദുവായി വൃത്തിയാക്കുക, മൂർച്ചയുള്ള വസ്തുക്കൾ ചെവി കനാലിലേക്ക് തിരുകരുത്.",
+    "usageExample": "Auditory organ.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tooth",
+    "wordMeaning": "പല്ല്",
+    "englishText": "Brush your teeth carefully twice a day to prevent tooth decay and cavities.",
+    "malayalamMeaning": "ദന്തക്ഷയവും ദ്വാരങ്ങളും തടയാൻ ദിവസത്തിൽ രണ്ടുതവണ ശ്രദ്ധാപൂർവ്വം പല്ല് തേക്കുക.",
+    "usageExample": "Dental unit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "toothache",
+    "wordMeaning": "പല്ലുവേദന",
+    "englishText": "A throbbing toothache made it impossible for him to sleep last night.",
+    "malayalamMeaning": "പല്ലുവേദന മൂലം ഇന്നലെ രാത്രി അദ്ദേഹത്തിന് ഉറങ്ങാൻ കഴിഞ്ഞില്ല.",
+    "usageExample": "Dental pain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "throat",
+    "wordMeaning": "തൊണ്ട",
+    "englishText": "Gargling with warm salt water soothes an irritated and scratchy throat.",
+    "malayalamMeaning": "ചെറുചൂടുള്ള ഉപ്പുവെള്ളം ഉപയോഗിച്ച് ഗാർഗ് ചെയ്യുന്നത് പ്രകോപിതവും പോറലുള്ളതുമായ തൊണ്ടയെ ശമിപ്പിക്കുന്നു.",
+    "usageExample": "Pharynx.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "neck",
+    "wordMeaning": "കഴുത്ത്",
+    "englishText": "Do gentle neck rotations to relieve tension from sitting at a computer desk.",
+    "malayalamMeaning": "കംപ്യൂട്ടർ ഡെസ്‌കിൽ ഇരിക്കുന്നതിൽ നിന്ന് പിരിമുറുക്കം ഒഴിവാക്കുന്നതിന് കഴുത്ത് മൃദുവായി തിരിക്കുക.",
+    "usageExample": "Cervical anatomy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "chest",
+    "wordMeaning": "നെഞ്ച്",
+    "englishText": "Seek immediate emergency care if you experience crushing chest pain.",
+    "malayalamMeaning": "നെഞ്ചുവേദന അനുഭവപ്പെട്ടാൽ ഉടനടി അടിയന്തര പരിചരണം തേടുക.",
+    "usageExample": "Thoracic area.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "back",
+    "wordMeaning": "തിരികെ",
+    "englishText": "Lift heavy cardboard boxes using your leg muscles rather than your lower back.",
+    "malayalamMeaning": "നിങ്ങളുടെ താഴത്തെ പുറകിലല്ല, കാലിൻ്റെ പേശികൾ ഉപയോഗിച്ച് കനത്ത കാർഡ്ബോർഡ് ബോക്സുകൾ ഉയർത്തുക.",
+    "usageExample": "Spinal area.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stomach",
+    "wordMeaning": "ആമാശയം",
+    "englishText": "Drinking ginger tea helps settle an upset stomach and aids digestion.",
+    "malayalamMeaning": "ജിഞ്ചർ ടീ കുടിക്കുന്നത് വയറിലെ അസ്വസ്ഥതകൾ പരിഹരിക്കാനും ദഹനത്തെ സഹായിക്കാനും സഹായിക്കുന്നു.",
+    "usageExample": "Abdominal organ.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stomachache",
+    "wordMeaning": "വയറുവേദന",
+    "englishText": "Eating street food from unhygienic stalls can cause a severe stomachache.",
+    "malayalamMeaning": "വൃത്തിഹീനമായ കടകളിൽ നിന്ന് തെരുവ് ഭക്ഷണം കഴിക്കുന്നത് കടുത്ത വയറുവേദനയ്ക്ക് കാരണമാകും.",
+    "usageExample": "Abdominal pain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "arm",
+    "wordMeaning": "ഭുജം",
+    "englishText": "The nurse injected the tetanus vaccine into the muscle of his upper arm.",
+    "malayalamMeaning": "നഴ്‌സ് ടെറ്റനസ് വാക്‌സിൻ അവൻ്റെ മുകൾഭാഗത്തെ പേശിയിലേക്ക് കുത്തിവച്ചു.",
+    "usageExample": "Upper limb.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hand",
+    "wordMeaning": "കൈ",
+    "englishText": "Wash your hands with soap before touching any food or eating meals.",
+    "malayalamMeaning": "ഏതെങ്കിലും ഭക്ഷണം തൊടുകയോ ഭക്ഷണം കഴിക്കുകയോ ചെയ്യുന്നതിനുമുമ്പ് സോപ്പ് ഉപയോഗിച്ച് കൈ കഴുകുക.",
+    "usageExample": "Manual extremity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "finger",
+    "wordMeaning": "വിരൽ",
+    "englishText": "He pricked his finger with a tiny needle to test his blood glucose level.",
+    "malayalamMeaning": "രക്തത്തിലെ ഗ്ലൂക്കോസിൻ്റെ അളവ് പരിശോധിക്കാൻ അവൻ ഒരു ചെറിയ സൂചി കൊണ്ട് വിരൽ കുത്തി.",
+    "usageExample": "Digit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "leg",
+    "wordMeaning": "കാൽ",
+    "englishText": "Jogging every evening strengthens your leg muscles and improves circulation.",
+    "malayalamMeaning": "എല്ലാ വൈകുന്നേരവും ജോഗിംഗ് ചെയ്യുന്നത് നിങ്ങളുടെ കാലിലെ പേശികളെ ശക്തിപ്പെടുത്തുകയും രക്തചംക്രമണം മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നു.",
+    "usageExample": "Lower limb.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "foot",
+    "wordMeaning": "കാൽ",
+    "englishText": "Diabetic patients must inspect their feet daily for cuts or blisters.",
+    "malayalamMeaning": "പ്രമേഹ രോഗികൾ ദിവസവും അവരുടെ പാദങ്ങൾ മുറിവുകളോ കുമിളകളോ ഉണ്ടോയെന്ന് പരിശോധിക്കണം.",
+    "usageExample": "Pedal extremity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "knee",
+    "wordMeaning": "മുട്ടുകുത്തി",
+    "englishText": "The orthopedic surgeon performed arthroscopic surgery on his injured knee.",
+    "malayalamMeaning": "പരിക്കേറ്റ കാൽമുട്ടിൽ ഓർത്തോപീഡിക് സർജൻ ആർത്രോസ്കോപ്പിക് ശസ്ത്രക്രിയ നടത്തി.",
+    "usageExample": "Joint.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "skin",
+    "wordMeaning": "തൊലി",
+    "englishText": "Apply soothing aloe vera gel to sunburned skin to reduce redness.",
+    "malayalamMeaning": "സൂര്യതാപമേറ്റ ചർമ്മത്തിൽ ചുവപ്പ് നിറം കുറയ്ക്കാൻ കറ്റാർ വാഴ ജെൽ പുരട്ടുക.",
+    "usageExample": "Dermal surface.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cut",
+    "wordMeaning": "വെട്ടി",
+    "englishText": "Clean the minor finger cut with antiseptic liquid and apply a clean bandage.",
+    "malayalamMeaning": "ആൻ്റിസെപ്റ്റിക് ലിക്വിഡ് ഉപയോഗിച്ച് ചെറിയ വിരൽ മുറിച്ച് വൃത്തിയാക്കി വൃത്തിയുള്ള ബാൻഡേജ് പുരട്ടുക.",
+    "usageExample": "Laceration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wound",
+    "wordMeaning": "മുറിവ്",
+    "englishText": "Keep the surgical wound dry and clean to prevent bacterial infection.",
+    "malayalamMeaning": "ബാക്ടീരിയ അണുബാധ തടയാൻ ശസ്ത്രക്രിയാ മുറിവ് ഉണക്കി വൃത്തിയായി സൂക്ഷിക്കുക.",
+    "usageExample": "Injury site.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "blood",
+    "wordMeaning": "രക്തം",
+    "englishText": "The laboratory technician drew a small vial of blood for routine testing.",
+    "malayalamMeaning": "ലബോറട്ടറി ടെക്നീഷ്യൻ സാധാരണ പരിശോധനയ്ക്കായി ഒരു ചെറിയ കുപ്പി രക്തം വരച്ചു.",
+    "usageExample": "Vital fluid.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bleed",
+    "wordMeaning": "രക്തസ്രാവം",
+    "englishText": "Apply firm, steady pressure with a sterile cloth to stop the wound from bleeding.",
+    "malayalamMeaning": "മുറിവ് രക്തസ്രാവം തടയാൻ അണുവിമുക്തമായ തുണി ഉപയോഗിച്ച് ഉറച്ചതും സ്ഥിരവുമായ മർദ്ദം പ്രയോഗിക്കുക.",
+    "usageExample": "Loss of blood.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "burn",
+    "wordMeaning": "കത്തിക്കുക",
+    "englishText": "Cool the minor steam burn under running cold tap water for ten minutes.",
+    "malayalamMeaning": "ചെറിയ നീരാവി ബേൺ തണുത്ത ടാപ്പ് വെള്ളത്തിനടിയിൽ പത്ത് മിനിറ്റ് തണുപ്പിക്കുക.",
+    "usageExample": "Thermal injury.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bruise",
+    "wordMeaning": "ചതവ്",
+    "englishText": "He developed a dark purple bruise on his forearm after bumping into the desk.",
+    "malayalamMeaning": "ഡെസ്‌കിൽ ഇടിച്ചതിന് ശേഷം അയാളുടെ കൈത്തണ്ടയിൽ ഇരുണ്ട പർപ്പിൾ ചതവ് ഉണ്ടായി.",
+    "usageExample": "Contusion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fall",
+    "wordMeaning": "വീഴുന്നു",
+    "englishText": "Elderly citizens must be careful on slippery bathroom tiles to avoid a dangerous fall.",
+    "malayalamMeaning": "അപകടകരമായ വീഴ്ച ഒഴിവാക്കാൻ പ്രായമായ പൗരന്മാർ വഴുവഴുപ്പുള്ള ബാത്ത്റൂം ടൈലുകളിൽ ശ്രദ്ധിക്കണം.",
+    "usageExample": "Accidental tumble.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "break",
+    "wordMeaning": "ബ്രേക്ക്",
+    "englishText": "The X-ray confirmed that there was no bone break in the twisted wrist.",
+    "malayalamMeaning": "വളഞ്ഞ കൈത്തണ്ടയിൽ എല്ലിന് പൊട്ടലില്ലെന്ന് എക്‌സ്‌റേ സ്ഥിരീകരിച്ചു.",
+    "usageExample": "Fracture.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bone",
+    "wordMeaning": "അസ്ഥി",
+    "englishText": "Calcium and vitamin D are essential for developing dense, healthy bones.",
+    "malayalamMeaning": "ഇടതൂർന്ന ആരോഗ്യമുള്ള അസ്ഥികൾ വികസിപ്പിക്കുന്നതിന് കാൽസ്യവും വിറ്റാമിൻ ഡിയും അത്യാവശ്യമാണ്.",
+    "usageExample": "Skeletal tissue.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cough",
+    "wordMeaning": "ചുമ",
+    "englishText": "Cover your mouth with a tissue or your elbow when you sneeze or cough.",
+    "malayalamMeaning": "നിങ്ങൾ തുമ്മുകയോ ചുമയ്ക്കുകയോ ചെയ്യുമ്പോൾ ടിഷ്യു അല്ലെങ്കിൽ കൈമുട്ട് ഉപയോഗിച്ച് വായ മൂടുക.",
+    "usageExample": "Respiratory reflex.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cold",
+    "wordMeaning": "തണുപ്പ്",
+    "englishText": "A common viral cold usually resolves within five to seven days of rest.",
+    "malayalamMeaning": "ഒരു സാധാരണ വൈറൽ ജലദോഷം സാധാരണയായി അഞ്ച് മുതൽ ഏഴ് ദിവസം വരെ വിശ്രമിച്ചാൽ പരിഹരിക്കപ്പെടും.",
+    "usageExample": "Upper respiratory virus.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sneeze",
+    "wordMeaning": "തുമ്മുക",
+    "englishText": "Dust allergies can cause you to sneeze repeatedly on dry windy days.",
+    "malayalamMeaning": "വരണ്ട കാറ്റുള്ള ദിവസങ്ങളിൽ പൊടി അലർജി നിങ്ങളെ ആവർത്തിച്ച് തുമ്മാൻ ഇടയാക്കും.",
+    "usageExample": "Nasal reflex.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fever",
+    "wordMeaning": "പനി",
+    "englishText": "A body temperature exceeding ninety-nine degrees indicates a mild fever.",
+    "malayalamMeaning": "ശരീരോഷ്മാവ് തൊണ്ണൂറ്റി ഒമ്പത് ഡിഗ്രി കവിയുന്നത് നേരിയ പനിയെ സൂചിപ്പിക്കുന്നു.",
+    "usageExample": "Elevated temp.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "temperature",
+    "wordMeaning": "താപനില",
+    "englishText": "The nurse recorded the patient's oral temperature using a digital thermometer.",
+    "malayalamMeaning": "ഒരു ഡിജിറ്റൽ തെർമോമീറ്റർ ഉപയോഗിച്ച് നഴ്സ് രോഗിയുടെ വാക്കാലുള്ള താപനില രേഖപ്പെടുത്തി.",
+    "usageExample": "Thermal degree.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "chill",
+    "wordMeaning": "തണുപ്പിക്കുക",
+    "englishText": "He wrapped himself in a woolen blanket after experiencing sudden body chills.",
+    "malayalamMeaning": "പെട്ടെന്ന് ശരീരത്തിന് തണുപ്പ് അനുഭവപ്പെട്ടതിനെ തുടർന്ന് കമ്പിളി പുതപ്പിൽ പൊതിഞ്ഞു.",
+    "usageExample": "Cold shivering.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sweat",
+    "wordMeaning": "വിയർപ്പ്",
+    "englishText": "Drenching night sweats and sudden weight loss should be checked by a doctor.",
+    "malayalamMeaning": "നനഞ്ഞ രാത്രി വിയർപ്പ്, പെട്ടെന്നുള്ള ഭാരം കുറയൽ എന്നിവ ഒരു ഡോക്ടർ പരിശോധിക്കണം.",
+    "usageExample": "Perspiration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "vomit",
+    "wordMeaning": "ഛർദ്ദിക്കുക",
+    "englishText": "Drink oral rehydration salts slowly in small sips if you vomit.",
+    "malayalamMeaning": "നിങ്ങൾ ഛർദ്ദിക്കുകയാണെങ്കിൽ വാക്കാലുള്ള റീഹൈഡ്രേഷൻ ലവണങ്ങൾ ചെറിയ സിപ്പുകളിൽ സാവധാനം കുടിക്കുക.",
+    "usageExample": "Nausea expulsion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "nausea",
+    "wordMeaning": "ഓക്കാനം",
+    "englishText": "Motion sickness pills help prevent nausea during winding mountain drives.",
+    "malayalamMeaning": "മൗണ്ടൻ ഡ്രൈവ് ചെയ്യുമ്പോൾ ഓക്കാനം ഉണ്ടാകുന്നത് തടയാൻ മോഷൻ സിക്‌നെസ് ഗുളികകൾ സഹായിക്കുന്നു.",
+    "usageExample": "Sick stomach feeling.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dizzy",
+    "wordMeaning": "തലകറക്കം",
+    "englishText": "Sit down immediately with your head between your knees if you feel dizzy.",
+    "malayalamMeaning": "തലകറക്കം അനുഭവപ്പെടുന്നുണ്ടെങ്കിൽ ഉടൻ തന്നെ നിങ്ങളുടെ തല കാൽമുട്ടുകൾക്കിടയിൽ ഇരിക്കുക.",
+    "usageExample": "Lightheaded.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "faint",
+    "wordMeaning": "തളർന്നു വീഴുന്നു",
+    "englishText": "Lack of breakfast combined with standing in the hot sun caused her to faint.",
+    "malayalamMeaning": "പ്രഭാതഭക്ഷണത്തിൻ്റെ അഭാവം കടുത്ത വെയിലിൽ നിൽക്കുന്നതും അവളെ ബോധരഹിതയാക്കി.",
+    "usageExample": "Lose consciousness.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "breathe",
+    "wordMeaning": "ശ്വസിക്കുക",
+    "englishText": "Take slow, deep breaths through your nose to calm your racing heart.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഹൃദയത്തെ ശാന്തമാക്കാൻ നിങ്ങളുടെ മൂക്കിലൂടെ സാവധാനത്തിൽ ആഴത്തിലുള്ള ശ്വാസം എടുക്കുക.",
+    "usageExample": "Inhale/exhale.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lungs",
+    "wordMeaning": "ശ്വാസകോശം",
+    "englishText": "Smoking tobacco causes irreversible long-term damage to the delicate lungs.",
+    "malayalamMeaning": "പുകയില പുകവലി, അതിലോലമായ ശ്വാസകോശത്തിന് ദീർഘകാലാടിസ്ഥാനത്തിൽ മാറ്റാനാവാത്ത നാശമുണ്ടാക്കുന്നു.",
+    "usageExample": "Breathing organs.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "heart",
+    "wordMeaning": "ഹൃദയം",
+    "englishText": "Aerobic exercise like brisk walking keeps your heart healthy and resilient.",
+    "malayalamMeaning": "വേഗത്തിലുള്ള നടത്തം പോലുള്ള എയ്റോബിക് വ്യായാമം നിങ്ങളുടെ ഹൃദയത്തെ ആരോഗ്യകരവും പ്രതിരോധശേഷിയുള്ളതുമാക്കി നിലനിർത്തുന്നു.",
+    "usageExample": "Circulatory pump.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pulse",
+    "wordMeaning": "പൾസ്",
+    "englishText": "The paramedic checked the casualty's radial pulse at the wrist.",
+    "malayalamMeaning": "പാരാമെഡിക്കൽ രോഗിയുടെ കൈത്തണ്ടയിലെ റേഡിയൽ പൾസ് പരിശോധിച്ചു.",
+    "usageExample": "Arterial beat.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sleep",
+    "wordMeaning": "ഉറങ്ങുക",
+    "englishText": "Seven to eight hours of sound sleep is critical for cell repair and recovery.",
+    "malayalamMeaning": "സെൽ റിപ്പയർ ചെയ്യുന്നതിനും വീണ്ടെടുക്കുന്നതിനും ഏഴ് മുതൽ എട്ട് മണിക്കൂർ വരെ നല്ല ഉറക്കം പ്രധാനമാണ്.",
+    "usageExample": "Night rest.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rest",
+    "wordMeaning": "വിശ്രമം",
+    "englishText": "The doctor advised absolute bed rest for three days following the concussion.",
+    "malayalamMeaning": "മസ്തിഷ്കാഘാതത്തെ തുടർന്ന് മൂന്ന് ദിവസത്തേക്ക് പൂർണ്ണമായ ബെഡ് റെസ്റ്റ് ഡോക്ടർ നിർദ്ദേശിച്ചു.",
+    "usageExample": "Inactivity recovery.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tired",
+    "wordMeaning": "തളർന്നു",
+    "englishText": "Chronic fatigue and feeling tired all the time could indicate iron anemia.",
+    "malayalamMeaning": "വിട്ടുമാറാത്ത ക്ഷീണവും എല്ലായ്‌പ്പോഴും ക്ഷീണം അനുഭവപ്പെടുന്നതും ഇരുമ്പ് വിളർച്ചയെ സൂചിപ്പിക്കാം.",
+    "usageExample": "Lacking energy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fatigue",
+    "wordMeaning": "ക്ഷീണം",
+    "englishText": "Adequate hydration and iron-rich leafy greens help combat daily fatigue.",
+    "malayalamMeaning": "ആവശ്യത്തിന് ജലാംശവും ഇരുമ്പ് അടങ്ങിയ ഇലക്കറികളും ദൈനംദിന ക്ഷീണത്തെ ചെറുക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Deep exhaustion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "diet",
+    "wordMeaning": "ഭക്ഷണക്രമം",
+    "englishText": "A colorful vegetarian diet packed with vegetables promotes long-term wellness.",
+    "malayalamMeaning": "പച്ചക്കറികൾ നിറഞ്ഞ വർണ്ണാഭമായ സസ്യാഹാരം ദീർഘകാല ആരോഗ്യം പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "usageExample": "Nutritional intake.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "medicine",
+    "wordMeaning": "മരുന്ന്",
+    "englishText": "Take this prescribed antibiotic medicine twice a day after meals.",
+    "malayalamMeaning": "ഈ നിർദ്ദേശിച്ച ആൻറിബയോട്ടിക് മരുന്ന് ഭക്ഷണത്തിന് ശേഷം ദിവസത്തിൽ രണ്ടുതവണ കഴിക്കുക.",
+    "usageExample": "Pharmaceutical.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pill",
+    "wordMeaning": "ഗുളിക",
+    "englishText": "Swallow the multivitamin pill with a full glass of lukewarm water.",
+    "malayalamMeaning": "മൾട്ടിവിറ്റമിൻ ഗുളിക ഒരു ഗ്ലാസ് ചെറുചൂടുവെള്ളത്തിൽ വിഴുങ്ങുക.",
+    "usageExample": "Solid dosage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tablet",
+    "wordMeaning": "ടാബ്ലറ്റ്",
+    "englishText": "Take one paracetamol tablet if your body temperature rises above 100 degrees.",
+    "malayalamMeaning": "ശരീര ഊഷ്മാവ് 100 ഡിഗ്രിക്ക് മുകളിലാണെങ്കിൽ ഒരു പാരസെറ്റമോൾ ഗുളിക കഴിക്കുക.",
+    "usageExample": "Compressed pill.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "capsule",
+    "wordMeaning": "കാപ്സ്യൂൾ",
+    "englishText": "The doctor prescribed an omega-3 fish oil capsule to support heart health.",
+    "malayalamMeaning": "ഹൃദയാരോഗ്യത്തെ സഹായിക്കാൻ ഡോക്ടർ ഒമേഗ-3 ഫിഷ് ഓയിൽ ക്യാപ്‌സ്യൂൾ നിർദ്ദേശിച്ചു.",
+    "usageExample": "Encased medicine.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "syrup",
+    "wordMeaning": "സിറപ്പ്",
+    "englishText": "Give the child two teaspoons of herbal cough syrup before bedtime.",
+    "malayalamMeaning": "ഉറക്കസമയം മുമ്പ് കുട്ടിക്ക് രണ്ട് ടീസ്പൂൺ ഹെർബൽ ചുമ സിറപ്പ് നൽകുക.",
+    "usageExample": "Liquid medicine.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "drop",
+    "wordMeaning": "ഡ്രോപ്പ്",
+    "englishText": "Instill two drops of antibiotic eye solution into the lower eyelid three times daily.",
+    "malayalamMeaning": "രണ്ട് തുള്ളി ആൻ്റിബയോട്ടിക് ഐ ലായനി താഴത്തെ കണ്പോളയിലേക്ക് ദിവസത്തിൽ മൂന്ന് തവണ നൽകുക.",
+    "usageExample": "Liquid drop.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cream",
+    "wordMeaning": "ക്രീം",
+    "englishText": "Apply a thin layer of moisturizing antiseptic cream over the dry rash.",
+    "malayalamMeaning": "ഉണങ്ങിയ ചുണങ്ങിനു മുകളിൽ മോയ്സ്ചറൈസിംഗ് ആൻ്റിസെപ്റ്റിക് ക്രീം നേർത്ത പാളിയായി പുരട്ടുക.",
+    "usageExample": "Topical ointment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bandage",
+    "wordMeaning": "ബാൻഡേജ്",
+    "englishText": "The nurse wrapped a sterile cotton bandage securely around the sprained wrist.",
+    "malayalamMeaning": "ഉളുക്കിയ കൈത്തണ്ടയിൽ നഴ്സ് അണുവിമുക്തമായ കോട്ടൺ ബാൻഡേജ് ഭദ്രമായി ചുറ്റി.",
+    "usageExample": "Dressing cloth.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cotton",
+    "wordMeaning": "പരുത്തി",
+    "englishText": "Dab the wound gently with sterile cotton dipped in warm antiseptic solution.",
+    "malayalamMeaning": "ചൂടുള്ള ആൻ്റിസെപ്റ്റിക് ലായനിയിൽ മുക്കിയ അണുവിമുക്തമായ കോട്ടൺ ഉപയോഗിച്ച് മുറിവ് മൃദുവായി തുടയ്ക്കുക.",
+    "usageExample": "Surgical cotton.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "plaster",
+    "wordMeaning": "കുമ്മായം",
+    "englishText": "Keep a box of adhesive medical plasters handy in your home first-aid kit.",
+    "malayalamMeaning": "നിങ്ങളുടെ വീട്ടിലെ പ്രഥമശുശ്രൂഷ കിറ്റിൽ പശയുള്ള മെഡിക്കൽ പ്ലാസ്റ്ററുകളുടെ ഒരു പെട്ടി സൂക്ഷിക്കുക.",
+    "usageExample": "Adhesive bandage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tape",
+    "wordMeaning": "ടേപ്പ്",
+    "englishText": "Use breathable micropore tape to secure the gauze pad over the incision.",
+    "malayalamMeaning": "മുറിവിൽ നെയ്തെടുത്ത പാഡ് സുരക്ഷിതമാക്കാൻ ശ്വസനയോഗ്യമായ മൈക്രോപോർ ടേപ്പ് ഉപയോഗിക്കുക.",
+    "usageExample": "Medical adhesive.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "injection",
+    "wordMeaning": "കുത്തിവയ്പ്പ്",
+    "englishText": "The nurse gave a gentle intramuscular injection into the patient's arm.",
+    "malayalamMeaning": "നഴ്സ് രോഗിയുടെ കൈയിൽ മൃദുവായ ഇൻട്രാമുസ്കുലർ കുത്തിവയ്പ്പ് നൽകി.",
+    "usageExample": "Shot administration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "needle",
+    "wordMeaning": "സൂചി",
+    "englishText": "Hospitals utilize disposable sterile needles to prevent blood-borne infections.",
+    "malayalamMeaning": "രക്തത്തിലൂടെ പകരുന്ന അണുബാധ തടയാൻ ആശുപത്രികൾ ഡിസ്പോസിബിൾ അണുവിമുക്ത സൂചികൾ ഉപയോഗിക്കുന്നു.",
+    "usageExample": "Syringe pin.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shot",
+    "wordMeaning": "വെടിവച്ചു",
+    "englishText": "Getting your annual influenza shot reduces the risk of severe chest complications.",
+    "malayalamMeaning": "നിങ്ങളുടെ വാർഷിക ഇൻഫ്ലുവൻസ ഷോട്ട് എടുക്കുന്നത് ഗുരുതരമായ നെഞ്ച് സങ്കീർണതകൾക്കുള്ള സാധ്യത കുറയ്ക്കുന്നു.",
+    "usageExample": "Vaccine shot.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "vaccine",
+    "wordMeaning": "വാക്സിൻ",
+    "englishText": "The polio vaccine has successfully eliminated the paralyzing disease across India.",
+    "malayalamMeaning": "പോളിയോ വാക്സിൻ ഇന്ത്യയിലുടനീളം തളർവാതരോഗത്തെ വിജയകരമായി ഇല്ലാതാക്കി.",
+    "usageExample": "Immunization.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "test",
+    "wordMeaning": "പരീക്ഷ",
+    "englishText": "The physician ordered a fasting blood test to monitor blood sugar levels.",
+    "malayalamMeaning": "രക്തത്തിലെ പഞ്ചസാരയുടെ അളവ് നിരീക്ഷിക്കാൻ ഫിസിഷ്യൻ ഫാസ്റ്റിംഗ് ബ്ലഡ് ടെസ്റ്റ് നിർദ്ദേശിച്ചു.",
+    "usageExample": "Medical assessment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "report",
+    "wordMeaning": "റിപ്പോർട്ട്",
+    "englishText": "Collect your diagnostic ultrasound report from the hospital front desk tomorrow.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഡയഗ്നോസ്റ്റിക് അൾട്രാസൗണ്ട് റിപ്പോർട്ട് നാളെ ഹോസ്പിറ്റൽ ഫ്രണ്ട് ഡെസ്കിൽ നിന്ന് ശേഖരിക്കുക.",
+    "usageExample": "Result document.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scan",
+    "wordMeaning": "സ്കാൻ ചെയ്യുക",
+    "englishText": "The MRI scan revealed a minor cartilage tear in the patient's knee joint.",
+    "malayalamMeaning": "എംആർഐ സ്കാനിൽ രോഗിയുടെ കാൽമുട്ട് ജോയിൻ്റിൽ ചെറിയ തരുണാസ്ഥി കീറുന്നതായി കണ്ടെത്തി.",
+    "usageExample": "Diagnostic imaging.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "x-ray",
+    "wordMeaning": "എക്സ്-റേ",
+    "englishText": "A chest X-ray was performed to rule out bacterial pneumonia infection.",
+    "malayalamMeaning": "ബാക്ടീരിയ ന്യുമോണിയ അണുബാധ ഒഴിവാക്കാൻ നെഞ്ച് എക്സ്-റേ നടത്തി.",
+    "usageExample": "Radiograph.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "doctor",
+    "wordMeaning": "ഡോക്ടർ",
+    "englishText": "Consult a certified medical doctor rather than seeking unverified internet remedies.",
+    "malayalamMeaning": "സ്ഥിരീകരിക്കാത്ത ഇൻറർനെറ്റ് പ്രതിവിധികൾ തേടുന്നതിന് പകരം ഒരു സർട്ടിഫൈഡ് മെഡിക്കൽ ഡോക്ടറെ സമീപിക്കുക.",
+    "usageExample": "Physician.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "nurse",
+    "wordMeaning": "നഴ്സ്",
+    "englishText": "The compassionate staff nurse monitored the postoperative patient's vital signs.",
+    "malayalamMeaning": "അനുകമ്പയുള്ള സ്റ്റാഫ് നഴ്‌സ് ശസ്ത്രക്രിയാനന്തര രോഗിയുടെ സുപ്രധാന അടയാളങ്ങൾ നിരീക്ഷിച്ചു.",
+    "usageExample": "Caregiver.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clinic",
+    "wordMeaning": "ക്ലിനിക്ക്",
+    "englishText": "The neighborhood medical clinic is open for consultations every morning.",
+    "malayalamMeaning": "എല്ലാ ദിവസവും രാവിലെ കൺസൾട്ടേഷനുകൾക്കായി അയൽപക്ക മെഡിക്കൽ ക്ലിനിക് തുറന്നിരിക്കുന്നു.",
+    "usageExample": "Outpatient center.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hospital",
+    "wordMeaning": "ആശുപത്രി",
+    "englishText": "The district government hospital provides free emergency trauma services.",
+    "malayalamMeaning": "ജില്ലാ സർക്കാർ ആശുപത്രിയിൽ സൗജന്യ അടിയന്തര ട്രോമ സേവനങ്ങൾ നൽകുന്നു.",
+    "usageExample": "Medical center.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ward",
+    "wordMeaning": "വാർഡ്",
+    "englishText": "The recovering patient was transferred from the ICU to the general surgical ward.",
+    "malayalamMeaning": "സുഖം പ്രാപിച്ച രോഗിയെ ഐസിയുവിൽ നിന്ന് ജനറൽ സർജിക്കൽ വാർഡിലേക്ക് മാറ്റി.",
+    "usageExample": "Hospital wing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bed",
+    "wordMeaning": "കിടക്ക",
+    "englishText": "Hospital beds feature adjustable rails to prevent accidental patient falls.",
+    "malayalamMeaning": "ആകസ്മികമായി രോഗി വീഴുന്നത് തടയാൻ ആശുപത്രി കിടക്കകളിൽ ക്രമീകരിക്കാവുന്ന റെയിലുകൾ ഉണ്ട്.",
+    "usageExample": "Clinical cot.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "appointment",
+    "wordMeaning": "നിയമനം",
+    "englishText": "Book an appointment online with the pediatric specialist for Thursday.",
+    "malayalamMeaning": "വ്യാഴാഴ്ച പീഡിയാട്രിക് സ്പെഷ്യലിസ്റ്റുമായി ഓൺലൈനായി അപ്പോയിൻ്റ്മെൻ്റ് ബുക്ക് ചെയ്യുക.",
+    "usageExample": "Scheduled visit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "date",
+    "wordMeaning": "തീയതി",
+    "englishText": "What date is your scheduled follow-up consultation with the cardiologist?",
+    "malayalamMeaning": "കാർഡിയോളജിസ്റ്റുമായി നിങ്ങളുടെ ഷെഡ്യൂൾ ചെയ്ത ഫോളോ-അപ്പ് കൺസൾട്ടേഷൻ ഏത് തീയതിയാണ്?",
+    "usageExample": "Calendar day.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "time",
+    "wordMeaning": "സമയം",
+    "englishText": "Arrive fifteen minutes before your appointment time to complete registration.",
+    "malayalamMeaning": "രജിസ്ട്രേഷൻ പൂർത്തിയാക്കാൻ നിങ്ങളുടെ അപ്പോയിൻ്റ്മെൻ്റ് സമയത്തിന് പതിനഞ്ച് മിനിറ്റ് മുമ്പ് എത്തിച്ചേരുക.",
+    "usageExample": "Clock hour.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "visit",
+    "wordMeaning": "സന്ദർശിക്കുക",
+    "englishText": "The family doctor made a compassionate home visit to check on the bedridden senior.",
+    "malayalamMeaning": "കിടപ്പിലായ വൃദ്ധയെ പരിശോധിക്കാൻ കുടുംബ ഡോക്ടർ അനുകമ്പയോടെ ഒരു വീട് സന്ദർശിച്ചു.",
+    "usageExample": "Medical check.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wait",
+    "wordMeaning": "കാത്തിരിക്കുക",
+    "englishText": "Patients waited in the air-conditioned hospital lounge until their token was called.",
+    "malayalamMeaning": "ടോക്കൺ വിളിക്കുന്നത് വരെ എയർകണ്ടീഷൻ ചെയ്ത ആശുപത്രി ലോഞ്ചിൽ രോഗികൾ കാത്തുനിന്നു.",
+    "usageExample": "Lounge pause.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "check",
+    "wordMeaning": "പരിശോധിക്കുക",
+    "englishText": "Check your blood pressure periodically to detect hypertension early.",
+    "malayalamMeaning": "രക്താതിമർദ്ദം നേരത്തേ കണ്ടുപിടിക്കാൻ ഇടയ്ക്കിടെ രക്തസമ്മർദ്ദം പരിശോധിക്കുക.",
+    "usageExample": "Examine status.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "examine",
+    "wordMeaning": "പരിശോധിക്കുക",
+    "englishText": "The physician will gently examine your throat and ears with a diagnostic light.",
+    "malayalamMeaning": "ഡയഗ്നോസ്റ്റിക് ലൈറ്റ് ഉപയോഗിച്ച് ഡോക്ടർ നിങ്ങളുടെ തൊണ്ടയും ചെവിയും സൌമ്യമായി പരിശോധിക്കും.",
+    "usageExample": "Inspect clinically.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stethoscope",
+    "wordMeaning": "സ്റ്റെതസ്കോപ്പ്",
+    "englishText": "The physician listened to heart valves and lungs using a Littmann stethoscope.",
+    "malayalamMeaning": "ലിറ്റ്മാൻ സ്റ്റെതസ്കോപ്പ് ഉപയോഗിച്ച് ഡോക്ടർ ഹൃദയ വാൽവുകളും ശ്വാസകോശങ്ങളും ശ്രദ്ധിച്ചു.",
+    "usageExample": "Listening tool.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "blood pressure",
+    "wordMeaning": "രക്തസമ്മർദ്ദം",
+    "englishText": "Maintaining a normal blood pressure reading of 120 over 80 protects kidney health.",
+    "malayalamMeaning": "സാധാരണ രക്തസമ്മർദ്ദം 120-ൽ കൂടുതൽ 80 ആയി നിലനിർത്തുന്നത് വൃക്കകളുടെ ആരോഗ്യം സംരക്ഷിക്കുന്നു.",
+    "usageExample": "BP metric.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sugar",
+    "wordMeaning": "പഞ്ചസാര",
+    "englishText": "Monitoring fasting blood sugar is indispensable for effective diabetes management.",
+    "malayalamMeaning": "ഫലപ്രദമായ പ്രമേഹ നിയന്ത്രണത്തിന് ഫാസ്റ്റിംഗ് ബ്ലഡ് ഷുഗർ നിരീക്ഷിക്കുന്നത് അത്യന്താപേക്ഷിതമാണ്.",
+    "usageExample": "Blood glucose.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "weight",
+    "wordMeaning": "ഭാരം",
+    "englishText": "Track your body weight monthly on a digital bathroom scale.",
+    "malayalamMeaning": "ഒരു ഡിജിറ്റൽ ബാത്ത്റൂം സ്കെയിലിൽ നിങ്ങളുടെ ശരീരഭാരം പ്രതിമാസം ട്രാക്ക് ചെയ്യുക.",
+    "usageExample": "Mass metric.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scale",
+    "wordMeaning": "സ്കെയിൽ",
+    "englishText": "Step onto the calibrated medical scale to record your exact body weight.",
+    "malayalamMeaning": "നിങ്ങളുടെ കൃത്യമായ ശരീരഭാരം രേഖപ്പെടുത്താൻ കാലിബ്രേറ്റഡ് മെഡിക്കൽ സ്കെയിലിലേക്ക് ചുവടുവെക്കുക.",
+    "usageExample": "Weighing tool.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "height",
+    "wordMeaning": "ഉയരം",
+    "englishText": "The pediatric nurse recorded the toddler's height on the growth percentile chart.",
+    "malayalamMeaning": "വളർച്ചാ പെർസെൻറ്റൈൽ ചാർട്ടിൽ പീഡിയാട്രിക് നഴ്‌സ് പിഞ്ചുകുഞ്ഞിൻ്റെ ഉയരം രേഖപ്പെടുത്തി.",
+    "usageExample": "Stature metric.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "recover",
+    "wordMeaning": "വീണ്ടെടുക്കുക",
+    "englishText": "With adequate hydration and sleep, most viral infections recover within a week.",
+    "malayalamMeaning": "മതിയായ ജലാംശവും ഉറക്കവും ഉള്ളതിനാൽ, മിക്ക വൈറൽ അണുബാധകളും ഒരാഴ്ചയ്ക്കുള്ളിൽ സുഖം പ്രാപിക്കുന്നു.",
+    "usageExample": "Heal/get well.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "heal",
+    "wordMeaning": "സുഖപ്പെടുത്തുക",
+    "englishText": "The clean surgical incision began to heal smoothly without any redness.",
+    "malayalamMeaning": "വൃത്തിയുള്ള ശസ്ത്രക്രിയാ മുറിവ് യാതൊരു ചുവപ്പും കൂടാതെ സുഗമമായി സുഖപ്പെടുത്താൻ തുടങ്ങി.",
+    "usageExample": "Tissue repair.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cure",
+    "wordMeaning": "രോഗശമനം",
+    "englishText": "Early detection is the single most important factor in achieving a complete cancer cure.",
+    "malayalamMeaning": "സമ്പൂർണ്ണ അർബുദ ചികിത്സ നേടുന്നതിനുള്ള ഏറ്റവും പ്രധാനപ്പെട്ട ഘടകമാണ് നേരത്തെയുള്ള കണ്ടെത്തൽ.",
+    "usageExample": "Eradicate disease.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "care",
+    "wordMeaning": "പരിചരണം",
+    "englishText": "Palliative home care teams offer dignity and comfort to terminal patients.",
+    "malayalamMeaning": "പാലിയേറ്റീവ് ഹോം കെയർ ടീമുകൾ ടെർമിനൽ രോഗികൾക്ക് മാന്യതയും ആശ്വാസവും നൽകുന്നു.",
+    "usageExample": "Medical looking-after.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "safe",
+    "wordMeaning": "സുരക്ഷിതം",
+    "englishText": "Keep all prescription medications safely out of reach of curious young children.",
+    "malayalamMeaning": "എല്ലാ കുറിപ്പടി മരുന്നുകളും ജിജ്ഞാസുക്കളായ കൊച്ചുകുട്ടികളിൽ നിന്ന് സുരക്ഷിതമായി സൂക്ഷിക്കുക.",
+    "usageExample": "Secure.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clean",
+    "wordMeaning": "ശുദ്ധമായ",
+    "englishText": "Wash the bite wound thoroughly with clean running water and antibacterial soap.",
+    "malayalamMeaning": "ശുദ്ധമായ ഒഴുകുന്ന വെള്ളവും ആൻറി ബാക്ടീരിയൽ സോപ്പും ഉപയോഗിച്ച് കടിയേറ്റ മുറിവ് നന്നായി കഴുകുക.",
+    "usageExample": "Free of germs.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mask",
+    "wordMeaning": "മുഖംമൂടി",
+    "englishText": "Wearing an N95 protective mask reduces exposure to airborne viral droplets.",
+    "malayalamMeaning": "N95 സംരക്ഷണ മാസ്ക് ധരിക്കുന്നത് വായുവിലൂടെയുള്ള വൈറൽ തുള്ളികളുമായുള്ള സമ്പർക്കം കുറയ്ക്കുന്നു.",
+    "usageExample": "Face covering.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fresh",
+    "wordMeaning": "പുതിയത്",
+    "englishText": "Breathe in the clean, fresh mountain air to expand your lung capacity.",
+    "malayalamMeaning": "നിങ്ങളുടെ ശ്വാസകോശ ശേഷി വർദ്ധിപ്പിക്കുന്നതിന് ശുദ്ധവും ശുദ്ധവുമായ പർവത വായു ശ്വസിക്കുക.",
+    "usageExample": "Unpolluted.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "walk",
+    "wordMeaning": "നടക്കുക",
+    "englishText": "A brisk thirty-minute daily walk lowers cardiovascular risk by thirty percent.",
+    "malayalamMeaning": "ദിവസേനയുള്ള വേഗത്തിലുള്ള മുപ്പത് മിനിറ്റ് നടത്തം ഹൃദയസംബന്ധമായ അപകടസാധ്യത മുപ്പത് ശതമാനം കുറയ്ക്കുന്നു.",
+    "usageExample": "Pedestrian exercise.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "exercise",
+    "wordMeaning": "വ്യായാമം",
+    "englishText": "Regular physical exercise improves insulin sensitivity and lifts mood.",
+    "malayalamMeaning": "പതിവ് ശാരീരിക വ്യായാമം ഇൻസുലിൻ സംവേദനക്ഷമത മെച്ചപ്പെടുത്തുകയും മാനസികാവസ്ഥ ഉയർത്തുകയും ചെയ്യുന്നു.",
+    "usageExample": "Physical activity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "yoga",
+    "wordMeaning": "യോഗ",
+    "englishText": "Daily morning yoga practice enhances spinal flexibility and mental calmness.",
+    "malayalamMeaning": "ദിവസവും രാവിലെയുള്ള യോഗാഭ്യാസം നട്ടെല്ലിൻ്റെ വഴക്കവും മാനസിക ശാന്തതയും വർദ്ധിപ്പിക്കുന്നു.",
+    "usageExample": "Mind-body discipline.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "run",
+    "wordMeaning": "ഓടുക",
+    "englishText": "Do not run on hard concrete surfaces without cushioned athletic running shoes.",
+    "malayalamMeaning": "കുഷ്യൻ അത്‌ലറ്റിക് റണ്ണിംഗ് ഷൂകളില്ലാതെ കട്ടിയുള്ള കോൺക്രീറ്റ് പ്രതലങ്ങളിൽ ഓടരുത്.",
+    "usageExample": "Jog swiftly.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "calm",
+    "wordMeaning": "ശാന്തം",
+    "englishText": "Remaining calm during an asthmatic flare-up helps keep the airway relaxed.",
+    "malayalamMeaning": "ആസ്ത്‌മാറ്റിക് ജ്വലന സമയത്ത് ശാന്തത പാലിക്കുന്നത് ശ്വാസനാളത്തെ വിശ്രമിക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Unpanicked.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "smile",
+    "wordMeaning": "പുഞ്ചിരി",
+    "englishText": "A cheerful smile from the doctor gave the anxious patient immense reassurance.",
+    "malayalamMeaning": "ഡോക്ടറുടെ പ്രസന്നമായ പുഞ്ചിരി ഉത്കണ്ഠാകുലനായ രോഗിക്ക് അപാരമായ ഉറപ്പ് നൽകി.",
+    "usageExample": "Warm expression.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "life",
+    "wordMeaning": "ജീവിതം",
+    "englishText": "Adopting healthy lifestyle habits adds both vibrant years to life and life to years.",
+    "malayalamMeaning": "ആരോഗ്യകരമായ ജീവിതശൈലി ശീലങ്ങൾ സ്വീകരിക്കുന്നത് ജീവസുറ്റ വർഷങ്ങളിലേക്കും ജീവിതത്തെ വർഷങ്ങളിലേക്കും ചേർക്കുന്നു.",
+    "usageExample": "Vital existence.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "allergy",
+    "wordMeaning": "അലർജി",
+    "englishText": "She developed a mild skin allergy after eating shellfish at the seaside restaurant.",
+    "malayalamMeaning": "കടൽത്തീരത്തെ റെസ്റ്റോറൻ്റിൽ നിന്ന് ഷെൽഫിഷ് കഴിച്ചതിന് ശേഷം അവൾക്ക് നേരിയ തോതിൽ ചർമ്മ അലർജി ഉണ്ടായി.",
+    "usageExample": "Hypersensitivity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rash",
+    "wordMeaning": "ചുണങ്ങു",
+    "englishText": "Apply soothing calamine lotion over the itchy red heat rash on your neck.",
+    "malayalamMeaning": "നിങ്ങളുടെ കഴുത്തിലെ ചൊറിച്ചിൽ ചുവന്ന ചൂടുള്ള ചുണങ്ങിൽ ശാന്തമായ കാലാമൈൻ ലോഷൻ പുരട്ടുക.",
+    "usageExample": "Skin outbreak.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "itch",
+    "wordMeaning": "ചൊറിച്ചിൽ",
+    "englishText": "Resist the urge to scratch the mosquito bite to avoid secondary bacterial infection.",
+    "malayalamMeaning": "ദ്വിതീയ ബാക്ടീരിയ അണുബാധ ഒഴിവാക്കാൻ കൊതുക് കടിയേറ്റാൽ മാന്തികുഴിയുണ്ടാക്കാനുള്ള ആഗ്രഹം ചെറുക്കുക.",
+    "usageExample": "Pruritus.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scratch",
+    "wordMeaning": "സ്ക്രാച്ച്",
+    "englishText": "The cat gave him a superficial scratch on his hand, which was treated with Betadine.",
+    "malayalamMeaning": "പൂച്ച അവൻ്റെ കൈയിൽ ഒരു ഉപരിപ്ലവമായ പോറൽ നൽകി, അത് ബെറ്റാഡിൻ ഉപയോഗിച്ച് ചികിത്സിച്ചു.",
+    "usageExample": "Minor laceration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sprain",
+    "wordMeaning": "ഉളുക്ക്",
+    "englishText": "Ice the sprained ankle immediately to reduce painful joint swelling.",
+    "malayalamMeaning": "വേദനാജനകമായ സന്ധി വീക്കം കുറയ്ക്കാൻ ഉളുക്കിയ കണങ്കാൽ ഉടൻ ഐസ് ചെയ്യുക.",
+    "usageExample": "Ligament injury.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "strain",
+    "wordMeaning": "ബുദ്ധിമുട്ട്",
+    "englishText": "He suffered a hamstring muscle strain while sprinting in the football match.",
+    "malayalamMeaning": "ഫുട്ബോൾ മത്സരത്തിൽ സ്പ്രിൻ്റിങ്ങിനിടെ അദ്ദേഹത്തിന് ഹാംസ്ട്രിംഗ് പേശി വലിവ് അനുഭവപ്പെട്ടു.",
+    "usageExample": "Muscle tear.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fracture",
+    "wordMeaning": "ഒടിവ്",
+    "englishText": "The orthopedic surgeon placed a lightweight fiberglass cast on the forearm fracture.",
+    "malayalamMeaning": "ഓർത്തോപീഡിക് സർജൻ കൈത്തണ്ടയുടെ ഒടിവിൽ കനംകുറഞ്ഞ ഫൈബർഗ്ലാസ് ഇട്ടു.",
+    "usageExample": "Bone break.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cast",
+    "wordMeaning": "കാസ്റ്റ്",
+    "englishText": "Keep the plaster cast dry while showering by wrapping it in plastic.",
+    "malayalamMeaning": "കുളിക്കുമ്പോൾ പ്ലാസ്റ്റർ കാസ്റ്റ് പ്ലാസ്റ്റിക്കിൽ പൊതിഞ്ഞ് ഉണക്കി സൂക്ഷിക്കുക.",
+    "usageExample": "Orthopedic wrap.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "crutch",
+    "wordMeaning": "ഊന്നുവടി",
+    "englishText": "He used a pair of aluminum crutches to walk while his broken ankle healed.",
+    "malayalamMeaning": "തകർന്ന കണങ്കാൽ സുഖം പ്രാപിച്ചപ്പോൾ നടക്കാൻ അദ്ദേഹം ഒരു ജോടി അലുമിനിയം ക്രച്ചുകൾ ഉപയോഗിച്ചു.",
+    "usageExample": "Walking support.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wheelchair",
+    "wordMeaning": "വീൽചെയർ",
+    "englishText": "The airport staff provided a wheelchair to assist the elderly passenger.",
+    "malayalamMeaning": "വയോധികനായ യാത്രക്കാരനെ സഹായിക്കാൻ എയർപോർട്ട് ജീവനക്കാർ വീൽചെയർ നൽകി.",
+    "usageExample": "Mobility chair.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stretcher",
+    "wordMeaning": "സ്ട്രെച്ചർ",
+    "englishText": "Paramedics carefully transferred the road accident casualty onto a padded stretcher.",
+    "malayalamMeaning": "പാരാമെഡിക്കുകൾ ശ്രദ്ധാപൂർവം റോഡ് അപകടത്തിൽപ്പെട്ടയാളെ പാഡഡ് സ്‌ട്രെച്ചറിലേക്ക് മാറ്റി.",
+    "usageExample": "Litter bed.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ambulance",
+    "wordMeaning": "ആംബുലൻസ്",
+    "englishText": "Yield right of way immediately when an emergency ambulance blares its siren.",
+    "malayalamMeaning": "ഒരു എമർജൻസി ആംബുലൻസ് സൈറൺ മുഴക്കുമ്പോൾ ഉടൻ തന്നെ വഴിയിൽ നിന്ന് പുറപ്പെടുക.",
+    "usageExample": "Emergency vehicle.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "first-aid",
+    "wordMeaning": "പ്രഥമശുശ്രൂഷ",
+    "englishText": "Every vehicle should carry a well-stocked emergency first-aid kit in the trunk.",
+    "malayalamMeaning": "എല്ലാ വാഹനങ്ങളും നല്ല സ്റ്റോക്ക് ചെയ്ത എമർജൻസി ഫസ്റ്റ് എയ്ഡ് കിറ്റ് ട്രങ്കിൽ കരുതണം.",
+    "usageExample": "Immediate care kit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ointment",
+    "wordMeaning": "തൈലം",
+    "englishText": "Rub the analgesic ointment gently into the stiff shoulder muscles.",
+    "malayalamMeaning": "വേദനസംഹാരിയായ തൈലം കഠിനമായ തോളിലെ പേശികളിൽ മൃദുവായി തടവുക.",
+    "usageExample": "Medicinal paste.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lotion",
+    "wordMeaning": "ലോഷൻ",
+    "englishText": "Calamine lotion calms allergic skin itching caused by insect stings.",
+    "malayalamMeaning": "പ്രാണികളുടെ കുത്ത് മൂലമുണ്ടാകുന്ന അലർജി ചർമ്മ ചൊറിച്ചിൽ കാലാമൈൻ ലോഷൻ ശാന്തമാക്കുന്നു.",
+    "usageExample": "Liquid topical.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dosage",
+    "wordMeaning": "അളവ്",
+    "englishText": "Never exceed the recommended dosage of paracetamol printed on the box.",
+    "malayalamMeaning": "ബോക്‌സിൽ പ്രിൻ്റ് ചെയ്‌തിരിക്കുന്ന പാരസെറ്റമോളിൻ്റെ ശുപാർശ ഡോസ് ഒരിക്കലും കവിയരുത്.",
+    "usageExample": "Medicine measure.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pharmacy",
+    "wordMeaning": "ഫാർമസി",
+    "englishText": "Collect your prescription medicines from the 24-hour hospital pharmacy counter.",
+    "malayalamMeaning": "24 മണിക്കൂറും പ്രവർത്തിക്കുന്ന ആശുപത്രി ഫാർമസി കൗണ്ടറിൽ നിന്ന് നിങ്ങളുടെ കുറിപ്പടി മരുന്നുകൾ ശേഖരിക്കുക.",
+    "usageExample": "Chemist dispensary.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "chemist",
+    "wordMeaning": "രസതന്ത്രജ്ഞൻ",
+    "englishText": "The friendly local chemist explained how to take the prescribed iron supplements.",
+    "malayalamMeaning": "നിർദ്ദേശിച്ച ഇരുമ്പ് സപ്ലിമെൻ്റുകൾ എങ്ങനെ കഴിക്കാമെന്ന് സൗഹൃദ പ്രാദേശിക രസതന്ത്രജ്ഞൻ വിശദീകരിച്ചു.",
+    "usageExample": "Pharmacist.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "prescription",
+    "wordMeaning": "കുറിപ്പടി",
+    "englishText": "The pharmacist requires an official doctor's prescription to dispense antibiotics.",
+    "malayalamMeaning": "ആൻറിബയോട്ടിക്കുകൾ വിതരണം ചെയ്യാൻ ഫാർമസിസ്റ്റിന് ഒരു ഔദ്യോഗിക ഡോക്ടറുടെ കുറിപ്പടി ആവശ്യമാണ്.",
+    "usageExample": "Doctor's script.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "consult",
+    "wordMeaning": "കൂടിയാലോചിക്കുക",
+    "englishText": "Consult a registered medical specialist before starting any new herbal supplements.",
+    "malayalamMeaning": "ഏതെങ്കിലും പുതിയ ഹെർബൽ സപ്ലിമെൻ്റുകൾ ആരംഭിക്കുന്നതിന് മുമ്പ് ഒരു രജിസ്റ്റർ ചെയ്ത മെഡിക്കൽ സ്പെഷ്യലിസ്റ്റുമായി ബന്ധപ്പെടുക.",
+    "usageExample": "Seek advice.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "refer",
+    "wordMeaning": "റഫർ ചെയ്യുക",
+    "englishText": "The general physician decided to refer the complex cardiac case to a specialist.",
+    "malayalamMeaning": "സങ്കീർണ്ണമായ കാർഡിയാക് കേസ് ഒരു സ്പെഷ്യലിസ്റ്റിലേക്ക് റഫർ ചെയ്യാൻ ജനറൽ ഫിസിഷ്യൻ തീരുമാനിച്ചു.",
+    "usageExample": "Direct to expert.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "specialist",
+    "wordMeaning": "സ്പെഷ്യലിസ്റ്റ്",
+    "englishText": "She scheduled a consultation with a pediatric specialist in child development.",
+    "malayalamMeaning": "ചൈൽഡ് ഡെവലപ്‌മെൻ്റിൽ ഒരു പീഡിയാട്രിക് സ്പെഷ്യലിസ്റ്റുമായി അവൾ ഒരു കൺസൾട്ടേഷൻ ഷെഡ്യൂൾ ചെയ്തു.",
+    "usageExample": "Expert doctor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "surgeon",
+    "wordMeaning": "സർജൻ",
+    "englishText": "The skilled neurosurgeon performed the delicate brain procedure with total precision.",
+    "malayalamMeaning": "വിദഗ്ധനായ ന്യൂറോസർജൻ മസ്തിഷ്കത്തിലെ സൂക്ഷ്മമായ നടപടിക്രമം പൂർണ്ണ കൃത്യതയോടെ നടത്തി.",
+    "usageExample": "Operative physician.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "surgery",
+    "wordMeaning": "ശസ്ത്രക്രിയ",
+    "englishText": "Minimally invasive laparoscopic surgery ensures smaller incisions and faster recovery.",
+    "malayalamMeaning": "ചുരുങ്ങിയ മുറിവുകളുള്ള ലാപ്രോസ്കോപ്പിക് ശസ്ത്രക്രിയ ചെറിയ മുറിവുകളും വേഗത്തിലുള്ള വീണ്ടെടുക്കലും ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Operative procedure.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "operation",
+    "wordMeaning": "ഓപ്പറേഷൻ",
+    "englishText": "The three-hour heart bypass operation was completed successfully with no complications.",
+    "malayalamMeaning": "മൂന്ന് മണിക്കൂർ നീണ്ട ഹൃദയ ബൈപാസ് ഓപ്പറേഷൻ സങ്കീർണതകളില്ലാതെ വിജയകരമായി പൂർത്തിയാക്കി.",
+    "usageExample": "Surgical procedure.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "physician",
+    "wordMeaning": "വൈദ്യൻ",
+    "englishText": "A trusted family physician understands your complete multi-generational medical history.",
+    "malayalamMeaning": "വിശ്വസ്തനായ ഒരു ഫാമിലി ഫിസിഷ്യൻ നിങ്ങളുടെ പൂർണ്ണമായ ഒന്നിലധികം തലമുറകളുടെ മെഡിക്കൽ ചരിത്രം മനസ്സിലാക്കുന്നു.",
+    "usageExample": "Medical doctor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dentist",
+    "wordMeaning": "ദന്തഡോക്ടർ",
+    "englishText": "Visit your dentist every six months for routine scaling and cavity checks.",
+    "malayalamMeaning": "പതിവ് സ്കെയിലിംഗിനും കാവിറ്റി ചെക്കിനുമായി ഓരോ ആറ് മാസത്തിലും നിങ്ങളുടെ ദന്തരോഗവിദഗ്ദ്ധനെ സന്ദർശിക്കുക.",
+    "usageExample": "Tooth doctor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "therapy",
+    "wordMeaning": "തെറാപ്പി",
+    "englishText": "Post-stroke physical therapy helps patients regain lost speech and mobility.",
+    "malayalamMeaning": "പോസ്റ്റ്-സ്ട്രോക്ക് ഫിസിക്കൽ തെറാപ്പി, നഷ്ടപ്പെട്ട സംസാരശേഷിയും ചലനശേഷിയും വീണ്ടെടുക്കാൻ രോഗികളെ സഹായിക്കുന്നു.",
+    "usageExample": "Rehabilitative treatment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "symptom",
+    "wordMeaning": "ലക്ഷണം",
+    "englishText": "Chest tightness and shortness of breath are red-flag symptoms requiring emergency care.",
+    "malayalamMeaning": "നെഞ്ചുവേദനയും ശ്വാസതടസ്സവും ചുവന്ന പതാകയുടെ ലക്ഷണങ്ങളാണ്, അടിയന്തിര പരിചരണം ആവശ്യമാണ്.",
+    "usageExample": "Sign of disease.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "diagnosis",
+    "wordMeaning": "രോഗനിർണയം",
+    "englishText": "Advanced MRI neuroimaging confirmed the neurologist's initial clinical diagnosis.",
+    "malayalamMeaning": "വിപുലമായ എംആർഐ ന്യൂറോ ഇമേജിംഗ് ന്യൂറോളജിസ്റ്റിൻ്റെ പ്രാഥമിക ക്ലിനിക്കൽ രോഗനിർണയം സ്ഥിരീകരിച്ചു.",
+    "usageExample": "Identifying ailment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pharmacist",
+    "wordMeaning": "ഫാർമസിസ്റ്റ്",
+    "englishText": "The clinical pharmacist double-checked the drug interaction between the medications.",
+    "malayalamMeaning": "ക്ലിനിക്കൽ ഫാർമസിസ്റ്റ് മരുന്നുകൾ തമ്മിലുള്ള മയക്കുമരുന്ന് ഇടപെടൽ രണ്ടുതവണ പരിശോധിച്ചു.",
+    "usageExample": "Druggist.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "consultation",
+    "wordMeaning": "കൂടിയാലോചന",
+    "englishText": "The initial psychiatric consultation lasted forty-five minutes in a private room.",
+    "malayalamMeaning": "പ്രാഥമിക മനഃശാസ്ത്ര കൺസൾട്ടേഷൻ ഒരു സ്വകാര്യ മുറിയിൽ നാൽപ്പത്തിയഞ്ച് മിനിറ്റ് നീണ്ടുനിന്നു.",
+    "usageExample": "Doctor session.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pediatrician",
+    "wordMeaning": "ശിശുരോഗവിദഗ്ദ്ധൻ",
+    "englishText": "The pediatrician checked the newborn baby's reflex responses and head circumference.",
+    "malayalamMeaning": "ശിശുരോഗവിദഗ്ദ്ധൻ നവജാത ശിശുവിൻ്റെ റിഫ്ലെക്സ് പ്രതികരണങ്ങളും തലയുടെ ചുറ്റളവും പരിശോധിച്ചു.",
+    "usageExample": "Children's doctor.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cardiologist",
+    "wordMeaning": "കാർഡിയോളജിസ്റ്റ്",
+    "englishText": "The cardiologist recommended a coronary angiogram following an abnormal treadmill test.",
+    "malayalamMeaning": "അസാധാരണമായ ട്രെഡ്‌മിൽ പരിശോധനയെത്തുടർന്ന് കാർഡിയോളജിസ്റ്റ് കൊറോണറി ആൻജിയോഗ്രാം ശുപാർശ ചെയ്തു.",
+    "usageExample": "Heart specialist.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "dermatologist",
+    "wordMeaning": "ഡെർമറ്റോളജിസ്റ്റ്",
+    "englishText": "Consult a dermatologist if you notice changing borders on an existing skin mole.",
+    "malayalamMeaning": "നിലവിലുള്ള സ്കിൻ മോളിൽ ബോർഡറുകൾ മാറുന്നത് ശ്രദ്ധയിൽപ്പെട്ടാൽ ഒരു ഡെർമറ്റോളജിസ്റ്റിനെ സമീപിക്കുക.",
+    "usageExample": "Skin specialist.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "orthopedist",
+    "wordMeaning": "ഓർത്തോപീഡിസ്റ്റ്",
+    "englishText": "The orthopedist fitted a customized knee brace to stabilize the torn ligament.",
+    "malayalamMeaning": "കീറിപ്പോയ ലിഗമെൻ്റിനെ സ്ഥിരപ്പെടുത്താൻ ഓർത്തോപീഡിസ്റ്റ് ഇഷ്‌ടാനുസൃതമാക്കിയ കാൽമുട്ട് ബ്രേസ് ഘടിപ്പിച്ചു.",
+    "usageExample": "Bone specialist.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ophthalmologist",
+    "wordMeaning": "ഒഫ്താൽമോളജിസ്റ്റ്",
+    "englishText": "The ophthalmologist performed painless laser surgery to correct severe nearsightedness.",
+    "malayalamMeaning": "നേത്രരോഗവിദഗ്ദ്ധൻ വേദനയില്ലാത്ത ലേസർ സർജറി നടത്തി, കടുത്ത സമീപദൃഷ്ടി പരിഹരിക്കാൻ.",
+    "usageExample": "Eye surgeon.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "psychiatrist",
+    "wordMeaning": "മനോരോഗ വിദഗ്ധൻ",
+    "englishText": "A licensed psychiatrist can prescribe mood-stabilizing medications for bipolar disorder.",
+    "malayalamMeaning": "ലൈസൻസുള്ള ഒരു സൈക്യാട്രിസ്റ്റിന് ബൈപോളാർ ഡിസോർഡറിന് മൂഡ്-സ്റ്റെബിലൈസിംഗ് മരുന്നുകൾ നിർദ്ദേശിക്കാൻ കഴിയും.",
+    "usageExample": "Mental health MD.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "psychologist",
+    "wordMeaning": "മനശാസ്ത്രജ്ഞൻ",
+    "englishText": "Meeting weekly with a clinical psychologist helps cultivate healthy cognitive coping habits.",
+    "malayalamMeaning": "ഒരു ക്ലിനിക്കൽ സൈക്കോളജിസ്റ്റുമായി ആഴ്ചതോറുമുള്ള കൂടിക്കാഴ്ച ആരോഗ്യകരമായ കോഗ്നിറ്റീവ് കോപ്പിംഗ് ശീലങ്ങൾ വളർത്തിയെടുക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Therapy doctor.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "rehabilitation",
+    "wordMeaning": "പുനരധിവാസം",
+    "englishText": "The cardiac rehabilitation program combines supervised exercise with dietary counseling.",
+    "malayalamMeaning": "കാർഡിയാക് റീഹാബിലിറ്റേഷൻ പ്രോഗ്രാം മേൽനോട്ടത്തിലുള്ള വ്യായാമവും ഡയറ്ററി കൗൺസിലിംഗും സംയോജിപ്പിക്കുന്നു.",
+    "usageExample": "Recovery program.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "physiotherapy",
+    "wordMeaning": "ഫിസിയോതെറാപ്പി",
+    "englishText": "Daily physiotherapy exercises restored full range of motion to his injured shoulder.",
+    "malayalamMeaning": "ദിവസേനയുള്ള ഫിസിയോതെറാപ്പി വ്യായാമങ്ങൾ അദ്ദേഹത്തിൻ്റെ പരിക്കേറ്റ തോളിൽ ചലനത്തിൻ്റെ മുഴുവൻ ശ്രേണിയും പുനഃസ്ഥാപിച്ചു.",
+    "usageExample": "Movement therapy.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "paramedic",
+    "wordMeaning": "പാരാമെഡിക്കൽ",
+    "englishText": "The certified paramedic initiated CPR compressions within three minutes of the cardiac arrest.",
+    "malayalamMeaning": "ഹൃദയസ്തംഭനം സംഭവിച്ച് മൂന്ന് മിനിറ്റിനുള്ളിൽ സർട്ടിഫൈഡ് പാരാമെഡിക്ക് CPR കംപ്രഷൻ ആരംഭിച്ചു.",
+    "usageExample": "Emergency medic.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "intensive care",
+    "wordMeaning": "തീവ്രപരിചരണം",
+    "englishText": "The trauma patient was stabilized inside the intensive care unit under constant monitoring.",
+    "malayalamMeaning": "ട്രോമ രോഗിയെ തീവ്രപരിചരണ വിഭാഗത്തിൽ നിരന്തരമായ നിരീക്ഷണത്തിൽ സ്ഥിരപ്പെടുത്തി.",
+    "usageExample": "ICU ward.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "inpatient",
+    "wordMeaning": "ഇൻപേഷ്യൻ്റ്",
+    "englishText": "The private hospital provides dedicated private rooms for surgical inpatient care.",
+    "malayalamMeaning": "കിടത്തിച്ചികിത്സയ്ക്കുള്ള ശസ്ത്രക്രിയയ്ക്കായി സ്വകാര്യ ആശുപത്രി പ്രത്യേക മുറികൾ നൽകുന്നു.",
+    "usageExample": "Admitted patient.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "outpatient",
+    "wordMeaning": "ഔട്ട്പേഷ്യൻ്റ്",
+    "englishText": "Minor cyst removal is routinely performed as a same-day outpatient procedure.",
+    "malayalamMeaning": "ചെറിയ സിസ്റ്റ് നീക്കം ചെയ്യുന്നത് ഒരേ ദിവസത്തെ ഔട്ട്‌പേഷ്യൻ്റ് നടപടിക്രമമായി പതിവായി നടത്തുന്നു.",
+    "usageExample": "Clinic visitor.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "admission",
+    "wordMeaning": "പ്രവേശനം",
+    "englishText": "The hospital admission process was streamlined through an electronic insurance portal.",
+    "malayalamMeaning": "ഇലക്‌ട്രോണിക് ഇൻഷുറൻസ് പോർട്ടലിലൂടെ ആശുപത്രി പ്രവേശന നടപടികൾ കാര്യക്ഷമമാക്കി.",
+    "usageExample": "Entering hospital.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "discharge",
+    "wordMeaning": "ഡിസ്ചാർജ്",
+    "englishText": "The attending physician signed the formal hospital discharge summary after the fever cleared.",
+    "malayalamMeaning": "പനി മാറിയതിന് ശേഷം ഹാജരായ ഡോക്ടർ ഔപചാരിക ആശുപത്രി ഡിസ്ചാർജ് സംഗ്രഹത്തിൽ ഒപ്പിട്ടു.",
+    "usageExample": "Leaving hospital.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "infection",
+    "wordMeaning": "അണുബാധ",
+    "englishText": "Sterilizing surgical instruments with pressurized steam prevents hospital-acquired infection.",
+    "malayalamMeaning": "സമ്മർദ്ദമുള്ള നീരാവി ഉപയോഗിച്ച് ശസ്ത്രക്രിയാ ഉപകരണങ്ങൾ അണുവിമുക്തമാക്കുന്നത് ആശുപത്രി ഏറ്റെടുക്കുന്ന അണുബാധയെ തടയുന്നു.",
+    "usageExample": "Pathogen invasion.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "bacteria",
+    "wordMeaning": "ബാക്ടീരിയ",
+    "englishText": "Beneficial gut bacteria play a critical role in digesting dietary fiber and synthesizing vitamins.",
+    "malayalamMeaning": "ഡയറ്ററി ഫൈബർ ദഹിപ്പിക്കുന്നതിനും വിറ്റാമിനുകൾ സമന്വയിപ്പിക്കുന്നതിനും ഗുണം ചെയ്യുന്ന ഗട്ട് ബാക്ടീരിയകൾ നിർണായക പങ്ക് വഹിക്കുന്നു.",
+    "usageExample": "Microbes.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "virus",
+    "wordMeaning": "വൈറസ്",
+    "englishText": "Antibiotic medications are completely ineffective against common cold respiratory viruses.",
+    "malayalamMeaning": "ആൻറിബയോട്ടിക് മരുന്നുകൾ സാധാരണ തണുത്ത ശ്വാസകോശ വൈറസുകൾക്കെതിരെ പൂർണ്ണമായും ഫലപ്രദമല്ല.",
+    "usageExample": "Viral pathogen.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "antibiotic",
+    "wordMeaning": "ആൻ്റിബയോട്ടിക്",
+    "englishText": "Overusing antibiotic drugs leads to dangerous bacterial antimicrobial resistance.",
+    "malayalamMeaning": "ആൻറിബയോട്ടിക് മരുന്നുകളുടെ അമിത ഉപയോഗം അപകടകരമായ ബാക്ടീരിയൽ ആൻ്റിമൈക്രോബയൽ പ്രതിരോധത്തിലേക്ക് നയിക്കുന്നു.",
+    "usageExample": "Bacteria killer.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "antiseptic",
+    "wordMeaning": "ആൻ്റിസെപ്റ്റിക്",
+    "englishText": "Clean the minor road abrasion with antiseptic chlorhexidine solution immediately.",
+    "malayalamMeaning": "ആൻറിസെപ്റ്റിക് ക്ലോർഹെക്സിഡൈൻ ലായനി ഉപയോഗിച്ച് ചെറിയ റോഡ് ഉരച്ചിലുകൾ ഉടൻ വൃത്തിയാക്കുക.",
+    "usageExample": "Germ cleaner.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "analgesic",
+    "wordMeaning": "വേദനസംഹാരിയായ",
+    "englishText": "The doctor prescribed a mild oral analgesic to relieve postoperative wisdom tooth pain.",
+    "malayalamMeaning": "ശസ്ത്രക്രിയയ്ക്കു ശേഷമുള്ള വിസ്ഡം ടൂത്ത് വേദന ഒഴിവാക്കാൻ ഡോക്ടർ ഒരു ചെറിയ ഓറൽ അനാലിസിക് നിർദ്ദേശിച്ചു.",
+    "usageExample": "Painkiller.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sedative",
+    "wordMeaning": "മയക്കമരുന്ന്",
+    "englishText": "A mild sedative helped the anxious patient relax before undergoing the MRI tunnel scan.",
+    "malayalamMeaning": "എംആർഐ ടണൽ സ്കാനിന് വിധേയമാകുന്നതിന് മുമ്പ് ഉത്കണ്ഠാകുലനായ രോഗിയെ വിശ്രമിക്കാൻ നേരിയ മയക്കമരുന്ന് സഹായിച്ചു.",
+    "usageExample": "Calming drug.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "side effect",
+    "wordMeaning": "പാർശ്വഫലങ്ങൾ",
+    "englishText": "Drowsiness and dry mouth are common mild side effects of first-generation antihistamines.",
+    "malayalamMeaning": "മയക്കവും വരണ്ട വായയും ആദ്യ തലമുറ ആൻ്റിഹിസ്റ്റാമൈനുകളുടെ സാധാരണ നേരിയ പാർശ്വഫലങ്ങളാണ്.",
+    "usageExample": "Secondary reaction.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "chronic",
+    "wordMeaning": "വിട്ടുമാറാത്ത",
+    "englishText": "Managing chronic ailments like hypertension requires lifelong dietary discipline.",
+    "malayalamMeaning": "രക്താതിമർദ്ദം പോലുള്ള വിട്ടുമാറാത്ത രോഗങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിന് ആജീവനാന്ത ഭക്ഷണ അച്ചടക്കം ആവശ്യമാണ്.",
+    "usageExample": "Long-lasting disease.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "acute",
+    "wordMeaning": "നിശിതം",
+    "englishText": "Acute appendicitis requires emergency surgical intervention to prevent organ rupture.",
+    "malayalamMeaning": "അക്യൂട്ട് അപ്പെൻഡിസൈറ്റിസിന് അവയവങ്ങളുടെ വിള്ളൽ തടയാൻ അടിയന്തിര ശസ്ത്രക്രിയ ഇടപെടൽ ആവശ്യമാണ്.",
+    "usageExample": "Sudden severe illness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "epidemic",
+    "wordMeaning": "പകർച്ചവ്യാധി",
+    "englishText": "Public health teams worked aggressively to contain the regional dengue fever epidemic.",
+    "malayalamMeaning": "പ്രാദേശിക ഡെങ്കിപ്പനി പകർച്ചവ്യാധി തടയാൻ പൊതുജനാരോഗ്യ ടീമുകൾ തീവ്രമായി പ്രവർത്തിച്ചു.",
+    "usageExample": "Local outbreak.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pandemic",
+    "wordMeaning": "പാൻഡെമിക്",
+    "englishText": "The global viral pandemic prompted rapid acceleration in mRNA vaccine technology.",
+    "malayalamMeaning": "ആഗോള വൈറൽ പാൻഡെമിക് എംആർഎൻഎ വാക്‌സിൻ സാങ്കേതികവിദ്യയിൽ അതിവേഗം ത്വരിതപ്പെടുത്താൻ പ്രേരിപ്പിച്ചു.",
+    "usageExample": "Worldwide outbreak.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "immunity",
+    "wordMeaning": "പ്രതിരോധശേഷി",
+    "englishText": "Vaccination stimulates the adaptive immune system to build durable immunological memory.",
+    "malayalamMeaning": "വാക്സിനേഷൻ ഡ്യൂറബിൾ ഇമ്മ്യൂണോളജിക്കൽ മെമ്മറി നിർമ്മിക്കുന്നതിന് അഡാപ്റ്റീവ് രോഗപ്രതിരോധ സംവിധാനത്തെ ഉത്തേജിപ്പിക്കുന്നു.",
+    "usageExample": "Disease resistance.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "vaccination",
+    "wordMeaning": "വാക്സിനേഷൻ",
+    "englishText": "Timely childhood vaccination programs have eradicated smallpox from the planet.",
+    "malayalamMeaning": "കൃത്യസമയത്ത് കുട്ടിക്കാലത്തെ പ്രതിരോധ കുത്തിവയ്പ്പ് പരിപാടികൾ ഗ്രഹത്തിൽ നിന്ന് വസൂരി തുടച്ചുനീക്കി.",
+    "usageExample": "Immunizing shot.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "wellness",
+    "wordMeaning": "ആരോഗ്യം",
+    "englishText": "Corporate wellness initiatives encourage daily hydration, walking, and stress relief.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് വെൽനസ് സംരംഭങ്ങൾ ദൈനംദിന ജലാംശം, നടത്തം, സമ്മർദ്ദം ഒഴിവാക്കൽ എന്നിവ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "usageExample": "Holistic health.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "nutrition",
+    "wordMeaning": "പോഷകാഹാരം",
+    "englishText": "Proper maternal nutrition during pregnancy ensures optimal fetal brain development.",
+    "malayalamMeaning": "ഗർഭകാലത്ത് അമ്മയുടെ ശരിയായ പോഷകാഹാരം ഗര്ഭപിണ്ഡത്തിൻ്റെ മസ്തിഷ്ക വികസനം ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Nutrient science.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sanitation",
+    "wordMeaning": "ശുചിത്വം",
+    "englishText": "Access to clean drinking water and modern sanitation slashed infant diarrhea deaths.",
+    "malayalamMeaning": "ശുദ്ധമായ കുടിവെള്ളത്തിൻ്റെ ലഭ്യതയും ആധുനിക ശുചീകരണവും ശിശു വയറിളക്ക മരണങ്ങൾ കുറച്ചു.",
+    "usageExample": "Hygiene systems.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "quarantine",
+    "wordMeaning": "ക്വാറൻ്റൈൻ",
+    "englishText": "Travelers arriving from yellow fever endemic zones underwent mandatory health quarantine.",
+    "malayalamMeaning": "മഞ്ഞപ്പനി ബാധിത മേഖലകളിൽ നിന്ന് എത്തുന്ന യാത്രക്കാരെ നിർബന്ധിത ആരോഗ്യ ക്വാറൻ്റൈനിൽ പ്രവേശിപ്പിച്ചു.",
+    "usageExample": "Disease isolation.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "convalescence",
+    "wordMeaning": "സുഖം പ്രാപിക്കുന്നു",
+    "englishText": "A two-week period of quiet convalescence at home allowed his pneumonia to heal fully.",
+    "malayalamMeaning": "വീട്ടിൽ രണ്ടാഴ്ചത്തെ ശാന്തമായ സുഖം പ്രാപിച്ചത് അദ്ദേഹത്തിൻ്റെ ന്യുമോണിയ പൂർണമായി സുഖപ്പെടുത്താൻ അനുവദിച്ചു.",
+    "usageExample": "Recovery period.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "recuperate",
+    "wordMeaning": "സുഖം പ്രാപിക്കുക",
+    "englishText": "Spending time in the peaceful countryside helped the tired executive recuperate.",
+    "malayalamMeaning": "ശാന്തമായ ഗ്രാമപ്രദേശങ്ങളിൽ സമയം ചെലവഴിക്കുന്നത് ക്ഷീണിതനായ എക്സിക്യൂട്ടീവിനെ സുഖം പ്രാപിക്കാൻ സഹായിച്ചു.",
+    "usageExample": "Regain health.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stamina",
+    "wordMeaning": "സ്റ്റാമിന",
+    "englishText": "Consistent aerobic swimming builds extraordinary cardiovascular stamina and lung power.",
+    "malayalamMeaning": "സ്ഥിരമായ എയറോബിക് നീന്തൽ അസാധാരണമായ ഹൃദയധമനിയും ശ്വാസകോശ ശക്തിയും ഉണ്ടാക്കുന്നു.",
+    "usageExample": "Endurance.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cardiovascular",
+    "wordMeaning": "ഹൃദയധമനികൾ",
+    "englishText": "Eating walnuts and oily fish supports cardiovascular health and lowers bad cholesterol.",
+    "malayalamMeaning": "വാൽനട്ട്, എണ്ണമയമുള്ള മത്സ്യം എന്നിവ കഴിക്കുന്നത് ഹൃദയാരോഗ്യത്തെ സഹായിക്കുകയും ചീത്ത കൊളസ്ട്രോൾ കുറയ്ക്കുകയും ചെയ്യുന്നു.",
+    "usageExample": "Heart and vessels.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cholesterol",
+    "wordMeaning": "കൊളസ്ട്രോൾ",
+    "englishText": "High LDL cholesterol levels contribute to the progressive narrowing of coronary arteries.",
+    "malayalamMeaning": "ഉയർന്ന എൽഡിഎൽ കൊളസ്ട്രോളിൻ്റെ അളവ് കൊറോണറി ധമനികളുടെ പുരോഗമനപരമായ സങ്കോചത്തിന് കാരണമാകുന്നു.",
+    "usageExample": "Blood lipid.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hypertension",
+    "wordMeaning": "രക്താതിമർദ്ദം",
+    "englishText": "Reducing dietary sodium intake is a proven lifestyle strategy to control hypertension.",
+    "malayalamMeaning": "ഹൈപ്പർടെൻഷൻ നിയന്ത്രിക്കുന്നതിനുള്ള തെളിയിക്കപ്പെട്ട ജീവിതശൈലി തന്ത്രമാണ് സോഡിയം കഴിക്കുന്നത് കുറയ്ക്കുന്നത്.",
+    "usageExample": "High blood pressure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "diabetes",
+    "wordMeaning": "പ്രമേഹം",
+    "englishText": "Type two diabetes can often be reversed through low-carbohydrate diets and weight loss.",
+    "malayalamMeaning": "കുറഞ്ഞ കാർബോഹൈഡ്രേറ്റ് ഭക്ഷണത്തിലൂടെയും ശരീരഭാരം കുറയ്ക്കുന്നതിലൂടെയും ടൈപ്പ് രണ്ട് പ്രമേഹം പലപ്പോഴും മാറ്റാവുന്നതാണ്.",
+    "usageExample": "Blood sugar disorder.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "glucose",
+    "wordMeaning": "ഗ്ലൂക്കോസ്",
+    "englishText": "Continuous glucose monitors track real-time blood sugar spikes following meals.",
+    "malayalamMeaning": "തുടർച്ചയായ ഗ്ലൂക്കോസ് മോണിറ്ററുകൾ ഭക്ഷണത്തിനു ശേഷമുള്ള തത്സമയ രക്തത്തിലെ പഞ്ചസാരയുടെ വർദ്ധനവ് നിരീക്ഷിക്കുന്നു.",
+    "usageExample": "Blood sugar.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "metabolism",
+    "wordMeaning": "ഉപാപചയം",
+    "englishText": "Strength training increases resting muscle mass, boosting overall basal metabolism.",
+    "malayalamMeaning": "സ്ട്രെങ്ത് ട്രെയിനിംഗ് വിശ്രമിക്കുന്ന പേശികളുടെ അളവ് വർദ്ധിപ്പിക്കുകയും മൊത്തത്തിലുള്ള ബേസൽ മെറ്റബോളിസത്തെ വർദ്ധിപ്പിക്കുകയും ചെയ്യുന്നു.",
+    "usageExample": "Chemical energy.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "digestion",
+    "wordMeaning": "ദഹനം",
+    "englishText": "Drinking plenty of warm water and eating high-fiber foods facilitates healthy digestion.",
+    "malayalamMeaning": "ധാരാളം ചൂടുവെള്ളം കുടിക്കുന്നതും നാരുകൾ അടങ്ങിയ ഭക്ഷണങ്ങൾ കഴിക്കുന്നതും ആരോഗ്യകരമായ ദഹനം സുഗമമാക്കുന്നു.",
+    "usageExample": "Processing food.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "respiration",
+    "wordMeaning": "ശ്വസനം",
+    "englishText": "Normal human resting respiration ranges between twelve and sixteen breaths per minute.",
+    "malayalamMeaning": "സാധാരണ മനുഷ്യൻ്റെ വിശ്രമ ശ്വസനം മിനിറ്റിൽ പന്ത്രണ്ടിനും പതിനാറിനും ഇടയിലാണ്.",
+    "usageExample": "Breathing cycle.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "circulation",
+    "wordMeaning": "രക്തചംക്രമണം",
+    "englishText": "Gentle foot flexing during long international flights promotes healthy vein circulation.",
+    "malayalamMeaning": "ദൈർഘ്യമേറിയ അന്താരാഷ്‌ട്ര വിമാന യാത്രയ്ക്കിടെ മൃദുലമായ കാൽ വളയുന്നത് ആരോഗ്യകരമായ സിര രക്തചംക്രമണം പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "usageExample": "Blood flow.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "preventive",
+    "wordMeaning": "പ്രതിരോധം",
+    "englishText": "Annual preventive health checkups catch silent medical conditions before symptoms develop.",
+    "malayalamMeaning": "രോഗലക്ഷണങ്ങൾ വികസിക്കുന്നതിന് മുമ്പ്, വാർഷിക പ്രതിരോധ ആരോഗ്യ പരിശോധനകൾ നിശബ്ദമായ മെഡിക്കൽ അവസ്ഥകൾ കണ്ടെത്തുന്നു.",
+    "usageExample": "Precautionary.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ultrasound",
+    "wordMeaning": "അൾട്രാസൗണ്ട്",
+    "englishText": "An abdominal ultrasound scan confirmed that the kidneys were structurally sound.",
+    "malayalamMeaning": "വയറിലെ അൾട്രാസൗണ്ട് സ്‌കാൻ പരിശോധനയിൽ കിഡ്‌നിയുടെ ഘടനാപരമായി നല്ലതാണെന്ന് സ്ഥിരീകരിച്ചു.",
+    "usageExample": "Sonic scan.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "biopsy",
+    "wordMeaning": "ബയോപ്സി",
+    "englishText": "The laboratory pathologist examined the tissue biopsy under a high-power microscope.",
+    "malayalamMeaning": "ലബോറട്ടറി പാത്തോളജിസ്റ്റ് ഉയർന്ന പവർ മൈക്രോസ്കോപ്പിന് കീഴിൽ ടിഷ്യു ബയോപ്സി പരിശോധിച്ചു.",
+    "usageExample": "Tissue sample.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "specimen",
+    "wordMeaning": "മാതൃക",
+    "englishText": "The laboratory safely labeled and processed the biological blood specimen.",
+    "malayalamMeaning": "ലബോറട്ടറി സുരക്ഷിതമായി ലേബൽ ചെയ്ത് ജൈവ രക്ത സാമ്പിൾ പ്രോസസ്സ് ചെയ്തു.",
+    "usageExample": "Test sample.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pathology",
+    "wordMeaning": "പതോളജി",
+    "englishText": "Clinical pathology laboratories analyze tissue samples to provide definitive diagnoses.",
+    "malayalamMeaning": "കൃത്യമായ രോഗനിർണയം നൽകുന്നതിന് ക്ലിനിക്കൽ പാത്തോളജി ലബോറട്ടറികൾ ടിഷ്യു സാമ്പിളുകൾ വിശകലനം ചെയ്യുന്നു.",
+    "usageExample": "Disease study.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "oncology",
+    "wordMeaning": "ഓങ്കോളജി",
+    "englishText": "The medical oncology department specializes in chemotherapy and targeted immunotherapy.",
+    "malayalamMeaning": "മെഡിക്കൽ ഓങ്കോളജി വിഭാഗം കീമോതെറാപ്പിയിലും ടാർഗെറ്റഡ് ഇമ്മ്യൂണോതെറാപ്പിയിലും വൈദഗ്ദ്ധ്യം നേടിയിട്ടുണ്ട്.",
+    "usageExample": "Cancer medicine.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "neurology",
+    "wordMeaning": "ന്യൂറോളജി",
+    "englishText": "The neurology clinic treats epilepsy, Parkinson's disease, and peripheral neuropathy.",
+    "malayalamMeaning": "ന്യൂറോളജി ക്ലിനിക്കിൽ അപസ്മാരം, പാർക്കിൻസൺസ് രോഗം, പെരിഫറൽ ന്യൂറോപ്പതി എന്നിവ ചികിത്സിക്കുന്നു.",
+    "usageExample": "Nerve medicine.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "geriatrics",
+    "wordMeaning": "ജെറിയാട്രിക്സ്",
+    "englishText": "The field of geriatrics focuses on the complex health and mobility needs of seniors.",
+    "malayalamMeaning": "മുതിർന്നവരുടെ സങ്കീർണ്ണമായ ആരോഗ്യ, ചലന ആവശ്യങ്ങളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നതാണ് ജെറിയാട്രിക്സ് മേഖല.",
+    "usageExample": "Elderly medicine.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "palliative",
+    "wordMeaning": "പാലിയേറ്റീവ്",
+    "englishText": "Palliative medicine prioritizes symptom control, pain management, and emotional dignity.",
+    "malayalamMeaning": "പാലിയേറ്റീവ് മെഡിസിൻ രോഗലക്ഷണ നിയന്ത്രണം, വേദന നിയന്ത്രിക്കൽ, വൈകാരിക മാന്യത എന്നിവയ്ക്ക് മുൻഗണന നൽകുന്നു.",
+    "usageExample": "Comfort care.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hospice",
+    "wordMeaning": "ഹോസ്പിസ്",
+    "englishText": "Hospice care teams provide compassionate holistic support during life's final journey.",
+    "malayalamMeaning": "ജീവിതത്തിൻ്റെ അവസാന യാത്രയിൽ ഹോസ്പിസ് കെയർ ടീമുകൾ അനുകമ്പയോടെ സമഗ്രമായ പിന്തുണ നൽകുന്നു.",
+    "usageExample": "End-of-life care.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "insurance",
+    "wordMeaning": "ഇൻഷുറൻസ്",
+    "englishText": "Comprehensive health insurance shields middle-class families from catastrophic medical bills.",
+    "malayalamMeaning": "സമഗ്ര ആരോഗ്യ ഇൻഷുറൻസ് ഇടത്തരം കുടുംബങ്ങളെ വിനാശകരമായ മെഡിക്കൽ ബില്ലുകളിൽ നിന്ന് സംരക്ഷിക്കുന്നു.",
+    "usageExample": "Financial protection.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "copay",
+    "wordMeaning": "പകർത്തുക",
+    "englishText": "The health insurance policy requires a nominal ten-percent copay on prescription drugs.",
+    "malayalamMeaning": "ആരോഗ്യ ഇൻഷുറൻസ് പോളിസിക്ക് കുറിപ്പടി മരുന്നുകൾക്ക് നാമമാത്രമായ പത്ത് ശതമാനം കോപ്പേ ആവശ്യമാണ്.",
+    "usageExample": "Patient fee share.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "asymptomatic",
+    "wordMeaning": "ലക്ഷണമില്ലാത്ത",
+    "englishText": "Many individuals infected with viral pathogens remain completely asymptomatic.",
+    "malayalamMeaning": "വൈറൽ രോഗകാരികൾ ബാധിച്ച പല വ്യക്തികളും പൂർണ്ണമായും ലക്ഷണങ്ങളില്ലാതെ തുടരുന്നു.",
+    "usageExample": "Showing no symptoms.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "etiology",
+    "wordMeaning": "എറ്റിയോളജി",
+    "englishText": "Medical researchers are investigating the genetic etiology of autoimmune arthritis.",
+    "malayalamMeaning": "ഓട്ടോ ഇമ്മ്യൂൺ ആർത്രൈറ്റിസിൻ്റെ ജനിതക കാരണങ്ങളെക്കുറിച്ച് മെഡിക്കൽ ഗവേഷകർ അന്വേഷിക്കുന്നു.",
+    "usageExample": "Origin of disease.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "prognosis",
+    "wordMeaning": "പ്രവചനം",
+    "englishText": "With early diagnosis and modern therapy, the clinical prognosis is exceptionally bright.",
+    "malayalamMeaning": "നേരത്തെയുള്ള രോഗനിർണയവും ആധുനിക തെറാപ്പിയും ഉപയോഗിച്ച്, ക്ലിനിക്കൽ രോഗനിർണയം അസാധാരണമാംവിധം ശോഭയുള്ളതാണ്.",
+    "usageExample": "Forecast of illness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "epidemiology",
+    "wordMeaning": "എപ്പിഡെമിയോളജി",
+    "englishText": "Epidemiology tracks the incidence, distribution, and control of public health diseases.",
+    "malayalamMeaning": "എപ്പിഡെമിയോളജി പൊതുജനാരോഗ്യ രോഗങ്ങളുടെ സംഭവവികാസങ്ങൾ, വിതരണം, നിയന്ത്രണം എന്നിവ ട്രാക്ക് ചെയ്യുന്നു.",
+    "usageExample": "Outbreak science.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "prophylaxis",
+    "wordMeaning": "പ്രതിരോധം",
+    "englishText": "Antimalarial prophylaxis is strongly recommended for travelers visiting tropical jungles.",
+    "malayalamMeaning": "ഉഷ്ണമേഖലാ കാടുകൾ സന്ദർശിക്കുന്ന യാത്രക്കാർക്ക് ആൻ്റിമലേറിയൽ പ്രതിരോധം ശക്തമായി ശുപാർശ ചെയ്യുന്നു.",
+    "usageExample": "Preventive treatment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "triage",
+    "wordMeaning": "വിചാരണ",
+    "englishText": "The emergency room triage nurse prioritizes critical chest pain patients ahead of minor cuts.",
+    "malayalamMeaning": "എമർജൻസി റൂം ട്രയേജ് നഴ്‌സ് ഗുരുതരമായ നെഞ്ചുവേദന രോഗികൾക്ക് ചെറിയ മുറിവുകൾക്ക് മുമ്പായി മുൻഗണന നൽകുന്നു.",
+    "usageExample": "Priority sorting.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "morbidity",
+    "wordMeaning": "രോഗാവസ്ഥ",
+    "englishText": "Controlling high blood pressure significantly reduces cardiovascular morbidity and strokes.",
+    "malayalamMeaning": "ഉയർന്ന രക്തസമ്മർദ്ദം നിയന്ത്രിക്കുന്നത് ഹൃദയ സംബന്ധമായ അസുഖങ്ങളും സ്ട്രോക്കുകളും ഗണ്യമായി കുറയ്ക്കുന്നു.",
+    "usageExample": "Disease rate.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "mortality",
+    "wordMeaning": "മരണനിരക്ക്",
+    "englishText": "Modern intensive neonatal care dramatically curtailed infant mortality rates nationwide.",
+    "malayalamMeaning": "ആധുനിക തീവ്ര നവജാത ശിശു സംരക്ഷണം രാജ്യവ്യാപകമായി ശിശുമരണനിരക്ക് നാടകീയമായി കുറച്ചു.",
+    "usageExample": "Death rate.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "comorbidity",
+    "wordMeaning": "കോമോർബിഡിറ്റി",
+    "englishText": "Elderly patients with underlying comorbidity like diabetes face higher surgical risks.",
+    "malayalamMeaning": "പ്രമേഹം പോലുള്ള സഹവർദ്ധന രോഗങ്ങളുള്ള പ്രായമായ രോഗികൾക്ക് ശസ്ത്രക്രിയാ സാധ്യതകൾ കൂടുതലാണ്.",
+    "usageExample": "Co-existing ailment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "virulence",
+    "wordMeaning": "വൈറൽസ്",
+    "englishText": "Mutations in the viral spike protein altered the pathogen's transmissibility and virulence.",
+    "malayalamMeaning": "വൈറൽ സ്പൈക്ക് പ്രോട്ടീനിലെ മ്യൂട്ടേഷനുകൾ രോഗകാരിയുടെ സംക്രമണത്തെയും വൈറസിനെയും മാറ്റിമറിച്ചു.",
+    "usageExample": "Disease severity.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pathogen",
+    "wordMeaning": "രോഗകാരി",
+    "englishText": "Washing hands with soap mechanically destroys the lipid envelope of viral pathogens.",
+    "malayalamMeaning": "സോപ്പ് ഉപയോഗിച്ച് കൈ കഴുകുന്നത് വൈറൽ രോഗാണുക്കളുടെ ലിപിഡ് എൻവലപ്പിനെ യാന്ത്രികമായി നശിപ്പിക്കുന്നു.",
+    "usageExample": "Disease agent.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "contagion",
+    "wordMeaning": "പകർച്ചവ്യാധി",
+    "englishText": "Public health authorities implemented tracing protocols to halt the spread of contagion.",
+    "malayalamMeaning": "പകർച്ചവ്യാധി പടരുന്നത് തടയാൻ പൊതുജനാരോഗ്യ അധികാരികൾ ട്രേസിംഗ് പ്രോട്ടോക്കോളുകൾ നടപ്പാക്കി.",
+    "usageExample": "Transmissible bug.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "incubation",
+    "wordMeaning": "ഇൻകുബേഷൻ",
+    "englishText": "The viral incubation period ranges from two to fourteen days before fever manifests.",
+    "malayalamMeaning": "പനി പ്രത്യക്ഷപ്പെടുന്നതിന് രണ്ട് മുതൽ പതിനാല് ദിവസം വരെ വൈറൽ ഇൻകുബേഷൻ കാലയളവ്.",
+    "usageExample": "Dormant period.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "immunological",
+    "wordMeaning": "രോഗപ്രതിരോധം",
+    "englishText": "Breast milk delivers maternal immunological antibodies that protect the infant gut.",
+    "malayalamMeaning": "മുലപ്പാൽ കുഞ്ഞിൻ്റെ കുടലിനെ സംരക്ഷിക്കുന്ന മാതൃ രോഗപ്രതിരോധ ആൻ്റിബോഡികൾ നൽകുന്നു.",
+    "usageExample": "Immune science.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "intravenous",
+    "wordMeaning": "ഇൻട്രാവെനസ്",
+    "englishText": "The dehydration patient received saline fluid via an intravenous cannula line.",
+    "malayalamMeaning": "നിർജ്ജലീകരണം ബാധിച്ച രോഗിക്ക് ഇൻട്രാവണസ് കാനുല ലൈൻ വഴി ഉപ്പുവെള്ളം ലഭിച്ചു.",
+    "usageExample": "Direct into vein.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "intramuscular",
+    "wordMeaning": "ഇൻട്രാമുസ്കുലർ",
+    "englishText": "Most childhood immunizations are administered via deep intramuscular injection.",
+    "malayalamMeaning": "കുട്ടികളിലെ മിക്ക പ്രതിരോധ കുത്തിവയ്പ്പുകളും ആഴത്തിലുള്ള ഇൻട്രാമുസ്കുലർ കുത്തിവയ്പ്പിലൂടെയാണ് നൽകുന്നത്.",
+    "usageExample": "Into muscle.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "subcutaneous",
+    "wordMeaning": "അടിവസ്ത്രം",
+    "englishText": "Diabetic patients learn how to administer daily subcutaneous insulin shots painlessly.",
+    "malayalamMeaning": "പ്രമേഹ രോഗികൾ ദിവസവും സബ്ക്യുട്ടേനിയസ് ഇൻസുലിൻ കുത്തിവയ്പ്പുകൾ വേദനയില്ലാതെ എങ്ങനെ നൽകാമെന്ന് പഠിക്കുന്നു.",
+    "usageExample": "Under skin.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "metastasis",
+    "wordMeaning": "മെറ്റാസ്റ്റാസിസ്",
+    "englishText": "Early surgical excision of the tumor prevents regional and distant cellular metastasis.",
+    "malayalamMeaning": "ട്യൂമറിൻ്റെ ആദ്യകാല ശസ്ത്രക്രിയ നീക്കം ചെയ്യുന്നത് പ്രാദേശികവും വിദൂരവുമായ സെല്ലുലാർ മെറ്റാസ്റ്റാസിസിനെ തടയുന്നു.",
+    "usageExample": "Cancer spreading.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "benign",
+    "wordMeaning": "സൗമ്യമായ",
+    "englishText": "The ultrasound biopsy confirmed that the breast nodule was completely harmless and benign.",
+    "malayalamMeaning": "അൾട്രാസൗണ്ട് ബയോപ്സിയിൽ ബ്രെസ്റ്റ് നോഡ്യൂൾ പൂർണ്ണമായും നിരുപദ്രവകരവും ദോഷകരവുമാണെന്ന് സ്ഥിരീകരിച്ചു.",
+    "usageExample": "Non-cancerous.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "malignant",
+    "wordMeaning": "മാരകമായ",
+    "englishText": "Malignant tumors require aggressive combined therapy including surgery and radiation.",
+    "malayalamMeaning": "മാരകമായ മുഴകൾക്ക് ശസ്ത്രക്രിയയും റേഡിയേഷനും ഉൾപ്പെടെയുള്ള ആക്രമണാത്മക സംയോജിത തെറാപ്പി ആവശ്യമാണ്.",
+    "usageExample": "Cancerous.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "remission",
+    "wordMeaning": "മോചനം",
+    "englishText": "Following targeted immunotherapy, the leukemia patient entered full clinical remission.",
+    "malayalamMeaning": "ടാർഗെറ്റുചെയ്‌ത ഇമ്മ്യൂണോതെറാപ്പിയെത്തുടർന്ന്, ലുക്കീമിയ രോഗി പൂർണ്ണമായ ക്ലിനിക്കൽ റിമിഷനിലേക്ക് പ്രവേശിച്ചു.",
+    "usageExample": "Disease-free state.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "echocardiogram",
+    "wordMeaning": "എക്കോകാർഡിയോഗ്രാം",
+    "englishText": "An echocardiogram uses reflected ultrasound waves to visualize pumping heart chambers.",
+    "malayalamMeaning": "പമ്പിംഗ് ഹൃദയ അറകൾ ദൃശ്യവൽക്കരിക്കുന്നതിന് ഒരു എക്കോകാർഡിയോഗ്രാം പ്രതിഫലിക്കുന്ന അൾട്രാസൗണ്ട് തരംഗങ്ങൾ ഉപയോഗിക്കുന്നു.",
+    "usageExample": "Heart ultrasound.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "electrocardiogram",
+    "wordMeaning": "ഇലക്ട്രോകാർഡിയോഗ്രാം",
+    "englishText": "The paramedic recorded an immediate electrocardiogram to rule out myocardial infarction.",
+    "malayalamMeaning": "മയോകാർഡിയൽ ഇൻഫ്രാക്ഷൻ ഒഴിവാക്കുന്നതിനായി പാരാമെഡിക്ക് ഒരു ഉടനടി ഇലക്ട്രോകാർഡിയോഗ്രാം രേഖപ്പെടുത്തി.",
+    "usageExample": "ECG heart trace.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "arrhythmia",
+    "wordMeaning": "അരിഹ്‌മിയ",
+    "englishText": "The cardiac electrophysiologist implanted a pacemaker to correct cardiac arrhythmia.",
+    "malayalamMeaning": "കാർഡിയാക് ഇലക്‌ട്രോഫിസിയോളജിസ്റ്റ് കാർഡിയാക് ആർറിത്മിയ ശരിയാക്കാൻ പേസ് മേക്കർ ഘടിപ്പിച്ചു.",
+    "usageExample": "Irregular heartbeat.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hypotension",
+    "wordMeaning": "ഹൈപ്പോടെൻഷൻ",
+    "englishText": "Severe dehydration and heat exhaustion can cause sudden, dangerous postural hypotension.",
+    "malayalamMeaning": "കടുത്ത നിർജ്ജലീകരണവും ചൂട് ക്ഷീണവും പെട്ടെന്നുള്ള അപകടകരമായ പോസ്‌ചറൽ ഹൈപ്പോടെൻഷന് കാരണമാകും.",
+    "usageExample": "Low blood pressure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hematology",
+    "wordMeaning": "ഹെമറ്റോളജി",
+    "englishText": "The hematology lab analyzed the complete blood count to detect iron-deficiency anemia.",
+    "malayalamMeaning": "ഇരുമ്പിൻ്റെ കുറവുള്ള അനീമിയ കണ്ടെത്തുന്നതിനായി ഹെമറ്റോളജി ലാബ് സമ്പൂർണ്ണ രക്തത്തിൻ്റെ എണ്ണം വിശകലനം ചെയ്തു.",
+    "usageExample": "Blood science.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hemoglobin",
+    "wordMeaning": "ഹീമോഗ്ലോബിൻ",
+    "englishText": "Eating iron-rich leafy greens and pomegranates boosts red blood cell hemoglobin levels.",
+    "malayalamMeaning": "ഇരുമ്പ് അടങ്ങിയ ഇലക്കറികളും മാതളനാരങ്ങയും കഴിക്കുന്നത് ചുവന്ന രക്താണുക്കളുടെ ഹീമോഗ്ലോബിൻ്റെ അളവ് വർദ്ധിപ്പിക്കും.",
+    "usageExample": "Oxygen protein.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "thrombosis",
+    "wordMeaning": "ത്രോംബോസിസ്",
+    "englishText": "Deep vein thrombosis can occur when passengers remain immobile on long flights.",
+    "malayalamMeaning": "ദീർഘദൂര വിമാനങ്ങളിൽ യാത്രക്കാർ നിശ്ചലമാകുമ്പോൾ ഡീപ് വെയിൻ ത്രോംബോസിസ് സംഭവിക്കാം.",
+    "usageExample": "Blood clot.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pathogenicity",
+    "wordMeaning": "രോഗകാരിത്വം",
+    "englishText": "Genetic modifications altered the natural pathogenicity of the laboratory viral culture.",
+    "malayalamMeaning": "ജനിതകമാറ്റങ്ങൾ ലബോറട്ടറി വൈറൽ സംസ്കാരത്തിൻ്റെ സ്വാഭാവിക രോഗകാരിയെ മാറ്റിമറിച്ചു.",
+    "usageExample": "Ability to harm.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "immunosuppression",
+    "wordMeaning": "രോഗപ്രതിരോധം",
+    "englishText": "Organ transplant recipients require lifelong pharmacological immunosuppression.",
+    "malayalamMeaning": "അവയവം മാറ്റിവയ്ക്കൽ സ്വീകർത്താക്കൾക്ക് ആജീവനാന്ത ഫാർമക്കോളജിക്കൽ ഇമ്മ്യൂണോസപ്രഷൻ ആവശ്യമാണ്.",
+    "usageExample": "Damping immune system.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "malignancy",
+    "wordMeaning": "മാരകത",
+    "englishText": "Histological staining confirmed the high-grade histological malignancy of the biopsy.",
+    "malayalamMeaning": "ഹിസ്റ്റോളജിക്കൽ സ്റ്റെയിനിംഗ് ബയോപ്സിയുടെ ഉയർന്ന ഗ്രേഡ് ഹിസ്റ്റോളജിക്കൽ മാലിഗ്നൻസി സ്ഥിരീകരിച്ചു.",
+    "usageExample": "Cancerous nature.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "encephalitis",
+    "wordMeaning": "എൻസെഫലൈറ്റിസ്",
+    "englishText": "Viral encephalitis causes acute swelling of the brain tissue requiring ICU monitoring.",
+    "malayalamMeaning": "വൈറൽ എൻസെഫലൈറ്റിസ് മസ്തിഷ്ക കോശങ്ങളുടെ രൂക്ഷമായ വീക്കത്തിന് കാരണമാകുന്നു, ഇതിന് ഐസിയു നിരീക്ഷണം ആവശ്യമാണ്.",
+    "usageExample": "Brain inflammation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "coagulation",
+    "wordMeaning": "കട്ടപിടിക്കൽ",
+    "englishText": "Hemophilia is a genetic disorder that severely impairs normal blood coagulation cascades.",
+    "malayalamMeaning": "ഹീമോഫീലിയ ഒരു ജനിതക വൈകല്യമാണ്, ഇത് സാധാരണ രക്തം കട്ടപിടിക്കുന്ന കാസ്കേഡുകളെ സാരമായി ബാധിക്കുന്നു.",
+    "usageExample": "Clotting process.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "embolism",
+    "wordMeaning": "എംബോളിസം",
+    "englishText": "A dislodged blood clot traveling to the pulmonary artery causes an acute embolism.",
+    "malayalamMeaning": "പൾമണറി ആർട്ടറിയിലേക്ക് നീങ്ങുന്ന രക്തം കട്ടപിടിക്കുന്നത് നിശിതമായ എംബോളിസത്തിന് കാരണമാകുന്നു.",
+    "usageExample": "Vessel obstruction.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "anesthesia",
+    "wordMeaning": "അനസ്തേഷ്യ",
+    "englishText": "The consultant anesthesiologist monitored hemodynamic parameters during surgery.",
+    "malayalamMeaning": "ശസ്ത്രക്രിയയ്ക്കിടെ കൺസൾട്ടൻ്റ് അനസ്തേഷ്യോളജിസ്റ്റ് ഹെമോഡൈനാമിക് പാരാമീറ്ററുകൾ നിരീക്ഷിച്ചു.",
+    "usageExample": "Insensibility to pain.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sterilization",
+    "wordMeaning": "വന്ധ്യംകരണം",
+    "englishText": "Autoclave steam sterilization guarantees that all surgical instruments are germ-free.",
+    "malayalamMeaning": "ഓട്ടോക്ലേവ് സ്റ്റീം വന്ധ്യംകരണം എല്ലാ ശസ്ത്രക്രിയാ ഉപകരണങ്ങളും അണുവിമുക്തമാണെന്ന് ഉറപ്പ് നൽകുന്നു.",
+    "usageExample": "Eradicating microbes.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "aseptic",
+    "wordMeaning": "അസെപ്റ്റിക്",
+    "englishText": "Surgeons scrub thoroughly to maintain an uncompromising aseptic field in the theatre.",
+    "malayalamMeaning": "തിയേറ്ററിൽ വിട്ടുവീഴ്ചയില്ലാത്ത അസെപ്റ്റിക് ഫീൽഡ് നിലനിർത്താൻ ശസ്ത്രക്രിയാ വിദഗ്ധർ നന്നായി സ്ക്രബ് ചെയ്യുന്നു.",
+    "usageExample": "Germ-free state.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "inoculation",
+    "wordMeaning": "കുത്തിവയ്പ്പ്",
+    "englishText": "Mass prophylactic inoculation campaigns succeeded in halting the smallpox epidemic.",
+    "malayalamMeaning": "വസൂരി പകർച്ചവ്യാധി തടയുന്നതിൽ വൻതോതിലുള്ള പ്രതിരോധ കുത്തിവയ്പ്പ് കാമ്പെയ്‌നുകൾ വിജയിച്ചു.",
+    "usageExample": "Vaccination.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "regimen",
+    "wordMeaning": "ചിട്ട",
+    "englishText": "The patient maintained a strict therapeutic regimen combining insulin, diet, and yoga.",
+    "malayalamMeaning": "ഇൻസുലിൻ, ഭക്ഷണക്രമം, യോഗ എന്നിവ സംയോജിപ്പിച്ച് രോഗി കർശനമായ ചികിത്സാരീതി പാലിച്ചു.",
+    "usageExample": "Prescribed routine.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "psychosomatic",
+    "wordMeaning": "സൈക്കോസോമാറ്റിക്",
+    "englishText": "Chronic workplace stress can trigger debilitating psychosomatic gastrointestinal ulcers.",
+    "malayalamMeaning": "വിട്ടുമാറാത്ത ജോലിസ്ഥലത്തെ സമ്മർദ്ദം ദുർബലപ്പെടുത്തുന്ന സൈക്കോസോമാറ്റിക് ഗ്യാസ്ട്രോഇൻ്റസ്റ്റൈനൽ അൾസറിന് കാരണമാകും.",
+    "usageExample": "Mind-body ailment.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "homeostasis",
+    "wordMeaning": "ഹോമിയോസ്റ്റാസിസ്",
+    "englishText": "The endocrine system continuously secretes hormones to maintain physiological homeostasis.",
+    "malayalamMeaning": "ഫിസിയോളജിക്കൽ ഹോമിയോസ്റ്റാസിസ് നിലനിർത്താൻ എൻഡോക്രൈൻ സിസ്റ്റം തുടർച്ചയായി ഹോർമോണുകൾ സ്രവിക്കുന്നു.",
+    "usageExample": "Biological balance.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "longevity",
+    "wordMeaning": "ദീർഘായുസ്സ്",
+    "englishText": "Centenarians in coastal villages attribute their longevity to active walking and fish diets.",
+    "malayalamMeaning": "തീരദേശ ഗ്രാമങ്ങളിലെ നൂറു വയസ്സുകാർ തങ്ങളുടെ ദീർഘായുസ്സിനു കാരണം സജീവമായ നടത്തവും മത്സ്യ ഭക്ഷണവുമാണ്.",
+    "usageExample": "Long life.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "congenital",
+    "wordMeaning": "ജന്മനായുള്ള",
+    "englishText": "Pediatric cardiologists repaired the infant's congenital ventricular septal defect.",
+    "malayalamMeaning": "പീഡിയാട്രിക് കാർഡിയോളജിസ്റ്റുകൾ ശിശുവിൻ്റെ ജന്മനായുള്ള വെൻട്രിക്കുലാർ സെപ്റ്റൽ വൈകല്യം പരിഹരിച്ചു.",
+    "usageExample": "Present at birth.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "idiopathic",
+    "wordMeaning": "ഇഡിയൊപാത്തിക്",
+    "englishText": "Idiopathic pulmonary fibrosis is a condition whose underlying trigger remains unproven.",
+    "malayalamMeaning": "ഇഡിയോപതിക് പൾമണറി ഫൈബ്രോസിസ് ഒരു അവസ്ഥയാണ്, അതിൻ്റെ അടിസ്ഥാന ട്രിഗർ തെളിയിക്കപ്പെടാതെ തുടരുന്നു.",
+    "usageExample": "Of unknown cause.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "pharmacopoeia",
+    "wordMeaning": "ഫാർമക്കോപ്പിയ",
+    "englishText": "Ayurvedic pharmacopoeia documents thousands of therapeutic herbal plants and extracts.",
+    "malayalamMeaning": "ആയുർവേദ ഫാർമക്കോപ്പിയ ആയിരക്കണക്കിന് ചികിത്സാ ഹെർബൽ സസ്യങ്ങളും സത്തകളും രേഖപ്പെടുത്തുന്നു.",
+    "usageExample": "Book of medicines.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "resuscitation",
+    "wordMeaning": "പുനരുജ്ജീവനം",
+    "englishText": "Cardiopulmonary resuscitation maneuvers revived the near-drowning victim on the beach.",
+    "malayalamMeaning": "കാർഡിയോപൾമോണറി പുനർ-ഉത്തേജന തന്ത്രങ്ങൾ കടൽത്തീരത്ത് മുങ്ങിമരിച്ച ഇരയെ പുനരുജ്ജീവിപ്പിച്ചു.",
+    "usageExample": "Revival from collapse.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hemodialysis",
+    "wordMeaning": "ഹീമോഡയാലിസിസ്",
+    "englishText": "End-stage renal failure patients undergo four-hour hemodialysis sessions thrice weekly.",
+    "malayalamMeaning": "വൃക്കസംബന്ധമായ പരാജയത്തിൻ്റെ അവസാന ഘട്ടത്തിലുള്ള രോഗികൾക്ക് ആഴ്ചയിൽ മൂന്ന് തവണ നാല് മണിക്കൂർ ഹീമോഡയാലിസിസ് നടത്തുന്നു.",
+    "usageExample": "Blood filtration.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "laparoscopy",
+    "wordMeaning": "ലാപ്രോസ്കോപ്പി",
+    "englishText": "Laparoscopy allows abdominal surgeries to be performed via tiny keyhole incisions.",
+    "malayalamMeaning": "ലാപ്രോസ്കോപ്പി ചെറിയ കീഹോൾ മുറിവുകളിലൂടെ വയറിലെ ശസ്ത്രക്രിയകൾ നടത്താൻ അനുവദിക്കുന്നു.",
+    "usageExample": "Keyhole surgery.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "endoscopy",
+    "wordMeaning": "എൻഡോസ്കോപ്പി",
+    "englishText": "Upper gastrointestinal endoscopy visualized a bleeding peptic ulcer in the stomach.",
+    "malayalamMeaning": "അപ്പർ ഗാസ്ട്രോഇൻ്റസ്റ്റൈനൽ എൻഡോസ്കോപ്പി ആമാശയത്തിൽ രക്തസ്രാവം പെപ്റ്റിക് അൾസർ ദൃശ്യമാക്കി.",
+    "usageExample": "Camera tube exam.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bronchoscopy",
+    "wordMeaning": "ബ്രോങ്കോസ്കോപ്പി",
+    "englishText": "The pulmonologist performed a flexible bronchoscopy to inspect the bronchial tree.",
+    "malayalamMeaning": "ബ്രോങ്കിയൽ ട്രീ പരിശോധിക്കാൻ പൾമോണോളജിസ്റ്റ് ഫ്ലെക്സിബിൾ ബ്രോങ്കോസ്കോപ്പി നടത്തി.",
+    "usageExample": "Airway endoscopy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "defibrillator",
+    "wordMeaning": "ഡിഫിബ്രിലേറ്റർ",
+    "englishText": "Automated external defibrillators placed in public airports deliver lifesaving shocks.",
+    "malayalamMeaning": "പൊതു വിമാനത്താവളങ്ങളിൽ സ്ഥാപിച്ചിട്ടുള്ള ഓട്ടോമേറ്റഡ് എക്‌സ്‌റ്റേണൽ ഡിഫിബ്രിലേറ്ററുകൾ ജീവൻ രക്ഷിക്കുന്ന ആഘാതങ്ങൾ നൽകുന്നു.",
+    "usageExample": "Heart shock device.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "catheterization",
+    "wordMeaning": "കത്തീറ്ററൈസേഷൻ",
+    "englishText": "Coronary catheterization unblocked the narrowed artery and placed a drug-eluting stent.",
+    "malayalamMeaning": "കൊറോണറി കത്തീറ്ററൈസേഷൻ ഇടുങ്ങിയ ധമനിയുടെ തടസ്സം മാറ്റുകയും മയക്കുമരുന്ന് നീക്കം ചെയ്യുന്ന സ്റ്റെൻ്റ് സ്ഥാപിക്കുകയും ചെയ്തു.",
+    "usageExample": "Heart tube threading.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "immuno-oncology",
+    "wordMeaning": "ഇമ്മ്യൂണോ-ഓങ്കോളജി",
+    "englishText": "Immuno-oncology harnesses the patient's own T-lymphocytes to destroy malignant tumors.",
+    "malayalamMeaning": "മാരകമായ മുഴകളെ നശിപ്പിക്കാൻ രോഗിയുടെ സ്വന്തം ടി-ലിംഫോസൈറ്റുകളെ ഇമ്മ്യൂണോ ഓങ്കോളജി ഉപയോഗിക്കുന്നു.",
+    "usageExample": "Cancer immunotherapy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "iatrogenic",
+    "wordMeaning": "അയട്രോജെനിക്",
+    "englishText": "Careful antibiotic stewardship minimizes the occurrence of iatrogenic gut infections.",
+    "malayalamMeaning": "ശ്രദ്ധാപൂർവമായ ആൻറിബയോട്ടിക് പരിപാലനം അയാട്രോജെനിക് ഗട്ട് അണുബാധകൾ ഉണ്ടാകുന്നത് കുറയ്ക്കുന്നു.",
+    "usageExample": "Doctor-induced illness.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "nosocomial",
+    "wordMeaning": "നൊസോകോമിയൽ",
+    "englishText": "Rigorous hand hygiene protocols reduce the incidence of nosocomial hospital infections.",
+    "malayalamMeaning": "കർശനമായ കൈ ശുചിത്വ പ്രോട്ടോക്കോളുകൾ നൊസോകോമിയൽ ഹോസ്പിറ്റൽ അണുബാധകൾ കുറയ്ക്കുന്നു.",
+    "usageExample": "Hospital-acquired.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hyperglycemia",
+    "wordMeaning": "ഹൈപ്പർ ഗ്ലൈസീമിയ",
+    "englishText": "Diabetic ketoacidosis is an acute metabolic crisis caused by uncontrolled hyperglycemia.",
+    "malayalamMeaning": "അനിയന്ത്രിതമായ ഹൈപ്പർ ഗ്ലൈസീമിയ മൂലമുണ്ടാകുന്ന നിശിത ഉപാപചയ പ്രതിസന്ധിയാണ് ഡയബറ്റിക് കെറ്റോഅസിഡോസിസ്.",
+    "usageExample": "High blood sugar.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hypoglycemia",
+    "wordMeaning": "ഹൈപ്പോഗ്ലൈസീമിയ",
+    "englishText": "Diabetic patients should carry glucose sweets to treat sudden shakiness from hypoglycemia.",
+    "malayalamMeaning": "ഹൈപ്പോഗ്ലൈസീമിയയിൽ നിന്നുള്ള പെട്ടെന്നുള്ള കുലുക്കം ചികിത്സിക്കാൻ പ്രമേഹ രോഗികൾ ഗ്ലൂക്കോസ് മധുരപലഹാരങ്ങൾ കരുതണം.",
+    "usageExample": "Low blood sugar.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hypertrophy",
+    "wordMeaning": "ഹൈപ്പർട്രോഫി",
+    "englishText": "Untreated hypertension can lead to progressive left ventricular muscle hypertrophy.",
+    "malayalamMeaning": "ചികിത്സയില്ലാത്ത രക്താതിമർദ്ദം ഇടത് വെൻട്രിക്കുലാർ പേശികളുടെ ഹൈപ്പർട്രോഫിക്ക് കാരണമാകും.",
+    "usageExample": "Tissue enlargement.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ischemia",
+    "wordMeaning": "ഇസ്കെമിയ",
+    "englishText": "Coronary artery disease reduces oxygenated blood flow, causing myocardial ischemia.",
+    "malayalamMeaning": "കൊറോണറി ആർട്ടറി രോഗം ഓക്സിജൻ അടങ്ങിയ രക്തയോട്ടം കുറയ്ക്കുന്നു, ഇത് മയോകാർഡിയൽ ഇസ്കെമിയയ്ക്ക് കാരണമാകുന്നു.",
+    "usageExample": "Blood flow starvation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "necrosis",
+    "wordMeaning": "necrosis",
+    "englishText": "Prolonged arterial blockage causes irreversible cellular necrosis in ischemic tissues.",
+    "malayalamMeaning": "നീണ്ടുനിൽക്കുന്ന ധമനികളുടെ തടസ്സം ഇസ്കെമിക് ടിഷ്യൂകളിൽ മാറ്റാനാവാത്ത സെല്ലുലാർ നെക്രോസിസിന് കാരണമാകുന്നു.",
+    "usageExample": "Cell death.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "infarction",
+    "wordMeaning": "ഇൻഫ്രാക്ഷൻ",
+    "englishText": "Immediate thrombolytic therapy within ninety minutes limits the size of myocardial infarction.",
+    "malayalamMeaning": "തൊണ്ണൂറ് മിനിറ്റിനുള്ളിൽ ഉടനടി ത്രോംബോളിറ്റിക് തെറാപ്പി മയോകാർഡിയൽ ഇൻഫ്രാക്ഷൻ്റെ വലുപ്പം പരിമിതപ്പെടുത്തുന്നു.",
+    "usageExample": "Tissue death by clot.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "stenosis",
+    "wordMeaning": "സ്റ്റെനോസിസ്",
+    "englishText": "Surgical replacement was required to correct severe calcified aortic valve stenosis.",
+    "malayalamMeaning": "ഗുരുതരമായ കാൽസിഫൈഡ് അയോർട്ടിക് വാൽവ് സ്റ്റെനോസിസ് ശരിയാക്കാൻ ശസ്ത്രക്രിയ മാറ്റിസ്ഥാപിക്കേണ്ടതുണ്ട്.",
+    "usageExample": "Narrowing of canal.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "aneurysm",
+    "wordMeaning": "അനൂറിസം",
+    "englishText": "Neurosurgeons clamped the cerebral vascular aneurysm before catastrophic rupture occurred.",
+    "malayalamMeaning": "വിനാശകരമായ വിള്ളൽ സംഭവിക്കുന്നതിന് മുമ്പ് ന്യൂറോ സർജന്മാർ സെറിബ്രൽ വാസ്കുലർ അനൂറിസം തടഞ്ഞു.",
+    "usageExample": "Artery ballooning.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "embolus",
+    "wordMeaning": "എംബോളസ്",
+    "englishText": "The vascular surgeon extracted the migrating arterial embolus using a balloon catheter.",
+    "malayalamMeaning": "വാസ്കുലർ സർജൻ ഒരു ബലൂൺ കത്തീറ്റർ ഉപയോഗിച്ച് മൈഗ്രേറ്റിംഗ് ആർട്ടീരിയൽ എംബോളസ് വേർതിരിച്ചെടുത്തു.",
+    "usageExample": "Traveling clot.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "fibrillation",
+    "wordMeaning": "ഫൈബ്രിലേഷൻ",
+    "englishText": "Ventricular fibrillation requires immediate electric defibrillation to prevent brain death.",
+    "malayalamMeaning": "മസ്തിഷ്ക മരണം തടയാൻ വെൻട്രിക്കുലാർ ഫൈബ്രിലേഷന് ഉടനടി വൈദ്യുത ഡീഫിബ്രിലേഷൻ ആവശ്യമാണ്.",
+    "usageExample": "Chaotic heart twitch.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "septicemia",
+    "wordMeaning": "സെപ്റ്റിസീമിയ",
+    "englishText": "Early aggressive intravenous antibiotics are vital to avert fatal bacterial septicemia.",
+    "malayalamMeaning": "മാരകമായ ബാക്ടീരിയൽ സെപ്‌റ്റിസീമിയ ഒഴിവാക്കാൻ ആദ്യകാല ആക്രമണാത്മക ഇൻട്രാവണസ് ആൻറിബയോട്ടിക്കുകൾ അത്യന്താപേക്ഷിതമാണ്.",
+    "usageExample": "Blood poisoning.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bacteremia",
+    "wordMeaning": "ബാക്ടീരിയ",
+    "englishText": "Dental infections can occasionally cause transient bacteremia in susceptible patients.",
+    "malayalamMeaning": "ഡെൻ്റൽ അണുബാധകൾ ഇടയ്ക്കിടെ ക്ഷണികമായ ബാക്ടീരിയമിയയ്ക്ക് സാധ്യതയുള്ള രോഗികളിൽ കാരണമാകാം.",
+    "usageExample": "Bacteria in blood.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hypoxemia",
+    "wordMeaning": "ഹൈപ്പോക്സീമിയ",
+    "englishText": "Pulse oximeters alert clinical staff to sudden arterial oxygen saturation hypoxemia.",
+    "malayalamMeaning": "പൾസ് ഓക്‌സിമീറ്ററുകൾ ക്ലിനിക്കൽ ജീവനക്കാരെ പെട്ടെന്ന് ധമനികളിലെ ഓക്‌സിജൻ സാച്ചുറേഷൻ ഹൈപ്പോക്‌സീമിയയെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകുന്നു.",
+    "usageExample": "Low blood oxygen.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "cannula",
+    "wordMeaning": "കാനുല",
+    "englishText": "The patient received supplementary humidified oxygen through a soft nasal cannula.",
+    "malayalamMeaning": "മൃദുവായ നാസൽ ക്യാനുലയിലൂടെ രോഗിക്ക് സപ്ലിമെൻ്ററി ഹ്യുമിഡിഫൈഡ് ഓക്സിജൻ ലഭിച്ചു.",
+    "usageExample": "Plastic tube.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "intubation",
+    "wordMeaning": "ഇൻകുബേഷൻ",
+    "englishText": "Endotracheal intubation secured the comatose trauma patient's airway in the ambulance.",
+    "malayalamMeaning": "ആംബുലൻസിൽ കോമാറ്റോസ് ട്രോമ രോഗിയുടെ ശ്വാസനാളം എൻഡോട്രേഷ്യൽ ഇൻട്യൂബേഷൻ സുരക്ഷിതമാക്കി.",
+    "usageExample": "Airway tube placing.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "tracheostomy",
+    "wordMeaning": "ട്രക്കിയോസ്റ്റമി",
+    "englishText": "Long-term ventilator patients often require a temporary surgical tracheostomy.",
+    "malayalamMeaning": "ദീർഘകാല വെൻ്റിലേറ്റർ രോഗികൾക്ക് പലപ്പോഴും താൽക്കാലിക ശസ്ത്രക്രിയ ട്രക്കിയോസ്റ്റമി ആവശ്യമാണ്.",
+    "usageExample": "Trachea opening.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "scalpel",
+    "wordMeaning": "സ്കാൽപെൽ",
+    "englishText": "The surgeon held the sterile surgical scalpel with steady, practiced precision.",
+    "malayalamMeaning": "അണുവിമുക്തമായ സർജിക്കൽ സ്കാൽപെൽ സുസ്ഥിരവും പരിശീലിച്ചതുമായ കൃത്യതയോടെ ശസ്ത്രക്രിയാ വിദഗ്ധൻ പിടിച്ചു.",
+    "usageExample": "Surgical blade.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "syringe",
+    "wordMeaning": "സിറിഞ്ച്",
+    "englishText": "The nurse filled the disposable plastic syringe with the prescribed antibiotic dose.",
+    "malayalamMeaning": "ഡിസ്പോസിബിൾ പ്ലാസ്റ്റിക് സിറിഞ്ചിൽ നിർദ്ദേശിച്ച ആൻ്റിബയോട്ടിക് ഡോസ് നഴ്സ് നിറച്ചു.",
+    "usageExample": "Injection tube.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "gauze",
+    "wordMeaning": "നെയ്തെടുത്ത",
+    "englishText": "Apply a sterile medicated gauze pad over the clean cut before taping it securely.",
+    "malayalamMeaning": "സുരക്ഷിതമായി ടാപ്പ് ചെയ്യുന്നതിന് മുമ്പ് വൃത്തിയാക്കിയ കട്ടിന് മുകളിൽ ഒരു അണുവിമുക്തമായ മെഡിക്കേറ്റഡ് നെയ്തെടുത്ത പാഡ് പ്രയോഗിക്കുക.",
+    "usageExample": "Wound mesh.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stethoscope",
+    "wordMeaning": "സ്റ്റെതസ്കോപ്പ്",
+    "englishText": "The physician warmed the stethoscope chest piece before placing it on the child's back.",
+    "malayalamMeaning": "കുട്ടിയുടെ മുതുകിൽ വയ്ക്കുന്നതിന് മുമ്പ് വൈദ്യൻ സ്റ്റെതസ്കോപ്പ് ചെസ്റ്റ് കഷണം ചൂടാക്കി.",
+    "usageExample": "Listening tool.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "thermometer",
+    "wordMeaning": "തെർമോമീറ്റർ",
+    "englishText": "The digital clinical thermometer beeped softly to display a normal body temperature.",
+    "malayalamMeaning": "സാധാരണ ശരീര താപനില കാണിക്കാൻ ഡിജിറ്റൽ ക്ലിനിക്കൽ തെർമോമീറ്റർ മൃദുവായി ബീപ് ചെയ്തു.",
+    "usageExample": "Heat reader.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "inhaler",
+    "wordMeaning": "ഇൻഹേലർ",
+    "englishText": "Asthmatic patients should always keep their rescue bronchodilator inhaler within arm's reach.",
+    "malayalamMeaning": "ആസ്ത്മ രോഗികൾ എപ്പോഴും അവരുടെ റെസ്ക്യൂ ബ്രോങ്കോഡിലേറ്റർ ഇൻഹേലർ കൈയ്യെത്തും ദൂരത്ത് സൂക്ഷിക്കണം.",
+    "usageExample": "Breathing device.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ointment",
+    "wordMeaning": "തൈലം",
+    "englishText": "Gently rub the analgesic herbal ointment over the stiff neck muscles before sleeping.",
+    "malayalamMeaning": "ഉറങ്ങുന്നതിനുമുമ്പ് കഴുത്തിലെ പേശികളിൽ വേദനസംഹാരിയായ ഹെർബൽ തൈലം മൃദുവായി തടവുക.",
+    "usageExample": "Medicated paste.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lozenge",
+    "wordMeaning": "ലോസഞ്ച്",
+    "englishText": "Suck on a honey and lemon throat lozenge to soothe a dry, hacking ticklish cough.",
+    "malayalamMeaning": "വരണ്ട, ഇക്കിളിപ്പെടുത്തുന്ന ചുമയെ ശമിപ്പിക്കാൻ തേനും നാരങ്ങ തൊണ്ടയും കുടിക്കുക.",
+    "usageExample": "Throat sweet.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tincture",
+    "wordMeaning": "കഷായങ്ങൾ",
+    "englishText": "Apply a few drops of iodine tincture around the scraped knee to prevent infection.",
+    "malayalamMeaning": "അണുബാധ തടയാൻ ചുരണ്ടിയ കാൽമുട്ടിന് ചുറ്റും കുറച്ച് തുള്ളി അയോഡിൻ കഷായങ്ങൾ പുരട്ടുക.",
+    "usageExample": "Antiseptic solution.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "dressing",
+    "wordMeaning": "വസ്ത്രധാരണം",
+    "englishText": "Visit the community health clinic daily to have your surgical dressing changed hygienically.",
+    "malayalamMeaning": "നിങ്ങളുടെ ശസ്ത്രക്രിയാ വസ്ത്രധാരണം ശുചിത്വപരമായി മാറ്റുന്നതിന് ദിവസവും കമ്മ്യൂണിറ്റി ഹെൽത്ത് ക്ലിനിക്ക് സന്ദർശിക്കുക.",
+    "usageExample": "Wound covering.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "suture",
+    "wordMeaning": "തുന്നൽ",
+    "englishText": "The casualty doctor placed four neat dissolvable sutures to close the forehead cut.",
+    "malayalamMeaning": "നെറ്റിയിലെ മുറിവ് അടയ്ക്കാൻ കാഷ്വാലിറ്റി ഡോക്ടർ നാല് വൃത്തിയായി പിരിച്ചുവിടുന്ന തുന്നലുകൾ ഇട്ടു.",
+    "usageExample": "Medical stitch.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "splint",
+    "wordMeaning": "സ്പ്ലിൻ്റ്",
+    "englishText": "The paramedic applied a rigid padded splint to immobilize the fractured forearm.",
+    "malayalamMeaning": "ഒടിഞ്ഞ കൈത്തണ്ട നിശ്ചലമാക്കാൻ പാരാമെഡിക്ക് ഒരു കർക്കശമായ പാഡഡ് സ്പ്ലിൻ്റ് പ്രയോഗിച്ചു.",
+    "usageExample": "Limb support.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tourniquet",
+    "wordMeaning": "ടൂർണിക്കറ്റ്",
+    "englishText": "Apply a tight medical tourniquet above an arterial limb wound to halt catastrophic hemorrhage.",
+    "malayalamMeaning": "വിനാശകരമായ രക്തസ്രാവം തടയാൻ ധമനികളിലെ മുറിവിന് മുകളിൽ ഇറുകിയ മെഡിക്കൽ ടൂർണിക്യൂട്ട് പ്രയോഗിക്കുക.",
+    "usageExample": "Bleeding clamp.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "defibrillator",
+    "wordMeaning": "ഡിഫിബ്രിലേറ്റർ",
+    "englishText": "The public airport terminal is equipped with automated external defibrillator stations.",
+    "malayalamMeaning": "പബ്ലിക് എയർപോർട്ട് ടെർമിനലിൽ ഓട്ടോമേറ്റഡ് എക്സ്റ്റേണൽ ഡിഫിബ്രിലേറ്റർ സ്റ്റേഷനുകൾ സജ്ജീകരിച്ചിരിക്കുന്നു.",
+    "usageExample": "Heart shock unit.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "incubator",
+    "wordMeaning": "ഇൻകുബേറ്റർ",
+    "englishText": "Premature newborn infants are cared for inside temperature-controlled hospital incubators.",
+    "malayalamMeaning": "മാസം തികയാതെ ജനിക്കുന്ന നവജാത ശിശുക്കളെ താപനില നിയന്ത്രിത ആശുപത്രി ഇൻകുബേറ്ററിനുള്ളിൽ പരിപാലിക്കുന്നു.",
+    "usageExample": "Baby chamber.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ventilator",
+    "wordMeaning": "വെൻ്റിലേറ്റർ",
+    "englishText": "Advanced mechanical ventilators supported the patient's breathing during lung infection.",
+    "malayalamMeaning": "നൂതന മെക്കാനിക്കൽ വെൻ്റിലേറ്ററുകൾ ശ്വാസകോശ അണുബാധയുടെ സമയത്ത് രോഗിയുടെ ശ്വസനത്തെ പിന്തുണച്ചു.",
+    "usageExample": "Respirator.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cannula",
+    "wordMeaning": "കാനുല",
+    "englishText": "The staff nurse inserted an intravenous cannula into the vein on the back of his hand.",
+    "malayalamMeaning": "സ്റ്റാഫ് നഴ്സ് അവൻ്റെ കൈയുടെ പിൻഭാഗത്തുള്ള സിരയിലേക്ക് ഒരു ഇൻട്രാവണസ് കാനുല തിരുകി.",
+    "usageExample": "IV needle tube.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "catheter",
+    "wordMeaning": "കത്തീറ്റർ",
+    "englishText": "Surgeons inserted a flexible urinary catheter following the major pelvic procedure.",
+    "malayalamMeaning": "പ്രധാന പെൽവിക് നടപടിക്രമത്തെത്തുടർന്ന് ശസ്ത്രക്രിയാ വിദഗ്ധർ ഒരു ഫ്ലെക്സിബിൾ യൂറിനറി കത്തീറ്റർ ഘടിപ്പിച്ചു.",
+    "usageExample": "Medical drain tube.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "biopsy",
+    "wordMeaning": "ബയോപ്സി",
+    "englishText": "The laboratory technician prepared thin tissue biopsy slices for microscopic inspection.",
+    "malayalamMeaning": "സൂക്ഷ്മപരിശോധനയ്ക്കായി ലബോറട്ടറി ടെക്നീഷ്യൻ നേർത്ത ടിഷ്യു ബയോപ്സി കഷ്ണങ്ങൾ തയ്യാറാക്കി.",
+    "usageExample": "Sample analysis.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pathologist",
+    "wordMeaning": "പാത്തോളജിസ്റ്റ്",
+    "englishText": "The clinical pathologist examined the blood smear to detect malarial parasites.",
+    "malayalamMeaning": "മലേറിയ പരാന്നഭോജികളെ കണ്ടെത്തുന്നതിന് ക്ലിനിക്കൽ പാത്തോളജിസ്റ്റ് രക്ത സ്മിയർ പരിശോധിച്ചു.",
+    "usageExample": "Lab MD.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "radiologist",
+    "wordMeaning": "റേഡിയോളജിസ്റ്റ്",
+    "englishText": "The consultant radiologist interpreted the complex high-resolution brain MRI scans.",
+    "malayalamMeaning": "കൺസൾട്ടൻ്റ് റേഡിയോളജിസ്റ്റ് സങ്കീർണ്ണമായ ഉയർന്ന മിഴിവുള്ള മസ്തിഷ്ക MRI സ്കാനുകളെ വ്യാഖ്യാനിച്ചു.",
+    "usageExample": "Imaging MD.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pharmacologist",
+    "wordMeaning": "ഔഷധശാസ്ത്രജ്ഞൻ",
+    "englishText": "The medical pharmacologist conducted clinical trials investigating the new cardiac drug.",
+    "malayalamMeaning": "പുതിയ കാർഡിയാക് മരുന്നിനെക്കുറിച്ച് മെഡിക്കൽ ഫാർമക്കോളജിസ്റ്റ് ക്ലിനിക്കൽ പരീക്ഷണങ്ങൾ നടത്തി.",
+    "usageExample": "Drug scientist.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "immunologist",
+    "wordMeaning": "രോഗപ്രതിരോധശാസ്ത്രജ്ഞൻ",
+    "englishText": "Consult an allergy immunologist to identify specific triggers causing your chronic hives.",
+    "malayalamMeaning": "നിങ്ങളുടെ വിട്ടുമാറാത്ത തേനീച്ചക്കൂടുകൾക്ക് കാരണമാകുന്ന നിർദ്ദിഷ്ട ട്രിഗറുകൾ തിരിച്ചറിയാൻ ഒരു അലർജി ഇമ്മ്യൂണോളജിസ്റ്റിനെ സമീപിക്കുക.",
+    "usageExample": "Immune MD.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "neurologist",
+    "wordMeaning": "ന്യൂറോളജിസ്റ്റ്",
+    "englishText": "The neurologist conducted nerve conduction studies to evaluate numbness in the legs.",
+    "malayalamMeaning": "കാലുകളിലെ മരവിപ്പ് വിലയിരുത്താൻ ന്യൂറോളജിസ്റ്റ് നാഡി ചാലക പഠനങ്ങൾ നടത്തി.",
+    "usageExample": "Nerve MD.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cardiologist",
+    "wordMeaning": "കാർഡിയോളജിസ്റ്റ്",
+    "englishText": "The intervention cardiologist successfully implanted a stent to restore coronary blood flow.",
+    "malayalamMeaning": "കൊറോണറി രക്തയോട്ടം പുനഃസ്ഥാപിക്കുന്നതിനായി ഇൻ്റർവെൻഷൻ കാർഡിയോളജിസ്റ്റ് ഒരു സ്റ്റെൻ്റ് വിജയകരമായി ഘടിപ്പിച്ചു.",
+    "usageExample": "Heart MD.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "endocrinologist",
+    "wordMeaning": "എൻഡോക്രൈനോളജിസ്റ്റ്",
+    "englishText": "An endocrinologist specializes in optimizing insulin and thyroid hormonal balance.",
+    "malayalamMeaning": "ഇൻസുലിൻ, തൈറോയ്ഡ് ഹോർമോൺ ബാലൻസ് ഒപ്റ്റിമൈസ് ചെയ്യുന്നതിൽ ഒരു എൻഡോക്രൈനോളജിസ്റ്റ് വൈദഗ്ദ്ധ്യം നേടിയിട്ടുണ്ട്.",
+    "usageExample": "Hormone MD.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "nephrologist",
+    "wordMeaning": "നെഫ്രോളജിസ്റ്റ്",
+    "englishText": "The nephrologist monitored kidney filtration rates and managed fluid electrolyte balances.",
+    "malayalamMeaning": "നെഫ്രോളജിസ്റ്റ് വൃക്ക ഫിൽട്ടറേഷൻ നിരക്ക് നിരീക്ഷിക്കുകയും ദ്രാവക ഇലക്ട്രോലൈറ്റ് ബാലൻസ് നിയന്ത്രിക്കുകയും ചെയ്തു.",
+    "usageExample": "Kidney MD.",
+    "difficulty": "ADVANCED"
+  }
+]

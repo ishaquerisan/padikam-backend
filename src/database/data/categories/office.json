@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "office",
+    "wordMeaning": "ഓഫീസ്",
+    "englishText": "Our new office is located in the heart of Infopark.",
+    "malayalamMeaning": "ഇൻഫോപാർക്കിൻ്റെ ഹൃദയഭാഗത്താണ് ഞങ്ങളുടെ പുതിയ ഓഫീസ്.",
+    "usageExample": "Workplace.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "desk",
+    "wordMeaning": "മേശ",
+    "englishText": "Keep your computer desk organized and free of clutter.",
+    "malayalamMeaning": "നിങ്ങളുടെ കംപ്യൂട്ടർ ഡെസ്‌ക് ക്രമീകരിച്ച് അലങ്കോലമില്ലാതെ സൂക്ഷിക്കുക.",
+    "usageExample": "Workstation table.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "chair",
+    "wordMeaning": "കസേര",
+    "englishText": "An ergonomic chair helps prevent back pain during long work hours.",
+    "malayalamMeaning": "ഒരു എർഗണോമിക് കസേര നീണ്ട ജോലി സമയങ്ങളിൽ നടുവേദന തടയാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Office seat.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "computer",
+    "wordMeaning": "കമ്പ്യൂട്ടർ",
+    "englishText": "I logged into my office computer to start checking customer tickets.",
+    "malayalamMeaning": "ഉപഭോക്തൃ ടിക്കറ്റുകൾ പരിശോധിക്കാൻ ഞാൻ എൻ്റെ ഓഫീസ് കമ്പ്യൂട്ടറിൽ ലോഗിൻ ചെയ്തു.",
+    "usageExample": "Work PC.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "laptop",
+    "wordMeaning": "ലാപ്ടോപ്പ്",
+    "englishText": "She carried her lightweight office laptop to the conference hall.",
+    "malayalamMeaning": "അവൾ അവളുടെ ഭാരം കുറഞ്ഞ ഓഫീസ് ലാപ്‌ടോപ്പും കോൺഫറൻസ് ഹാളിലേക്ക് കൊണ്ടുപോയി.",
+    "usageExample": "Portable computer.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "screen",
+    "wordMeaning": "സ്ക്രീൻ",
+    "englishText": "Staring at the computer screen for hours can cause eye strain.",
+    "malayalamMeaning": "മണിക്കൂറുകളോളം കംപ്യൂട്ടർ സ്ക്രീനിൽ നോക്കുന്നത് കണ്ണിന് ആയാസം ഉണ്ടാക്കും.",
+    "usageExample": "Display monitor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "keyboard",
+    "wordMeaning": "കീബോർഡ്",
+    "englishText": "He typed his daily status report rapidly on the mechanical keyboard.",
+    "malayalamMeaning": "അവൻ മെക്കാനിക്കൽ കീബോർഡിൽ തൻ്റെ ദൈനംദിന സ്റ്റാറ്റസ് റിപ്പോർട്ട് അതിവേഗം ടൈപ്പ് ചെയ്തു.",
+    "usageExample": "Input device.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mouse",
+    "wordMeaning": "മൗസ്",
+    "englishText": "The wireless mouse needed a new battery this morning.",
+    "malayalamMeaning": "ഇന്ന് രാവിലെ വയർലെസ് മൗസിന് ഒരു പുതിയ ബാറ്ററി ആവശ്യമായിരുന്നു.",
+    "usageExample": "Pointing device.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "printer",
+    "wordMeaning": "പ്രിൻ്റർ",
+    "englishText": "Please collect the financial handouts from the office printer.",
+    "malayalamMeaning": "ഓഫീസ് പ്രിൻ്ററിൽ നിന്ന് സാമ്പത്തിക ഹാൻഡ്ഔട്ടുകൾ ശേഖരിക്കുക.",
+    "usageExample": "Printing device.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "paper",
+    "wordMeaning": "പേപ്പർ",
+    "englishText": "We ran out of printer paper just before the client presentation.",
+    "malayalamMeaning": "ക്ലയൻ്റ് അവതരണത്തിന് തൊട്ടുമുമ്പ് ഞങ്ങളുടെ പ്രിൻ്റർ പേപ്പർ തീർന്നു.",
+    "usageExample": "Stationery.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pen",
+    "wordMeaning": "പേന",
+    "englishText": "Always carry a blue pen to sign official attendance registers.",
+    "malayalamMeaning": "ഔദ്യോഗിക ഹാജർ രജിസ്റ്ററിൽ ഒപ്പിടാൻ എപ്പോഴും നീല പേന കരുതുക.",
+    "usageExample": "Writing tool.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "notebook",
+    "wordMeaning": "നോട്ട്ബുക്ക്",
+    "englishText": "She took detailed notes in her spiral notebook during the briefing.",
+    "malayalamMeaning": "ബ്രീഫിംഗിൽ അവൾ തൻ്റെ സ്പൈറൽ നോട്ട്ബുക്കിൽ വിശദമായ കുറിപ്പുകൾ എടുത്തു.",
+    "usageExample": "Note keeper.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "file",
+    "wordMeaning": "ഫയൽ",
+    "englishText": "Please save the updated spreadsheet file in the shared company drive.",
+    "malayalamMeaning": "പങ്കിട്ട കമ്പനി ഡ്രൈവിൽ അപ്ഡേറ്റ് ചെയ്ത സ്പ്രെഡ്ഷീറ്റ് ഫയൽ സംരക്ഷിക്കുക.",
+    "usageExample": "Digital or physical document.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "folder",
+    "wordMeaning": "ഫോൾഡർ",
+    "englishText": "Keep all client contracts organized neatly inside this labeled folder.",
+    "malayalamMeaning": "ഈ ലേബൽ ചെയ്‌ത ഫോൾഡറിനുള്ളിൽ എല്ലാ ക്ലയൻ്റ് കരാറുകളും ഭംഗിയായി ഓർഗനൈസുചെയ്‌ത് സൂക്ഷിക്കുക.",
+    "usageExample": "Document container.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "report",
+    "wordMeaning": "റിപ്പോർട്ട്",
+    "englishText": "The weekly sales report is due on Friday before five o'clock.",
+    "malayalamMeaning": "ആഴ്ചതോറുമുള്ള വിൽപ്പന റിപ്പോർട്ട് വെള്ളിയാഴ്ച അഞ്ച് മണിക്ക് മുമ്പ് നൽകണം.",
+    "usageExample": "Work summary.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "email",
+    "wordMeaning": "ഇമെയിൽ",
+    "englishText": "I will send you a formal confirmation email with the meeting agenda.",
+    "malayalamMeaning": "മീറ്റിംഗ് അജണ്ടയോടൊപ്പം ഞാൻ നിങ്ങൾക്ക് ഒരു ഔപചാരിക സ്ഥിരീകരണ ഇമെയിൽ അയയ്ക്കും.",
+    "usageExample": "Electronic mail.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "send",
+    "wordMeaning": "അയയ്ക്കുക",
+    "englishText": "Make sure you send the revised budget proposal to the accounts department.",
+    "malayalamMeaning": "പുതുക്കിയ ബജറ്റ് നിർദ്ദേശം നിങ്ങൾ അക്കൗണ്ട്സ് ഡിപ്പാർട്ട്മെൻ്റിന് അയച്ചുവെന്ന് ഉറപ്പാക്കുക.",
+    "usageExample": "Transmitting files.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "receive",
+    "wordMeaning": "സ്വീകരിക്കുക",
+    "englishText": "Did you receive the updated shift schedule from human resources?",
+    "malayalamMeaning": "നിങ്ങൾക്ക് ഹ്യൂമൻ റിസോഴ്സിൽ നിന്ന് അപ്ഡേറ്റ് ചെയ്ത ഷിഫ്റ്റ് ഷെഡ്യൂൾ ലഭിച്ചോ?",
+    "usageExample": "Getting communication.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "inbox",
+    "wordMeaning": "ഇൻബോക്സ്",
+    "englishText": "Clear your email inbox every evening to stay on top of priorities.",
+    "malayalamMeaning": "മുൻഗണനകളിൽ മുൻപന്തിയിൽ തുടരാൻ എല്ലാ വൈകുന്നേരവും നിങ്ങളുടെ ഇമെയിൽ ഇൻബോക്സ് മായ്‌ക്കുക.",
+    "usageExample": "Incoming messages.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "reply",
+    "wordMeaning": "മറുപടി",
+    "englishText": "Please reply promptly to urgent inquiries from clients.",
+    "malayalamMeaning": "ക്ലയൻ്റുകളിൽ നിന്നുള്ള അടിയന്തിര അന്വേഷണങ്ങൾക്ക് ഉടൻ മറുപടി നൽകുക.",
+    "usageExample": "Answering messages.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "forward",
+    "wordMeaning": "മുന്നോട്ട്",
+    "englishText": "Could you forward that technical documentation to the development team?",
+    "malayalamMeaning": "നിങ്ങൾക്ക് ആ സാങ്കേതിക ഡോക്യുമെൻ്റേഷൻ ഡെവലപ്‌മെൻ്റ് ടീമിന് കൈമാറാമോ?",
+    "usageExample": "Re-sending email.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "message",
+    "wordMeaning": "സന്ദേശം",
+    "englishText": "He dropped a quick message in the team chat asking for assistance.",
+    "malayalamMeaning": "ടീം ചാറ്റിൽ സഹായം അഭ്യർത്ഥിച്ച് അദ്ദേഹം ഒരു ദ്രുത സന്ദേശം അയച്ചു.",
+    "usageExample": "Short memo.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "call",
+    "wordMeaning": "വിളിക്കുക",
+    "englishText": "We have a scheduled conference call with the Singapore team at noon.",
+    "malayalamMeaning": "ഉച്ചയ്ക്ക് സിംഗപ്പൂർ ടീമുമായി ഞങ്ങൾക്ക് ഒരു ഷെഡ്യൂൾ കോൺഫറൻസ് കോൾ ഉണ്ട്.",
+    "usageExample": "Voice communication.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "phone",
+    "wordMeaning": "ഫോൺ",
+    "englishText": "Put your mobile phone on silent mode during official meetings.",
+    "malayalamMeaning": "ഔദ്യോഗിക മീറ്റിംഗുകളിൽ നിങ്ങളുടെ മൊബൈൽ ഫോൺ സൈലൻ്റ് മോഡിൽ വയ്ക്കുക.",
+    "usageExample": "Communication device.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "meeting",
+    "wordMeaning": "യോഗം",
+    "englishText": "The morning stand-up meeting lasted only fifteen minutes.",
+    "malayalamMeaning": "രാവിലെ സ്റ്റാൻഡ് അപ്പ് മീറ്റിംഗ് പതിനഞ്ച് മിനിറ്റ് മാത്രമേ നീണ്ടുനിന്നുള്ളൂ.",
+    "usageExample": "Work gathering.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "room",
+    "wordMeaning": "മുറി",
+    "englishText": "Let us book conference room B for the afternoon client demo.",
+    "malayalamMeaning": "ഉച്ചകഴിഞ്ഞുള്ള ക്ലയൻ്റ് ഡെമോയ്ക്കായി കോൺഫറൻസ് റൂം ബി ബുക്ക് ചെയ്യാം.",
+    "usageExample": "Office chamber.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "table",
+    "wordMeaning": "മേശ",
+    "englishText": "The directors sat around the polished conference table to review results.",
+    "malayalamMeaning": "ഫലങ്ങൾ അവലോകനം ചെയ്യുന്നതിനായി ഡയറക്ടർമാർ മിനുക്കിയ കോൺഫറൻസ് ടേബിളിന് ചുറ്റും ഇരുന്നു.",
+    "usageExample": "Meeting table.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "boss",
+    "wordMeaning": "മുതലാളി",
+    "englishText": "My boss approved my leave request for the festival holidays.",
+    "malayalamMeaning": "ഉത്സവ അവധികൾക്കുള്ള എൻ്റെ ലീവ് അഭ്യർത്ഥന എൻ്റെ ബോസ് അംഗീകരിച്ചു.",
+    "usageExample": "Supervisor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "manager",
+    "wordMeaning": "മാനേജർ",
+    "englishText": "The project manager assigned three new tickets to each developer.",
+    "malayalamMeaning": "ഓരോ ഡെവലപ്പർക്കും പ്രോജക്ട് മാനേജർ മൂന്ന് പുതിയ ടിക്കറ്റുകൾ നൽകി.",
+    "usageExample": "Team leader.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "team",
+    "wordMeaning": "ടീം",
+    "englishText": "Our engineering team worked round the clock to deploy the update.",
+    "malayalamMeaning": "അപ്‌ഡേറ്റ് വിന്യസിക്കാൻ ഞങ്ങളുടെ എഞ്ചിനീയറിംഗ് ടീം മുഴുവൻ സമയവും പ്രവർത്തിച്ചു.",
+    "usageExample": "Workgroup.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "leader",
+    "wordMeaning": "നേതാവ്",
+    "englishText": "A great team leader guides others with empathy and clear vision.",
+    "malayalamMeaning": "ഒരു മികച്ച ടീം ലീഡർ മറ്റുള്ളവരെ സഹാനുഭൂതിയോടെയും വ്യക്തമായ കാഴ്ചപ്പാടോടെയും നയിക്കുന്നു.",
+    "usageExample": "Guide/manager.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "colleague",
+    "wordMeaning": "സഹപ്രവർത്തകൻ",
+    "englishText": "My colleague kindly helped me resolve the database configuration error.",
+    "malayalamMeaning": "ഡാറ്റാബേസ് കോൺഫിഗറേഷൻ പിശക് പരിഹരിക്കാൻ എൻ്റെ സഹപ്രവർത്തകൻ എന്നെ സഹായിച്ചു.",
+    "usageExample": "Coworker.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "coworker",
+    "wordMeaning": "സഹപ്രവർത്തകൻ",
+    "englishText": "I usually have lunch with my coworkers in the company cafeteria.",
+    "malayalamMeaning": "ഞാൻ സാധാരണയായി കമ്പനി കഫറ്റീരിയയിൽ എൻ്റെ സഹപ്രവർത്തകർക്കൊപ്പം ഉച്ചഭക്ഷണം കഴിക്കാറുണ്ട്.",
+    "usageExample": "Work peer.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "staff",
+    "wordMeaning": "സ്റ്റാഫ്",
+    "englishText": "The hospital staff demonstrated immense dedication during the crisis.",
+    "malayalamMeaning": "പ്രതിസന്ധി ഘട്ടത്തിൽ ആശുപത്രി ജീവനക്കാർ അപാരമായ അർപ്പണബോധം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Employees collectively.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "worker",
+    "wordMeaning": "തൊഴിലാളി",
+    "englishText": "Safety gear is mandatory for every worker on the factory floor.",
+    "malayalamMeaning": "ഫാക്ടറിയിലെ എല്ലാ തൊഴിലാളികൾക്കും സുരക്ഷാ ഗിയർ നിർബന്ധമാണ്.",
+    "usageExample": "Individual employee.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "employee",
+    "wordMeaning": "ജീവനക്കാരൻ",
+    "englishText": "Every employee receives comprehensive health insurance coverage.",
+    "malayalamMeaning": "ഓരോ ജീവനക്കാരനും സമഗ്രമായ ആരോഗ്യ ഇൻഷുറൻസ് പരിരക്ഷ ലഭിക്കുന്നു.",
+    "usageExample": "Hired staff member.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "job",
+    "wordMeaning": "ജോലി",
+    "englishText": "Finding a fulfilling job requires both technical skills and dedication.",
+    "malayalamMeaning": "ഒരു ജോലി കണ്ടെത്തുന്നതിന് സാങ്കേതിക വൈദഗ്ധ്യവും അർപ്പണബോധവും ആവശ്യമാണ്.",
+    "usageExample": "Employment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "work",
+    "wordMeaning": "ജോലി",
+    "englishText": "Hard work and consistent performance always lead to career growth.",
+    "malayalamMeaning": "കഠിനാധ്വാനവും സ്ഥിരതയുള്ള പ്രകടനവും എപ്പോഴും കരിയർ വളർച്ചയിലേക്ക് നയിക്കുന്നു.",
+    "usageExample": "Labor/effort.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "duty",
+    "wordMeaning": "ഡ്യൂട്ടി",
+    "englishText": "It is our primary duty to protect confidential customer data.",
+    "malayalamMeaning": "രഹസ്യാത്മകമായ ഉപഭോക്തൃ ഡാറ്റ സംരക്ഷിക്കുക എന്നത് ഞങ്ങളുടെ പ്രാഥമിക കടമയാണ്.",
+    "usageExample": "Responsibility.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "task",
+    "wordMeaning": "ചുമതല",
+    "englishText": "Break down the big task into smaller, manageable daily steps.",
+    "malayalamMeaning": "വലിയ ടാസ്ക്കിനെ ചെറുതും കൈകാര്യം ചെയ്യാവുന്നതുമായ ദൈനംദിന ഘട്ടങ്ങളായി വിഭജിക്കുക.",
+    "usageExample": "Work item.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "project",
+    "wordMeaning": "പദ്ധതി",
+    "englishText": "The software project must be completed within the agreed timeline.",
+    "malayalamMeaning": "സമ്മതിച്ച സമയപരിധിക്കുള്ളിൽ സോഫ്റ്റ്വെയർ പ്രോജക്റ്റ് പൂർത്തിയാക്കണം.",
+    "usageExample": "Major work initiative.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "plan",
+    "wordMeaning": "പദ്ധതി",
+    "englishText": "We need a backup plan in case the server deployment fails.",
+    "malayalamMeaning": "സെർവർ വിന്യാസം പരാജയപ്പെടുന്ന സാഹചര്യത്തിൽ ഞങ്ങൾക്ക് ഒരു ബാക്കപ്പ് പ്ലാൻ ആവശ്യമാണ്.",
+    "usageExample": "Work strategy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "goal",
+    "wordMeaning": "ലക്ഷ്യം",
+    "englishText": "Our annual goal is to increase customer satisfaction by twenty percent.",
+    "malayalamMeaning": "ഉപഭോക്തൃ സംതൃപ്തി ഇരുപത് ശതമാനം വർദ്ധിപ്പിക്കുക എന്നതാണ് ഞങ്ങളുടെ വാർഷിക ലക്ഷ്യം.",
+    "usageExample": "Target objective.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "target",
+    "wordMeaning": "ലക്ഷ്യം",
+    "englishText": "The sales department exceeded its monthly target ahead of schedule.",
+    "malayalamMeaning": "സെയിൽസ് ഡിപ്പാർട്ട്‌മെൻ്റ് അതിൻ്റെ പ്രതിമാസ ലക്ഷ്യം ഷെഡ്യൂളിന് മുമ്പായി മറികടന്നു.",
+    "usageExample": "Numerical quota.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "deadline",
+    "wordMeaning": "സമയപരിധി",
+    "englishText": "Missing a critical client deadline can harm our company's reputation.",
+    "malayalamMeaning": "ഒരു നിർണായക ക്ലയൻ്റ് ഡെഡ്‌ലൈൻ നഷ്‌ടപ്പെടുന്നത് ഞങ്ങളുടെ കമ്പനിയുടെ പ്രശസ്തിക്ക് ഹാനികരമാകും.",
+    "usageExample": "Due time.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "date",
+    "wordMeaning": "തീയതി",
+    "englishText": "What is the final submission date for the quarterly tax returns?",
+    "malayalamMeaning": "ത്രൈമാസ നികുതി റിട്ടേണുകളുടെ അന്തിമ സമർപ്പണ തീയതി എന്താണ്?",
+    "usageExample": "Calendar day.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "time",
+    "wordMeaning": "സമയം",
+    "englishText": "Punctuality and time management are critical traits for professionals.",
+    "malayalamMeaning": "കൃത്യനിഷ്ഠയും സമയ മാനേജ്മെൻ്റും പ്രൊഫഷണലുകൾക്ക് നിർണായകമായ സവിശേഷതകളാണ്.",
+    "usageExample": "Punctuality.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clock",
+    "wordMeaning": "ക്ലോക്ക്",
+    "englishText": "Employees must clock in using their biometric pass at the entrance.",
+    "malayalamMeaning": "ജീവനക്കാർ പ്രവേശന കവാടത്തിൽ ബയോമെട്രിക് പാസ് ഉപയോഗിക്കണം.",
+    "usageExample": "Time tracking.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hour",
+    "wordMeaning": "മണിക്കൂർ",
+    "englishText": "We worked an extra hour yesterday to finish the project presentation.",
+    "malayalamMeaning": "പ്രോജക്ട് അവതരണം പൂർത്തിയാക്കാൻ ഞങ്ങൾ ഇന്നലെ ഒരു മണിക്കൂർ അധികമായി പ്രവർത്തിച്ചു.",
+    "usageExample": "Time unit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "minute",
+    "wordMeaning": "മിനിറ്റ്",
+    "englishText": "The presentation should take no more than twenty minutes.",
+    "malayalamMeaning": "അവതരണം ഇരുപത് മിനിറ്റിൽ കൂടുതൽ എടുക്കരുത്.",
+    "usageExample": "Short time span.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "start",
+    "wordMeaning": "ആരംഭിക്കുക",
+    "englishText": "Let us start the meeting by reviewing yesterday's action items.",
+    "malayalamMeaning": "ഇന്നലത്തെ പ്രവർത്തന ഇനങ്ങൾ അവലോകനം ചെയ്തുകൊണ്ട് നമുക്ക് മീറ്റിംഗ് ആരംഭിക്കാം.",
+    "usageExample": "Commencing work.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "finish",
+    "wordMeaning": "പൂർത്തിയാക്കുക",
+    "englishText": "I hope to finish writing the API documentation before lunchtime.",
+    "malayalamMeaning": "ഉച്ചഭക്ഷണ സമയത്തിന് മുമ്പ് API ഡോക്യുമെൻ്റേഷൻ എഴുതി പൂർത്തിയാക്കുമെന്ന് ഞാൻ പ്രതീക്ഷിക്കുന്നു.",
+    "usageExample": "Concluding task.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "done",
+    "wordMeaning": "ചെയ്തു",
+    "englishText": "Once the code review is done, we can push the changes live.",
+    "malayalamMeaning": "കോഡ് അവലോകനം ചെയ്തുകഴിഞ്ഞാൽ, ഞങ്ങൾക്ക് മാറ്റങ്ങൾ തത്സമയം നൽകാം.",
+    "usageExample": "Completed state.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "complete",
+    "wordMeaning": "പൂർണ്ണമായ",
+    "englishText": "You must complete the mandatory security training module this week.",
+    "malayalamMeaning": "ഈ ആഴ്ച നിങ്ങൾ നിർബന്ധിത സുരക്ഷാ പരിശീലന മൊഡ്യൂൾ പൂർത്തിയാക്കണം.",
+    "usageExample": "Finalizing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "submit",
+    "wordMeaning": "സമർപ്പിക്കുക",
+    "englishText": "Remember to submit your weekly timesheet before five o'clock on Friday.",
+    "malayalamMeaning": "വെള്ളിയാഴ്ച അഞ്ച് മണിക്ക് മുമ്പ് നിങ്ങളുടെ പ്രതിവാര ടൈംഷീറ്റ് സമർപ്പിക്കാൻ ഓർമ്മിക്കുക.",
+    "usageExample": "Handing in.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "check",
+    "wordMeaning": "പരിശോധിക്കുക",
+    "englishText": "Always check your calculations twice before presenting the balance sheet.",
+    "malayalamMeaning": "ബാലൻസ് ഷീറ്റ് അവതരിപ്പിക്കുന്നതിന് മുമ്പ് എല്ലായ്പ്പോഴും നിങ്ങളുടെ കണക്കുകൂട്ടലുകൾ രണ്ടുതവണ പരിശോധിക്കുക.",
+    "usageExample": "Verifying.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "review",
+    "wordMeaning": "അവലോകനം",
+    "englishText": "The senior architect will review your system architecture proposal.",
+    "malayalamMeaning": "മുതിർന്ന ആർക്കിടെക്റ്റ് നിങ്ങളുടെ സിസ്റ്റം ആർക്കിടെക്ചർ നിർദ്ദേശം അവലോകനം ചെയ്യും.",
+    "usageExample": "Examining critically.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "edit",
+    "wordMeaning": "തിരുത്തുക",
+    "englishText": "Please edit the executive summary to remove grammatical errors.",
+    "malayalamMeaning": "വ്യാകരണ പിശകുകൾ നീക്കം ചെയ്യാൻ എക്സിക്യൂട്ടീവ് സംഗ്രഹം എഡിറ്റ് ചെയ്യുക.",
+    "usageExample": "Refining text.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "correct",
+    "wordMeaning": "ശരിയാണ്",
+    "englishText": "He was quick to correct the pricing mistake in the quotation.",
+    "malayalamMeaning": "ക്വട്ടേഷനിലെ വിലനിർണ്ണയ പിഴവ് അദ്ദേഹം പെട്ടെന്ന് തിരുത്തി.",
+    "usageExample": "Rectifying.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "error",
+    "wordMeaning": "പിശക്",
+    "englishText": "The system threw an error when processing the invalid credit card.",
+    "malayalamMeaning": "അസാധുവായ ക്രെഡിറ്റ് കാർഡ് പ്രോസസ്സ് ചെയ്യുമ്പോൾ സിസ്റ്റം ഒരു പിശക് വരുത്തി.",
+    "usageExample": "Flaw or bug.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mistake",
+    "wordMeaning": "തെറ്റ്",
+    "englishText": "Admitting an honest mistake promptly builds trust with your manager.",
+    "malayalamMeaning": "സത്യസന്ധമായ ഒരു തെറ്റ് അംഗീകരിക്കുന്നത് നിങ്ങളുടെ മാനേജരുമായി ഉടനടി വിശ്വാസം വളർത്തിയെടുക്കുന്നു.",
+    "usageExample": "Error in work.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fix",
+    "wordMeaning": "പരിഹരിക്കുക",
+    "englishText": "Our tech support team took only ten minutes to fix the network glitch.",
+    "malayalamMeaning": "നെറ്റ്‌വർക്ക് തകരാർ പരിഹരിക്കാൻ ഞങ്ങളുടെ ടെക് സപ്പോർട്ട് ടീം പത്ത് മിനിറ്റ് മാത്രമാണ് എടുത്തത്.",
+    "usageExample": "Repairing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "solve",
+    "wordMeaning": "പരിഹരിക്കുക",
+    "englishText": "Working collaboratively helps solve complex technical bottlenecks.",
+    "malayalamMeaning": "സഹകരിച്ച് പ്രവർത്തിക്കുന്നത് സങ്കീർണ്ണമായ സാങ്കേതിക തടസ്സങ്ങൾ പരിഹരിക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Finding solution.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "problem",
+    "wordMeaning": "പ്രശ്നം",
+    "englishText": "Identify the root cause of the problem before applying a quick patch.",
+    "malayalamMeaning": "പെട്ടെന്നുള്ള പാച്ച് പ്രയോഗിക്കുന്നതിന് മുമ്പ് പ്രശ്നത്തിൻ്റെ മൂലകാരണം തിരിച്ചറിയുക.",
+    "usageExample": "Issue to address.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "help",
+    "wordMeaning": "സഹായിക്കുക",
+    "englishText": "Never hesitate to ask for help from senior colleagues when stuck.",
+    "malayalamMeaning": "കുടുങ്ങിക്കിടക്കുമ്പോൾ മുതിർന്ന സഹപ്രവർത്തകരോട് സഹായം ചോദിക്കാൻ ഒരിക്കലും മടിക്കരുത്.",
+    "usageExample": "Mutual assistance.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ask",
+    "wordMeaning": "ചോദിക്കുക",
+    "englishText": "Ask clarifying questions whenever instructions seem ambiguous.",
+    "malayalamMeaning": "നിർദ്ദേശങ്ങൾ അവ്യക്തമായി തോന്നുമ്പോഴെല്ലാം വ്യക്തമാക്കുന്ന ചോദ്യങ്ങൾ ചോദിക്കുക.",
+    "usageExample": "Inquiring.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "question",
+    "wordMeaning": "ചോദ്യം",
+    "englishText": "He raised an important question about user data privacy during the call.",
+    "malayalamMeaning": "കോളിനിടയിൽ ഉപയോക്തൃ ഡാറ്റയുടെ സ്വകാര്യതയെക്കുറിച്ച് അദ്ദേഹം ഒരു പ്രധാന ചോദ്യം ഉന്നയിച്ചു.",
+    "usageExample": "Professional query.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "answer",
+    "wordMeaning": "ഉത്തരം",
+    "englishText": "She gave a crisp, data-backed answer to the director's query.",
+    "malayalamMeaning": "സംവിധായകൻ്റെ ചോദ്യത്തിന് അവർ വ്യക്തവും ഡാറ്റ പിന്തുണയുള്ളതുമായ ഉത്തരം നൽകി.",
+    "usageExample": "Professional response.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "explain",
+    "wordMeaning": "വിശദീകരിക്കുക",
+    "englishText": "Can you explain the new feature roadmap to the marketing team?",
+    "malayalamMeaning": "മാർക്കറ്റിംഗ് ടീമിന് പുതിയ ഫീച്ചർ റോഡ്മാപ്പ് വിശദീകരിക്കാമോ?",
+    "usageExample": "Clarifying.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "discuss",
+    "wordMeaning": "ചർച്ച ചെയ്യുക",
+    "englishText": "Let us schedule a thirty-minute one-on-one to discuss your appraisal.",
+    "malayalamMeaning": "നിങ്ങളുടെ മൂല്യനിർണ്ണയം ചർച്ച ചെയ്യാൻ ഞങ്ങൾക്ക് മുപ്പത് മിനിറ്റ് ഒറ്റത്തവണ ഷെഡ്യൂൾ ചെയ്യാം.",
+    "usageExample": "Talking through.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "share",
+    "wordMeaning": "പങ്കിടുക",
+    "englishText": "Please share your screen so everyone can see the live demonstration.",
+    "malayalamMeaning": "എല്ലാവർക്കും തത്സമയ പ്രദർശനം കാണുന്നതിന് നിങ്ങളുടെ സ്‌ക്രീൻ പങ്കിടുക.",
+    "usageExample": "Broadcasting screen.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "idea",
+    "wordMeaning": "ആശയം",
+    "englishText": "Employees are encouraged to submit innovative ideas into the suggestion box.",
+    "malayalamMeaning": "നിർദ്ദേശ ബോക്സിൽ നൂതന ആശയങ്ങൾ സമർപ്പിക്കാൻ ജീവനക്കാരെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "usageExample": "Creative thought.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "suggestion",
+    "wordMeaning": "നിർദ്ദേശം",
+    "englishText": "Her suggestion to automate report generation saved five hours every week.",
+    "malayalamMeaning": "റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നത് ഓട്ടോമേറ്റ് ചെയ്യാനുള്ള അവളുടെ നിർദ്ദേശം എല്ലാ ആഴ്ചയും അഞ്ച് മണിക്കൂർ ലാഭിച്ചു.",
+    "usageExample": "Constructive idea.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "agree",
+    "wordMeaning": "സമ്മതിക്കുന്നു",
+    "englishText": "Both departments agree that customer onboarding needs simplification.",
+    "malayalamMeaning": "ഉപഭോക്തൃ ഓൺബോർഡിംഗ് ലളിതമാക്കണമെന്ന് രണ്ട് വകുപ്പുകളും സമ്മതിക്കുന്നു.",
+    "usageExample": "Reaching consensus.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "disagree",
+    "wordMeaning": "വിയോജിക്കുന്നു",
+    "englishText": "It is acceptable to disagree politely during strategic brainstorming.",
+    "malayalamMeaning": "തന്ത്രപരമായ മസ്തിഷ്കപ്രക്ഷോഭത്തിനിടയിൽ മാന്യമായി വിയോജിക്കുന്നത് സ്വീകാര്യമാണ്.",
+    "usageExample": "Differing views.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "decide",
+    "wordMeaning": "തീരുമാനിക്കുക",
+    "englishText": "The board of directors will decide whether to acquire the new startup.",
+    "malayalamMeaning": "പുതിയ സ്റ്റാർട്ടപ്പ് ഏറ്റെടുക്കണമോയെന്ന് ഡയറക്ടർ ബോർഡ് തീരുമാനിക്കും.",
+    "usageExample": "Making a choice.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "decision",
+    "wordMeaning": "തീരുമാനം",
+    "englishText": "Taking a prompt decision prevents project momentum from stalling.",
+    "malayalamMeaning": "പെട്ടെന്നുള്ള തീരുമാനം എടുക്കുന്നത് പ്രോജക്റ്റ് ആക്കം കൂട്ടുന്നത് തടയുന്നു.",
+    "usageExample": "Firm choice.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "approval",
+    "wordMeaning": "അംഗീകാരം",
+    "englishText": "We are waiting for financial approval from the general manager.",
+    "malayalamMeaning": "ജനറൽ മാനേജരുടെ സാമ്പത്തിക അനുമതിക്കായി ഞങ്ങൾ കാത്തിരിക്കുകയാണ്.",
+    "usageExample": "Official sanction.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sign",
+    "wordMeaning": "അടയാളം",
+    "englishText": "Both parties must sign the non-disclosure agreement before discussions.",
+    "malayalamMeaning": "ചർച്ചകൾക്ക് മുമ്പ് ഇരുകക്ഷികളും വെളിപ്പെടുത്താത്ത കരാറിൽ ഒപ്പിടണം.",
+    "usageExample": "Authorizing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "signature",
+    "wordMeaning": "ഒപ്പ്",
+    "englishText": "His digital signature was affixed to the employment contract.",
+    "malayalamMeaning": "തൊഴിൽ കരാറിൽ അദ്ദേഹത്തിൻ്റെ ഡിജിറ്റൽ ഒപ്പ് പതിച്ചു.",
+    "usageExample": "Official seal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "print",
+    "wordMeaning": "അച്ചടിക്കുക",
+    "englishText": "Could you print two hard copies of the non-disclosure agreement?",
+    "malayalamMeaning": "വെളിപ്പെടുത്താത്ത കരാറിൻ്റെ രണ്ട് ഹാർഡ് കോപ്പികൾ നിങ്ങൾക്ക് അച്ചടിക്കാൻ കഴിയുമോ?",
+    "usageExample": "Hard copy output.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "copy",
+    "wordMeaning": "പകർത്തുക",
+    "englishText": "Keep a backup copy of all invoices on the secure external drive.",
+    "malayalamMeaning": "സുരക്ഷിതമായ എക്‌സ്‌റ്റേണൽ ഡ്രൈവിൽ എല്ലാ ഇൻവോയ്‌സുകളുടെയും ബാക്കപ്പ് കോപ്പി സൂക്ഷിക്കുക.",
+    "usageExample": "Duplicate record.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scan",
+    "wordMeaning": "സ്കാൻ ചെയ്യുക",
+    "englishText": "Scan the signed vendor receipts and email them to the accountant.",
+    "malayalamMeaning": "ഒപ്പിട്ട വെണ്ടർ രസീതുകൾ സ്കാൻ ചെയ്ത് അക്കൗണ്ടൻ്റിന് ഇമെയിൽ ചെയ്യുക.",
+    "usageExample": "Digitizing paper.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "attach",
+    "wordMeaning": "അറ്റാച്ചുചെയ്യുക",
+    "englishText": "Do not forget to attach your resume when submitting the online application.",
+    "malayalamMeaning": "ഓൺലൈൻ അപേക്ഷ സമർപ്പിക്കുമ്പോൾ നിങ്ങളുടെ ബയോഡാറ്റ അറ്റാച്ചുചെയ്യാൻ മറക്കരുത്.",
+    "usageExample": "Appending file.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "link",
+    "wordMeaning": "ലിങ്ക്",
+    "englishText": "Click this secure link to join our virtual team conference.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വെർച്വൽ ടീം കോൺഫറൻസിൽ ചേരാൻ ഈ സുരക്ഷിത ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുക.",
+    "usageExample": "Web hyperlink.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "upload",
+    "wordMeaning": "അപ്ലോഡ്",
+    "englishText": "Upload the high-resolution logo files to our shared design folder.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പങ്കിട്ട ഡിസൈൻ ഫോൾഡറിലേക്ക് ഉയർന്ന മിഴിവുള്ള ലോഗോ ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുക.",
+    "usageExample": "Sending to server.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "download",
+    "wordMeaning": "ഡൗൺലോഡ് ചെയ്യുക",
+    "englishText": "You can download your monthly pay slips directly from the employee portal.",
+    "malayalamMeaning": "ജീവനക്കാരുടെ പോർട്ടലിൽ നിന്ന് നിങ്ങളുടെ പ്രതിമാസ പേ സ്ലിപ്പുകൾ നിങ്ങൾക്ക് നേരിട്ട് ഡൗൺലോഡ് ചെയ്യാം.",
+    "usageExample": "Retrieving files.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "save",
+    "wordMeaning": "സംരക്ഷിക്കുക",
+    "englishText": "Always save your document frequently to prevent accidental data loss.",
+    "malayalamMeaning": "ആകസ്മികമായ ഡാറ്റ നഷ്‌ടമാകുന്നത് തടയാൻ എപ്പോഴും നിങ്ങളുടെ ഡോക്യുമെൻ്റ് ഇടയ്‌ക്കിടെ സംരക്ഷിക്കുക.",
+    "usageExample": "Preserving work.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "delete",
+    "wordMeaning": "ഇല്ലാതാക്കുക",
+    "englishText": "Never delete official correspondence without checking archiving policies.",
+    "malayalamMeaning": "ആർക്കൈവിംഗ് നയങ്ങൾ പരിശോധിക്കാതെ ഔദ്യോഗിക കത്തിടപാടുകൾ ഒരിക്കലും ഇല്ലാതാക്കരുത്.",
+    "usageExample": "Removing data.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "draft",
+    "wordMeaning": "ഡ്രാഫ്റ്റ്",
+    "englishText": "I prepared an initial draft of the proposal for the client meeting.",
+    "malayalamMeaning": "ക്ലയൻ്റ് മീറ്റിംഗിനായുള്ള നിർദ്ദേശത്തിൻ്റെ പ്രാരംഭ ഡ്രാഫ്റ്റ് ഞാൻ തയ്യാറാക്കി.",
+    "usageExample": "Preliminary version.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "slide",
+    "wordMeaning": "സ്ലൈഡ്",
+    "englishText": "Make sure your presentation slides are concise and visually clear.",
+    "malayalamMeaning": "നിങ്ങളുടെ അവതരണ സ്ലൈഡുകൾ സംക്ഷിപ്തവും ദൃശ്യപരമായി വ്യക്തവുമാണെന്ന് ഉറപ്പാക്കുക.",
+    "usageExample": "Presentation page.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "show",
+    "wordMeaning": "കാണിക്കുക",
+    "englishText": "Show the client how the automated invoice generation feature works.",
+    "malayalamMeaning": "ഓട്ടോമേറ്റഡ് ഇൻവോയ്സ് ജനറേഷൻ ഫീച്ചർ എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്ന് ക്ലയൻ്റിനെ കാണിക്കുക.",
+    "usageExample": "Demonstrating.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "note",
+    "wordMeaning": "കുറിപ്പ്",
+    "englishText": "Keep a notepad handy to take down action items during the call.",
+    "malayalamMeaning": "കോളിനിടയിൽ പ്രവർത്തന ഇനങ്ങൾ എടുക്കാൻ ഒരു നോട്ട്പാഡ് കയ്യിൽ കരുതുക.",
+    "usageExample": "Jotting points.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "write",
+    "wordMeaning": "എഴുതുക",
+    "englishText": "He spent the morning writing a comprehensive technical user guide.",
+    "malayalamMeaning": "ഒരു സമഗ്ര സാങ്കേതിക ഉപയോക്തൃ ഗൈഡ് എഴുതാൻ അദ്ദേഹം രാവിലെ ചെലവഴിച്ചു.",
+    "usageExample": "Composing text.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "type",
+    "wordMeaning": "തരം",
+    "englishText": "Learning touch typing significantly boosts your daily writing speed.",
+    "malayalamMeaning": "ടച്ച് ടൈപ്പിംഗ് പഠിക്കുന്നത് നിങ്ങളുടെ ദൈനംദിന എഴുത്ത് വേഗത ഗണ്യമായി വർദ്ധിപ്പിക്കുന്നു.",
+    "usageExample": "Entering text.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "read",
+    "wordMeaning": "വായിച്ചു",
+    "englishText": "Read the terms of service carefully before accepting the software license.",
+    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ ലൈസൻസ് സ്വീകരിക്കുന്നതിന് മുമ്പ് സേവന നിബന്ധനകൾ ശ്രദ്ധാപൂർവ്വം വായിക്കുക.",
+    "usageExample": "Reviewing text.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "calendar",
+    "wordMeaning": "കലണ്ടർ",
+    "englishText": "Check the shared team calendar before scheduling cross-timezone calls.",
+    "malayalamMeaning": "ക്രോസ്-ടൈം സോൺ കോളുകൾ ഷെഡ്യൂൾ ചെയ്യുന്നതിന് മുമ്പ് പങ്കിട്ട ടീം കലണ്ടർ പരിശോധിക്കുക.",
+    "usageExample": "Schedule planner.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "schedule",
+    "wordMeaning": "ഷെഡ്യൂൾ",
+    "englishText": "The project schedule was updated to include additional testing days.",
+    "malayalamMeaning": "അധിക ടെസ്റ്റിംഗ് ദിവസങ്ങൾ ഉൾപ്പെടുത്തുന്നതിനായി പ്രോജക്റ്റ് ഷെഡ്യൂൾ അപ്ഡേറ്റ് ചെയ്തു.",
+    "usageExample": "Timetable.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "appointment",
+    "wordMeaning": "നിയമനം",
+    "englishText": "I have an afternoon appointment with the regional sales director.",
+    "malayalamMeaning": "റീജിയണൽ സെയിൽസ് ഡയറക്ടറുമായി എനിക്ക് ഉച്ചതിരിഞ്ഞ് അപ്പോയിൻ്റ്മെൻ്റ് ഉണ്ട്.",
+    "usageExample": "Scheduled meetup.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "interview",
+    "wordMeaning": "അഭിമുഖം",
+    "englishText": "We scheduled five technical interview rounds for the software engineer role.",
+    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ എഞ്ചിനീയർ റോളിനായി ഞങ്ങൾ അഞ്ച് സാങ്കേതിക അഭിമുഖ റൗണ്ടുകൾ ഷെഡ്യൂൾ ചെയ്തു.",
+    "usageExample": "Hiring assessment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "candidate",
+    "wordMeaning": "സ്ഥാനാർത്ഥി",
+    "englishText": "The candidate impressed the panel with her problem-solving abilities.",
+    "malayalamMeaning": "പ്രശ്‌നപരിഹാര കഴിവുകൾ കൊണ്ട് സ്ഥാനാർത്ഥി പാനലിനെ ആകർഷിച്ചു.",
+    "usageExample": "Job applicant.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "resume",
+    "wordMeaning": "പുനരാരംഭിക്കുക",
+    "englishText": "Tailor your professional resume to highlight measurable achievements.",
+    "malayalamMeaning": "അളക്കാവുന്ന നേട്ടങ്ങൾ ഉയർത്തിക്കാട്ടാൻ നിങ്ങളുടെ പ്രൊഫഷണൽ റെസ്യൂമെ ക്രമീകരിക്കുക.",
+    "usageExample": "Curriculum vitae.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hire",
+    "wordMeaning": "കൂലിക്ക്",
+    "englishText": "The company plans to hire fifty fresh graduates during campus placements.",
+    "malayalamMeaning": "കാമ്പസ് പ്ലെയ്‌സ്‌മെൻ്റ് സമയത്ത് അമ്പത് പുതിയ ബിരുദധാരികളെ നിയമിക്കാൻ കമ്പനി പദ്ധതിയിടുന്നു.",
+    "usageExample": "Recruiting staff.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "join",
+    "wordMeaning": "ചേരുക",
+    "englishText": "Three new senior consultants will join our team next Monday.",
+    "malayalamMeaning": "മൂന്ന് പുതിയ സീനിയർ കൺസൾട്ടൻ്റുമാർ അടുത്ത തിങ്കളാഴ്ച ഞങ്ങളുടെ ടീമിൽ ചേരും.",
+    "usageExample": "Starting a role.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "train",
+    "wordMeaning": "തീവണ്ടി",
+    "englishText": "Senior engineers train junior recruits on industry coding standards.",
+    "malayalamMeaning": "സീനിയർ എഞ്ചിനീയർമാർ ജൂനിയർ റിക്രൂട്ട്‌മെൻ്റുകളെ വ്യവസായ കോഡിംഗ് മാനദണ്ഡങ്ങളിൽ പരിശീലിപ്പിക്കുന്നു.",
+    "usageExample": "Instructing staff.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "learn",
+    "wordMeaning": "പഠിക്കുക",
+    "englishText": "A successful career requires a continuous willingness to learn new tools.",
+    "malayalamMeaning": "വിജയകരമായ ഒരു കരിയറിന് പുതിയ ഉപകരണങ്ങൾ പഠിക്കാനുള്ള നിരന്തരമായ സന്നദ്ധത ആവശ്യമാണ്.",
+    "usageExample": "Acquiring skills.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "skill",
+    "wordMeaning": "വൈദഗ്ധ്യം",
+    "englishText": "Communication is just as vital a skill as technical programming expertise.",
+    "malayalamMeaning": "സാങ്കേതിക പ്രോഗ്രാമിംഗ് വൈദഗ്ധ്യം പോലെ തന്നെ സുപ്രധാനമായ ഒരു വൈദഗ്ധ്യമാണ് ആശയവിനിമയം.",
+    "usageExample": "Capability.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "salary",
+    "wordMeaning": "ശമ്പളം",
+    "englishText": "Employees receive their monthly salary on the last working day of the month.",
+    "malayalamMeaning": "ജീവനക്കാർക്ക് അവരുടെ മാസ ശമ്പളം ലഭിക്കുന്നത് മാസത്തിലെ അവസാന പ്രവൃത്തി ദിവസത്തിലാണ്.",
+    "usageExample": "Monthly wage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pay",
+    "wordMeaning": "പണം നൽകുക",
+    "englishText": "The company offers competitive pay packages along with stock options.",
+    "malayalamMeaning": "സ്റ്റോക്ക് ഓപ്ഷനുകൾക്കൊപ്പം മത്സരാധിഷ്ഠിത പേ പാക്കേജുകളും കമ്പനി വാഗ്ദാനം ചെയ്യുന്നു.",
+    "usageExample": "Remuneration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bonus",
+    "wordMeaning": "ബോണസ്",
+    "englishText": "All staff members received an annual performance bonus after a banner year.",
+    "malayalamMeaning": "എല്ലാ സ്റ്റാഫ് അംഗങ്ങൾക്കും ഒരു ബാനർ വർഷത്തിനുശേഷം വാർഷിക പ്രകടന ബോണസ് ലഭിച്ചു.",
+    "usageExample": "Extra incentive.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "leave",
+    "wordMeaning": "വിടുക",
+    "englishText": "You can apply for casual leave through the self-service HR portal.",
+    "malayalamMeaning": "സെൽഫ് സർവീസ് എച്ച്ആർ പോർട്ടൽ വഴി നിങ്ങൾക്ക് കാഷ്വൽ ലീവിന് അപേക്ഷിക്കാം.",
+    "usageExample": "Time off.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "holiday",
+    "wordMeaning": "അവധി",
+    "englishText": "The office will remain closed on Thursday for the public holiday.",
+    "malayalamMeaning": "പൊതു അവധിയായ വ്യാഴാഴ്ച ഓഫീസിന് അവധിയായിരിക്കും.",
+    "usageExample": "Official day off.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sick",
+    "wordMeaning": "രോഗിയായ",
+    "englishText": "Inform your manager via email if you need to take sick leave today.",
+    "malayalamMeaning": "നിങ്ങൾക്ക് ഇന്ന് അസുഖ അവധി എടുക്കണമെങ്കിൽ ഇമെയിൽ വഴി നിങ്ങളുടെ മാനേജരെ അറിയിക്കുക.",
+    "usageExample": "Medical absence.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "absent",
+    "wordMeaning": "ഇല്ല",
+    "englishText": "Two team members were absent today due to the severe monsoon flooding.",
+    "malayalamMeaning": "മഴക്കെടുതി രൂക്ഷമായതിനെ തുടർന്ന് രണ്ട് ടീമംഗങ്ങൾ ഇന്ന് വിട്ടുനിന്നിരുന്നു.",
+    "usageExample": "Not present.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "present",
+    "wordMeaning": "ഹാജർ",
+    "englishText": "All fifteen department heads were present at the annual general meeting.",
+    "malayalamMeaning": "പതിനഞ്ച് വകുപ്പ് മേധാവികളും വാർഷിക പൊതുയോഗത്തിൽ പങ്കെടുത്തു.",
+    "usageExample": "In attendance.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "late",
+    "wordMeaning": "വൈകി",
+    "englishText": "Frequent late arrivals can negatively impact your performance appraisal.",
+    "malayalamMeaning": "അടിക്കടി വൈകി വരുന്നവർ നിങ്ങളുടെ പ്രകടന വിലയിരുത്തലിനെ പ്രതികൂലമായി ബാധിക്കും.",
+    "usageExample": "Unpunctual.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "early",
+    "wordMeaning": "നേരത്തെ",
+    "englishText": "He arrived thirty minutes early to set up the projector and microphones.",
+    "malayalamMeaning": "പ്രൊജക്ടറും മൈക്രോഫോണും സജ്ജീകരിക്കാൻ അദ്ദേഹം മുപ്പത് മിനിറ്റ് നേരത്തെ എത്തി.",
+    "usageExample": "Ahead of time.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lunch",
+    "wordMeaning": "ഉച്ചഭക്ഷണം",
+    "englishText": "We usually step out for a quick lunch at twelve-thirty in the afternoon.",
+    "malayalamMeaning": "ഞങ്ങൾ സാധാരണയായി ഉച്ചയ്ക്ക് പന്ത്രണ്ടരയോടെ ഉച്ചഭക്ഷണത്തിനായി പുറപ്പെടും.",
+    "usageExample": "Midday meal break.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "break",
+    "wordMeaning": "ബ്രേക്ക്",
+    "englishText": "Take a short five-minute break every hour to stretch and rest your eyes.",
+    "malayalamMeaning": "നിങ്ങളുടെ കണ്ണുകൾ വലിച്ചുനീട്ടാനും വിശ്രമിക്കാനും ഓരോ മണിക്കൂറിലും അഞ്ച് മിനിറ്റ് ചെറിയ ഇടവേള എടുക്കുക.",
+    "usageExample": "Short pause.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pantry",
+    "wordMeaning": "കലവറ",
+    "englishText": "Fresh fruit and herbal tea are available for all staff in the office pantry.",
+    "malayalamMeaning": "ഓഫീസ് കലവറയിലെ എല്ലാ ജീവനക്കാർക്കും ഫ്രഷ് ഫ്രൂട്ട്സും ഹെർബൽ ടീയും ലഭ്യമാണ്.",
+    "usageExample": "Office kitchenette.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "floor",
+    "wordMeaning": "തറ",
+    "englishText": "The finance department is situated on the fourth floor of the building.",
+    "malayalamMeaning": "കെട്ടിടത്തിൻ്റെ നാലാം നിലയിലാണ് ധനകാര്യ വകുപ്പ് സ്ഥിതി ചെയ്യുന്നത്.",
+    "usageExample": "Building story.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lift",
+    "wordMeaning": "ഉയർത്തുക",
+    "englishText": "Take the service lift if you are transporting heavy computer boxes.",
+    "malayalamMeaning": "നിങ്ങൾ ഭാരമുള്ള കമ്പ്യൂട്ടർ ബോക്സുകൾ കൊണ്ടുപോകുകയാണെങ്കിൽ സർവീസ് ലിഫ്റ്റ് എടുക്കുക.",
+    "usageExample": "Elevator.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "badge",
+    "wordMeaning": "ബാഡ്ജ്",
+    "englishText": "Wear your company identification badge visibly at all times on campus.",
+    "malayalamMeaning": "കാമ്പസിൽ എല്ലാ സമയത്തും നിങ്ങളുടെ കമ്പനി ഐഡൻ്റിഫിക്കേഷൻ ബാഡ്‌ജ് ധരിക്കുക.",
+    "usageExample": "Security ID.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pass",
+    "wordMeaning": "കടന്നുപോകുക",
+    "englishText": "Visitors must obtain a temporary security pass at the reception desk.",
+    "malayalamMeaning": "സന്ദർശകർ റിസപ്ഷൻ ഡെസ്കിൽ താൽക്കാലിക സുരക്ഷാ പാസ് വാങ്ങണം.",
+    "usageExample": "Entry permit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "uniform",
+    "wordMeaning": "യൂണിഫോം",
+    "englishText": "Security personnel and front-desk staff wear a formal blue uniform.",
+    "malayalamMeaning": "സുരക്ഷാ ഉദ്യോഗസ്ഥരും ഫ്രണ്ട് ഡെസ്ക് ജീവനക്കാരും ഔപചാരിക നീല യൂണിഫോം ധരിക്കുന്നു.",
+    "usageExample": "Standard dress.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "formal",
+    "wordMeaning": "ഔപചാരികമായ",
+    "englishText": "Our corporate client meeting calls for formal business attire.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കോർപ്പറേറ്റ് ക്ലയൻ്റ് മീറ്റിംഗ് ഔപചാരിക ബിസിനസ്സ് വസ്ത്രങ്ങൾ ആവശ്യപ്പെടുന്നു.",
+    "usageExample": "Professional dress.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tie",
+    "wordMeaning": "കെട്ടുക",
+    "englishText": "Wearing a tie is optional except during formal executive presentations.",
+    "malayalamMeaning": "ഔപചാരിക എക്സിക്യൂട്ടീവ് അവതരണങ്ങൾ ഒഴികെ ടൈ ധരിക്കുന്നത് ഓപ്ഷണലാണ്.",
+    "usageExample": "Neckwear.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "suit",
+    "wordMeaning": "സ്യൂട്ട്",
+    "englishText": "He wore a crisp navy-blue suit for his job interview.",
+    "malayalamMeaning": "തൻ്റെ ജോലി അഭിമുഖത്തിനായി അദ്ദേഹം ഒരു നേർത്ത നേവി-ബ്ലൂ സ്യൂട്ട് ധരിച്ചിരുന്നു.",
+    "usageExample": "Professional outfit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rule",
+    "wordMeaning": "ഭരണം",
+    "englishText": "Strict compliance with safety rules is mandatory across all laboratories.",
+    "malayalamMeaning": "എല്ലാ ലബോറട്ടറികളിലും സുരക്ഷാ നിയമങ്ങൾ കർശനമായി പാലിക്കേണ്ടത് നിർബന്ധമാണ്.",
+    "usageExample": "Regulation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "policy",
+    "wordMeaning": "നയം",
+    "englishText": "Our remote work policy permits employees to work from home two days a week.",
+    "malayalamMeaning": "ഞങ്ങളുടെ റിമോട്ട് വർക്ക് പോളിസി ജീവനക്കാരെ ആഴ്ചയിൽ രണ്ട് ദിവസം വീട്ടിൽ നിന്ന് ജോലി ചെയ്യാൻ അനുവദിക്കുന്നു.",
+    "usageExample": "Company guidelines.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "safe",
+    "wordMeaning": "സുരക്ഷിതം",
+    "englishText": "Ensure all power cables are neatly tied so the workspace remains safe.",
+    "malayalamMeaning": "എല്ലാ പവർ കേബിളുകളും വൃത്തിയായി ബന്ധിച്ചിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക, അങ്ങനെ ജോലിസ്ഥലം സുരക്ഷിതമായി തുടരും.",
+    "usageExample": "Secure environment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "clean",
+    "wordMeaning": "ശുദ്ധമായ",
+    "englishText": "Maintain a clean and tidy workstation at the end of each working day.",
+    "malayalamMeaning": "ഓരോ പ്രവൃത്തി ദിവസത്തിൻ്റെയും അവസാനം വൃത്തിയുള്ളതും വൃത്തിയുള്ളതുമായ ഒരു വർക്ക്സ്റ്റേഷൻ പരിപാലിക്കുക.",
+    "usageExample": "Hygiene.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "quiet",
+    "wordMeaning": "നിശബ്ദം",
+    "englishText": "The library and research zone is strictly maintained as a quiet area.",
+    "malayalamMeaning": "ലൈബ്രറിയും റിസർച്ച് സോണും ശാന്തമായ പ്രദേശമായി കർശനമായി പരിപാലിക്കുന്നു.",
+    "usageExample": "Silent workspace.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "busy",
+    "wordMeaning": "തിരക്കിലാണ്",
+    "englishText": "The marketing team is extremely busy preparing for the product launch.",
+    "malayalamMeaning": "ഉൽപ്പന്ന ലോഞ്ചിനായി മാർക്കറ്റിംഗ് ടീം വളരെ തിരക്കിലാണ്.",
+    "usageExample": "High activity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "urgent",
+    "wordMeaning": "അടിയന്തിരം",
+    "englishText": "Please mark the email as urgent if the server outage affects live users.",
+    "malayalamMeaning": "സെർവർ തകരാർ തത്സമയ ഉപയോക്താക്കളെ ബാധിക്കുകയാണെങ്കിൽ ഇമെയിൽ അടിയന്തരമായി അടയാളപ്പെടുത്തുക.",
+    "usageExample": "High priority.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "priority",
+    "wordMeaning": "മുൻഗണന",
+    "englishText": "Addressing customer security vulnerabilities is our highest priority.",
+    "malayalamMeaning": "ഉപഭോക്തൃ സുരക്ഷാ തകരാറുകൾ പരിഹരിക്കുക എന്നതാണ് ഞങ്ങളുടെ ഏറ്റവും ഉയർന്ന മുൻഗണന.",
+    "usageExample": "Urgent focus.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "quick",
+    "wordMeaning": "വേഗം",
+    "englishText": "Let us have a quick five-minute sync before the client dials into the call.",
+    "malayalamMeaning": "ക്ലയൻ്റ് കോളിലേക്ക് ഡയൽ ചെയ്യുന്നതിന് മുമ്പ് നമുക്ക് അഞ്ച് മിനിറ്റ് വേഗത്തിലുള്ള സമന്വയം നടത്താം.",
+    "usageExample": "Brief interaction.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "easy",
+    "wordMeaning": "എളുപ്പമാണ്",
+    "englishText": "The new software update makes generating expense reports remarkably easy.",
+    "malayalamMeaning": "പുതിയ സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റ് ചെലവ് റിപ്പോർട്ടുകൾ സൃഷ്ടിക്കുന്നത് വളരെ എളുപ്പമാക്കുന്നു.",
+    "usageExample": "Uncomplicated.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hard",
+    "wordMeaning": "കഠിനമായ",
+    "englishText": "Tackling hard engineering problems requires patience and deep focus.",
+    "malayalamMeaning": "കഠിനമായ എഞ്ചിനീയറിംഗ് പ്രശ്നങ്ങൾ പരിഹരിക്കുന്നതിന് ക്ഷമയും ആഴത്തിലുള്ള ശ്രദ്ധയും ആവശ്യമാണ്.",
+    "usageExample": "Challenging task.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stress",
+    "wordMeaning": "സമ്മർദ്ദം",
+    "englishText": "Regular physical exercise helps alleviate daily workplace stress.",
+    "malayalamMeaning": "പതിവ് ശാരീരിക വ്യായാമം ദൈനംദിന ജോലിസ്ഥലത്തെ സമ്മർദ്ദം ലഘൂകരിക്കാൻ സഹായിക്കുന്നു.",
+    "usageExample": "Mental strain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "relax",
+    "wordMeaning": "വിശ്രമിക്കുക",
+    "englishText": "The company created a relaxation lounge where employees can play table tennis.",
+    "malayalamMeaning": "ജീവനക്കാർക്ക് ടേബിൾ ടെന്നീസ് കളിക്കാൻ കഴിയുന്ന ഒരു റിലാക്സേഷൻ ലോഞ്ച് കമ്പനി സൃഷ്ടിച്ചു.",
+    "usageExample": "Unwinding.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "success",
+    "wordMeaning": "വിജയം",
+    "englishText": "Teamwork, discipline, and customer focus are the keys to long-term success.",
+    "malayalamMeaning": "ടീം വർക്ക്, അച്ചടക്കം, കസ്റ്റമർ ഫോക്കസ് എന്നിവയാണ് ദീർഘകാല വിജയത്തിൻ്റെ താക്കോൽ.",
+    "usageExample": "Achievement.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "achieve",
+    "wordMeaning": "നേടുക",
+    "englishText": "With clear milestones, our engineering team can achieve any ambitious target.",
+    "malayalamMeaning": "വ്യക്തമായ നാഴികക്കല്ലുകളോടെ, ഞങ്ങളുടെ എഞ്ചിനീയറിംഗ് ടീമിന് ഏത് അഭിലഷണീയമായ ലക്ഷ്യവും നേടാനാകും.",
+    "usageExample": "Accomplishing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "win",
+    "wordMeaning": "ജയിക്കുക",
+    "englishText": "Winning the government software contract was a huge milestone for our firm.",
+    "malayalamMeaning": "സർക്കാർ സോഫ്‌റ്റ്‌വെയർ കരാർ നേടിയത് ഞങ്ങളുടെ സ്ഥാപനത്തെ സംബന്ധിച്ചിടത്തോളം ഒരു വലിയ നാഴികക്കല്ലായിരുന്നു.",
+    "usageExample": "Securing deal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "award",
+    "wordMeaning": "അവാർഡ്",
+    "englishText": "She received the 'Employee of the Year' award for outstanding leadership.",
+    "malayalamMeaning": "മികച്ച നേതൃത്വത്തിനുള്ള 'എംപ്ലോയി ഓഫ് ദ ഇയർ' അവാർഡ് അവർക്ക് ലഭിച്ചു.",
+    "usageExample": "Recognition honor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shareholder",
+    "wordMeaning": "ഓഹരി ഉടമ",
+    "englishText": "The board presented the annual financial performance to every shareholder.",
+    "malayalamMeaning": "ഓരോ ഷെയർഹോൾഡർക്കും ബോർഡ് വാർഷിക സാമ്പത്തിക പ്രകടനം അവതരിപ്പിച്ചു.",
+    "usageExample": "Company investor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "client",
+    "wordMeaning": "ക്ലയൻ്റ്",
+    "englishText": "Always communicate with the client in a respectful, professional tone.",
+    "malayalamMeaning": "ക്ലയൻ്റുമായി എല്ലായ്പ്പോഴും മാന്യമായ, പ്രൊഫഷണൽ ടോണിൽ ആശയവിനിമയം നടത്തുക.",
+    "usageExample": "Customer/partner.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "vendor",
+    "wordMeaning": "വെണ്ടർ",
+    "englishText": "The IT vendor delivered thirty new monitors for the development wing.",
+    "malayalamMeaning": "വികസന വിഭാഗത്തിനായി ഐടി വെണ്ടർ മുപ്പത് പുതിയ മോണിറ്ററുകൾ എത്തിച്ചു.",
+    "usageExample": "Supplier.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bill",
+    "wordMeaning": "ബിൽ",
+    "englishText": "Submit all taxi and hotel bills to the finance department for reimbursement.",
+    "malayalamMeaning": "റീഇംബേഴ്‌സ്‌മെൻ്റിനായി എല്ലാ ടാക്സി, ഹോട്ടൽ ബില്ലുകളും ധനകാര്യ വകുപ്പിന് സമർപ്പിക്കുക.",
+    "usageExample": "Receipt/invoice.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "invoice",
+    "wordMeaning": "ഇൻവോയ്സ്",
+    "englishText": "The accounts team sent an official invoice for the completed software phase.",
+    "malayalamMeaning": "പൂർത്തിയാക്കിയ സോഫ്‌റ്റ്‌വെയർ ഘട്ടത്തിനായി അക്കൗണ്ട്സ് ടീം ഒരു ഔദ്യോഗിക ഇൻവോയ്‌സ് അയച്ചു.",
+    "usageExample": "Payment request.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "receipt",
+    "wordMeaning": "രസീത്",
+    "englishText": "Keep your fuel receipt safely to claim your monthly travel allowance.",
+    "malayalamMeaning": "നിങ്ങളുടെ പ്രതിമാസ യാത്രാ അലവൻസ് ക്ലെയിം ചെയ്യുന്നതിന് നിങ്ങളുടെ ഇന്ധന രസീത് സുരക്ഷിതമായി സൂക്ഷിക്കുക.",
+    "usageExample": "Proof of payment.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "collaboration",
+    "wordMeaning": "സഹകരണം",
+    "englishText": "Effective cross-departmental collaboration is essential for large projects.",
+    "malayalamMeaning": "വലിയ പദ്ധതികൾക്ക് ഫലപ്രദമായ ക്രോസ് ഡിപ്പാർട്ട്മെൻ്റൽ സഹകരണം അത്യാവശ്യമാണ്.",
+    "usageExample": "Working together.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "productivity",
+    "wordMeaning": "ഉത്പാദനക്ഷമത",
+    "englishText": "Minimizing unnecessary meetings dramatically boosts engineering productivity.",
+    "malayalamMeaning": "അനാവശ്യ മീറ്റിംഗുകൾ കുറയ്ക്കുന്നത് എഞ്ചിനീയറിംഗ് ഉൽപ്പാദനക്ഷമതയെ നാടകീയമായി വർദ്ധിപ്പിക്കുന്നു.",
+    "usageExample": "Output efficiency.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "efficiency",
+    "wordMeaning": "കാര്യക്ഷമത",
+    "englishText": "The automation script improved our data processing efficiency by forty percent.",
+    "malayalamMeaning": "ഓട്ടോമേഷൻ സ്ക്രിപ്റ്റ് ഞങ്ങളുടെ ഡാറ്റ പ്രോസസ്സിംഗ് കാര്യക്ഷമത നാൽപ്പത് ശതമാനം മെച്ചപ്പെടുത്തി.",
+    "usageExample": "Effective speed.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "performance",
+    "wordMeaning": "പ്രകടനം",
+    "englishText": "His consistent performance earned him an early promotion to team lead.",
+    "malayalamMeaning": "സ്ഥിരതയാർന്ന പ്രകടനം അദ്ദേഹത്തിന് ടീം ലീഡിലേക്കുള്ള പ്രമോഷൻ നേടിക്കൊടുത്തു.",
+    "usageExample": "Work output.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "appraisal",
+    "wordMeaning": "വിലയിരുത്തൽ",
+    "englishText": "Annual appraisal discussions give employees valuable feedback on career growth.",
+    "malayalamMeaning": "വാർഷിക മൂല്യനിർണ്ണയ ചർച്ചകൾ ജീവനക്കാർക്ക് കരിയർ വളർച്ചയെക്കുറിച്ച് വിലയേറിയ ഫീഡ്ബാക്ക് നൽകുന്നു.",
+    "usageExample": "Performance review.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "feedback",
+    "wordMeaning": "പ്രതികരണം",
+    "englishText": "Constructive feedback should focus on behavior and outcomes, not personalities.",
+    "malayalamMeaning": "സൃഷ്ടിപരമായ ഫീഡ്‌ബാക്ക് വ്യക്തിത്വത്തിലല്ല, പെരുമാറ്റത്തിലും ഫലങ്ങളിലുമാണ് ശ്രദ്ധ കേന്ദ്രീകരിക്കേണ്ടത്.",
+    "usageExample": "Evaluative input.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "promotion",
+    "wordMeaning": "പ്രമോഷൻ",
+    "englishText": "She received a well-deserved promotion to Director of Product Development.",
+    "malayalamMeaning": "പ്രൊഡക്‌ട് ഡെവലപ്‌മെൻ്റ് ഡയറക്‌ടറായി അവർക്ക് അർഹമായ പ്രമോഷൻ ലഭിച്ചു.",
+    "usageExample": "Advancement.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "portfolio",
+    "wordMeaning": "പോർട്ട്ഫോളിയോ",
+    "englishText": "The UI designer presented an impressive portfolio of mobile applications.",
+    "malayalamMeaning": "UI ഡിസൈനർ മൊബൈൽ ആപ്ലിക്കേഷനുകളുടെ ശ്രദ്ധേയമായ ഒരു പോർട്ട്‌ഫോളിയോ അവതരിപ്പിച്ചു.",
+    "usageExample": "Work showcase.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "negotiation",
+    "wordMeaning": "ചർച്ചകൾ",
+    "englishText": "Skillful negotiation enabled us to reduce vendor costs by fifteen percent.",
+    "malayalamMeaning": "വിദഗ്ദ്ധമായ ചർച്ചകൾ വെണ്ടർ ചെലവ് പതിനഞ്ച് ശതമാനം കുറയ്ക്കാൻ ഞങ്ങളെ പ്രാപ്തമാക്കി.",
+    "usageExample": "Bargaining dialogue.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "contract",
+    "wordMeaning": "കരാർ",
+    "englishText": "Both parties signed a multi-year software development and maintenance contract.",
+    "malayalamMeaning": "ഇരു കക്ഷികളും ഒന്നിലധികം വർഷത്തെ സോഫ്റ്റ്‌വെയർ വികസന, പരിപാലന കരാറിൽ ഒപ്പുവച്ചു.",
+    "usageExample": "Legal agreement.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "agreement",
+    "wordMeaning": "കരാർ",
+    "englishText": "We reached a mutual agreement regarding project milestones and payment dates.",
+    "malayalamMeaning": "പ്രോജക്റ്റ് നാഴികക്കല്ലുകളും പേയ്‌മെൻ്റ് തീയതികളും സംബന്ധിച്ച് ഞങ്ങൾ പരസ്പര ധാരണയിലെത്തി.",
+    "usageExample": "Accord.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stakeholder",
+    "wordMeaning": "ഓഹരി ഉടമ",
+    "englishText": "Keep all internal and external stakeholders updated on project progress.",
+    "malayalamMeaning": "പ്രോജക്റ്റ് പുരോഗതിയെക്കുറിച്ച് എല്ലാ ആന്തരികവും ബാഹ്യവുമായ പങ്കാളികളെ അപ്ഡേറ്റ് ചെയ്യുക.",
+    "usageExample": "Interested party.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "conference",
+    "wordMeaning": "സമ്മേളനം",
+    "englishText": "Our team attended the annual international software developer conference.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ടീം വാർഷിക അന്താരാഷ്ട്ര സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ കോൺഫറൻസിൽ പങ്കെടുത്തു.",
+    "usageExample": "Industry convention.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "workshop",
+    "wordMeaning": "ശില്പശാല",
+    "englishText": "The HR department organized an interactive workshop on conflict resolution.",
+    "malayalamMeaning": "എച്ച്ആർ ഡിപ്പാർട്ട്‌മെൻ്റ് സംഘർഷ പരിഹാരത്തെക്കുറിച്ച് ഒരു ഇൻ്ററാക്ടീവ് വർക്ക്‌ഷോപ്പ് സംഘടിപ്പിച്ചു.",
+    "usageExample": "Training session.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "seminar",
+    "wordMeaning": "സെമിനാർ",
+    "englishText": "She delivered a keynote seminar on artificial intelligence in healthcare.",
+    "malayalamMeaning": "ആർട്ടിഫിഷ്യൽ ഇൻ്റലിജൻസ് ഇൻ ഹെൽത്ത് കെയർ എന്ന വിഷയത്തിൽ അവർ മുഖ്യ സെമിനാർ നടത്തി.",
+    "usageExample": "Educational speech.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "webinar",
+    "wordMeaning": "വെബിനാർ",
+    "englishText": "Over five hundred professionals registered for our live technical webinar.",
+    "malayalamMeaning": "ഞങ്ങളുടെ തത്സമയ സാങ്കേതിക വെബിനാറിനായി അഞ്ഞൂറിലധികം പ്രൊഫഷണലുകൾ രജിസ്റ്റർ ചെയ്തിട്ടുണ്ട്.",
+    "usageExample": "Online seminar.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "agenda",
+    "wordMeaning": "അജണ്ട",
+    "englishText": "Please circulate the meeting agenda at least twenty-four hours in advance.",
+    "malayalamMeaning": "മീറ്റിംഗ് അജണ്ട കുറഞ്ഞത് ഇരുപത്തിനാല് മണിക്കൂർ മുമ്പെങ്കിലും പ്രചരിപ്പിക്കുക.",
+    "usageExample": "Meeting plan.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "minutes",
+    "wordMeaning": "മിനിറ്റ്",
+    "englishText": "The secretary took detailed minutes of the board meeting for official records.",
+    "malayalamMeaning": "ഔദ്യോഗിക രേഖകൾക്കായി ബോർഡ് മീറ്റിംഗിൻ്റെ വിശദമായ മിനിറ്റ്സ് സെക്രട്ടറി എടുത്തു.",
+    "usageExample": "Official notes.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "executive",
+    "wordMeaning": "എക്സിക്യൂട്ടീവ്",
+    "englishText": "The chief executive officer addressed the entire company during the town hall.",
+    "malayalamMeaning": "ടൗൺ ഹാളിൽ ചീഫ് എക്സിക്യൂട്ടീവ് ഓഫീസർ മുഴുവൻ കമ്പനിയെയും അഭിസംബോധന ചെയ്തു.",
+    "usageExample": "Senior official.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "director",
+    "wordMeaning": "സംവിധായകൻ",
+    "englishText": "The managing director approved the opening of a new regional office in Calicut.",
+    "malayalamMeaning": "കോഴിക്കോട് പുതിയ റീജണൽ ഓഫീസ് തുറക്കുന്നതിന് മാനേജിംഗ് ഡയറക്ടർ അനുമതി നൽകി.",
+    "usageExample": "Company director.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "supervisor",
+    "wordMeaning": "സൂപ്പർവൈസർ",
+    "englishText": "Always consult your direct supervisor before initiating changes to production.",
+    "malayalamMeaning": "ഉൽപ്പാദനത്തിൽ മാറ്റങ്ങൾ ആരംഭിക്കുന്നതിന് മുമ്പ് എല്ലായ്പ്പോഴും നിങ്ങളുടെ നേരിട്ടുള്ള സൂപ്പർവൈസറെ സമീപിക്കുക.",
+    "usageExample": "Work manager.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "subordinate",
+    "wordMeaning": "കീഴാളൻ",
+    "englishText": "A respected manager treats every subordinate with dignity and fair consideration.",
+    "malayalamMeaning": "മാന്യനായ ഒരു മാനേജർ എല്ലാ കീഴുദ്യോഗസ്ഥരോടും മാന്യതയോടും ന്യായമായ പരിഗണനയോടും പെരുമാറുന്നു.",
+    "usageExample": "Team member under lead.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "delegation",
+    "wordMeaning": "പ്രതിനിധി സംഘം",
+    "englishText": "Effective delegation of routine tasks frees up managers for strategic planning.",
+    "malayalamMeaning": "പതിവ് ജോലികളുടെ ഫലപ്രദമായ ഡെലിഗേഷൻ മാനേജർമാരെ തന്ത്രപരമായ ആസൂത്രണത്തിനായി സ്വതന്ത്രരാക്കുന്നു.",
+    "usageExample": "Assigning tasks.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "accountability",
+    "wordMeaning": "ഉത്തരവാദിത്തം",
+    "englishText": "Taking personal accountability for project outcomes inspires trust across teams.",
+    "malayalamMeaning": "പ്രോജക്റ്റ് ഫലങ്ങൾക്കായി വ്യക്തിഗത ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നത് ടീമുകളിലുടനീളം വിശ്വാസത്തെ പ്രചോദിപ്പിക്കുന്നു.",
+    "usageExample": "Taking responsibility.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "responsibility",
+    "wordMeaning": "ഉത്തരവാദിത്തം",
+    "englishText": "Managing user data security is the shared responsibility of all engineers.",
+    "malayalamMeaning": "ഉപയോക്തൃ ഡാറ്റ സുരക്ഷ കൈകാര്യം ചെയ്യുന്നത് എല്ലാ എഞ്ചിനീയർമാരുടെയും പങ്കിട്ട ഉത്തരവാദിത്തമാണ്.",
+    "usageExample": "Assigned duty.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "initiative",
+    "wordMeaning": "മുൻകൈ",
+    "englishText": "She took the initiative to establish a peer-to-peer mentoring program.",
+    "malayalamMeaning": "ഒരു പിയർ-ടു-പിയർ മെൻ്ററിംഗ് പ്രോഗ്രാം സ്ഥാപിക്കാൻ അവൾ മുൻകൈയെടുത്തു.",
+    "usageExample": "Self-starting action.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "competence",
+    "wordMeaning": "കഴിവ്",
+    "englishText": "His deep technical competence was evident in the elegant software architecture.",
+    "malayalamMeaning": "ഗംഭീരമായ സോഫ്റ്റ്‌വെയർ ആർക്കിടെക്ചറിൽ അദ്ദേഹത്തിൻ്റെ ആഴത്തിലുള്ള സാങ്കേതിക കഴിവ് പ്രകടമായിരുന്നു.",
+    "usageExample": "High capability.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "professional",
+    "wordMeaning": "പ്രൊഫഷണൽ",
+    "englishText": "Always maintain a calm, professional demeanor when dealing with irate clients.",
+    "malayalamMeaning": "പ്രകോപിതരായ ക്ലയൻ്റുകളുമായി ഇടപഴകുമ്പോൾ എല്ലായ്പ്പോഴും ശാന്തവും പ്രൊഫഷണൽ പെരുമാറ്റവും നിലനിർത്തുക.",
+    "usageExample": "Workplace conduct.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "punctuality",
+    "wordMeaning": "സമയനിഷ്ഠ",
+    "englishText": "Punctuality demonstrates respect for your colleagues' valuable working time.",
+    "malayalamMeaning": "സമയനിഷ്ഠ നിങ്ങളുടെ സഹപ്രവർത്തകരുടെ വിലപ്പെട്ട ജോലി സമയത്തോടുള്ള ആദരവ് പ്രകടമാക്കുന്നു.",
+    "usageExample": "Being on time.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "attendance",
+    "wordMeaning": "ഹാജർ",
+    "englishText": "Consistent attendance and active participation are required in all training modules.",
+    "malayalamMeaning": "എല്ലാ പരിശീലന മൊഡ്യൂളുകളിലും സ്ഥിരമായ ഹാജരും സജീവ പങ്കാളിത്തവും ആവശ്യമാണ്.",
+    "usageExample": "Being present.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "overtime",
+    "wordMeaning": "അധിക സമയം",
+    "englishText": "Employees who work overtime during weekend releases receive compensatory leave.",
+    "malayalamMeaning": "വാരാന്ത്യ റിലീസുകളിൽ ഓവർടൈം ജോലി ചെയ്യുന്ന ജീവനക്കാർക്ക് നഷ്ടപരിഹാര അവധി ലഭിക്കും.",
+    "usageExample": "Extra hours.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "compensation",
+    "wordMeaning": "നഷ്ടപരിഹാരം",
+    "englishText": "The tech firm offers an attractive compensation package including equity options.",
+    "malayalamMeaning": "ഇക്വിറ്റി ഓപ്ഷനുകൾ ഉൾപ്പെടെ ആകർഷകമായ നഷ്ടപരിഹാര പാക്കേജ് ടെക് സ്ഥാപനം വാഗ്ദാനം ചെയ്യുന്നു.",
+    "usageExample": "Pay and benefits.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "reimbursement",
+    "wordMeaning": "തിരിച്ചടവ്",
+    "englishText": "Submit your travel expenses online for prompt reimbursement by accounts.",
+    "malayalamMeaning": "അക്കൗണ്ടുകൾ മുഖേന ഉടനടി റീഇംബേഴ്സ്മെൻ്റിനായി നിങ്ങളുടെ യാത്രാ ചെലവുകൾ ഓൺലൈനായി സമർപ്പിക്കുക.",
+    "usageExample": "Repayment of costs.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "allowance",
+    "wordMeaning": "അലവൻസ്",
+    "englishText": "Employees traveling on official duty receive a daily food and transport allowance.",
+    "malayalamMeaning": "ഔദ്യോഗിക ഡ്യൂട്ടിയിൽ യാത്ര ചെയ്യുന്ന ജീവനക്കാർക്ക് ദിവസേനയുള്ള ഭക്ഷണ, ഗതാഗത അലവൻസ് ലഭിക്കും.",
+    "usageExample": "Stipend.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "resignation",
+    "wordMeaning": "രാജി",
+    "englishText": "He submitted his formal resignation letter giving two months' advance notice.",
+    "malayalamMeaning": "രണ്ട് മാസത്തെ മുൻകൂർ അറിയിപ്പ് നൽകി അദ്ദേഹം ഔദ്യോഗിക രാജിക്കത്ത് സമർപ്പിച്ചു.",
+    "usageExample": "Leaving job.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "onboarding",
+    "wordMeaning": "ഓൺബോർഡിംഗ്",
+    "englishText": "A structured onboarding process helps new hires assimilate smoothly into the team.",
+    "malayalamMeaning": "ഒരു ഘടനാപരമായ ഓൺബോർഡിംഗ് പ്രക്രിയ പുതിയ ജോലിക്കാരെ ടീമിലേക്ക് സുഗമമായി ഉൾക്കൊള്ളാൻ സഹായിക്കുന്നു.",
+    "usageExample": "New hire welcome.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "orientation",
+    "wordMeaning": "ഓറിയൻ്റേഷൻ",
+    "englishText": "New employees attended a two-day orientation covering company history and policies.",
+    "malayalamMeaning": "കമ്പനിയുടെ ചരിത്രവും നയങ്ങളും ഉൾക്കൊള്ളുന്ന രണ്ട് ദിവസത്തെ ഓറിയൻ്റേഷനിൽ പുതിയ ജീവനക്കാർ പങ്കെടുത്തു.",
+    "usageExample": "Introductory training.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "probation",
+    "wordMeaning": "പ്രൊബേഷൻ",
+    "englishText": "Permanent employment was confirmed upon the successful completion of probation.",
+    "malayalamMeaning": "പ്രൊബേഷൻ വിജയകരമായി പൂർത്തിയാക്കിയതിന് ശേഷം സ്ഥിരമായ തൊഴിൽ ഉറപ്പിച്ചു.",
+    "usageExample": "Trial period.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "evaluation",
+    "wordMeaning": "മൂല്യനിർണ്ണയം",
+    "englishText": "The annual employee evaluation assesses both technical output and teamwork.",
+    "malayalamMeaning": "വാർഷിക ജീവനക്കാരുടെ വിലയിരുത്തൽ സാങ്കേതിക ഔട്ട്പുട്ടും ടീം വർക്കും വിലയിരുത്തുന്നു.",
+    "usageExample": "Assessment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "benchmark",
+    "wordMeaning": "ബെഞ്ച്മാർക്ക്",
+    "englishText": "Our customer support team set a new industry benchmark for resolution speed.",
+    "malayalamMeaning": "റെസല്യൂഷൻ വേഗതയ്ക്കായി ഞങ്ങളുടെ ഉപഭോക്തൃ പിന്തുണ ടീം ഒരു പുതിയ വ്യവസായ മാനദണ്ഡം സജ്ജമാക്കി.",
+    "usageExample": "Standard of excellence.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "milestone",
+    "wordMeaning": "നാഴികക്കല്ല്",
+    "englishText": "Deploying the payment gateway successfully was a crucial project milestone.",
+    "malayalamMeaning": "പേയ്‌മെൻ്റ് ഗേറ്റ്‌വേ വിജയകരമായി വിന്യസിക്കുന്നത് ഒരു നിർണായക പദ്ധതി നാഴികക്കല്ലായിരുന്നു.",
+    "usageExample": "Project marker.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "strategy",
+    "wordMeaning": "തന്ത്രം",
+    "englishText": "Our corporate strategy focuses on expanding cloud services to small enterprises.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കോർപ്പറേറ്റ് തന്ത്രം ചെറുകിട സംരംഭങ്ങളിലേക്ക് ക്ലൗഡ് സേവനങ്ങൾ വിപുലീകരിക്കുന്നതിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു.",
+    "usageExample": "High-level plan.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "implementation",
+    "wordMeaning": "നടപ്പിലാക്കൽ",
+    "englishText": "Smooth implementation of the new CRM system required weeks of staff training.",
+    "malayalamMeaning": "പുതിയ CRM സംവിധാനം സുഗമമായി നടപ്പിലാക്കുന്നതിന് ജീവനക്കാരുടെ ആഴ്ചകളോളം പരിശീലനം ആവശ്യമാണ്.",
+    "usageExample": "Putting into action.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "execution",
+    "wordMeaning": "വധശിക്ഷ",
+    "englishText": "A brilliant business strategy is worthless without disciplined, timely execution.",
+    "malayalamMeaning": "അച്ചടക്കവും സമയബന്ധിതവുമായ നിർവ്വഹണമില്ലാതെ ഒരു മികച്ച ബിസിനസ്സ് തന്ത്രം വിലപ്പോവില്ല.",
+    "usageExample": "Carrying out plans.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "objective",
+    "wordMeaning": "വസ്തുനിഷ്ഠമായ",
+    "englishText": "Our primary objective this quarter is to minimize customer churn rates.",
+    "malayalamMeaning": "ഈ പാദത്തിലെ ഞങ്ങളുടെ പ്രാഥമിക ലക്ഷ്യം ഉപഭോക്തൃ ചോർച്ച നിരക്ക് കുറയ്ക്കുക എന്നതാണ്.",
+    "usageExample": "Target goal.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "deliverable",
+    "wordMeaning": "വിതരണം ചെയ്യാവുന്നത്",
+    "englishText": "The final deliverable includes source code, test reports, and a user manual.",
+    "malayalamMeaning": "അന്തിമ ഡെലിവറിയിൽ സോഴ്സ് കോഡ്, ടെസ്റ്റ് റിപ്പോർട്ടുകൾ, ഒരു ഉപയോക്തൃ മാനുവൽ എന്നിവ ഉൾപ്പെടുന്നു.",
+    "usageExample": "Project output.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "timeline",
+    "wordMeaning": "ടൈംലൈൻ",
+    "englishText": "We must strictly adhere to the project timeline to prevent contractual penalties.",
+    "malayalamMeaning": "കരാർ പിഴകൾ തടയുന്നതിന് ഞങ്ങൾ പ്രോജക്റ്റ് ടൈംലൈൻ കർശനമായി പാലിക്കണം.",
+    "usageExample": "Schedule of phases.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "forecast",
+    "wordMeaning": "പ്രവചനം",
+    "englishText": "The financial analyst presented a realistic revenue forecast for the fiscal year.",
+    "malayalamMeaning": "ഫിനാൻഷ്യൽ അനലിസ്റ്റ് സാമ്പത്തിക വർഷത്തിലെ ഒരു യഥാർത്ഥ വരുമാന പ്രവചനം അവതരിപ്പിച്ചു.",
+    "usageExample": "Prediction.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "budget",
+    "wordMeaning": "ബജറ്റ്",
+    "englishText": "The marketing department operated within its allocated quarterly budget.",
+    "malayalamMeaning": "വിപണന വകുപ്പ് അതിൻ്റെ അനുവദിച്ച ത്രൈമാസ ബജറ്റിൽ പ്രവർത്തിച്ചു.",
+    "usageExample": "Financial plan.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "expenditure",
+    "wordMeaning": "ചെലവ്",
+    "englishText": "All capital expenditure exceeding ten thousand rupees requires director sign-off.",
+    "malayalamMeaning": "പതിനായിരം രൂപയിൽ കൂടുതലുള്ള എല്ലാ മൂലധന ചെലവുകൾക്കും ഡയറക്ടർ സൈൻ-ഓഫ് ആവശ്യമാണ്.",
+    "usageExample": "Spending.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "revenue",
+    "wordMeaning": "വരുമാനം",
+    "englishText": "The company reported a twenty-five percent increase in annual recurring revenue.",
+    "malayalamMeaning": "വാർഷിക ആവർത്തന വരുമാനത്തിൽ ഇരുപത്തിയഞ്ച് ശതമാനം വർദ്ധനവ് കമ്പനി റിപ്പോർട്ട് ചെയ്തു.",
+    "usageExample": "Income.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "profit",
+    "wordMeaning": "ലാഭം",
+    "englishText": "Operating profit rose significantly due to aggressive cost optimization.",
+    "malayalamMeaning": "ആക്രമണാത്മക ചെലവ് ഒപ്റ്റിമൈസേഷൻ കാരണം പ്രവർത്തന ലാഭം ഗണ്യമായി ഉയർന്നു.",
+    "usageExample": "Net gain.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "analysis",
+    "wordMeaning": "വിശകലനം",
+    "englishText": "A thorough competitor analysis revealed key gaps in our product offerings.",
+    "malayalamMeaning": "സമഗ്രമായ ഒരു എതിരാളി വിശകലനം ഞങ്ങളുടെ ഉൽപ്പന്ന ഓഫറുകളിലെ പ്രധാന വിടവുകൾ വെളിപ്പെടുത്തി.",
+    "usageExample": "Detailed study.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "spreadsheet",
+    "wordMeaning": "സ്പ്രെഡ്ഷീറ്റ്",
+    "englishText": "She organized the inventory data neatly across five tabs in the spreadsheet.",
+    "malayalamMeaning": "സ്‌പ്രെഡ്‌ഷീറ്റിലെ അഞ്ച് ടാബുകളിലുടനീളം അവൾ ഇൻവെൻ്ററി ഡാറ്റ ക്രമീകരിച്ചു.",
+    "usageExample": "Data sheet.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "database",
+    "wordMeaning": "ഡാറ്റാബേസ്",
+    "englishText": "The customer database is encrypted and backed up securely in three cloud zones.",
+    "malayalamMeaning": "ഉപഭോക്തൃ ഡാറ്റാബേസ് എൻക്രിപ്റ്റ് ചെയ്യുകയും മൂന്ന് ക്ലൗഡ് സോണുകളിൽ സുരക്ഷിതമായി ബാക്കപ്പ് ചെയ്യുകയും ചെയ്യുന്നു.",
+    "usageExample": "Information repository.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "troubleshooting",
+    "wordMeaning": "ട്രബിൾഷൂട്ടിംഗ്",
+    "englishText": "Our network engineers spent the entire night troubleshooting the server outage.",
+    "malayalamMeaning": "ഞങ്ങളുടെ നെറ്റ്‌വർക്ക് എഞ്ചിനീയർമാർ സെർവർ തകരാർ പരിഹരിക്കുന്നതിന് രാത്രി മുഴുവൻ ചെലവഴിച്ചു.",
+    "usageExample": "Debugging issues.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "workflow",
+    "wordMeaning": "വർക്ക്ഫ്ലോ",
+    "englishText": "Automating document approvals streamlined our procurement workflow immensely.",
+    "malayalamMeaning": "ഡോക്യുമെൻ്റ് അംഗീകാരങ്ങൾ ഓട്ടോമേറ്റ് ചെയ്യുന്നത് ഞങ്ങളുടെ സംഭരണ ​​വർക്ക്ഫ്ലോയെ വളരെയധികം കാര്യക്ഷമമാക്കി.",
+    "usageExample": "Work sequence.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "optimization",
+    "wordMeaning": "ഒപ്റ്റിമൈസേഷൻ",
+    "englishText": "Database query optimization reduced page load times by half a second.",
+    "malayalamMeaning": "ഡാറ്റാബേസ് അന്വേഷണ ഒപ്റ്റിമൈസേഷൻ പേജ് ലോഡ് സമയം അര സെക്കൻഡ് കുറച്ചു.",
+    "usageExample": "Improving efficiency.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "streamline",
+    "wordMeaning": "സ്ട്രീംലൈൻ",
+    "englishText": "We need to streamline our customer onboarding to reduce drop-off rates.",
+    "malayalamMeaning": "ഡ്രോപ്പ്-ഓഫ് നിരക്കുകൾ കുറയ്ക്കുന്നതിന് ഞങ്ങളുടെ കസ്റ്റമർ ഓൺബോർഡിംഗ് കാര്യക്ഷമമാക്കേണ്ടതുണ്ട്.",
+    "usageExample": "Simplifying processes.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "coordination",
+    "wordMeaning": "ഏകോപനം",
+    "englishText": "Tight coordination between sales and logistics ensured on-time product delivery.",
+    "malayalamMeaning": "വിൽപ്പനയും ലോജിസ്റ്റിക്സും തമ്മിലുള്ള കർശനമായ ഏകോപനം കൃത്യസമയത്ത് ഉൽപ്പന്ന ഡെലിവറി ഉറപ്പാക്കി.",
+    "usageExample": "Harmonious action.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "diplomacy",
+    "wordMeaning": "നയതന്ത്രം",
+    "englishText": "Handling client negotiations requires tact, patience, and professional diplomacy.",
+    "malayalamMeaning": "ക്ലയൻ്റ് ചർച്ചകൾ കൈകാര്യം ചെയ്യുന്നതിന് നയവും ക്ഷമയും പ്രൊഫഷണൽ നയതന്ത്രവും ആവശ്യമാണ്.",
+    "usageExample": "Tactful conduct.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "professionalism",
+    "wordMeaning": "പ്രൊഫഷണലിസം",
+    "englishText": "She earned the client's respect through her unwavering professionalism and rigor.",
+    "malayalamMeaning": "അവളുടെ അചഞ്ചലമായ പ്രൊഫഷണലിസത്തിലൂടെയും കർക്കശതയിലൂടെയും അവൾ ക്ലയൻ്റിൻ്റെ ബഹുമാനം നേടി.",
+    "usageExample": "Excellence in work.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "integrity",
+    "wordMeaning": "സമഗ്രത",
+    "englishText": "Corporate integrity requires uncompromising honesty in accounting and marketing.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് സമഗ്രതയ്ക്ക് അക്കൗണ്ടിംഗിലും മാർക്കറ്റിംഗിലും വിട്ടുവീഴ്ചയില്ലാത്ത സത്യസന്ധത ആവശ്യമാണ്.",
+    "usageExample": "Ethical uprightness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "confidentiality",
+    "wordMeaning": "രഹസ്യാത്മകത",
+    "englishText": "All staff members must maintain strict confidentiality regarding client data.",
+    "malayalamMeaning": "എല്ലാ സ്റ്റാഫ് അംഗങ്ങളും ക്ലയൻ്റ് ഡാറ്റ സംബന്ധിച്ച് കർശനമായ രഹസ്യാത്മകത പാലിക്കണം.",
+    "usageExample": "Secrecy.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "compliance",
+    "wordMeaning": "പാലിക്കൽ",
+    "englishText": "Our software guarantees full compliance with European data protection regulations.",
+    "malayalamMeaning": "ഞങ്ങളുടെ സോഫ്‌റ്റ്‌വെയർ യൂറോപ്യൻ ഡാറ്റാ പരിരക്ഷണ നിയന്ത്രണങ്ങൾ പൂർണ്ണമായും പാലിക്കുമെന്ന് ഉറപ്പ് നൽകുന്നു.",
+    "usageExample": "Adhering to rules.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "regulation",
+    "wordMeaning": "നിയന്ത്രണം",
+    "englishText": "New environmental regulations require the factory to curtail carbon emissions.",
+    "malayalamMeaning": "പുതിയ പാരിസ്ഥിതിക ചട്ടങ്ങൾ കാർബൺ പുറന്തള്ളൽ കുറയ്ക്കാൻ ഫാക്ടറി ആവശ്യപ്പെടുന്നു.",
+    "usageExample": "Statutory law.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "protocol",
+    "wordMeaning": "പ്രോട്ടോക്കോൾ",
+    "englishText": "Follow the standard security protocol when reporting suspicious system activities.",
+    "malayalamMeaning": "സംശയാസ്പദമായ സിസ്റ്റം പ്രവർത്തനങ്ങൾ റിപ്പോർട്ട് ചെയ്യുമ്പോൾ സാധാരണ സുരക്ഷാ പ്രോട്ടോക്കോൾ പാലിക്കുക.",
+    "usageExample": "Standard procedure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "procedure",
+    "wordMeaning": "നടപടിക്രമം",
+    "englishText": "The office manual outlines the exact procedure for reporting workplace injuries.",
+    "malayalamMeaning": "ജോലിസ്ഥലത്തെ പരിക്കുകൾ റിപ്പോർട്ട് ചെയ്യുന്നതിനുള്ള കൃത്യമായ നടപടിക്രമം ഓഫീസ് മാനുവൽ വിവരിക്കുന്നു.",
+    "usageExample": "Step-by-step rules.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "standard",
+    "wordMeaning": "സ്റ്റാൻഡേർഡ്",
+    "englishText": "Our engineering teams uphold the highest international quality standards.",
+    "malayalamMeaning": "ഞങ്ങളുടെ എഞ്ചിനീയറിംഗ് ടീമുകൾ ഉയർന്ന അന്തർദേശീയ നിലവാര നിലവാരം ഉയർത്തിപ്പിടിക്കുന്നു.",
+    "usageExample": "Quality benchmark.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "innovation",
+    "wordMeaning": "നവീകരണം",
+    "englishText": "Fostering a culture of innovation encourages engineers to patent bold solutions.",
+    "malayalamMeaning": "നവീകരണ സംസ്കാരം വളർത്തിയെടുക്കുന്നത് ബോൾഡ് സൊല്യൂഷനുകൾക്ക് പേറ്റൻ്റ് നൽകാൻ എഞ്ചിനീയർമാരെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "usageExample": "Novel invention.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "brainstorm",
+    "wordMeaning": "മസ്തിഷ്കമരണം",
+    "englishText": "The creative team held a two-hour session to brainstorm names for the new brand.",
+    "malayalamMeaning": "പുതിയ ബ്രാൻഡിൻ്റെ പേരുകൾ മനസിലാക്കാൻ ക്രിയേറ്റീവ് ടീം രണ്ട് മണിക്കൂർ സെഷൻ നടത്തി.",
+    "usageExample": "Idea generation.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "creativity",
+    "wordMeaning": "സർഗ്ഗാത്മകത",
+    "englishText": "Applying creativity to software architecture leads to elegant, scalable systems.",
+    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ ആർക്കിടെക്ചറിലേക്ക് സർഗ്ഗാത്മകത പ്രയോഗിക്കുന്നത് ഗംഭീരവും അളക്കാവുന്നതുമായ സിസ്റ്റങ്ങളിലേക്ക് നയിക്കുന്നു.",
+    "usageExample": "Inventive ability.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "leadership",
+    "wordMeaning": "നേതൃത്വം",
+    "englishText": "Authentic leadership inspires team members to achieve more than they imagined.",
+    "malayalamMeaning": "ആധികാരിക നേതൃത്വം ടീം അംഗങ്ങളെ അവർ വിചാരിച്ചതിലും കൂടുതൽ നേടാൻ പ്രചോദിപ്പിക്കുന്നു.",
+    "usageExample": "Guiding ability.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "mentorship",
+    "wordMeaning": "മാർഗദർശനം",
+    "englishText": "Under his dedicated mentorship, several junior engineers grew into tech leads.",
+    "malayalamMeaning": "അദ്ദേഹത്തിൻ്റെ സമർപ്പിത മാർഗനിർദേശത്തിന് കീഴിൽ, നിരവധി ജൂനിയർ എഞ്ചിനീയർമാർ ടെക് ലീഡുകളായി വളർന്നു.",
+    "usageExample": "Advising recruits.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tenure",
+    "wordMeaning": "കാലാവധി",
+    "englishText": "During her ten-year tenure as chief executive, company revenues tripled.",
+    "malayalamMeaning": "പത്തുവർഷത്തെ ചീഫ് എക്‌സിക്യൂട്ടീവായി പ്രവർത്തിച്ചപ്പോൾ കമ്പനിയുടെ വരുമാനം മൂന്നിരട്ടിയായി.",
+    "usageExample": "Period in office.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "seniority",
+    "wordMeaning": "സീനിയോറിറ്റി",
+    "englishText": "Promotions in the firm are awarded based on merit rather than mere seniority.",
+    "malayalamMeaning": "സ്ഥാപനത്തിലെ പ്രമോഷനുകൾ കേവലം സീനിയോറിറ്റിക്ക് പകരം മെറിറ്റ് അടിസ്ഥാനമാക്കിയാണ് നൽകുന്നത്.",
+    "usageExample": "Years of service.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "workspace",
+    "wordMeaning": "ജോലിസ്ഥലം",
+    "englishText": "Our open-plan workspace encourages spontaneous discussions between departments.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഓപ്പൺ പ്ലാൻ വർക്ക്‌സ്‌പേസ് വകുപ്പുകൾക്കിടയിൽ സ്വയമേവയുള്ള ചർച്ചകളെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "usageExample": "Work environment.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "ergonomics",
+    "wordMeaning": "എർഗണോമിക്സ്",
+    "englishText": "Investing in office ergonomics reduces repetitive strain injuries among programmers.",
+    "malayalamMeaning": "ഓഫീസ് എർഗണോമിക്സിൽ നിക്ഷേപിക്കുന്നത് പ്രോഗ്രാമർമാർക്കിടയിൽ ആവർത്തിച്ചുള്ള സമ്മർദ്ദം കുറയ്ക്കുന്നു.",
+    "usageExample": "Workplace health design.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "telecommuting",
+    "wordMeaning": "ടെലികമ്മ്യൂട്ടിംഗ്",
+    "englishText": "Telecommuting policies enable employees to save hours of daily commuting time.",
+    "malayalamMeaning": "ദിവസേനയുള്ള യാത്രാ സമയം ലാഭിക്കാൻ ടെലികമ്മ്യൂട്ടിംഗ് നയങ്ങൾ ജീവനക്കാരെ പ്രാപ്തരാക്കുന്നു.",
+    "usageExample": "Remote working.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "flexibility",
+    "wordMeaning": "വഴക്കം",
+    "englishText": "Workplace schedule flexibility improves employee morale and retention.",
+    "malayalamMeaning": "ജോലിസ്ഥലത്തെ ഷെഡ്യൂൾ വഴക്കം ജീവനക്കാരുടെ മനോവീര്യവും നിലനിർത്തലും മെച്ചപ്പെടുത്തുന്നു.",
+    "usageExample": "Adaptable terms.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "retention",
+    "wordMeaning": "നിലനിർത്തൽ",
+    "englishText": "Offering competitive pay and clear career paths boosts talent retention.",
+    "malayalamMeaning": "മത്സരാധിഷ്ഠിത ശമ്പളവും വ്യക്തമായ കരിയർ പാതകളും വാഗ്ദാനം ചെയ്യുന്നത് കഴിവ് നിലനിർത്തൽ വർദ്ധിപ്പിക്കുന്നു.",
+    "usageExample": "Keeping staff.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "attrition",
+    "wordMeaning": "ശോഷണം",
+    "englishText": "The HR team investigated the underlying causes of high staff attrition.",
+    "malayalamMeaning": "ഉയർന്ന ജീവനക്കാരുടെ കൊഴിഞ്ഞുപോക്കിൻ്റെ അടിസ്ഥാന കാരണങ്ങൾ എച്ച്ആർ ടീം അന്വേഷിച്ചു.",
+    "usageExample": "Employee turnover.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "recruitment",
+    "wordMeaning": "റിക്രൂട്ട്മെൻ്റ്",
+    "englishText": "Our annual campus recruitment drive attracted over ten thousand applicants.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വാർഷിക കാമ്പസ് റിക്രൂട്ട്‌മെൻ്റ് ഡ്രൈവ് പതിനായിരത്തിലധികം അപേക്ഷകരെ ആകർഷിച്ചു.",
+    "usageExample": "Hiring process.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "headhunting",
+    "wordMeaning": "തലവേട്ട",
+    "englishText": "The firm hired an executive headhunting agency to identify a new CEO.",
+    "malayalamMeaning": "പുതിയ സിഇഒയെ തിരിച്ചറിയാൻ കമ്പനി ഒരു എക്സിക്യൂട്ടീവ് ഹെഡ്ഹണ്ടിംഗ് ഏജൻസിയെ നിയമിച്ചു.",
+    "usageExample": "Executive search.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "negotiator",
+    "wordMeaning": "ചർച്ചക്കാരൻ",
+    "englishText": "He proved to be a formidable negotiator who protected our company's margins.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കമ്പനിയുടെ മാർജിനുകൾ സംരക്ഷിച്ച ഒരു ശക്തനായ ചർച്ചക്കാരനാണെന്ന് അദ്ദേഹം തെളിയിച്ചു.",
+    "usageExample": "Bargaining expert.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "arbitration",
+    "wordMeaning": "വ്യവഹാരം",
+    "englishText": "Both commercial partners agreed to submit the contractual dispute to arbitration.",
+    "malayalamMeaning": "രണ്ട് വാണിജ്യ പങ്കാളികളും കരാർ തർക്കം മധ്യസ്ഥതയ്ക്ക് സമർപ്പിക്കാൻ സമ്മതിച്ചു.",
+    "usageExample": "Settling disputes.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "mediation",
+    "wordMeaning": "മധ്യസ്ഥത",
+    "englishText": "A trained professional was brought in to conduct mediation between team leads.",
+    "malayalamMeaning": "ടീം ലീഡർമാർക്കിടയിൽ മധ്യസ്ഥത വഹിക്കാൻ പരിശീലനം ലഭിച്ച ഒരു പ്രൊഫഷണലിനെ കൊണ്ടുവന്നു.",
+    "usageExample": "Conflict resolution.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "settlement",
+    "wordMeaning": "സെറ്റിൽമെൻ്റ്",
+    "englishText": "The parties reached an out-of-court settlement that satisfied both sides.",
+    "malayalamMeaning": "കക്ഷികൾ കോടതിക്ക് പുറത്ത് ഒത്തുതീർപ്പിലെത്തി, അത് ഇരുപക്ഷത്തെയും തൃപ്തിപ്പെടുത്തി.",
+    "usageExample": "Agreed resolution.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "documentation",
+    "wordMeaning": "ഡോക്യുമെൻ്റേഷൻ",
+    "englishText": "Clear API documentation is indispensable for developers integrating our platform.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പ്ലാറ്റ്‌ഫോം സംയോജിപ്പിക്കുന്ന ഡെവലപ്പർമാർക്ക് API ഡോക്യുമെൻ്റേഷൻ ഒഴിച്ചുകൂടാനാവാത്തതാണ്.",
+    "usageExample": "Written manuals.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "specifications",
+    "wordMeaning": "സവിശേഷതകൾ",
+    "englishText": "The technical specifications for the new mobile app were finalized yesterday.",
+    "malayalamMeaning": "പുതിയ മൊബൈൽ ആപ്പിൻ്റെ സാങ്കേതിക സവിശേഷതകൾ ഇന്നലെ അന്തിമമായി.",
+    "usageExample": "Detailed requirements.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "synergy",
+    "wordMeaning": "സമന്വയം",
+    "englishText": "The corporate merger created powerful synergy across distribution channels.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് ലയനം വിതരണ ചാനലുകളിലുടനീളം ശക്തമായ സമന്വയം സൃഷ്ടിച്ചു.",
+    "usageExample": "Combined energy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "paradigm",
+    "wordMeaning": "മാതൃക",
+    "englishText": "Cloud computing introduced a fundamental paradigm shift in enterprise software.",
+    "malayalamMeaning": "എൻ്റർപ്രൈസ് സോഫ്‌റ്റ്‌വെയറിൽ ക്ലൗഡ് കമ്പ്യൂട്ടിംഗ് ഒരു അടിസ്ഥാന മാതൃകാ മാറ്റം അവതരിപ്പിച്ചു.",
+    "usageExample": "Conceptual framework.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "leverage",
+    "wordMeaning": "ലിവറേജ്",
+    "englishText": "We must leverage our existing client relationships to cross-sell new services.",
+    "malayalamMeaning": "പുതിയ സേവനങ്ങൾ ക്രോസ്-സെയിൽ ചെയ്യുന്നതിന് ഞങ്ങളുടെ നിലവിലുള്ള ക്ലയൻ്റ് ബന്ധങ്ങൾ പ്രയോജനപ്പെടുത്തണം.",
+    "usageExample": "Use to advantage.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bandwidth",
+    "wordMeaning": "ബാൻഡ്വിഡ്ത്ത്",
+    "englishText": "Our development team currently lacks the bandwidth to take on extra projects.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഡെവലപ്‌മെൻ്റ് ടീമിന് നിലവിൽ അധിക പ്രോജക്‌റ്റുകൾ ഏറ്റെടുക്കാനുള്ള ബാൻഡ്‌വിഡ്ത്ത് ഇല്ല.",
+    "usageExample": "Capacity.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bottleneck",
+    "wordMeaning": "തടസ്സം",
+    "englishText": "Identifying the database bottleneck allowed us to double system throughput.",
+    "malayalamMeaning": "ഡാറ്റാബേസ് തടസ്സം തിരിച്ചറിയുന്നത് സിസ്റ്റം ത്രൂപുട്ട് ഇരട്ടിയാക്കാൻ ഞങ്ങളെ അനുവദിച്ചു.",
+    "usageExample": "Constriction point.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "deliverables",
+    "wordMeaning": "വിതരണം ചെയ്യാവുന്നവ",
+    "englishText": "All contractual deliverables must be formally accepted by the client.",
+    "malayalamMeaning": "എല്ലാ കരാർ വിതരണങ്ങളും ക്ലയൻ്റ് ഔപചാരികമായി അംഗീകരിച്ചിരിക്കണം.",
+    "usageExample": "Obligated products.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "governance",
+    "wordMeaning": "ഭരണം",
+    "englishText": "Strict corporate governance prevents financial irregularities and protects investors.",
+    "malayalamMeaning": "കർശനമായ കോർപ്പറേറ്റ് ഭരണം സാമ്പത്തിക ക്രമക്കേടുകൾ തടയുകയും നിക്ഷേപകരെ സംരക്ഷിക്കുകയും ചെയ്യുന്നു.",
+    "usageExample": "Regulatory oversight.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "remuneration",
+    "wordMeaning": "പ്രതിഫലം",
+    "englishText": "Executive remuneration packages are tied to long-term shareholder returns.",
+    "malayalamMeaning": "എക്സിക്യൂട്ടീവ് പ്രതിഫല പാക്കേജുകൾ ദീർഘകാല ഷെയർഹോൾഡർ റിട്ടേണുകളുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു.",
+    "usageExample": "Compensation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "competency",
+    "wordMeaning": "കഴിവ്",
+    "englishText": "Core competency in artificial intelligence gives our firm a distinct edge.",
+    "malayalamMeaning": "ആർട്ടിഫിഷ്യൽ ഇൻ്റലിജൻസിലെ പ്രധാന കഴിവ് ഞങ്ങളുടെ സ്ഥാപനത്തിന് ഒരു പ്രത്യേക നേട്ടം നൽകുന്നു.",
+    "usageExample": "Foundational capability.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bureaucracy",
+    "wordMeaning": "ബ്യൂറോക്രസി",
+    "englishText": "Excessive organizational bureaucracy stifles creative initiative among young engineers.",
+    "malayalamMeaning": "അമിതമായ ഓർഗനൈസേഷണൽ ബ്യൂറോക്രസി യുവ എഞ്ചിനീയർമാർക്കിടയിൽ സർഗ്ഗാത്മകമായ സംരംഭത്തെ തടസ്സപ്പെടുത്തുന്നു.",
+    "usageExample": "Red tape.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "feasibility",
+    "wordMeaning": "സാധ്യത",
+    "englishText": "The engineering committee conducted a thorough feasibility study before breaking ground.",
+    "malayalamMeaning": "എഞ്ചിനീയറിംഗ് കമ്മിറ്റി സമഗ്രമായ സാധ്യതാപഠനം നടത്തി.",
+    "usageExample": "Practical viability.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "conglomerate",
+    "wordMeaning": "ഒരു കൂട്ടം",
+    "englishText": "The multinational conglomerate operates across energy, telecommunications, and retail.",
+    "malayalamMeaning": "ഊർജം, ടെലികമ്മ്യൂണിക്കേഷൻ, റീട്ടെയിൽ എന്നിവയിലുടനീളം മൾട്ടിനാഷണൽ കമ്പനി പ്രവർത്തിക്കുന്നു.",
+    "usageExample": "Mega corporation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "entrepreneurial",
+    "wordMeaning": "സംരംഭകൻ",
+    "englishText": "The company rewards employees who display a bold, entrepreneurial mindset.",
+    "malayalamMeaning": "ധീരവും സംരംഭകത്വ മനോഭാവവും പ്രകടിപ്പിക്കുന്ന ജീവനക്കാർക്ക് കമ്പനി പ്രതിഫലം നൽകുന്നു.",
+    "usageExample": "Enterprising spirit.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "monetization",
+    "wordMeaning": "ധനസമ്പാദനം",
+    "englishText": "Our digital platform is testing various monetization strategies, including subscriptions.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഡിജിറ്റൽ പ്ലാറ്റ്‌ഫോം സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ ഉൾപ്പെടെ വിവിധ ധനസമ്പാദന തന്ത്രങ്ങൾ പരീക്ഷിക്കുന്നു.",
+    "usageExample": "Generating revenue.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "pipeline",
+    "wordMeaning": "പൈപ്പ്ലൈൻ",
+    "englishText": "The sales team maintains a robust pipeline of high-value enterprise leads.",
+    "malayalamMeaning": "സെയിൽസ് ടീം ഉയർന്ന മൂല്യമുള്ള എൻ്റർപ്രൈസ് ലീഡുകളുടെ ശക്തമായ പൈപ്പ്ലൈൻ പരിപാലിക്കുന്നു.",
+    "usageExample": "Sales channel.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "infrastructure",
+    "wordMeaning": "അടിസ്ഥാന സൗകര്യങ്ങൾ",
+    "englishText": "Upgrading our cloud server infrastructure ensures ninety-nine percent uptime.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ക്ലൗഡ് സെർവർ ഇൻഫ്രാസ്ട്രക്ചർ നവീകരിക്കുന്നത് തൊണ്ണൂറ്റി ഒമ്പത് ശതമാനം പ്രവർത്തനസമയം ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Foundational systems.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "fiscal",
+    "wordMeaning": "സാമ്പത്തിക",
+    "englishText": "The company reported record net profits for the concluding fiscal year.",
+    "malayalamMeaning": "അവസാനിച്ച സാമ്പത്തിക വർഷത്തിൽ കമ്പനി റെക്കോർഡ് അറ്റാദായം രേഖപ്പെടുത്തി.",
+    "usageExample": "Financial/tax year.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "restructuring",
+    "wordMeaning": "പുനഃക്രമീകരണം",
+    "englishText": "Corporate restructuring eliminated overlapping roles and reduced operational overhead.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് പുനഃക്രമീകരണം ഓവർലാപ്പിംഗ് റോളുകൾ ഒഴിവാക്കുകയും പ്രവർത്തന ഓവർഹെഡ് കുറയ്ക്കുകയും ചെയ്തു.",
+    "usageExample": "Reorganizing firm.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "decentralization",
+    "wordMeaning": "വികേന്ദ്രീകരണം",
+    "englishText": "Decentralization of decision-making empowered local regional managers.",
+    "malayalamMeaning": "തീരുമാനങ്ങൾ എടുക്കുന്നതിൻ്റെ വികേന്ദ്രീകരണം പ്രാദേശിക റീജിയണൽ മാനേജർമാർക്ക് അധികാരം നൽകി.",
+    "usageExample": "Distributing power.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "procurement",
+    "wordMeaning": "സംഭരണം",
+    "englishText": "The procurement department negotiated volume discounts with major hardware suppliers.",
+    "malayalamMeaning": "പ്രധാന ഹാർഡ്‌വെയർ വിതരണക്കാരുമായി സംഭരണ ​​വകുപ്പ് വോളിയം കിഴിവുകൾ ചർച്ച ചെയ്തു.",
+    "usageExample": "Acquiring supplies.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "jurisprudence",
+    "wordMeaning": "നിയമശാസ്ത്രം",
+    "englishText": "Corporate lawyers must navigate complex international trade jurisprudence.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് വക്കീലുകൾ സങ്കീർണ്ണമായ അന്താരാഷ്ട്ര വ്യാപാര നിയമശാസ്ത്രം നാവിഗേറ്റ് ചെയ്യണം.",
+    "usageExample": "Legal principles.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "proprietary",
+    "wordMeaning": "കുത്തക",
+    "englishText": "The company holds multiple proprietary patents covering its encryption algorithm.",
+    "malayalamMeaning": "കമ്പനി അതിൻ്റെ എൻക്രിപ്ഷൻ അൽഗോരിതം ഉൾക്കൊള്ളുന്ന ഒന്നിലധികം പ്രൊപ്രൈറ്ററി പേറ്റൻ്റുകൾ കൈവശം വച്ചിട്ടുണ്ട്.",
+    "usageExample": "Privately owned.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "scalability",
+    "wordMeaning": "സ്കേലബിളിറ്റി",
+    "englishText": "The microservices architecture ensures high scalability during traffic surges.",
+    "malayalamMeaning": "മൈക്രോസർവീസസ് ആർക്കിടെക്ചർ ട്രാഫിക് കുതിച്ചുചാട്ട സമയത്ത് ഉയർന്ന സ്കേലബിളിറ്റി ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Ability to grow.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "viability",
+    "wordMeaning": "പ്രവർത്തനക്ഷമത",
+    "englishText": "Economic viability must be established before committing capital to new ventures.",
+    "malayalamMeaning": "പുതിയ സംരംഭങ്ങൾക്ക് മൂലധനം നൽകുന്നതിന് മുമ്പ് സാമ്പത്തിക സാദ്ധ്യത സ്ഥാപിക്കണം.",
+    "usageExample": "Feasibility.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "contingency",
+    "wordMeaning": "ആകസ്മികത",
+    "englishText": "We established an emergency contingency fund to cushion unexpected market shocks.",
+    "malayalamMeaning": "അപ്രതീക്ഷിതമായ മാർക്കറ്റ് ആഘാതങ്ങൾ ഇല്ലാതാക്കാൻ ഞങ്ങൾ ഒരു എമർജൻസി കണ്ടിജൻസി ഫണ്ട് സ്ഥാപിച്ചു.",
+    "usageExample": "Backup provision.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "indemnity",
+    "wordMeaning": "നഷ്ടപരിഹാരം",
+    "englishText": "The contract contains an indemnity clause protecting our firm against third-party claims.",
+    "malayalamMeaning": "മൂന്നാം കക്ഷി ക്ലെയിമുകളിൽ നിന്ന് ഞങ്ങളുടെ സ്ഥാപനത്തെ സംരക്ഷിക്കുന്ന ഒരു നഷ്ടപരിഹാര വ്യവസ്ഥ കരാറിൽ അടങ്ങിയിരിക്കുന്നു.",
+    "usageExample": "Security against loss.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "liability",
+    "wordMeaning": "ബാധ്യത",
+    "englishText": "Limiting corporate liability is a primary objective when drafting client agreements.",
+    "malayalamMeaning": "ക്ലയൻ്റ് കരാറുകൾ തയ്യാറാക്കുമ്പോൾ കോർപ്പറേറ്റ് ബാധ്യത പരിമിതപ്പെടുത്തുക എന്നത് ഒരു പ്രാഥമിക ലക്ഷ്യമാണ്.",
+    "usageExample": "Legal responsibility.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "prerequisite",
+    "wordMeaning": "മുൻവ്യവസ്ഥ",
+    "englishText": "Thorough understanding of data structures is an indispensable prerequisite for the role.",
+    "malayalamMeaning": "ഡാറ്റാ ഘടനകളെക്കുറിച്ചുള്ള സമഗ്രമായ ധാരണ റോളിന് അനിവാര്യമായ ഒരു മുൻവ്യവസ്ഥയാണ്.",
+    "usageExample": "Mandatory condition.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hierarchy",
+    "wordMeaning": "ശ്രേണി",
+    "englishText": "A rigid corporate hierarchy can sometimes impede rapid bottom-up communication.",
+    "malayalamMeaning": "കർക്കശമായ കോർപ്പറേറ്റ് ശ്രേണി ചിലപ്പോൾ വേഗത്തിലുള്ള അടിത്തട്ടിൽ നിന്നുള്ള ആശയവിനിമയത്തെ തടസ്സപ്പെടുത്തുന്നു.",
+    "usageExample": "Rank order.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "transformative",
+    "wordMeaning": "രൂപാന്തരപ്പെടുത്തുന്ന",
+    "englishText": "Adopting machine learning proved to be a transformative milestone for our business.",
+    "malayalamMeaning": "മെഷീൻ ലേണിംഗ് സ്വീകരിക്കുന്നത് ഞങ്ങളുടെ ബിസിനസ്സിന് ഒരു പരിവർത്തന നാഴികക്കല്ലായി തെളിഞ്ഞു.",
+    "usageExample": "Revolutionary change.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "dynamism",
+    "wordMeaning": "ചലനാത്മകത",
+    "englishText": "The technological dynamism of the market demands constant agility from companies.",
+    "malayalamMeaning": "കമ്പോളത്തിൻ്റെ സാങ്കേതിക ചലനാത്മകത കമ്പനികളിൽ നിന്ന് നിരന്തരമായ ചാപല്യം ആവശ്യപ്പെടുന്നു.",
+    "usageExample": "Vibrant adaptability.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "prowess",
+    "wordMeaning": "പരാക്രമം",
+    "englishText": "The engineering team demonstrated formidable technical prowess under tight deadlines.",
+    "malayalamMeaning": "കർശനമായ സമയപരിധിക്കുള്ളിൽ എഞ്ചിനീയറിംഗ് ടീം ശക്തമായ സാങ്കേതിക വൈദഗ്ദ്ധ്യം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Exceptional skill.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "aptitude",
+    "wordMeaning": "അഭിരുചി",
+    "englishText": "The candidate displayed a natural aptitude for designing scalable distributed networks.",
+    "malayalamMeaning": "സ്കെയിൽ ചെയ്യാവുന്ന വിതരണ ശൃംഖലകൾ രൂപകൽപ്പന ചെയ്യുന്നതിനുള്ള സ്വാഭാവിക അഭിരുചി കാൻഡിഡേറ്റ് പ്രദർശിപ്പിച്ചു.",
+    "usageExample": "Natural talent.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "dexterity",
+    "wordMeaning": "വൈദഗ്ധ്യം",
+    "englishText": "Managing multiple high-stakes client relationships demands great diplomatic dexterity.",
+    "malayalamMeaning": "ഒന്നിലധികം ഹൈ-സ്റ്റേക്ക് ക്ലയൻ്റ് ബന്ധങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിന് മികച്ച നയതന്ത്ര വൈദഗ്ദ്ധ്യം ആവശ്യമാണ്.",
+    "usageExample": "Skillful handling.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "acumen",
+    "wordMeaning": "കുശാഗ്രബുദ്ധി",
+    "englishText": "Her astute business acumen steered the firm through a severe macroeconomic recession.",
+    "malayalamMeaning": "അവളുടെ സൂക്ഷ്മമായ ബിസിനസ്സ് മിടുക്ക് കടുത്ത മാക്രോ ഇക്കണോമിക് മാന്ദ്യത്തിലൂടെ സ്ഥാപനത്തെ നയിച്ചു.",
+    "usageExample": "Sharp business mind.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "oversight",
+    "wordMeaning": "മേൽനോട്ടം",
+    "englishText": "The regulatory committee exercises independent oversight over corporate financial filings.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് സാമ്പത്തിക ഫയലിംഗുകളിൽ റെഗുലേറ്ററി കമ്മിറ്റി സ്വതന്ത്രമായ മേൽനോട്ടം വഹിക്കുന്നു.",
+    "usageExample": "Supervisory control.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "stewardship",
+    "wordMeaning": "കാര്യസ്ഥൻ",
+    "englishText": "Prudent environmental stewardship is now a mandatory KPI for modern corporations.",
+    "malayalamMeaning": "ആധുനിക കോർപ്പറേഷനുകൾക്കായി വിവേകപൂർണ്ണമായ പാരിസ്ഥിതിക കാര്യനിർവഹണം ഇപ്പോൾ നിർബന്ധിത കെപിഐയാണ്.",
+    "usageExample": "Responsible management.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "fiduciary",
+    "wordMeaning": "വിശ്വസ്തൻ",
+    "englishText": "Directors bear a solemn fiduciary duty to act in the best interests of shareholders.",
+    "malayalamMeaning": "ഷെയർഹോൾഡർമാരുടെ മികച്ച താൽപ്പര്യങ്ങൾക്കനുസൃതമായി പ്രവർത്തിക്കാൻ ഡയറക്ടർമാർ ഒരു വിശ്വസ്ത കടമ വഹിക്കുന്നു.",
+    "usageExample": "Trust-based duty.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "visionary",
+    "wordMeaning": "ദർശകൻ",
+    "englishText": "The visionary founder foresaw the mobile revolution years before competitors.",
+    "malayalamMeaning": "ദീർഘവീക്ഷണമുള്ള സ്ഥാപകൻ മൊബൈൽ വിപ്ലവം എതിരാളികൾക്ക് വർഷങ്ങൾക്ക് മുമ്പ് മുൻകൂട്ടി കണ്ടു.",
+    "usageExample": "Farsighted leader.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ubiquitous",
+    "wordMeaning": "സർവ്വവ്യാപി",
+    "englishText": "Smartphones have become ubiquitous tools in modern corporate communication.",
+    "malayalamMeaning": "ആധുനിക കോർപ്പറേറ്റ് ആശയവിനിമയത്തിൽ സ്മാർട്ട്ഫോണുകൾ സർവ്വവ്യാപിയായ ഉപകരണമായി മാറിയിരിക്കുന്നു.",
+    "usageExample": "Present everywhere.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "pragmatic",
+    "wordMeaning": "പ്രായോഗികമായ",
+    "englishText": "He adopted a pragmatic approach, choosing stability over untested experimental tools.",
+    "malayalamMeaning": "പരീക്ഷിക്കാത്ത പരീക്ഷണ ഉപകരണങ്ങളേക്കാൾ സ്ഥിരത തിരഞ്ഞെടുത്ത് അദ്ദേഹം പ്രായോഗിക സമീപനം സ്വീകരിച്ചു.",
+    "usageExample": "Practical/realistic.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "lucrative",
+    "wordMeaning": "ലാഭകരമായ",
+    "englishText": "Securing the government cloud contract was the most lucrative deal of the quarter.",
+    "malayalamMeaning": "ഗവൺമെൻ്റ് ക്ലൗഡ് കരാർ ഉറപ്പിക്കുന്നത് ഈ പാദത്തിലെ ഏറ്റവും ലാഭകരമായ ഇടപാടായിരുന്നു.",
+    "usageExample": "Highly profitable.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ostentatious",
+    "wordMeaning": "ആഡംബരപൂർണ്ണമായ",
+    "englishText": "The company avoids ostentatious executive perks, focusing instead on staff welfare.",
+    "malayalamMeaning": "സ്റ്റാഫ് ക്ഷേമത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ചുകൊണ്ട് കമ്പനി ആഡംബര എക്സിക്യൂട്ടീവ് ആനുകൂല്യങ്ങൾ ഒഴിവാക്കുന്നു.",
+    "usageExample": "Showy and boastful.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unprecedented",
+    "wordMeaning": "അഭൂതപൂർവമായ",
+    "englishText": "The sudden surge in cloud demand brought unprecedented revenue growth.",
+    "malayalamMeaning": "ക്ലൗഡ് ഡിമാൻഡിലെ പെട്ടെന്നുള്ള കുതിച്ചുചാട്ടം അഭൂതപൂർവമായ വരുമാന വളർച്ച നേടി.",
+    "usageExample": "Never seen before.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "exponential",
+    "wordMeaning": "എക്സ്പോണൻഷ്യൽ",
+    "englishText": "Our SaaS platform witnessed exponential subscriber growth over the past year.",
+    "malayalamMeaning": "ഞങ്ങളുടെ SaaS പ്ലാറ്റ്‌ഫോം കഴിഞ്ഞ വർഷം എക്‌സ്‌പോണൻഷ്യൽ സബ്‌സ്‌ക്രൈബർ വളർച്ചയ്ക്ക് സാക്ഷ്യം വഹിച്ചു.",
+    "usageExample": "Rapid multiplication.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "substantiate",
+    "wordMeaning": "സാധൂകരിക്കുക",
+    "englishText": "The auditor asked the accounting team to substantiate the reported tax deductions.",
+    "malayalamMeaning": "റിപ്പോർട്ട് ചെയ്യപ്പെട്ട നികുതി കിഴിവുകൾ സാധൂകരിക്കാൻ ഓഡിറ്റർ അക്കൗണ്ടിംഗ് ടീമിനോട് ആവശ്യപ്പെട്ടു.",
+    "usageExample": "Provide proof.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "exemplary",
+    "wordMeaning": "മാതൃകാപരമായ",
+    "englishText": "Her exemplary dedication earned her the highest leadership award in the firm.",
+    "malayalamMeaning": "അവളുടെ മാതൃകാപരമായ അർപ്പണബോധം അവർക്ക് സ്ഥാപനത്തിലെ ഏറ്റവും ഉയർന്ന നേതൃത്വ അവാർഡ് നേടിക്കൊടുത്തു.",
+    "usageExample": "Model quality.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "imperative",
+    "wordMeaning": "അനിവാര്യമായ",
+    "englishText": "Streamlining customer onboarding is a strategic imperative for this quarter.",
+    "malayalamMeaning": "ഉപഭോക്തൃ ഓൺബോർഡിംഗ് കാര്യക്ഷമമാക്കുന്നത് ഈ പാദത്തിലെ തന്ത്രപരമായ അനിവാര്യതയാണ്.",
+    "usageExample": "Crucial requirement.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "perfunctory",
+    "wordMeaning": "പ്രവർത്തനക്ഷമമായ",
+    "englishText": "Avoid giving perfunctory responses when addressing serious customer complaints.",
+    "malayalamMeaning": "ഗൗരവതരമായ ഉപഭോക്തൃ പരാതികൾ അഭിസംബോധന ചെയ്യുമ്പോൾ ക്രിയാത്മകമായ പ്രതികരണങ്ങൾ നൽകുന്നത് ഒഴിവാക്കുക.",
+    "usageExample": "Superficial effort.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "meticulous",
+    "wordMeaning": "സൂക്ഷ്മമായ",
+    "englishText": "Her meticulous review of the contract clauses saved the company from a costly dispute.",
+    "malayalamMeaning": "കരാർ വ്യവസ്ഥകളെക്കുറിച്ചുള്ള അവളുടെ സൂക്ഷ്മമായ അവലോകനം വിലയേറിയ തർക്കത്തിൽ നിന്ന് കമ്പനിയെ രക്ഷിച്ചു.",
+    "usageExample": "Painstakingly careful.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "expedite",
+    "wordMeaning": "വേഗത്തിലാക്കുക",
+    "englishText": "We paid an extra fee to expedite the shipping of replacement server components.",
+    "malayalamMeaning": "മാറ്റിസ്ഥാപിക്കുന്ന സെർവർ ഘടകങ്ങളുടെ ഷിപ്പിംഗ് വേഗത്തിലാക്കാൻ ഞങ്ങൾ ഒരു അധിക ഫീസ് നൽകി.",
+    "usageExample": "Speed up.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "scrutiny",
+    "wordMeaning": "സൂക്ഷ്മപരിശോധന",
+    "englishText": "The proposed corporate acquisition faced intense regulatory scrutiny from authorities.",
+    "malayalamMeaning": "നിർദ്ദിഷ്ട കോർപ്പറേറ്റ് ഏറ്റെടുക്കൽ അധികാരികളിൽ നിന്ന് തീവ്രമായ നിയന്ത്രണ പരിശോധനയ്ക്ക് വിധേയമായി.",
+    "usageExample": "Critical inspection.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "diligence",
+    "wordMeaning": "ഉത്സാഹം",
+    "englishText": "Conducting thorough due diligence is non-negotiable before finalizing any corporate buyout.",
+    "malayalamMeaning": "ഏതെങ്കിലും കോർപ്പറേറ്റ് വാങ്ങൽ അന്തിമമാക്കുന്നതിന് മുമ്പ് സമഗ്രമായ ജാഗ്രത പുലർത്തുന്നത് വിലമതിക്കാനാവാത്തതാണ്.",
+    "usageExample": "Persistent care.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unambiguous",
+    "wordMeaning": "അവ്യക്തമായ",
+    "englishText": "The project requirements must be stated in clear, unambiguous language.",
+    "malayalamMeaning": "പ്രോജക്റ്റ് ആവശ്യകതകൾ വ്യക്തവും അവ്യക്തവുമായ ഭാഷയിൽ പ്രസ്താവിക്കേണ്ടതാണ്.",
+    "usageExample": "Leaving no doubt.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "concomitant",
+    "wordMeaning": "അനുരൂപമായ",
+    "englishText": "Increased market share brought a concomitant rise in customer service responsibilities.",
+    "malayalamMeaning": "വർദ്ധിച്ച വിപണി വിഹിതം ഉപഭോക്തൃ സേവന ഉത്തരവാദിത്തങ്ങളിൽ ഒരേ വർധന വരുത്തി.",
+    "usageExample": "Accompanying factor.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "efficacy",
+    "wordMeaning": "കാര്യക്ഷമത",
+    "englishText": "Clinical trials demonstrated the remarkable efficacy of the new diagnostic device.",
+    "malayalamMeaning": "പുതിയ ഡയഗ്നോസ്റ്റിക് ഉപകരണത്തിൻ്റെ ശ്രദ്ധേയമായ ഫലപ്രാപ്തി ക്ലിനിക്കൽ പരീക്ഷണങ്ങൾ തെളിയിച്ചു.",
+    "usageExample": "Power to produce effect.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "proactive",
+    "wordMeaning": "സജീവമായ",
+    "englishText": "A proactive approach to system monitoring prevents critical production outages.",
+    "malayalamMeaning": "സിസ്റ്റം മോണിറ്ററിംഗിലേക്കുള്ള ഒരു സജീവ സമീപനം നിർണായകമായ ഉൽപ്പാദന തടസ്സങ്ങളെ തടയുന്നു.",
+    "usageExample": "Acting in anticipation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "requisite",
+    "wordMeaning": "ആവശ്യമായ",
+    "englishText": "She possesses the requisite credentials and leadership acumen to manage the division.",
+    "malayalamMeaning": "ഡിവിഷൻ നിയന്ത്രിക്കുന്നതിന് ആവശ്യമായ യോഗ്യതയും നേതൃത്വപരമായ ചാതുര്യവും അവൾക്കുണ്ട്.",
+    "usageExample": "Necessary.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "salient",
+    "wordMeaning": "ശ്രദ്ധേയമായ",
+    "englishText": "The executive summary highlights the salient features of our five-year business roadmap.",
+    "malayalamMeaning": "ഞങ്ങളുടെ അഞ്ച് വർഷത്തെ ബിസിനസ്സ് റോഡ്മാപ്പിൻ്റെ പ്രധാന സവിശേഷതകൾ എക്സിക്യൂട്ടീവ് സംഗ്രഹം എടുത്തുകാണിക്കുന്നു.",
+    "usageExample": "Most noticeable/vital.",
+    "difficulty": "ADVANCED"
+  }
+]

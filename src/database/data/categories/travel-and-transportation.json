@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "travel",
+    "wordMeaning": "യാത്ര",
+    "englishText": "I love to travel across the lush green hills of Wayanad.",
+    "malayalamMeaning": "വയനാടിൻ്റെ പച്ചപ്പ് നിറഞ്ഞ മലനിരകളിലൂടെ യാത്ര ചെയ്യാനാണ് എനിക്കിഷ്ടം.",
+    "usageExample": "Journeying.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "go",
+    "wordMeaning": "പോകൂ",
+    "englishText": "Let us go to the railway station before the evening rush.",
+    "malayalamMeaning": "വൈകുന്നേരത്തെ തിരക്കിന് മുമ്പ് നമുക്ക് റെയിൽവേ സ്റ്റേഷനിലേക്ക് പോകാം.",
+    "usageExample": "Depart.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "come",
+    "wordMeaning": "വരൂ",
+    "englishText": "When will the express passenger train come to platform one?",
+    "malayalamMeaning": "എക്‌സ്പ്രസ് പാസഞ്ചർ ട്രെയിൻ എപ്പോഴാണ് പ്ലാറ്റ്‌ഫോം ഒന്നിൽ വരുന്നത്?",
+    "usageExample": "Arrive.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "leave",
+    "wordMeaning": "വിടുക",
+    "englishText": "The intercity bus will leave the depot at exactly seven o'clock.",
+    "malayalamMeaning": "ഇൻ്റർസിറ്റി ബസ് കൃത്യം ഏഴ് മണിക്ക് ഡിപ്പോയിൽ നിന്ന് പുറപ്പെടും.",
+    "usageExample": "Depart.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "arrive",
+    "wordMeaning": "എത്തിച്ചേരുന്നു",
+    "englishText": "We expect the flight to arrive thirty minutes ahead of schedule.",
+    "malayalamMeaning": "ഷെഡ്യൂളിന് മുപ്പത് മിനിറ്റ് മുമ്പ് വിമാനം എത്തുമെന്ന് ഞങ്ങൾ പ്രതീക്ഷിക്കുന്നു.",
+    "usageExample": "Reach destination.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "visit",
+    "wordMeaning": "സന്ദർശിക്കുക",
+    "englishText": "Thousands of pilgrims visit the historic temple town every month.",
+    "malayalamMeaning": "ഓരോ മാസവും ആയിരക്കണക്കിന് തീർത്ഥാടകരാണ് ചരിത്രപ്രസിദ്ധമായ ക്ഷേത്രനഗരം സന്ദർശിക്കുന്നത്.",
+    "usageExample": "Go to see.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trip",
+    "wordMeaning": "യാത്ര",
+    "englishText": "Our school organized a memorable three-day trip to Munnar.",
+    "malayalamMeaning": "ഞങ്ങളുടെ സ്കൂൾ മൂന്നാറിലേക്ക് അവിസ്മരണീയമായ മൂന്ന് ദിവസത്തെ യാത്ര സംഘടിപ്പിച്ചു.",
+    "usageExample": "Excursion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tour",
+    "wordMeaning": "പര്യടനം",
+    "englishText": "We took a guided walking tour through the old streets of Fort Kochi.",
+    "malayalamMeaning": "ഫോർട്ട് കൊച്ചിയിലെ പഴയ തെരുവുകളിലൂടെ ഞങ്ങൾ ഗൈഡഡ് വാക്കിംഗ് ടൂർ നടത്തി.",
+    "usageExample": "Sightseeing trip.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "journey",
+    "wordMeaning": "യാത്ര",
+    "englishText": "The overnight train journey was peaceful and relaxing.",
+    "malayalamMeaning": "രാത്രിയിലെ ട്രെയിൻ യാത്ര ശാന്തവും വിശ്രമവുമായിരുന്നു.",
+    "usageExample": "Travel experience.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ride",
+    "wordMeaning": "സവാരി",
+    "englishText": "He gave me a comfortable ride to the airport on his motorcycle.",
+    "malayalamMeaning": "അദ്ദേഹം തൻ്റെ മോട്ടോർ സൈക്കിളിൽ എയർപോർട്ടിലേക്ക് സുഖപ്രദമായ യാത്ര നൽകി.",
+    "usageExample": "Vehicle trip.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "drive",
+    "wordMeaning": "ഡ്രൈവ് ചെയ്യുക",
+    "englishText": "Drive carefully along the winding mountain roads in the fog.",
+    "malayalamMeaning": "മൂടൽമഞ്ഞിൽ വളഞ്ഞുപുളഞ്ഞ മലയോര പാതകളിലൂടെ ശ്രദ്ധയോടെ വാഹനമോടിക്കുക.",
+    "usageExample": "Operate vehicle.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "walk",
+    "wordMeaning": "നടക്കുക",
+    "englishText": "We decided to walk along the coastal promenade to watch the sunset.",
+    "malayalamMeaning": "സൂര്യാസ്തമയം കാണാൻ ഞങ്ങൾ തീരദേശ പ്രൊമെനേഡിലൂടെ നടക്കാൻ തീരുമാനിച്ചു.",
+    "usageExample": "Stroll on foot.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "run",
+    "wordMeaning": "ഓടുക",
+    "englishText": "He had to run across the terminal to catch his connecting flight.",
+    "malayalamMeaning": "കണക്ടിംഗ് ഫ്ലൈറ്റ് പിടിക്കാൻ അദ്ദേഹത്തിന് ടെർമിനലിലൂടെ ഓടേണ്ടി വന്നു.",
+    "usageExample": "Move swiftly.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "flight",
+    "wordMeaning": "വിമാനം",
+    "englishText": "Our non-stop international flight takes four hours to reach Dubai.",
+    "malayalamMeaning": "ഞങ്ങളുടെ നോൺ-സ്റ്റോപ്പ് അന്താരാഷ്ട്ര വിമാനം ദുബായിൽ എത്താൻ നാല് മണിക്കൂർ എടുക്കും.",
+    "usageExample": "Air trip.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "plane",
+    "wordMeaning": "വിമാനം",
+    "englishText": "The cargo plane landed smoothly on the newly paved runway.",
+    "malayalamMeaning": "പുതുതായി പാകിയ റൺവേയിൽ കാർഗോ വിമാനം സുഗമമായി ലാൻഡ് ചെയ്തു.",
+    "usageExample": "Aircraft.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "airplane",
+    "wordMeaning": "വിമാനം",
+    "englishText": "Children looked up in wonder as the airplane soared into the clouds.",
+    "malayalamMeaning": "വിമാനം മേഘങ്ങൾക്കിടയിലേക്ക് കുതിക്കുമ്പോൾ കുട്ടികൾ അത്ഭുതത്തോടെ നോക്കി.",
+    "usageExample": "Aviation craft.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "airport",
+    "wordMeaning": "വിമാനത്താവളം",
+    "englishText": "Cochin International Airport operates entirely on clean solar power.",
+    "malayalamMeaning": "പൂർണമായും ശുദ്ധമായ സൗരോർജത്തിലാണ് കൊച്ചി അന്താരാഷ്ട്ര വിമാനത്താവളം പ്രവർത്തിക്കുന്നത്.",
+    "usageExample": "Air terminal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "train",
+    "wordMeaning": "തീവണ്ടി",
+    "englishText": "The Vande Bharat express train connects northern and southern Kerala.",
+    "malayalamMeaning": "വടക്കൻ കേരളത്തെയും തെക്കൻ കേരളത്തെയും ബന്ധിപ്പിക്കുന്നതാണ് വന്ദേ ഭാരത് എക്‌സ്പ്രസ് ട്രെയിൻ.",
+    "usageExample": "Railway vehicle.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "station",
+    "wordMeaning": "സ്റ്റേഷൻ",
+    "englishText": "The railway station was buzzing with travelers carrying colorful bags.",
+    "malayalamMeaning": "നിറപ്പകിട്ടാർന്ന ബാഗുകളുമേന്തി യാത്രക്കാരുടെ തിരക്കായിരുന്നു റെയിൽവേ സ്റ്റേഷനിൽ.",
+    "usageExample": "Rail depot.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "platform",
+    "wordMeaning": "പ്ലാറ്റ്ഫോം",
+    "englishText": "The train to Trivandrum is arriving on platform number three.",
+    "malayalamMeaning": "തിരുവനന്തപുരത്തേക്കുള്ള ട്രെയിൻ മൂന്നാം നമ്പർ പ്ലാറ്റ്‌ഫോമിൽ എത്തുകയാണ്.",
+    "usageExample": "Boarding stage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "track",
+    "wordMeaning": "ട്രാക്ക്",
+    "englishText": "Never cross railway tracks on foot; always use the overhead bridge.",
+    "malayalamMeaning": "കാൽനടയായി റെയിൽവേ ട്രാക്കുകൾ മുറിച്ചുകടക്കരുത്; എപ്പോഴും ഓവർഹെഡ് ബ്രിഡ്ജ് ഉപയോഗിക്കുക.",
+    "usageExample": "Rail line.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bus",
+    "wordMeaning": "ബസ്",
+    "englishText": "The government electric bus offers a quiet and smooth city ride.",
+    "malayalamMeaning": "ഗവൺമെൻ്റ് ഇലക്ട്രിക് ബസ് ശാന്തവും സുഗമവുമായ നഗര യാത്ര വാഗ്ദാനം ചെയ്യുന്നു.",
+    "usageExample": "Public coach.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stop",
+    "wordMeaning": "നിർത്തുക",
+    "englishText": "Press the buzzer when you want the bus to stop at your corner.",
+    "malayalamMeaning": "നിങ്ങളുടെ മൂലയിൽ ബസ് നിർത്താൻ ആഗ്രഹിക്കുമ്പോൾ ബസർ അമർത്തുക.",
+    "usageExample": "Halting point.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "terminal",
+    "wordMeaning": "ടെർമിനൽ",
+    "englishText": "The central bus terminal has express coaches to all districts.",
+    "malayalamMeaning": "സെൻട്രൽ ബസ് ടെർമിനലിൽ എല്ലാ ജില്ലകളിലേക്കും എക്സ്പ്രസ് കോച്ചുകൾ ഉണ്ട്.",
+    "usageExample": "Transit station.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "car",
+    "wordMeaning": "കാർ",
+    "englishText": "We rented a self-drive car for our road trip to the beaches of Goa.",
+    "malayalamMeaning": "ഗോവയിലെ ബീച്ചുകളിലേക്കുള്ള ഞങ്ങളുടെ റോഡ് യാത്രയ്ക്കായി ഞങ്ങൾ ഒരു സെൽഫ് ഡ്രൈവ് കാർ വാടകയ്‌ക്കെടുത്തു.",
+    "usageExample": "Automobile.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "taxi",
+    "wordMeaning": "ടാക്സി",
+    "englishText": "Call a prepaid taxi from the airport counter to avoid getting overcharged.",
+    "malayalamMeaning": "അമിത ചാർജ് ഈടാക്കുന്നത് ഒഴിവാക്കാൻ എയർപോർട്ട് കൗണ്ടറിൽ നിന്ന് ഒരു പ്രീപെയ്ഡ് ടാക്സി വിളിക്കുക.",
+    "usageExample": "Hired cab.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cab",
+    "wordMeaning": "ക്യാബ്",
+    "englishText": "We booked a private cab through the smartphone rideshare application.",
+    "malayalamMeaning": "സ്‌മാർട്ട്‌ഫോൺ റൈഡ് ഷെയർ ആപ്ലിക്കേഷൻ വഴി ഞങ്ങൾ ഒരു സ്വകാര്യ ക്യാബ് ബുക്ക് ചെയ്തു.",
+    "usageExample": "Taxi vehicle.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bike",
+    "wordMeaning": "ബൈക്ക്",
+    "englishText": "Renting a scooter bike is the easiest way to explore seaside villages.",
+    "malayalamMeaning": "കടൽത്തീര ഗ്രാമങ്ങൾ പര്യവേക്ഷണം ചെയ്യാനുള്ള ഏറ്റവും എളുപ്പമാർഗ്ഗമാണ് സ്കൂട്ടർ ബൈക്ക് വാടകയ്ക്ക് എടുക്കുക.",
+    "usageExample": "Two-wheeler.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bicycle",
+    "wordMeaning": "സൈക്കിൾ",
+    "englishText": "He rides his bicycle three kilometers to work every morning.",
+    "malayalamMeaning": "എന്നും രാവിലെ സൈക്കിൾ ചവിട്ടിയാണ് ജോലിക്ക് പോകുന്നത്.",
+    "usageExample": "Cycle.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "boat",
+    "wordMeaning": "ബോട്ട്",
+    "englishText": "We hired a traditional wooden houseboat to cruise the backwaters.",
+    "malayalamMeaning": "കായൽ യാത്രയ്ക്കായി ഞങ്ങൾ ഒരു പരമ്പരാഗത തടി ഹൗസ് ബോട്ട് വാടകയ്‌ക്കെടുത്തു.",
+    "usageExample": "Watercraft.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ship",
+    "wordMeaning": "കപ്പൽ",
+    "englishText": "The giant passenger cruise ship docked at the new international wharf.",
+    "malayalamMeaning": "ഭീമൻ പാസഞ്ചർ ക്രൂയിസ് കപ്പൽ പുതിയ അന്താരാഷ്ട്ര വാർഫിൽ ഡോക്ക് ചെയ്തു.",
+    "usageExample": "Large vessel.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ferry",
+    "wordMeaning": "കടത്തുവള്ളം",
+    "englishText": "The public water ferry carries commuters across the harbor every fifteen minutes.",
+    "malayalamMeaning": "പൊതു വാട്ടർ ഫെറി ഓരോ പതിനഞ്ച് മിനിറ്റിലും ഹാർബറിലൂടെ യാത്രക്കാരെ കൊണ്ടുപോകുന്നു.",
+    "usageExample": "Public water transit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "port",
+    "wordMeaning": "തുറമുഖം",
+    "englishText": "Cochin Port handles container ships from all major international lines.",
+    "malayalamMeaning": "എല്ലാ പ്രധാന അന്താരാഷ്ട്ര ലൈനുകളിൽ നിന്നുമുള്ള കണ്ടെയ്നർ കപ്പലുകൾ കൊച്ചി തുറമുഖം കൈകാര്യം ചെയ്യുന്നു.",
+    "usageExample": "Harbor facility.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sea",
+    "wordMeaning": "കടൽ",
+    "englishText": "The calm blue Arabian Sea sparkled under the afternoon sunlight.",
+    "malayalamMeaning": "ഉച്ചതിരിഞ്ഞ് സൂര്യപ്രകാശത്തിൽ ശാന്തമായ നീല അറബിക്കടൽ തിളങ്ങി.",
+    "usageExample": "Saltwater ocean.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ocean",
+    "wordMeaning": "സമുദ്രം",
+    "englishText": "Migrating blue whales can be spotted in the deep waters of the Indian Ocean.",
+    "malayalamMeaning": "ദേശാടനം നടത്തുന്ന നീലത്തിമിംഗലങ്ങളെ ഇന്ത്യൻ മഹാസമുദ്രത്തിലെ ആഴത്തിലുള്ള വെള്ളത്തിൽ കാണാം.",
+    "usageExample": "Open ocean.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "river",
+    "wordMeaning": "നദി",
+    "englishText": "The ferry crossed the swollen monsoon river with steady caution.",
+    "malayalamMeaning": "കടത്തുവള്ളം ശക്തമായ മൺസൂൺ നദി മുറിച്ചുകടന്നു.",
+    "usageExample": "Flowing waterway.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "road",
+    "wordMeaning": "റോഡ്",
+    "englishText": "The coastal road offers breathtaking views of endless coconut groves.",
+    "malayalamMeaning": "തീരദേശ റോഡ് അനന്തമായ തെങ്ങിൻ തോപ്പുകളുടെ അതിമനോഹരമായ കാഴ്ചകൾ പ്രദാനം ചെയ്യുന്നു.",
+    "usageExample": "Paved route.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "street",
+    "wordMeaning": "തെരുവ്",
+    "englishText": "Traditional spice warehouses line the narrow street in Mattancherry.",
+    "malayalamMeaning": "മട്ടാഞ്ചേരിയിലെ ഇടുങ്ങിയ തെരുവിൽ പരമ്പരാഗത സുഗന്ധവ്യഞ്ജന സംഭരണശാലകൾ.",
+    "usageExample": "Urban lane.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "highway",
+    "wordMeaning": "ഹൈവേ",
+    "englishText": "The newly expanded national highway reduced intercity driving times.",
+    "malayalamMeaning": "പുതുതായി വികസിപ്പിച്ച ദേശീയ പാത ഇൻ്റർസിറ്റി ഡ്രൈവിംഗ് സമയം കുറച്ചു.",
+    "usageExample": "Major road.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "route",
+    "wordMeaning": "റൂട്ട്",
+    "englishText": "The GPS navigator suggested a faster scenic route through the countryside.",
+    "malayalamMeaning": "ജിപിഎസ് നാവിഗേറ്റർ ഗ്രാമപ്രദേശങ്ങളിലൂടെയുള്ള വേഗമേറിയ മനോഹരമായ വഴി നിർദ്ദേശിച്ചു.",
+    "usageExample": "Travel course.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "path",
+    "wordMeaning": "പാത",
+    "englishText": "Follow the stone path through the tea garden to reach the viewpoint.",
+    "malayalamMeaning": "വ്യൂപോയിൻ്റിലെത്താൻ തേയിലത്തോട്ടത്തിലൂടെയുള്ള കല്ല് പാത പിന്തുടരുക.",
+    "usageExample": "Walking trail.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "map",
+    "wordMeaning": "ഭൂപടം",
+    "englishText": "Download an offline digital map before entering the remote forest reserve.",
+    "malayalamMeaning": "റിമോട്ട് ഫോറസ്റ്റ് റിസർവിലേക്ക് പ്രവേശിക്കുന്നതിന് മുമ്പ് ഒരു ഓഫ്‌ലൈൻ ഡിജിറ്റൽ മാപ്പ് ഡൗൺലോഡ് ചെയ്യുക.",
+    "usageExample": "Geographic guide.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "ticket",
+    "wordMeaning": "ടിക്കറ്റ്",
+    "englishText": "Keep your electronic train ticket and government identity card ready.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഇലക്ട്രോണിക് ട്രെയിൻ ടിക്കറ്റും സർക്കാർ തിരിച്ചറിയൽ കാർഡും തയ്യാറാക്കി വയ്ക്കുക.",
+    "usageExample": "Travel pass.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "booking",
+    "wordMeaning": "ബുക്കിംഗ്",
+    "englishText": "Confirm your hotel booking in advance during peak festival season.",
+    "malayalamMeaning": "പീക്ക് ഫെസ്റ്റിവൽ സീസണിൽ നിങ്ങളുടെ ഹോട്ടൽ ബുക്കിംഗ് മുൻകൂട്ടി സ്ഥിരീകരിക്കുക.",
+    "usageExample": "Reservation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "seat",
+    "wordMeaning": "ഇരിപ്പിടം",
+    "englishText": "I always prefer a window seat so I can admire the scenic landscapes.",
+    "malayalamMeaning": "ഞാൻ എപ്പോഴും ഒരു വിൻഡോ സീറ്റാണ് ഇഷ്ടപ്പെടുന്നത്, അതിനാൽ എനിക്ക് മനോഹരമായ പ്രകൃതിദൃശ്യങ്ങൾ ആസ്വദിക്കാനാകും.",
+    "usageExample": "Passenger chair.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "window",
+    "wordMeaning": "ജാലകം",
+    "englishText": "The cool breeze rushed in through the open train window.",
+    "malayalamMeaning": "തുറന്ന തീവണ്ടിയുടെ ജനാലയിലൂടെ തണുത്ത കാറ്റ് അകത്തേക്ക് കുതിച്ചു.",
+    "usageExample": "Vehicle aperture.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "aisle",
+    "wordMeaning": "ഇടനാഴി",
+    "englishText": "Keep all backpacks clear of the central aisle inside the aircraft.",
+    "malayalamMeaning": "എല്ലാ ബാക്ക്പാക്കുകളും വിമാനത്തിനുള്ളിലെ സെൻട്രൽ ഇടനാഴിയിൽ നിന്ന് മാറ്റി വയ്ക്കുക.",
+    "usageExample": "Walkway passage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "luggage",
+    "wordMeaning": "ലഗേജ്",
+    "englishText": "We placed our heavy luggage inside the car trunk before departing.",
+    "malayalamMeaning": "പുറപ്പെടുന്നതിന് മുമ്പ് ഞങ്ങളുടെ ഭാരമേറിയ ലഗേജ് കാറിൻ്റെ ഡിക്കിക്കുള്ളിൽ വച്ചു.",
+    "usageExample": "Baggage.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bag",
+    "wordMeaning": "ബാഗ്",
+    "englishText": "Keep your passport and boarding pass safely in your shoulder bag.",
+    "malayalamMeaning": "നിങ്ങളുടെ പാസ്പോർട്ടും ബോർഡിംഗ് പാസ്സും നിങ്ങളുടെ തോളിൽ ബാഗിൽ സുരക്ഷിതമായി സൂക്ഷിക്കുക.",
+    "usageExample": "Handbag/carrier.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "suitcase",
+    "wordMeaning": "സ്യൂട്ട്കേസ്",
+    "englishText": "She bought a four-wheeled hard-shell suitcase for international travel.",
+    "malayalamMeaning": "അന്താരാഷ്ട്ര യാത്രകൾക്കായി അവൾ നാലു ചക്രങ്ങളുള്ള ഹാർഡ് ഷെൽ സ്യൂട്ട്കേസ് വാങ്ങി.",
+    "usageExample": "Travel case.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "backpack",
+    "wordMeaning": "ബാക്ക്പാക്ക്",
+    "englishText": "A comfortable padded backpack is essential for long mountain treks.",
+    "malayalamMeaning": "നീണ്ട പർവത യാത്രകൾക്ക് സുഖപ്രദമായ പാഡഡ് ബാക്ക്പാക്ക് അത്യാവശ്യമാണ്.",
+    "usageExample": "Trekking rucksack.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pack",
+    "wordMeaning": "പായ്ക്ക്",
+    "englishText": "Do not forget to pack warm woolen socks and a travel power bank.",
+    "malayalamMeaning": "ചൂടുള്ള കമ്പിളി സോക്സും ട്രാവൽ പവർ ബാങ്കും പായ്ക്ക് ചെയ്യാൻ മറക്കരുത്.",
+    "usageExample": "Store in bags.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "carry",
+    "wordMeaning": "കൊണ്ടുപോകുക",
+    "englishText": "Airlines permit passengers to carry one small cabin bag on board.",
+    "malayalamMeaning": "ഒരു ചെറിയ ക്യാബിൻ ബാഗ് വിമാനത്തിൽ കൊണ്ടുപോകാൻ എയർലൈൻസ് യാത്രക്കാരെ അനുവദിക്കുന്നു.",
+    "usageExample": "Transport on person.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "passport",
+    "wordMeaning": "പാസ്പോർട്ട്",
+    "englishText": "Make sure your passport has at least six months of validity remaining.",
+    "malayalamMeaning": "നിങ്ങളുടെ പാസ്‌പോർട്ടിന് കുറഞ്ഞത് ആറ് മാസത്തെ സാധുത അവശേഷിക്കുന്നുണ്ടെന്ന് ഉറപ്പാക്കുക.",
+    "usageExample": "Travel document.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "visa",
+    "wordMeaning": "വിസ",
+    "englishText": "You must obtain an official tourist visa before boarding the flight.",
+    "malayalamMeaning": "വിമാനത്തിൽ കയറുന്നതിന് മുമ്പ് നിങ്ങൾ ഒരു ഔദ്യോഗിക ടൂറിസ്റ്റ് വിസ നേടിയിരിക്കണം.",
+    "usageExample": "Entry permit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "id",
+    "wordMeaning": "ഐഡി",
+    "englishText": "Security personnel will inspect your government photo ID at the airport gate.",
+    "malayalamMeaning": "എയർപോർട്ട് ഗേറ്റിൽ സുരക്ഷാ ഉദ്യോഗസ്ഥർ നിങ്ങളുടെ സർക്കാർ ഫോട്ടോ ഐഡി പരിശോധിക്കും.",
+    "usageExample": "Identity proof.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "gate",
+    "wordMeaning": "ഗേറ്റ്",
+    "englishText": "Passengers for flight AI-502 should proceed immediately to departure gate four.",
+    "malayalamMeaning": "AI-502 വിമാനത്തിനുള്ള യാത്രക്കാർ ഉടൻ തന്നെ പുറപ്പെടുന്ന ഗേറ്റ് നാലിലേക്ക് പോകണം.",
+    "usageExample": "Terminal doorway.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "board",
+    "wordMeaning": "ബോർഡ്",
+    "englishText": "Airline staff announced that elderly passengers may board the plane first.",
+    "malayalamMeaning": "പ്രായമായ യാത്രക്കാർക്ക് ആദ്യം വിമാനത്തിൽ കയറാമെന്ന് എയർലൈൻ ജീവനക്കാർ അറിയിച്ചു.",
+    "usageExample": "Enter vessel.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "boarding",
+    "wordMeaning": "ബോർഡിംഗ്",
+    "englishText": "Show your digital boarding pass on your mobile screen at the security checkpoint.",
+    "malayalamMeaning": "സുരക്ഷാ ചെക്ക് പോയിൻ്റിൽ നിങ്ങളുടെ മൊബൈൽ സ്ക്രീനിൽ നിങ്ങളുടെ ഡിജിറ്റൽ ബോർഡിംഗ് പാസ് കാണിക്കുക.",
+    "usageExample": "Entry permit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "security",
+    "wordMeaning": "സുരക്ഷ",
+    "englishText": "All carry-on bags must pass through the security X-ray scanner.",
+    "malayalamMeaning": "എല്ലാ ക്യാരി-ഓൺ ബാഗുകളും സുരക്ഷാ എക്സ്-റേ സ്കാനറിലൂടെ കടന്നുപോകണം.",
+    "usageExample": "Screening area.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "check",
+    "wordMeaning": "പരിശോധിക്കുക",
+    "englishText": "Check the flight departure screens to verify your boarding gate number.",
+    "malayalamMeaning": "നിങ്ങളുടെ ബോർഡിംഗ് ഗേറ്റ് നമ്പർ പരിശോധിക്കാൻ ഫ്ലൈറ്റ് പുറപ്പെടൽ സ്ക്രീനുകൾ പരിശോധിക്കുക.",
+    "usageExample": "Examine status.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "queue",
+    "wordMeaning": "ക്യൂ",
+    "englishText": "Travelers waited patiently in a disciplined queue at the immigration desk.",
+    "malayalamMeaning": "ഇമിഗ്രേഷൻ ഡെസ്കിൽ അച്ചടക്കത്തോടെയുള്ള ക്യൂവിൽ യാത്രക്കാർ ക്ഷമയോടെ കാത്തുനിന്നു.",
+    "usageExample": "Orderly line.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "delay",
+    "wordMeaning": "കാലതാമസം",
+    "englishText": "Dense winter fog caused a two-hour flight delay in the capital city.",
+    "malayalamMeaning": "ശീതകാല മൂടൽമഞ്ഞ് തലസ്ഥാന നഗരിയിൽ രണ്ട് മണിക്കൂർ വിമാനം വൈകി.",
+    "usageExample": "Postponement.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "late",
+    "wordMeaning": "വൈകി",
+    "englishText": "He missed the connecting passenger train because his first bus arrived late.",
+    "malayalamMeaning": "തൻ്റെ ആദ്യ ബസ് വൈകി എത്തിയതിനാൽ കണക്റ്റിംഗ് പാസഞ്ചർ ട്രെയിൻ അദ്ദേഹത്തിന് നഷ്ടമായി.",
+    "usageExample": "Tardy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "early",
+    "wordMeaning": "നേരത്തെ",
+    "englishText": "Reach the international terminal at least three hours early for check-in.",
+    "malayalamMeaning": "ചെക്ക്-ഇൻ ചെയ്യുന്നതിന് കുറഞ്ഞത് മൂന്ന് മണിക്കൂർ നേരത്തെയെങ്കിലും അന്താരാഷ്ട്ര ടെർമിനലിൽ എത്തിച്ചേരുക.",
+    "usageExample": "Ahead of time.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fast",
+    "wordMeaning": "വേഗം",
+    "englishText": "The bullet train travels at remarkably fast speeds through tunnels.",
+    "malayalamMeaning": "ബുള്ളറ്റ് ട്രെയിൻ തുരങ്കങ്ങളിലൂടെ ശ്രദ്ധേയമായ വേഗതയിൽ സഞ്ചരിക്കുന്നു.",
+    "usageExample": "Speedy.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "slow",
+    "wordMeaning": "പതുക്കെ",
+    "englishText": "The winding mountain toy train moves at a charmingly slow, leisurely pace.",
+    "malayalamMeaning": "വളഞ്ഞുപുളഞ്ഞു പോകുന്ന പർവത ടോയ് ട്രെയിൻ ആകർഷകമായ സാവധാനത്തിൽ വിശ്രമിക്കുന്ന വേഗതയിൽ നീങ്ങുന്നു.",
+    "usageExample": "Unrushed.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "quick",
+    "wordMeaning": "വേഗം",
+    "englishText": "We made a quick fifteen-minute tea stop at a roadside highway motel.",
+    "malayalamMeaning": "റോഡരികിലെ ഒരു ഹൈവേ മോട്ടലിൽ ഞങ്ങൾ പതിനഞ്ച് മിനിറ്റ് ചായ നിർത്തി.",
+    "usageExample": "Brief.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "move",
+    "wordMeaning": "നീക്കുക",
+    "englishText": "Please move your baggage so other commuters can access the luggage rack.",
+    "malayalamMeaning": "മറ്റ് യാത്രക്കാർക്ക് ലഗേജ് റാക്ക് ആക്സസ് ചെയ്യാൻ നിങ്ങളുടെ ബാഗേജ് നീക്കുക.",
+    "usageExample": "Shift position.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "return",
+    "wordMeaning": "മടങ്ങുക",
+    "englishText": "Book a return ticket in advance to secure discounted festival fares.",
+    "malayalamMeaning": "ഡിസ്കൗണ്ട് ഫെസ്റ്റിവൽ നിരക്കുകൾ ഉറപ്പാക്കാൻ റിട്ടേൺ ടിക്കറ്റ് മുൻകൂട്ടി ബുക്ക് ചെയ്യുക.",
+    "usageExample": "Come back trip.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "round",
+    "wordMeaning": "വൃത്താകൃതിയിലുള്ള",
+    "englishText": "A round trip ticket is often more economical than two single fares.",
+    "malayalamMeaning": "ഒരു റൗണ്ട് ട്രിപ്പ് ടിക്കറ്റ് പലപ്പോഴും രണ്ട് സിംഗിൾ നിരക്കുകളേക്കാൾ ലാഭകരമാണ്.",
+    "usageExample": "Both-ways journey.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "single",
+    "wordMeaning": "അവിവാഹിതൻ",
+    "englishText": "I bought a single one-way train ticket to Bangalore.",
+    "malayalamMeaning": "ഞാൻ ബാംഗ്ലൂരിലേക്കുള്ള ഒരു വൺവേ ട്രെയിൻ ടിക്കറ്റ് വാങ്ങി.",
+    "usageExample": "One-way ticket.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "fare",
+    "wordMeaning": "കൂലി",
+    "englishText": "The government announced a modest revision in minimum water ferry fares.",
+    "malayalamMeaning": "മിനിമം വാട്ടർ ഫെറി നിരക്കിൽ സർക്കാർ മിതമായ പരിഷ്കരണം പ്രഖ്യാപിച്ചു.",
+    "usageExample": "Ticket price.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "price",
+    "wordMeaning": "വില",
+    "englishText": "Fuel price fluctuations directly influence commercial airline ticket costs.",
+    "malayalamMeaning": "ഇന്ധന വിലയിലെ ഏറ്റക്കുറച്ചിലുകൾ വാണിജ്യ വിമാന ടിക്കറ്റ് നിരക്കുകളെ നേരിട്ട് സ്വാധീനിക്കുന്നു.",
+    "usageExample": "Monetary rate.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cost",
+    "wordMeaning": "ചെലവ്",
+    "englishText": "What is the approximate cost of hiring a private air-conditioned cab?",
+    "malayalamMeaning": "ഒരു സ്വകാര്യ എയർ കണ്ടീഷൻഡ് ക്യാബ് വാടകയ്‌ക്കെടുക്കുന്നതിനുള്ള ഏകദേശ ചെലവ് എത്രയാണ്?",
+    "usageExample": "Expense total.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pay",
+    "wordMeaning": "പണം നൽകുക",
+    "englishText": "You can pay your highway toll charges automatically using electronic RFID tags.",
+    "malayalamMeaning": "ഇലക്ട്രോണിക് RFID ടാഗുകൾ ഉപയോഗിച്ച് നിങ്ങൾക്ക് സ്വയമേവ ഹൈവേ ടോൾ ചാർജുകൾ അടയ്ക്കാം.",
+    "usageExample": "Disburse fare.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "driver",
+    "wordMeaning": "ഡ്രൈവർ",
+    "englishText": "The skilled driver navigated the hairpin bends of the hill road with ease.",
+    "malayalamMeaning": "വിദഗ്ധനായ ഡ്രൈവർ കുന്നിൻ റോഡിലെ ഹെയർപിൻ വളവുകൾ അനായാസം നാവിഗേറ്റ് ചെയ്തു.",
+    "usageExample": "Vehicle operator.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pilot",
+    "wordMeaning": "പൈലറ്റ്",
+    "englishText": "The experienced airline pilot greeted passengers over the public address system.",
+    "malayalamMeaning": "പരിചയസമ്പന്നനായ എയർലൈൻ പൈലറ്റ് പബ്ലിക് അഡ്രസ് സിസ്റ്റത്തിലൂടെ യാത്രക്കാരെ അഭിവാദ്യം ചെയ്തു.",
+    "usageExample": "Aircraft flyer.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "conductor",
+    "wordMeaning": "കണ്ടക്ടർ",
+    "englishText": "The bus conductor issued paper tickets using a handheld digital machine.",
+    "malayalamMeaning": "ബസ് കണ്ടക്ടർ ഹാൻഡ്‌ഹെൽഡ് ഡിജിറ്റൽ മെഷീൻ ഉപയോഗിച്ചാണ് പേപ്പർ ടിക്കറ്റ് നൽകിയത്.",
+    "usageExample": "Ticket collector.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "guide",
+    "wordMeaning": "വഴികാട്ടി",
+    "englishText": "Our local heritage guide explained the historical origins of the Dutch palace.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പ്രാദേശിക പൈതൃക ഗൈഡ് ഡച്ച് കൊട്ടാരത്തിൻ്റെ ചരിത്രപരമായ ഉത്ഭവത്തെക്കുറിച്ച് വിശദീകരിച്ചു.",
+    "usageExample": "Tour leader.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "passenger",
+    "wordMeaning": "യാത്രക്കാരൻ",
+    "englishText": "Every passenger in the car must fasten their safety seatbelt securely.",
+    "malayalamMeaning": "കാറിലെ എല്ലാ യാത്രക്കാരും അവരുടെ സുരക്ഷാ സീറ്റ് ബെൽറ്റ് സുരക്ഷിതമായി ഉറപ്പിച്ചിരിക്കണം.",
+    "usageExample": "Traveler.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tourist",
+    "wordMeaning": "ടൂറിസ്റ്റ്",
+    "englishText": "Fort Kochi attracts thousands of domestic and foreign tourists every winter.",
+    "malayalamMeaning": "എല്ലാ ശൈത്യകാലത്തും ആയിരക്കണക്കിന് ആഭ്യന്തര, വിദേശ വിനോദ സഞ്ചാരികളെ ഫോർട്ട് കൊച്ചി ആകർഷിക്കുന്നു.",
+    "usageExample": "Sightseer.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hotel",
+    "wordMeaning": "ഹോട്ടൽ",
+    "englishText": "We booked a beachfront heritage hotel with views of the Chinese fishing nets.",
+    "malayalamMeaning": "ബീച്ച് ഫ്രണ്ട് ഹെറിറ്റേജ് ഹോട്ടൽ ഞങ്ങൾ ബുക്ക് ചെയ്തു, ചൈനീസ് മത്സ്യബന്ധന വലകളുടെ കാഴ്ചകൾ.",
+    "usageExample": "Lodging facility.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "room",
+    "wordMeaning": "മുറി",
+    "englishText": "The hotel room was spacious, air-conditioned, and spotlessly clean.",
+    "malayalamMeaning": "ഹോട്ടൽ മുറി വിശാലവും എയർകണ്ടീഷൻ ചെയ്തതും കളങ്കമില്ലാതെ വൃത്തിയുള്ളതും ആയിരുന്നു.",
+    "usageExample": "Lodging quarter.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bed",
+    "wordMeaning": "കിടക്ക",
+    "englishText": "After twenty-four hours of flying, falling into a comfortable bed was heaven.",
+    "malayalamMeaning": "ഇരുപത്തിനാലു മണിക്കൂർ പറന്നതിന് ശേഷം സുഖപ്രദമായ ഒരു കിടക്കയിലേക്ക് വീഴുന്നത് സ്വർഗ്ഗമായിരുന്നു.",
+    "usageExample": "Sleeping place.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "key",
+    "wordMeaning": "താക്കോൽ",
+    "englishText": "Keep your electronic hotel room key card safely in your wallet.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഇലക്ട്രോണിക് ഹോട്ടൽ റൂം കീ കാർഡ് നിങ്ങളുടെ വാലറ്റിൽ സുരക്ഷിതമായി സൂക്ഷിക്കുക.",
+    "usageExample": "Room access card.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "stay",
+    "wordMeaning": "താമസിക്കുക",
+    "englishText": "We enjoyed a delightful four-night stay in a village eco-homestay.",
+    "malayalamMeaning": "ഒരു ഗ്രാമത്തിലെ ഇക്കോ ഹോംസ്റ്റേയിൽ ഞങ്ങൾ നാല് രാത്രികൾ ആനന്ദകരമായി ആസ്വദിച്ചു.",
+    "usageExample": "Lodging duration.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "night",
+    "wordMeaning": "രാത്രി",
+    "englishText": "The overnight sleeper coach arrived in Coimbatore at dawn.",
+    "malayalamMeaning": "പുലർച്ചെയാണ് ഓവർനൈറ്റ് സ്ലീപ്പർ കോച്ച് കോയമ്പത്തൂരിലെത്തിയത്.",
+    "usageExample": "Evening transit.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "day",
+    "wordMeaning": "ദിവസം",
+    "englishText": "We spent the entire day exploring ancient cave temples carved into granite.",
+    "malayalamMeaning": "കരിങ്കല്ലിൽ കൊത്തിയ പുരാതന ഗുഹാക്ഷേത്രങ്ങൾ പര്യവേക്ഷണം ചെയ്യാൻ ഞങ്ങൾ ദിവസം മുഴുവൻ ചെലവഴിച്ചു.",
+    "usageExample": "Daytime touring.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rest",
+    "wordMeaning": "വിശ്രമം",
+    "englishText": "Take a short rest in the passenger lounge before the long connecting flight.",
+    "malayalamMeaning": "നീണ്ട കണക്റ്റിംഗ് ഫ്ലൈറ്റിന് മുമ്പ് പാസഞ്ചർ ലോഞ്ചിൽ അൽപ്പനേരം വിശ്രമിക്കുക.",
+    "usageExample": "Relaxation pause.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sleep",
+    "wordMeaning": "ഉറങ്ങുക",
+    "englishText": "Try to sleep on the flight so you do not suffer from severe jet lag.",
+    "malayalamMeaning": "വിമാനത്തിൽ ഉറങ്ങാൻ ശ്രമിക്കുക, അതിനാൽ നിങ്ങൾക്ക് ഗുരുതരമായ ജെറ്റ് ലാഗ് അനുഭവപ്പെടില്ല.",
+    "usageExample": "Slumber.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wake",
+    "wordMeaning": "ഉണരുക",
+    "englishText": "Set your alarm clock so you wake up in time for the sunrise boat ride.",
+    "malayalamMeaning": "നിങ്ങളുടെ അലാറം ക്ലോക്ക് സജ്ജീകരിക്കുക, അതുവഴി സൂര്യോദയ ബോട്ട് സവാരിക്ക് നിങ്ങൾ കൃത്യസമയത്ത് ഉണരും.",
+    "usageExample": "Arise.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "morning",
+    "wordMeaning": "രാവിലെ",
+    "englishText": "A crisp morning walk along the tea plantations is an invigorating experience.",
+    "malayalamMeaning": "തേയിലത്തോട്ടങ്ങളിലൂടെയുള്ള പ്രഭാത നടത്തം ഉന്മേഷദായകമായ അനുഭവമാണ്.",
+    "usageExample": "Early hours.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "city",
+    "wordMeaning": "നഗരം",
+    "englishText": "The vibrant port city is a melting pot of diverse cultures and cuisines.",
+    "malayalamMeaning": "വൈവിധ്യമാർന്ന സംസ്‌കാരങ്ങളുടേയും പാചകരീതികളുടേയും കലവറയാണ് തുറമുഖ നഗരം.",
+    "usageExample": "Urban center.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "town",
+    "wordMeaning": "പട്ടണം",
+    "englishText": "Munnar is a picturesque mountain town surrounded by undulating tea estates.",
+    "malayalamMeaning": "തിരമാലകളില്ലാത്ത തേയിലത്തോട്ടങ്ങളാൽ ചുറ്റപ്പെട്ട മനോഹരമായ ഒരു പർവത നഗരമാണ് മൂന്നാർ.",
+    "usageExample": "Small municipality.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "village",
+    "wordMeaning": "ഗ്രാമം",
+    "englishText": "We spent a weekend in a quiet backwater village untouched by city noise.",
+    "malayalamMeaning": "നഗരശബ്ദം തൊട്ടുതീണ്ടാത്ത ശാന്തമായ ഒരു കായൽ ഗ്രാമത്തിൽ ഞങ്ങൾ ഒരു വാരാന്ത്യം ചെലവഴിച്ചു.",
+    "usageExample": "Rural community.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "country",
+    "wordMeaning": "രാജ്യം",
+    "englishText": "Traveling across our country reveals an astonishing tapestry of languages.",
+    "malayalamMeaning": "നമ്മുടെ രാജ്യത്തുടനീളമുള്ള യാത്രകൾ ഭാഷകളുടെ അതിശയിപ്പിക്കുന്ന ഒരു ടേപ്പ് വെളിപ്പെടുത്തുന്നു.",
+    "usageExample": "Nation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hill",
+    "wordMeaning": "കുന്ന്",
+    "englishText": "The cool mist rolled over the green hills as we climbed higher.",
+    "malayalamMeaning": "മുകളിലേക്ക് കയറുമ്പോൾ തണുത്ത മൂടൽമഞ്ഞ് പച്ചപ്പ് നിറഞ്ഞ കുന്നുകൾക്ക് മുകളിലൂടെ ഉരുണ്ടുകൂടി.",
+    "usageExample": "Elevation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "mountain",
+    "wordMeaning": "പർവ്വതം",
+    "englishText": "Anamudi is the highest mountain peak in South India.",
+    "malayalamMeaning": "ദക്ഷിണേന്ത്യയിലെ ഏറ്റവും ഉയരം കൂടിയ കൊടുമുടിയാണ് ആനമുടി.",
+    "usageExample": "High terrain.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "beach",
+    "wordMeaning": "ബീച്ച്",
+    "englishText": "Marari beach is renowned for its golden sands and quiet coconut groves.",
+    "malayalamMeaning": "സുവർണ്ണ മണലുകൾക്കും ശാന്തമായ തെങ്ങിൻ തോപ്പുകൾക്കും പേരുകേട്ടതാണ് മാരാരി ബീച്ച്.",
+    "usageExample": "Seaside shore.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "forest",
+    "wordMeaning": "വനം",
+    "englishText": "Wild elephants roam freely through the dense tropical rainforest reserve.",
+    "malayalamMeaning": "ഇടതൂർന്ന ഉഷ്ണമേഖലാ മഴക്കാടുകളിൽ കാട്ടാനകൾ സ്വതന്ത്രമായി വിഹരിക്കുന്നു.",
+    "usageExample": "Woodland.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lake",
+    "wordMeaning": "തടാകം",
+    "englishText": "Vembanad lake is India's longest freshwater lake and home to famous boat races.",
+    "malayalamMeaning": "ഇന്ത്യയിലെ ഏറ്റവും നീളം കൂടിയ ശുദ്ധജല തടാകവും പ്രശസ്തമായ വള്ളംകളി നടക്കുന്ന സ്ഥലവുമാണ് വേമ്പനാട് കായൽ.",
+    "usageExample": "Water basin.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sun",
+    "wordMeaning": "സൂര്യൻ",
+    "englishText": "Apply sunscreen lotion before spending hours under the afternoon tropical sun.",
+    "malayalamMeaning": "ഉച്ചതിരിഞ്ഞ് ഉഷ്ണമേഖലാ സൂര്യനു കീഴിൽ മണിക്കൂറുകൾ ചെലവഴിക്കുന്നതിന് മുമ്പ് സൺസ്ക്രീൻ ലോഷൻ പുരട്ടുക.",
+    "usageExample": "Daylight star.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "rain",
+    "wordMeaning": "മഴ",
+    "englishText": "Heavy monsoon rain transformed the mountain streams into roaring waterfalls.",
+    "malayalamMeaning": "കനത്ത മൺസൂൺ മഴ പർവതനിരകളെ അലറുന്ന വെള്ളച്ചാട്ടങ്ങളാക്കി മാറ്റി.",
+    "usageExample": "Precipitation.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cold",
+    "wordMeaning": "തണുപ്പ്",
+    "englishText": "The winter night air turned crisp and cold in the high-altitude station.",
+    "malayalamMeaning": "ഉയർന്ന ഉയരത്തിലുള്ള സ്റ്റേഷനിൽ ശൈത്യകാല രാത്രിയിലെ വായു ശാന്തവും തണുത്തതുമായി മാറി.",
+    "usageExample": "Low temperature.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hot",
+    "wordMeaning": "ചൂട്",
+    "englishText": "Drink plenty of tender coconut water to stay hydrated in the hot coastal sun.",
+    "malayalamMeaning": "ചൂടുള്ള തീരദേശ വെയിലിൽ ജലാംശം നിലനിർത്താൻ ധാരാളം ഇളം തേങ്ങാവെള്ളം കുടിക്കുക.",
+    "usageExample": "High temperature.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "coat",
+    "wordMeaning": "കോട്ട്",
+    "englishText": "You will need an insulated rain coat when trekking during the southwest monsoon.",
+    "malayalamMeaning": "തെക്കുപടിഞ്ഞാറൻ മൺസൂൺ സമയത്ത് ട്രെക്കിംഗ് നടത്തുമ്പോൾ നിങ്ങൾക്ക് ഒരു ഇൻസുലേറ്റഡ് റെയിൻ കോട്ട് ആവശ്യമാണ്.",
+    "usageExample": "Protective coat.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "umbrella",
+    "wordMeaning": "കുട",
+    "englishText": "Always pack a compact folding umbrella when traveling through Kerala.",
+    "malayalamMeaning": "കേരളത്തിലൂടെ യാത്ര ചെയ്യുമ്പോൾ എപ്പോഴും ഒതുക്കമുള്ള മടക്കാവുന്ന കുട പായ്ക്ക് ചെയ്യുക.",
+    "usageExample": "Rain gear.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "sign",
+    "wordMeaning": "അടയാളം",
+    "englishText": "Watch out for the road sign indicating sharp hairpin turns ahead.",
+    "malayalamMeaning": "മുന്നിലുള്ള മൂർച്ചയുള്ള ഹെയർപിൻ തിരിവുകൾ സൂചിപ്പിക്കുന്ന റോഡ് അടയാളം ശ്രദ്ധിക്കുക.",
+    "usageExample": "Traffic notice.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "left",
+    "wordMeaning": "വിട്ടുപോയി",
+    "englishText": "Turn left at the historic lighthouse junction to reach the old harbor.",
+    "malayalamMeaning": "പഴയ തുറമുഖത്ത് എത്താൻ ചരിത്രപ്രസിദ്ധമായ ലൈറ്റ് ഹൗസ് ജംഗ്ഷനിൽ നിന്ന് ഇടത്തേക്ക് തിരിയുക.",
+    "usageExample": "Direction left.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "right",
+    "wordMeaning": "ശരിയാണ്",
+    "englishText": "The entrance to the national park is on the right side of the highway.",
+    "malayalamMeaning": "ദേശീയ ഉദ്യാനത്തിലേക്കുള്ള പ്രവേശന കവാടം ഹൈവേയുടെ വലതുവശത്താണ്.",
+    "usageExample": "Direction right.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "straight",
+    "wordMeaning": "നേരായ",
+    "englishText": "Keep driving straight along the bypass for another five kilometers.",
+    "malayalamMeaning": "ബൈപാസിലൂടെ നേരെ അഞ്ച് കിലോമീറ്റർ കൂടി ഡ്രൈവ് ചെയ്യുക.",
+    "usageExample": "Direct path.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "near",
+    "wordMeaning": "സമീപം",
+    "englishText": "Our homestay is situated near the scenic bird sanctuary.",
+    "malayalamMeaning": "പ്രകൃതിരമണീയമായ പക്ഷിസങ്കേതത്തിനടുത്താണ് ഞങ്ങളുടെ ഹോംസ്റ്റേ.",
+    "usageExample": "Close by.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "far",
+    "wordMeaning": "ദൂരെ",
+    "englishText": "The secluded waterfall is located far from the noisy tourist trail.",
+    "malayalamMeaning": "ആളൊഴിഞ്ഞ വെള്ളച്ചാട്ടം ശബ്ദായമാനമായ ടൂറിസ്റ്റ് പാതയിൽ നിന്ന് വളരെ അകലെയാണ്.",
+    "usageExample": "Distant.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "distance",
+    "wordMeaning": "ദൂരം",
+    "englishText": "What is the total driving distance between Kochi and Trivandrum?",
+    "malayalamMeaning": "കൊച്ചിയും തിരുവനന്തപുരവും തമ്മിലുള്ള മൊത്തം ഡ്രൈവിംഗ് ദൂരം എത്രയാണ്?",
+    "usageExample": "Spatial gap.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "speed",
+    "wordMeaning": "വേഗത",
+    "englishText": "Observe the posted speed limit when driving through wildlife corridors.",
+    "malayalamMeaning": "വന്യജീവി ഇടനാഴികളിലൂടെ വാഹനമോടിക്കുമ്പോൾ പോസ്റ്റുചെയ്ത വേഗപരിധി നിരീക്ഷിക്കുക.",
+    "usageExample": "Pace/velocity.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "safe",
+    "wordMeaning": "സുരക്ഷിതം",
+    "englishText": "Modern train travel is statistically one of the safest modes of transportation.",
+    "malayalamMeaning": "ആധുനിക ട്രെയിൻ യാത്ര സ്ഥിതിവിവരക്കണക്കനുസരിച്ച് ഏറ്റവും സുരക്ഷിതമായ ഗതാഗത മാർഗ്ഗങ്ങളിലൊന്നാണ്.",
+    "usageExample": "Secure from danger.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "careful",
+    "wordMeaning": "ശ്രദ്ധയോടെ",
+    "englishText": "Be exceptionally careful when stepping onto wet boat jetty steps.",
+    "malayalamMeaning": "നനഞ്ഞ ബോട്ട് ജെട്ടി പടികൾ കയറുമ്പോൾ പ്രത്യേകം ശ്രദ്ധിക്കുക.",
+    "usageExample": "Cautious.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "danger",
+    "wordMeaning": "അപകടം",
+    "englishText": "Do not ignore the red flag signaling dangerous swimming conditions in the sea.",
+    "malayalamMeaning": "കടലിലെ അപകടകരമായ നീന്തൽ സാഹചര്യങ്ങളെ സൂചിപ്പിക്കുന്ന ചുവന്ന പതാകയെ അവഗണിക്കരുത്.",
+    "usageExample": "Peril.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "seatbelt",
+    "wordMeaning": "സീറ്റ് ബെൽറ്റ്",
+    "englishText": "Fasten your seatbelt whenever the overhead cabin indicator illuminated.",
+    "malayalamMeaning": "ഓവർഹെഡ് ക്യാബിൻ ഇൻഡിക്കേറ്റർ പ്രകാശിക്കുമ്പോഴെല്ലാം നിങ്ങളുടെ സീറ്റ് ബെൽറ്റ് ഉറപ്പിക്കുക.",
+    "usageExample": "Safety strap.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "helmet",
+    "wordMeaning": "ഹെൽമറ്റ്",
+    "englishText": "Wearing a certified full-face helmet is mandatory for all motorcycle riders.",
+    "malayalamMeaning": "എല്ലാ മോട്ടോർ സൈക്കിൾ റൈഡർമാർക്കും സർട്ടിഫൈഡ് ഫുൾ ഫേസ് ഹെൽമറ്റ് നിർബന്ധമാണ്.",
+    "usageExample": "Head gear.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "light",
+    "wordMeaning": "വെളിച്ചം",
+    "englishText": "Traffic lights at the busy junction regulate the orderly flow of vehicles.",
+    "malayalamMeaning": "തിരക്കേറിയ ജംക്‌ഷനിലെ ട്രാഫിക് ലൈറ്റുകളാണ് വാഹനങ്ങളുടെ ക്രമാനുഗതമായ ഒഴുക്ക് നിയന്ത്രിക്കുന്നത്.",
+    "usageExample": "Traffic signal.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "cross",
+    "wordMeaning": "കുരിശ്",
+    "englishText": "Use the marked zebra crossing when walking across the four-lane highway.",
+    "malayalamMeaning": "നാലുവരിപ്പാതയിലൂടെ നടക്കുമ്പോൾ അടയാളപ്പെടുത്തിയ സീബ്രാ ക്രോസിംഗ് ഉപയോഗിക്കുക.",
+    "usageExample": "Traverse road.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "bridge",
+    "wordMeaning": "പാലം",
+    "englishText": "The historic suspension bridge spans the rushing mountain river.",
+    "malayalamMeaning": "ചരിത്രപ്രസിദ്ധമായ തൂക്കുപാലം ഒഴുകുന്ന പർവത നദിക്ക് കുറുകെയാണ്.",
+    "usageExample": "Overpass.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tunnel",
+    "wordMeaning": "തുരങ്കം",
+    "englishText": "The highway tunnel cut through the granite mountain, saving thirty minutes.",
+    "malayalamMeaning": "ഹൈവേ ടണൽ ഗ്രാനൈറ്റ് പർവതത്തിലൂടെ വെട്ടി, മുപ്പത് മിനിറ്റ് ലാഭിച്ചു.",
+    "usageExample": "Subterranean road.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "view",
+    "wordMeaning": "കാഴ്ച",
+    "englishText": "The hilltop resort balcony offers a breathtaking panoramic view of the valley.",
+    "malayalamMeaning": "കുന്നിൻ മുകളിലെ റിസോർട്ട് ബാൽക്കണി താഴ്‌വരയുടെ അതിമനോഹരമായ പനോരമിക് കാഴ്ച പ്രദാനം ചെയ്യുന്നു.",
+    "usageExample": "Scenic sight.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scenery",
+    "wordMeaning": "പ്രകൃതിദൃശ്യങ്ങൾ",
+    "englishText": "Passengers gazed in awe at the lush green scenery unfolding outside the train.",
+    "malayalamMeaning": "തീവണ്ടിക്ക് പുറത്ത് തെളിഞ്ഞു നിൽക്കുന്ന പച്ചപ്പ് നിറഞ്ഞ പ്രകൃതിദൃശ്യങ്ങൾ യാത്രക്കാർ ഭയത്തോടെ നോക്കി നിന്നു.",
+    "usageExample": "Landscape beauty.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "beautiful",
+    "wordMeaning": "മനോഹരം",
+    "englishText": "The sunset over the backwaters was one of the most beautiful sights I have seen.",
+    "malayalamMeaning": "കായലിനു മുകളിലൂടെയുള്ള സൂര്യാസ്തമയം ഞാൻ കണ്ട ഏറ്റവും മനോഹരമായ കാഴ്ചകളിൽ ഒന്നായിരുന്നു.",
+    "usageExample": "Aesthetically pleasing.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "camera",
+    "wordMeaning": "ക്യാമറ",
+    "englishText": "Do not forget your digital camera to capture the majestic bird wildlife.",
+    "malayalamMeaning": "ഭീമാകാരമായ പക്ഷി വന്യജീവികളെ പകർത്താൻ നിങ്ങളുടെ ഡിജിറ്റൽ ക്യാമറ മറക്കരുത്.",
+    "usageExample": "Photo device.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "photo",
+    "wordMeaning": "ഫോട്ടോ",
+    "englishText": "Take a group photo with the local fishermen beside their traditional boats.",
+    "malayalamMeaning": "പ്രാദേശിക മത്സ്യത്തൊഴിലാളികൾ അവരുടെ പരമ്പരാഗത ബോട്ടുകൾക്ക് അരികിൽ ഒരു ഗ്രൂപ്പ് ഫോട്ടോ എടുക്കുക.",
+    "usageExample": "Snapshot.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "remember",
+    "wordMeaning": "ഓർക്കുക",
+    "englishText": "I will always remember the warm hospitality of the village homestay family.",
+    "malayalamMeaning": "ഗ്രാമത്തിലെ ഹോംസ്റ്റേ കുടുംബത്തിൻ്റെ ഊഷ്മളമായ ആതിഥ്യം ഞാൻ എപ്പോഴും ഓർക്കും.",
+    "usageExample": "Retain memory.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "camp",
+    "wordMeaning": "ക്യാമ്പ്",
+    "englishText": "Pitch your tent on the designated clearing beside the mountain stream.",
+    "malayalamMeaning": "പർവത അരുവിക്കരികിലുള്ള നിയുക്ത ക്ലിയറിംഗിൽ നിങ്ങളുടെ കൂടാരം അടിക്കുക.",
+    "usageExample": "Outdoor bivouac.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trek",
+    "wordMeaning": "ട്രെക്ക്",
+    "englishText": "We embarked on an exhilarating ten-kilometer trek through the shola forests.",
+    "malayalamMeaning": "ഞങ്ങൾ ഷോല വനങ്ങളിലൂടെ ആവേശകരമായ ഒരു പത്തു കിലോമീറ്റർ ട്രെക്കിംഗ് ആരംഭിച്ചു.",
+    "usageExample": "Hike.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "hike",
+    "wordMeaning": "കയറ്റം",
+    "englishText": "Wear sturdy boots with good ankle support for the rocky mountain hike.",
+    "malayalamMeaning": "പാറക്കെട്ടുകൾ നിറഞ്ഞ മലകയറ്റത്തിനായി നല്ല കണങ്കാൽ പിന്തുണയുള്ള ഉറച്ച ബൂട്ടുകൾ ധരിക്കുക.",
+    "usageExample": "Walking trek.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "trail",
+    "wordMeaning": "പാത",
+    "englishText": "Follow the marked yellow trail to avoid getting disoriented in the woods.",
+    "malayalamMeaning": "കാടിനുള്ളിൽ വഴിതെറ്റിപ്പോകാതിരിക്കാൻ അടയാളപ്പെടുത്തിയ മഞ്ഞ പാത പിന്തുടരുക.",
+    "usageExample": "Forest path.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "scooter",
+    "wordMeaning": "സ്കൂട്ടർ",
+    "englishText": "Renting a lightweight scooter makes exploring the beach coastline easy.",
+    "malayalamMeaning": "ഭാരം കുറഞ്ഞ സ്‌കൂട്ടർ വാടകയ്‌ക്കെടുക്കുന്നത് ബീച്ച് തീരപ്രദേശം പര്യവേക്ഷണം ചെയ്യുന്നത് എളുപ്പമാക്കുന്നു.",
+    "usageExample": "Two-wheeler.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "traffic",
+    "wordMeaning": "ഗതാഗതം",
+    "englishText": "Heavy morning traffic delayed our journey to the airport terminal.",
+    "malayalamMeaning": "രാവിലെയുള്ള കനത്ത ഗതാഗതക്കുരുക്ക് എയർപോർട്ട് ടെർമിനലിലേക്കുള്ള ഞങ്ങളുടെ യാത്ര വൈകിപ്പിച്ചു.",
+    "usageExample": "Vehicular flow.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "jam",
+    "wordMeaning": "ജാം",
+    "englishText": "A broken-down lorry caused a massive three-kilometer traffic jam on the bridge.",
+    "malayalamMeaning": "ലോറി തകരാറിലായതിനെ തുടർന്ന് പാലത്തിൽ മൂന്ന് കിലോമീറ്റർ ദൂരത്തിൽ ഗതാഗതക്കുരുക്ക് ഉണ്ടായി.",
+    "usageExample": "Road congestion.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "pavement",
+    "wordMeaning": "നടപ്പാത",
+    "englishText": "Pedestrians should walk on the raised concrete pavement for safety.",
+    "malayalamMeaning": "സുരക്ഷയ്ക്കായി കാൽനടയാത്രക്കാർ ഉയർത്തിയ കോൺക്രീറ്റ് നടപ്പാതയിലൂടെ നടക്കണം.",
+    "usageExample": "Sidewalk.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lane",
+    "wordMeaning": "പാത",
+    "englishText": "Vehicles must stay strictly within their marked highway lane.",
+    "malayalamMeaning": "വാഹനങ്ങൾ അവയുടെ അടയാളപ്പെടുത്തിയിരിക്കുന്ന ഹൈവേ പാതയിൽ കർശനമായി നിൽക്കണം.",
+    "usageExample": "Road divider.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "junction",
+    "wordMeaning": "ജംഗ്ഷൻ",
+    "englishText": "Turn left at the busy three-way traffic junction near the post office.",
+    "malayalamMeaning": "പോസ്റ്റോഫീസിനടുത്തുള്ള തിരക്കേറിയ ത്രീ-വേ ട്രാഫിക് ജംഗ്ഷനിൽ നിന്ന് ഇടത്തേക്ക് തിരിയുക.",
+    "usageExample": "Intersection.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "flyover",
+    "wordMeaning": "മേൽപ്പാലം",
+    "englishText": "The newly opened flyover bypasses three congested urban bottlenecks.",
+    "malayalamMeaning": "തിരക്കേറിയ മൂന്ന് നഗര തടസ്സങ്ങളെ മറികടക്കുന്നതാണ് പുതുതായി തുറന്ന മേൽപ്പാലം.",
+    "usageExample": "Overpass road.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "harbor",
+    "wordMeaning": "തുറമുഖം",
+    "englishText": "Traditional wooden dhows from Arab ports dock in the protected harbor.",
+    "malayalamMeaning": "അറബ് തുറമുഖങ്ങളിൽ നിന്നുള്ള പരമ്പരാഗത തടി ധോകൾ സംരക്ഷിത തുറമുഖത്ത് ഡോക്ക് ചെയ്യുന്നു.",
+    "usageExample": "Sheltered port.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "wharf",
+    "wordMeaning": "വാർഫ്",
+    "englishText": "The cargo containers were stacked high along the deep-water wharf.",
+    "malayalamMeaning": "ചരക്ക് കണ്ടെയ്‌നറുകൾ ആഴത്തിലുള്ള വാർഫിനരികിൽ ഉയരത്തിൽ അടുക്കിവച്ചിരുന്നു.",
+    "usageExample": "Loading dock.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "lighthouse",
+    "wordMeaning": "വിളക്കുമാടം",
+    "englishText": "The historic striped lighthouse has guided mariners for over a century.",
+    "malayalamMeaning": "ചരിത്രപ്രസിദ്ധമായ വരകളുള്ള വിളക്കുമാടം ഒരു നൂറ്റാണ്ടിലേറെ നാവികർക്ക് വഴികാട്ടിയാണ്.",
+    "usageExample": "Coastal beacon.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "island",
+    "wordMeaning": "ദ്വീപ്",
+    "englishText": "We took a passenger ferry to visit the quiet neighboring island.",
+    "malayalamMeaning": "ശാന്തമായ അയൽ ദ്വീപ് സന്ദർശിക്കാൻ ഞങ്ങൾ ഒരു പാസഞ്ചർ ഫെറിയിൽ കയറി.",
+    "usageExample": "Land in water.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "shore",
+    "wordMeaning": "തീരം",
+    "englishText": "Waves gently lapped against the peaceful sandy shore at dusk.",
+    "malayalamMeaning": "സന്ധ്യാസമയത്ത് ശാന്തമായ മണൽ തീരത്ത് തിരമാലകൾ മെല്ലെ അടിച്ചു.",
+    "usageExample": "Water edge.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "reservation",
+    "wordMeaning": "സംവരണം",
+    "englishText": "I confirmed our train berth reservation through the official railway app.",
+    "malayalamMeaning": "ഔദ്യോഗിക റെയിൽവേ ആപ്പ് വഴി ഞാൻ ഞങ്ങളുടെ ട്രെയിൻ ബെർത്ത് റിസർവേഷൻ സ്ഥിരീകരിച്ചു.",
+    "usageExample": "Booking.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "itinerary",
+    "wordMeaning": "യാത്രാവിവരണം",
+    "englishText": "The travel agency prepared a detailed seven-day holiday itinerary.",
+    "malayalamMeaning": "ട്രാവൽ ഏജൻസി വിശദമായ ഏഴു ദിവസത്തെ അവധിക്കാല യാത്രാ പദ്ധതി തയ്യാറാക്കി.",
+    "usageExample": "Travel schedule.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "destination",
+    "wordMeaning": "ലക്ഷ്യസ്ഥാനം",
+    "englishText": "Kovalam remains an internationally acclaimed seaside tourist destination.",
+    "malayalamMeaning": "കോവളം ഒരു അന്താരാഷ്ട്ര പ്രശസ്തമായ കടൽത്തീര വിനോദസഞ്ചാര കേന്ദ്രമായി തുടരുന്നു.",
+    "usageExample": "End of journey.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "departure",
+    "wordMeaning": "പുറപ്പെടൽ",
+    "englishText": "Check the departure board to see if your flight has commenced boarding.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഫ്ലൈറ്റ് ബോർഡിംഗ് ആരംഭിച്ചോ എന്നറിയാൻ പുറപ്പെടൽ ബോർഡ് പരിശോധിക്കുക.",
+    "usageExample": "Leaving time.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "arrival",
+    "wordMeaning": "വരവ്",
+    "englishText": "The estimated time of arrival for the intercity train is four o'clock.",
+    "malayalamMeaning": "ഇൻ്റർസിറ്റി ട്രെയിൻ എത്തിച്ചേരുമെന്ന് കണക്കാക്കിയ സമയം നാല് മണിയാണ്.",
+    "usageExample": "Reaching time.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cancellation",
+    "wordMeaning": "റദ്ദാക്കൽ",
+    "englishText": "The airline offered a full refund following the unexpected flight cancellation.",
+    "malayalamMeaning": "അപ്രതീക്ഷിത വിമാനം റദ്ദാക്കിയതിനെ തുടർന്ന് എയർലൈൻ മുഴുവൻ റീഫണ്ടും വാഗ്ദാനം ചെയ്തു.",
+    "usageExample": "Calling off trip.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "accommodation",
+    "wordMeaning": "താമസം",
+    "englishText": "Eco-friendly accommodation options include treehouses and river cottages.",
+    "malayalamMeaning": "ട്രീഹൗസുകളും നദീതീര കോട്ടേജുകളും പരിസ്ഥിതി സൗഹൃദമായ താമസ സൗകര്യങ്ങളിൽ ഉൾപ്പെടുന്നു.",
+    "usageExample": "Lodging.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "boarding pass",
+    "wordMeaning": "ബോർഡിംഗ് പാസ്",
+    "englishText": "Have your printed or digital boarding pass scanned at the gate.",
+    "malayalamMeaning": "നിങ്ങളുടെ പ്രിൻ്റഡ് അല്ലെങ്കിൽ ഡിജിറ്റൽ ബോർഡിംഗ് പാസ് ഗേറ്റിൽ സ്കാൻ ചെയ്യുക.",
+    "usageExample": "Flight pass.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "customs",
+    "wordMeaning": "ആചാരങ്ങൾ",
+    "englishText": "Declare all dutiable electronic goods to the customs officer upon arrival.",
+    "malayalamMeaning": "ഡ്യൂട്ടി ചെയ്യാവുന്ന എല്ലാ ഇലക്ട്രോണിക് സാധനങ്ങളും എത്തിച്ചേരുമ്പോൾ കസ്റ്റംസ് ഓഫീസറെ അറിയിക്കുക.",
+    "usageExample": "Border inspection.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "immigration",
+    "wordMeaning": "കുടിയേറ്റം",
+    "englishText": "Immigration officers stamped our passports with thirty-day tourist visas.",
+    "malayalamMeaning": "ഇമിഗ്രേഷൻ ഓഫീസർമാർ ഞങ്ങളുടെ പാസ്‌പോർട്ടുകളിൽ മുപ്പത് ദിവസത്തെ ടൂറിസ്റ്റ് വിസ ഉപയോഗിച്ച് സ്റ്റാമ്പ് ചെയ്തു.",
+    "usageExample": "Border control.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "baggage claim",
+    "wordMeaning": "ലഗേജ് ക്ലെയിം",
+    "englishText": "Collect your checked-in suitcases from carousel number two in baggage claim.",
+    "malayalamMeaning": "ബാഗേജ് ക്ലെയിമിലെ കറൗസൽ നമ്പർ രണ്ടിൽ നിന്ന് നിങ്ങളുടെ ചെക്ക്-ഇൻ സ്യൂട്ട്കേസുകൾ ശേഖരിക്കുക.",
+    "usageExample": "Luggage collection.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "transit",
+    "wordMeaning": "ഗതാഗതം",
+    "englishText": "Passengers in transit remained inside the international departure lounge.",
+    "malayalamMeaning": "ട്രാൻസിറ്റിലുള്ള യാത്രക്കാർ അന്താരാഷ്ട്ര ഡിപ്പാർച്ചർ ലോഞ്ചിനുള്ളിൽ തന്നെ തുടർന്നു.",
+    "usageExample": "Passing through.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "layover",
+    "wordMeaning": "പിരിച്ചുവിടൽ",
+    "englishText": "We had a comfortable four-hour layover in Singapore between connecting flights.",
+    "malayalamMeaning": "കണക്റ്റിംഗ് ഫ്ലൈറ്റുകൾക്കിടയിൽ സിംഗപ്പൂരിൽ ഞങ്ങൾക്ക് സുഖപ്രദമായ നാല് മണിക്കൂർ ലേഓവർ ഉണ്ടായിരുന്നു.",
+    "usageExample": "Intermission stop.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "commuter",
+    "wordMeaning": "യാത്രക്കാരൻ",
+    "englishText": "Thousands of daily commuters rely on the punctual suburban electric train.",
+    "malayalamMeaning": "ദിവസേന ആയിരക്കണക്കിന് യാത്രക്കാരാണ് സമയക്രമം പാലിക്കുന്ന സബർബൻ ഇലക്ട്രിക് ട്രെയിനിനെ ആശ്രയിക്കുന്നത്.",
+    "usageExample": "Daily traveler.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "excursion",
+    "wordMeaning": "ഉല്ലാസയാത്ര",
+    "englishText": "The school organized an educational excursion to the ancient megalithic caves.",
+    "malayalamMeaning": "പുരാതന മെഗാലിത്തിക് ഗുഹകളിലേക്ക് സ്കൂൾ ഒരു വിദ്യാഭ്യാസ വിനോദയാത്ര സംഘടിപ്പിച്ചു.",
+    "usageExample": "Short trip.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "expedition",
+    "wordMeaning": "പര്യവേഷണം",
+    "englishText": "The scientific expedition ventured into the deep core of the rainforest.",
+    "malayalamMeaning": "ശാസ്ത്രീയ പര്യവേഷണം മഴക്കാടുകളുടെ ആഴക്കടലിലേക്ക് കടന്നു.",
+    "usageExample": "Organized journey.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "voyage",
+    "wordMeaning": "യാത്ര",
+    "englishText": "The passenger steamer completed its maiden transatlantic voyage smoothly.",
+    "malayalamMeaning": "പാസഞ്ചർ സ്റ്റീമർ അതിൻ്റെ ആദ്യ അറ്റ്ലാൻ്റിക് കടൽ യാത്ര സുഗമമായി പൂർത്തിയാക്കി.",
+    "usageExample": "Sea travel.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cruise",
+    "wordMeaning": "ക്രൂയിസ്",
+    "englishText": "A luxury backwater cruise includes traditional Kerala dining on the water.",
+    "malayalamMeaning": "ആഡംബര കായൽ യാത്രയിൽ പരമ്പരാഗത കേരളീയ ഭക്ഷണവും ഉൾപ്പെടുന്നു.",
+    "usageExample": "Leisure sailing.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "navigation",
+    "wordMeaning": "നാവിഗേഷൻ",
+    "englishText": "GPS satellite navigation helped the driver find the secluded forest retreat.",
+    "malayalamMeaning": "GPS സാറ്റലൈറ്റ് നാവിഗേഷൻ ഡ്രൈവറെ ആളൊഴിഞ്ഞ ഫോറസ്റ്റ് റിട്രീറ്റ് കണ്ടെത്താൻ സഹായിച്ചു.",
+    "usageExample": "Route finding.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "detour",
+    "wordMeaning": "വഴിമാറി",
+    "englishText": "A landslide on the ghat road forced traffic to take a forty-kilometer detour.",
+    "malayalamMeaning": "ഘാട്ട് റോഡിൽ മണ്ണിടിഞ്ഞതിനെത്തുടർന്ന് നാൽപ്പത് കിലോമീറ്റർ വഴിമാറി ഗതാഗതം നിർബ്ബന്ധിതമായി.",
+    "usageExample": "Alternate route.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "roundabout",
+    "wordMeaning": "റൗണ്ട് എബൗട്ട്",
+    "englishText": "Take the third exit at the major city roundabout towards the highway.",
+    "malayalamMeaning": "പ്രധാന നഗര റൗണ്ട് എബൗട്ടിൽ നിന്ന് ഹൈവേയിലേക്ക് മൂന്നാമത്തെ എക്സിറ്റ് സ്വീകരിക്കുക.",
+    "usageExample": "Traffic circle.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "toll gate",
+    "wordMeaning": "ടോൾ ഗേറ്റ്",
+    "englishText": "Vehicles pass through the electronic toll gate without stopping to pay cash.",
+    "malayalamMeaning": "പണമടയ്ക്കാൻ നിൽക്കാതെയാണ് ഇലക്ട്രോണിക് ടോൾ ഗേറ്റിലൂടെ വാഹനങ്ങൾ കടന്നുപോകുന്നത്.",
+    "usageExample": "Highway toll booth.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "congestion",
+    "wordMeaning": "തിരക്ക്",
+    "englishText": "Urban planners built metro rail lines to alleviate severe road congestion.",
+    "malayalamMeaning": "നഗരാസൂത്രകർ മെട്രോ റെയിൽ ലൈനുകൾ നിർമ്മിച്ചത് റോഡിലെ ഗതാഗതക്കുരുക്ക് പരിഹരിക്കാനാണ്.",
+    "usageExample": "Traffic jam.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "shuttle",
+    "wordMeaning": "ഷട്ടിൽ",
+    "englishText": "The luxury airport hotel provides a complimentary 24-hour shuttle bus.",
+    "malayalamMeaning": "ആഡംബര എയർപോർട്ട് ഹോട്ടൽ ഒരു കോംപ്ലിമെൻ്ററി 24 മണിക്കൂർ ഷട്ടിൽ ബസ് നൽകുന്നു.",
+    "usageExample": "Connecting transport.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "chauffeur",
+    "wordMeaning": "ഡ്രൈവർ",
+    "englishText": "The corporate executive hired a uniformed chauffeur for his official visit.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് എക്സിക്യൂട്ടീവ് തൻ്റെ ഔദ്യോഗിക സന്ദർശനത്തിനായി യൂണിഫോം ധരിച്ച ഒരു ഡ്രൈവറെ നിയമിച്ചു.",
+    "usageExample": "Private driver.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "carpool",
+    "wordMeaning": "കാർപൂൾ",
+    "englishText": "Office colleagues organized a daily carpool to cut fuel costs and emissions.",
+    "malayalamMeaning": "ഇന്ധനച്ചെലവും പുറന്തള്ളലും കുറയ്ക്കാൻ ഓഫീസിലെ സഹപ്രവർത്തകർ ദിവസേന കാർപൂൾ സംഘടിപ്പിച്ചു.",
+    "usageExample": "Shared rides.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "breakdown",
+    "wordMeaning": "തകർച്ച",
+    "englishText": "The roadside assistance team arrived within twenty minutes of our vehicle breakdown.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വാഹനം തകരാറിലായി ഇരുപത് മിനിറ്റിനുള്ളിൽ റോഡ് സൈഡ് അസിസ്റ്റൻസ് ടീം എത്തി.",
+    "usageExample": "Mechanical failure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "maintenance",
+    "wordMeaning": "പരിപാലനം",
+    "englishText": "Regular vehicle maintenance ensures optimal engine performance and safety.",
+    "malayalamMeaning": "വാഹനത്തിൻ്റെ പതിവ് അറ്റകുറ്റപ്പണികൾ ഒപ്റ്റിമൽ എഞ്ചിൻ പ്രകടനവും സുരക്ഷയും ഉറപ്പാക്കുന്നു.",
+    "usageExample": "Upkeep.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "emergency",
+    "wordMeaning": "അടിയന്തരാവസ്ഥ",
+    "englishText": "The flight crew demonstrated how to use the yellow oxygen masks in an emergency.",
+    "malayalamMeaning": "അടിയന്തര ഘട്ടങ്ങളിൽ മഞ്ഞ ഓക്‌സിജൻ മാസ്‌കുകൾ എങ്ങനെ ഉപയോഗിക്കാമെന്ന് വിമാന ജീവനക്കാർ കാണിച്ചുകൊടുത്തു.",
+    "usageExample": "Crisis procedure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "attendant",
+    "wordMeaning": "പരിചാരകൻ",
+    "englishText": "The courteous flight attendant offered passengers extra pillows and water.",
+    "malayalamMeaning": "മര്യാദയുള്ള ഫ്ലൈറ്റ് അറ്റൻഡൻ്റ് യാത്രക്കാർക്ക് അധിക തലയിണകളും വെള്ളവും വാഗ്ദാനം ചെയ്തു.",
+    "usageExample": "Cabin staff.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "turbulence",
+    "wordMeaning": "പ്രക്ഷുബ്ധത",
+    "englishText": "The aircraft encountered moderate atmospheric turbulence over the mountains.",
+    "malayalamMeaning": "വിമാനം പർവതങ്ങളിൽ മിതമായ അന്തരീക്ഷ പ്രക്ഷുബ്ധത നേരിട്ടു.",
+    "usageExample": "Air pocket bumps.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "altitude",
+    "wordMeaning": "ഉയരം",
+    "englishText": "The jet airliner reached its cruising altitude of thirty-five thousand feet.",
+    "malayalamMeaning": "ജെറ്റ് എയർലൈനർ മുപ്പത്തയ്യായിരം അടി ഉയരത്തിൽ എത്തി.",
+    "usageExample": "Elevation above sea.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "runway",
+    "wordMeaning": "റൺവേ",
+    "englishText": "The Airbus taxied along the perimeter track before entering the main runway.",
+    "malayalamMeaning": "പ്രധാന റൺവേയിൽ പ്രവേശിക്കുന്നതിന് മുമ്പ് എയർബസ് ചുറ്റളവ് ട്രാക്കിലൂടെ ടാക്സി ഓടിച്ചു.",
+    "usageExample": "Landing strip.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cockpit",
+    "wordMeaning": "കോക്ക്പിറ്റ്",
+    "englishText": "The young pilot was honored to step into the advanced digital flight cockpit.",
+    "malayalamMeaning": "അഡ്വാൻസ്‌ഡ് ഡിജിറ്റൽ ഫ്‌ളൈറ്റ് കോക്‌പിറ്റിലേക്ക് ചുവടുവെക്കാൻ യുവ പൈലറ്റിനെ ആദരിച്ചു.",
+    "usageExample": "Flight cabin.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "interchange",
+    "wordMeaning": "കൈമാറ്റം",
+    "englishText": "The multi-level highway interchange streamlined traffic from four directions.",
+    "malayalamMeaning": "മൾട്ടി ലെവൽ ഹൈവേ ഇൻ്റർചേഞ്ച് നാല് ദിശകളിൽ നിന്നുള്ള ഗതാഗതം സുഗമമാക്കി.",
+    "usageExample": "Junction hub.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "subway",
+    "wordMeaning": "സബ്വേ",
+    "englishText": "The underground subway network connects all major commercial districts.",
+    "malayalamMeaning": "ഭൂഗർഭ സബ്‌വേ ശൃംഖല എല്ലാ പ്രധാന വാണിജ്യ ജില്ലകളെയും ബന്ധിപ്പിക്കുന്നു.",
+    "usageExample": "Underground rail.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "locomotive",
+    "wordMeaning": "ലോക്കോമോട്ടീവ്",
+    "englishText": "The powerful electric locomotive pulled twenty passenger coaches effortlessly.",
+    "malayalamMeaning": "ശക്തമായ ഇലക്ട്രിക് ലോക്കോമോട്ടീവ് ഇരുപത് പാസഞ്ചർ കോച്ചുകൾ അനായാസം വലിച്ചു.",
+    "usageExample": "Train engine.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "compartment",
+    "wordMeaning": "കമ്പാർട്ട്മെൻ്റ്",
+    "englishText": "We booked four second-class sleeper berths in the air-conditioned compartment.",
+    "malayalamMeaning": "എയർകണ്ടീഷൻ ചെയ്ത കമ്പാർട്ട്മെൻ്റിൽ ഞങ്ങൾ നാല് സെക്കൻഡ് ക്ലാസ് സ്ലീപ്പർ ബെർത്തുകൾ ബുക്ക് ചെയ്തു.",
+    "usageExample": "Train section.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "berth",
+    "wordMeaning": "ബെർത്ത്",
+    "englishText": "I was fortunate to secure a lower berth in the overnight express train.",
+    "malayalamMeaning": "രാത്രിയിലെ എക്‌സ്പ്രസ് ട്രെയിനിൽ ലോവർ ബെർത്ത് ഉറപ്പിക്കാൻ ഭാഗ്യം ലഭിച്ചു.",
+    "usageExample": "Sleeping bunk.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sleeper",
+    "wordMeaning": "ഉറങ്ങുന്നവൻ",
+    "englishText": "The luxury multi-axle sleeper coach features personal charging ports and curtains.",
+    "malayalamMeaning": "ആഡംബര മൾട്ടി-ആക്‌സിൽ സ്ലീപ്പർ കോച്ചിൽ വ്യക്തിഗത ചാർജിംഗ് പോർട്ടുകളും കർട്ടനുകളും ഉണ്ട്.",
+    "usageExample": "Sleeping bus/train.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "confirmation",
+    "wordMeaning": "സ്ഥിരീകരണം",
+    "englishText": "You will receive an SMS confirmation containing your six-digit PNR number.",
+    "malayalamMeaning": "നിങ്ങളുടെ ആറക്ക PNR നമ്പർ അടങ്ങിയ ഒരു SMS സ്ഥിരീകരണം നിങ്ങൾക്ക് ലഭിക്കും.",
+    "usageExample": "Booking proof.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sightseeing",
+    "wordMeaning": "കാഴ്ചകൾ",
+    "englishText": "Rent an open-top tourist bus to explore historical sightseeing attractions.",
+    "malayalamMeaning": "ചരിത്രപരമായ കാഴ്ചകൾ കാണുന്നതിന് ഒരു ഓപ്പൺ-ടോപ്പ് ടൂറിസ്റ്റ് ബസ് വാടകയ്‌ക്കെടുക്കുക.",
+    "usageExample": "Viewing sights.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "monument",
+    "wordMeaning": "സ്മാരകം",
+    "englishText": "The Bekal Fort is a majestic coastal monument dating back centuries.",
+    "malayalamMeaning": "നൂറ്റാണ്ടുകൾ പഴക്കമുള്ള അതിമനോഹരമായ തീരദേശ സ്മാരകമാണ് ബേക്കൽ കോട്ട.",
+    "usageExample": "Historical structure.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "landmark",
+    "wordMeaning": "ലാൻഡ്മാർക്ക്",
+    "englishText": "The Chinese fishing nets serve as an iconic visual landmark of Fort Kochi.",
+    "malayalamMeaning": "ഫോർട്ട് കൊച്ചിയുടെ ഒരു ഐക്കണിക് വിഷ്വൽ ലാൻഡ്‌മാർക്കാണ് ചൈനീസ് മത്സ്യബന്ധന വലകൾ.",
+    "usageExample": "Recognizable site.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "sanctuary",
+    "wordMeaning": "സങ്കേതം",
+    "englishText": "The bird sanctuary on the Vembanad banks shelters thousands of migratory teals.",
+    "malayalamMeaning": "വേമ്പനാട് തീരത്തുള്ള പക്ഷിസങ്കേതം ആയിരക്കണക്കിന് ദേശാടന തേയിലകൾക്ക് അഭയം നൽകുന്നു.",
+    "usageExample": "Protected refuge.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "breathtaking",
+    "wordMeaning": "ആശ്വാസകരമായ",
+    "englishText": "The panoramic view from the summit of the hill was truly breathtaking.",
+    "malayalamMeaning": "കുന്നിൻ മുകളിൽ നിന്നുള്ള പനോരമിക് കാഴ്ച ശരിക്കും അതിമനോഹരമായിരുന്നു.",
+    "usageExample": "Stunning beauty.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "picturesque",
+    "wordMeaning": "മനോഹരമായ",
+    "englishText": "We stayed in a picturesque mountain cottage nestled among rolling tea gardens.",
+    "malayalamMeaning": "തേയിലത്തോട്ടങ്ങൾക്കിടയിൽ സ്ഥിതി ചെയ്യുന്ന മനോഹരമായ ഒരു കോട്ടേജിൽ ഞങ്ങൾ താമസിച്ചു.",
+    "usageExample": "Scenic like picture.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "hospitality",
+    "wordMeaning": "ആതിഥ്യമര്യാദ",
+    "englishText": "Kerala's traditional hospitality makes visitors feel like cherished family guests.",
+    "malayalamMeaning": "കേരളത്തിൻ്റെ പരമ്പരാഗത ആതിഥ്യമര്യാദകൾ സന്ദർശകരെ പ്രിയപ്പെട്ട കുടുംബാംഗങ്ങളെപ്പോലെ തോന്നിപ്പിക്കുന്നു.",
+    "usageExample": "Welcoming care.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "concierge",
+    "wordMeaning": "സഹായി",
+    "englishText": "Ask the hotel concierge to book tickets for the evening Kathakali recital.",
+    "malayalamMeaning": "വൈകുന്നേരത്തെ കഥകളി പാരായണത്തിന് ടിക്കറ്റ് ബുക്ക് ചെയ്യാൻ ഹോട്ടൽ സഹായിയോട് ആവശ്യപ്പെടുക.",
+    "usageExample": "Hotel guest guide.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "reception",
+    "wordMeaning": "സ്വീകരണം",
+    "englishText": "Check in at the hotel reception desk to collect your electronic door keys.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഇലക്ട്രോണിക് ഡോർ കീകൾ ശേഖരിക്കാൻ ഹോട്ടൽ റിസപ്ഷൻ ഡെസ്‌കിൽ ചെക്ക് ഇൻ ചെയ്യുക.",
+    "usageExample": "Front desk.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "amenities",
+    "wordMeaning": "സൗകര്യങ്ങൾ",
+    "englishText": "Resort amenities include an infinity swimming pool, spa, and fitness center.",
+    "malayalamMeaning": "റിസോർട്ട് സൗകര്യങ്ങളിൽ ഇൻഫിനിറ്റി സ്വിമ്മിംഗ് പൂൾ, സ്പാ, ഫിറ്റ്നസ് സെൻ്റർ എന്നിവ ഉൾപ്പെടുന്നു.",
+    "usageExample": "Facilities.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "complimentary",
+    "wordMeaning": "കോംപ്ലിമെൻ്ററി",
+    "englishText": "The hotel offers complimentary high-speed Wi-Fi and buffet breakfast.",
+    "malayalamMeaning": "ഹോട്ടൽ കോംപ്ലിമെൻ്ററി ഹൈ-സ്പീഡ് വൈ-ഫൈയും ബുഫേ പ്രഭാതഭക്ഷണവും വാഗ്ദാനം ചെയ്യുന്നു.",
+    "usageExample": "Free of charge.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "currency",
+    "wordMeaning": "കറൻസി",
+    "englishText": "Exchange your foreign currency at authorized bank counters at the airport.",
+    "malayalamMeaning": "വിമാനത്താവളത്തിലെ അംഗീകൃത ബാങ്ക് കൗണ്ടറുകളിൽ നിങ്ങളുടെ വിദേശ കറൻസി കൈമാറ്റം ചെയ്യുക.",
+    "usageExample": "Foreign money.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "jet lag",
+    "wordMeaning": "ജെറ്റ് ലാഗ്",
+    "englishText": "Drinking plenty of water and walking in natural sunlight alleviates jet lag.",
+    "malayalamMeaning": "ധാരാളം വെള്ളം കുടിക്കുകയും സ്വാഭാവിക സൂര്യപ്രകാശത്തിൽ നടക്കുകയും ചെയ്യുന്നത് ജെറ്റ് ലാഗ് ലഘൂകരിക്കുന്നു.",
+    "usageExample": "Travel fatigue.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "wanderlust",
+    "wordMeaning": "അലഞ്ഞുതിരിയൽ",
+    "englishText": "His insatiable wanderlust prompted him to travel to fifty countries on a budget.",
+    "malayalamMeaning": "അടങ്ങാത്ത അലഞ്ഞുതിരിയാനുള്ള ആഗ്രഹം ബജറ്റിൽ അമ്പത് രാജ്യങ്ങളിലേക്ക് യാത്ര ചെയ്യാൻ അദ്ദേഹത്തെ പ്രേരിപ്പിച്ചു.",
+    "usageExample": "Desire to travel.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "souvenir",
+    "wordMeaning": "സുവനീർ",
+    "englishText": "I bought a small handcrafted rosewood elephant as a holiday souvenir.",
+    "malayalamMeaning": "ഒരു അവധിക്കാല സുവനീറായി ഞാൻ കൈകൊണ്ട് നിർമ്മിച്ച ഒരു ചെറിയ റോസ്വുഡ് ആനയെ വാങ്ങി.",
+    "usageExample": "Travel keepsake.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "keepsake",
+    "wordMeaning": "സ്മാരകം",
+    "englishText": "She kept the boarding pass as a sentimental keepsake of her first solo trip.",
+    "malayalamMeaning": "അവളുടെ ആദ്യ ഒറ്റയാൾ യാത്രയുടെ ഒരു വികാര സൂചകമായി അവൾ ബോർഡിംഗ് പാസ് സൂക്ഷിച്ചു.",
+    "usageExample": "Motive memento.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "guidebook",
+    "wordMeaning": "ഗൈഡ്ബുക്ക്",
+    "englishText": "The Lonely Planet guidebook recommended several authentic local eateries.",
+    "malayalamMeaning": "ലോൺലി പ്ലാനറ്റ് ഗൈഡ്ബുക്ക് നിരവധി ആധികാരിക പ്രാദേശിക ഭക്ഷണശാലകൾ ശുപാർശ ചെയ്തിട്ടുണ്ട്.",
+    "usageExample": "Travel handbook.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "backpacker",
+    "wordMeaning": "ബാക്ക്പാക്കർ",
+    "englishText": "The coastal village is a popular gathering hub for international backpackers.",
+    "malayalamMeaning": "തീരദേശ ഗ്രാമം അന്താരാഷ്‌ട്ര ബാക്ക്‌പാക്കർമാരുടെ ഒരു ജനപ്രിയ ഒത്തുചേരൽ കേന്ദ്രമാണ്.",
+    "usageExample": "Budget traveler.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "globetrotter",
+    "wordMeaning": "ഗ്ലോബ്ട്രോട്ടർ",
+    "englishText": "As a seasoned globetrotter, she packs all her essentials into a single carry-on.",
+    "malayalamMeaning": "പരിചയസമ്പന്നയായ ഒരു ഗ്ലോബ്‌ട്രോട്ടർ എന്ന നിലയിൽ, അവൾ അവളുടെ എല്ലാ അവശ്യവസ്തുക്കളും ഒറ്റത്തവണ കൊണ്ടുപോകുന്നു.",
+    "usageExample": "World traveler.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "panoramic",
+    "wordMeaning": "പനോരമിക്",
+    "englishText": "The hilltop viewpoint provides a panoramic 360-degree vista of the Western Ghats.",
+    "malayalamMeaning": "കുന്നിൻ മുകളിലെ വ്യൂപോയിൻ്റ് പശ്ചിമഘട്ടത്തിൻ്റെ 360-ഡിഗ്രി ദൃശ്യം പ്രദാനം ചെയ്യുന്നു.",
+    "usageExample": "Wide-angle view.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "quarantine",
+    "wordMeaning": "ക്വാറൻ്റൈൻ",
+    "englishText": "International travelers were relieved when quarantine requirements were lifted.",
+    "malayalamMeaning": "ക്വാറൻ്റൈൻ നിബന്ധനകൾ എടുത്തുകളഞ്ഞതോടെ രാജ്യാന്തര യാത്രക്കാർക്ക് ആശ്വാസമായി.",
+    "usageExample": "Health isolation.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "repatriation",
+    "wordMeaning": "സ്വദേശത്തേക്ക് കൊണ്ടുപോകൽ",
+    "englishText": "The embassy operated emergency repatriation flights during the regional crisis.",
+    "malayalamMeaning": "പ്രാദേശിക പ്രതിസന്ധി ഘട്ടത്തിൽ എംബസി അടിയന്തര സ്വദേശത്തേക്ക് കൊണ്ടുപോകാനുള്ള വിമാനങ്ങൾ നടത്തി.",
+    "usageExample": "Bringing home.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "embarkation",
+    "wordMeaning": "എംബാർക്കേഷൻ",
+    "englishText": "Passengers proceeded to the embarkation deck to board the passenger vessel.",
+    "malayalamMeaning": "പാസഞ്ചർ വെസലിൽ കയറാൻ യാത്രക്കാർ എംബാർക്കേഷൻ ഡെക്കിലേക്ക് പോയി.",
+    "usageExample": "Boarding ship.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "disembark",
+    "wordMeaning": "ഇറങ്ങുക",
+    "englishText": "Wait for the ship crew's instructions before you disembark onto the gangway.",
+    "malayalamMeaning": "നിങ്ങൾ ഗാംഗ്‌വേയിലേക്ക് ഇറങ്ങുന്നതിന് മുമ്പ് കപ്പൽ ജീവനക്കാരുടെ നിർദ്ദേശങ്ങൾക്കായി കാത്തിരിക്കുക.",
+    "usageExample": "Step off ship.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "overbooking",
+    "wordMeaning": "ഓവർബുക്കിംഗ്",
+    "englishText": "The airline compensated passengers generously due to accidental overbooking.",
+    "malayalamMeaning": "ആകസ്മികമായ ഓവർബുക്കിംഗ് കാരണം എയർലൈൻ യാത്രക്കാർക്ക് ഉദാരമായി നഷ്ടപരിഹാരം നൽകി.",
+    "usageExample": "Excess bookings.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "frequent-flyer",
+    "wordMeaning": "ഇടയ്ക്കിടെ പറക്കുന്നയാൾ",
+    "englishText": "He redeemed fifty thousand frequent-flyer miles for a complimentary ticket.",
+    "malayalamMeaning": "ഒരു കോംപ്ലിമെൻ്ററി ടിക്കറ്റിനായി അദ്ദേഹം അമ്പതിനായിരം തവണ ഫ്ലയർ മൈലുകൾ വീണ്ടെടുത്തു.",
+    "usageExample": "Loyalty air miles.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "transshipment",
+    "wordMeaning": "ട്രാൻസ്ഷിപ്പ്മെൻ്റ്",
+    "englishText": "Vallarpadam is designed as an international container transshipment terminal.",
+    "malayalamMeaning": "അന്താരാഷ്ട്ര കണ്ടെയ്നർ ട്രാൻസ്ഷിപ്പ്മെൻ്റ് ടെർമിനലായാണ് വല്ലാർപാടം രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്.",
+    "usageExample": "Cargo transfer.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "stevedore",
+    "wordMeaning": "സ്റ്റെവെഡോർ",
+    "englishText": "The dock stevedores worked through the night unloading heavy machinery.",
+    "malayalamMeaning": "ഭാരമേറിയ യന്ത്രസാമഗ്രികൾ ഇറക്കി രാത്രി മുഴുവൻ ഡോക്ക് സ്റ്റെവെഡോറുകൾ പ്രവർത്തിച്ചു.",
+    "usageExample": "Dockworker.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "freighter",
+    "wordMeaning": "ചരക്കുകൂലി",
+    "englishText": "The ocean freighter sailed out of the harbor carrying twenty thousand tons of coal.",
+    "malayalamMeaning": "ഇരുപതിനായിരം ടൺ കൽക്കരിയുമായി കടൽ ചരക്കുകപ്പൽ തുറമുഖത്ത് നിന്ന് പുറപ്പെട്ടു.",
+    "usageExample": "Cargo vessel.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "catamaran",
+    "wordMeaning": "കാറ്റമരൻ",
+    "englishText": "A twin-hulled catamaran ferry provides high-speed transit across the channel.",
+    "malayalamMeaning": "ഇരട്ട-ഹൾഡ് കാറ്റമരൻ ഫെറി ചാനലിലുടനീളം അതിവേഗ ഗതാഗതം നൽകുന്നു.",
+    "usageExample": "Twin-hull vessel.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "houseboat",
+    "wordMeaning": "ഹൗസ് ബോട്ട്",
+    "englishText": "A converted rice barge houseboat glided smoothly along the palm-fringed canal.",
+    "malayalamMeaning": "പരിവർത്തിപ്പിച്ച റൈസ് ബാർജ് ഹൗസ്‌ബോട്ട് ഈന്തപ്പനകളുള്ള കനാലിനരികിലൂടെ സുഗമമായി നീങ്ങി.",
+    "usageExample": "Kettuvallam.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "backwaters",
+    "wordMeaning": "കായലുകൾ",
+    "englishText": "Kerala's world-famous backwaters comprise an intricate network of lagoons.",
+    "malayalamMeaning": "കേരളത്തിലെ ലോകപ്രശസ്തമായ കായൽ തടാകങ്ങളുടെ സങ്കീർണ്ണമായ ഒരു ശൃംഖല ഉൾക്കൊള്ളുന്നു.",
+    "usageExample": "Inland waterways.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "waterway",
+    "wordMeaning": "ജലപാത",
+    "englishText": "National Waterway 3 facilitates cargo transport between Kottapuram and Kollam.",
+    "malayalamMeaning": "ദേശീയ ജലപാത 3 കോട്ടപ്പുറത്തിനും കൊല്ലത്തിനുമിടയിൽ ചരക്ക് ഗതാഗതം സുഗമമാക്കുന്നു.",
+    "usageExample": "Navigable water.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "estuary",
+    "wordMeaning": "അഴിമുഖം",
+    "englishText": "The river empties into the sea through a picturesque, mangrove-lined estuary.",
+    "malayalamMeaning": "കണ്ടൽക്കാടുകൾ നിറഞ്ഞ മനോഹരമായ അഴിമുഖത്തിലൂടെ നദി കടലിലേക്ക് ഒഴുകുന്നു.",
+    "usageExample": "Tidal river mouth.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "lagoon",
+    "wordMeaning": "തടാകം",
+    "englishText": "The quiet saltwater lagoon is a breeding ground for kingfishers and egrets.",
+    "malayalamMeaning": "ശാന്തമായ ഉപ്പുവെള്ള ലഗൂൺ കിംഗ്ഫിഷറുകളുടെയും ഈഗ്രേറ്റുകളുടെയും പ്രജനന കേന്ദ്രമാണ്.",
+    "usageExample": "Coastal water body.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tide",
+    "wordMeaning": "വേലിയേറ്റം",
+    "englishText": "The fishing boats returned to the harbor before the receding evening low tide.",
+    "malayalamMeaning": "വൈകുന്നേരത്തെ വേലിയിറക്കത്തിന് മുമ്പ് മത്സ്യബന്ധന ബോട്ടുകൾ ഹാർബറിലേക്ക് മടങ്ങി.",
+    "usageExample": "Sea level shift.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "cyclist",
+    "wordMeaning": "സൈക്ലിസ്റ്റ്",
+    "englishText": "The scenic hill highway is increasingly popular among long-distance cyclists.",
+    "malayalamMeaning": "മനോഹരമായ ഹിൽ ഹൈവേ ദീർഘദൂര സൈക്ലിസ്റ്റുകൾക്കിടയിൽ കൂടുതൽ പ്രചാരത്തിലുണ്ട്.",
+    "usageExample": "Bike rider.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "pedestrian",
+    "wordMeaning": "കാൽനടയാത്രക്കാരൻ",
+    "englishText": "Pedestrian crosswalks give citizens safe right-of-way across busy streets.",
+    "malayalamMeaning": "കാൽനട ക്രോസ്‌വാക്കുകൾ തിരക്കേറിയ തെരുവുകളിലൂടെ പൗരന്മാർക്ക് സുരക്ഷിതമായ അവകാശം നൽകുന്നു.",
+    "usageExample": "Foot traveler.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "commute",
+    "wordMeaning": "യാത്ര",
+    "englishText": "Taking the metro cuts my daily office commute down to just twenty minutes.",
+    "malayalamMeaning": "മെട്രോയിൽ കയറുന്നത് എൻ്റെ ദൈനംദിന ഓഫീസ് യാത്രയെ ഇരുപത് മിനിറ്റായി ചുരുക്കുന്നു.",
+    "usageExample": "Daily journey.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "underpass",
+    "wordMeaning": "അടിപ്പാത",
+    "englishText": "The vehicular underpass allows highway traffic to bypass the busy market area.",
+    "malayalamMeaning": "തിരക്കേറിയ മാർക്കറ്റ് ഏരിയയെ മറികടക്കാൻ വാഹന അടിപ്പാത ഹൈവേ ട്രാഫിക്കിനെ അനുവദിക്കുന്നു.",
+    "usageExample": "Sub-road tunnel.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "scenic",
+    "wordMeaning": "പ്രകൃതിരമണീയമായ",
+    "englishText": "The railway line through the Konkan region is famous for its scenic viaducts.",
+    "malayalamMeaning": "കൊങ്കൺ മേഖലയിലൂടെയുള്ള റെയിൽപ്പാത അതിമനോഹരമായ വയഡക്ടുകൾക്ക് പേരുകേട്ടതാണ്.",
+    "usageExample": "Visually beautiful.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "tranquility",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "Escaping to a forest homestay restored my inner tranquility and peace.",
+    "malayalamMeaning": "ഒരു ഫോറസ്റ്റ് ഹോംസ്റ്റേയിലേക്ക് രക്ഷപ്പെട്ടത് എൻ്റെ ഉള്ളിലെ ശാന്തതയും സമാധാനവും പുനഃസ്ഥാപിച്ചു.",
+    "usageExample": "Peaceful calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "serenity",
+    "wordMeaning": "ശാന്തത",
+    "englishText": "The dawn mist rising off the quiet lake imparted a profound sense of serenity.",
+    "malayalamMeaning": "ശാന്തമായ തടാകത്തിൽ നിന്ന് ഉയർന്നുവരുന്ന പ്രഭാത മൂടൽമഞ്ഞ് അഗാധമായ ശാന്തത പകർന്നു.",
+    "usageExample": "Undisturbed calm.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "solitude",
+    "wordMeaning": "ഏകാന്തത",
+    "englishText": "He cherished the peaceful solitude of solo trekking through uninhabited hills.",
+    "malayalamMeaning": "ജനവാസമില്ലാത്ത കുന്നുകൾക്കിടയിലൂടെയുള്ള ഏകാന്ത ട്രക്കിംഗിൻ്റെ സമാധാനപരമായ ഏകാന്തത അദ്ദേഹം വിലമതിച്ചു.",
+    "usageExample": "Peaceful loneliness.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "memorable",
+    "wordMeaning": "അവിസ്മരണീയമായ",
+    "englishText": "Watching hundreds of fireflies illuminating the forest was an unforgettable event.",
+    "malayalamMeaning": "നൂറു കണക്കിന് തീച്ചൂളകൾ കാടിനെ പ്രകാശിപ്പിക്കുന്നത് കാണുന്നത് മറക്കാനാകാത്ത സംഭവമായിരുന്നു.",
+    "usageExample": "Unforgettable.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "rejuvenate",
+    "wordMeaning": "പുനരുജ്ജീവിപ്പിക്കുക",
+    "englishText": "A weekend yoga retreat by the beach is the perfect way to rejuvenate yourself.",
+    "malayalamMeaning": "ബീച്ചിലെ വാരാന്ത്യ യോഗ റിട്രീറ്റ് സ്വയം പുനരുജ്ജീവിപ്പിക്കാനുള്ള മികച്ച മാർഗമാണ്.",
+    "usageExample": "Revitalize.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "itinerant",
+    "wordMeaning": "സഞ്ചാരി",
+    "englishText": "The itinerant minstrel traveled from village to village singing ancient ballads.",
+    "malayalamMeaning": "സഞ്ചാരിയായ മന്ത്രി പുരാതന ബാലഡുകൾ പാടി ഗ്രാമങ്ങളിൽ നിന്ന് ഗ്രാമങ്ങളിലേക്ക് സഞ്ചരിച്ചു.",
+    "usageExample": "Traveling laborer.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "peripatetic",
+    "wordMeaning": "പെരിപാറ്ററ്റിക്",
+    "englishText": "Her peripatetic lifestyle as an international journalist took her to forty nations.",
+    "malayalamMeaning": "ഒരു അന്താരാഷ്‌ട്ര പത്രപ്രവർത്തക എന്ന നിലയിലുള്ള അവളുടെ പരിപൂർണമായ ജീവിതശൈലി അവളെ നാൽപ്പത് രാജ്യങ്ങളിലേക്ക് കൊണ്ടുപോയി.",
+    "usageExample": "Constantly traveling.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "odyssey",
+    "wordMeaning": "ഒഡീസി",
+    "englishText": "His cross-continental bicycle odyssey covered twenty-five thousand kilometers.",
+    "malayalamMeaning": "അദ്ദേഹത്തിൻ്റെ ക്രോസ് കോണ്ടിനെൻ്റൽ സൈക്കിൾ ഒഡീസി ഇരുപത്തയ്യായിരം കിലോമീറ്റർ പിന്നിട്ടു.",
+    "usageExample": "Epic journey.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "pilgrimage",
+    "wordMeaning": "തീർത്ഥാടനം",
+    "englishText": "Every winter, millions undertake the arduous mountain pilgrimage to Sabarimala.",
+    "malayalamMeaning": "എല്ലാ ശൈത്യകാലത്തും ദശലക്ഷക്കണക്കിന് ആളുകൾ ശബരിമലയിലേക്ക് കഠിനമായ പർവത തീർത്ഥാടനം നടത്തുന്നു.",
+    "usageExample": "Sacred journey.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sojourn",
+    "wordMeaning": "താമസം",
+    "englishText": "We concluded our pleasant month-long sojourn in the tranquil hill station.",
+    "malayalamMeaning": "ശാന്തമായ ഹിൽസ്റ്റേഷനിൽ ഞങ്ങളുടെ സുഖകരമായ ഒരു മാസത്തെ താമസം ഞങ്ങൾ അവസാനിപ്പിച്ചു.",
+    "usageExample": "Temporary stay.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "circumnavigate",
+    "wordMeaning": "പ്രദക്ഷിണം ചെയ്യുക",
+    "englishText": "The lone sailor set out in his wooden sailboat to circumnavigate the globe.",
+    "malayalamMeaning": "ഏകാന്ത നാവികൻ തൻ്റെ തടി കപ്പലിൽ ലോകം ചുറ്റാൻ പുറപ്പെട്ടു.",
+    "usageExample": "Sail around world.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "tarmac",
+    "wordMeaning": "ടാർമാക്ക്",
+    "englishText": "The airliner stood on the sun-baked tarmac waiting for takeoff clearance.",
+    "malayalamMeaning": "ടേക്ക് ഓഫ് ക്ലിയറൻസിനായി കാത്ത് വിമാനം വെയിലത്ത് ചുട്ടുപഴുത്ത ടാറിങ്ങിൽ നിന്നു.",
+    "usageExample": "Airport pavement.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "fuselage",
+    "wordMeaning": "ഫ്യൂസ്ലേജ്",
+    "englishText": "Engineers inspected the titanium fuselage of the aircraft for structural fatigue.",
+    "malayalamMeaning": "ഘടനാപരമായ തളർച്ചയ്ക്കായി എഞ്ചിനീയർമാർ വിമാനത്തിൻ്റെ ടൈറ്റാനിയം ഫ്യൂസ്ലേജ് പരിശോധിച്ചു.",
+    "usageExample": "Airplane body.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "aviation",
+    "wordMeaning": "വ്യോമയാനം",
+    "englishText": "India's commercial aviation sector is experiencing record double-digit passenger growth.",
+    "malayalamMeaning": "ഇന്ത്യയുടെ വാണിജ്യ വ്യോമയാന മേഖല റെക്കോഡ് ഇരട്ട അക്ക യാത്രക്കാരുടെ വളർച്ച കൈവരിക്കുന്നു.",
+    "usageExample": "Aircraft industry.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "aerodrome",
+    "wordMeaning": "എയറോഡ്രോം",
+    "englishText": "The historic naval aerodrome played a vital role during coastal search operations.",
+    "malayalamMeaning": "തീരദേശ തിരച്ചിൽ പ്രവർത്തനങ്ങളിൽ ചരിത്രപ്രസിദ്ധമായ നാവിക വ്യോമസേന നിർണായക പങ്ക് വഹിച്ചു.",
+    "usageExample": "Airfield.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "maritime",
+    "wordMeaning": "സമുദ്രം",
+    "englishText": "India possesses a proud maritime tradition extending back to Indus Valley trade.",
+    "malayalamMeaning": "സിന്ധു നദീതട വ്യാപാരം വരെ നീളുന്ന അഭിമാനകരമായ ഒരു സമുദ്ര പാരമ്പര്യം ഇന്ത്യക്കുണ്ട്.",
+    "usageExample": "Seafaring.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "nautical",
+    "wordMeaning": "നോട്ടിക്കൽ",
+    "englishText": "The lighthouse keeper charted vessel movements using nautical charts and compasses.",
+    "malayalamMeaning": "നോട്ടിക്കൽ ചാർട്ടുകളും കോമ്പസുകളും ഉപയോഗിച്ച് ലൈറ്റ്ഹൗസ് കീപ്പർ കപ്പലുകളുടെ ചലനങ്ങൾ ചാർട്ട് ചെയ്തു.",
+    "usageExample": "Naval navigation.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "ballast",
+    "wordMeaning": "ബാലസ്റ്റ്",
+    "englishText": "Cargo ships pump water into ballast tanks to maintain stability in heavy swells.",
+    "malayalamMeaning": "കനത്ത നീർക്കെട്ടുകളിൽ സ്ഥിരത നിലനിർത്താൻ ചരക്ക് കപ്പലുകൾ ബാലസ്റ്റ് ടാങ്കുകളിലേക്ക് വെള്ളം പമ്പ് ചെയ്യുന്നു.",
+    "usageExample": "Stabilizing weight.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "starboard",
+    "wordMeaning": "സ്റ്റാർബോർഡ്",
+    "englishText": "Look to the starboard side of the vessel to catch sight of leaping dolphins.",
+    "malayalamMeaning": "കുതിച്ചുകയറുന്ന ഡോൾഫിനുകളെ കാണാൻ കപ്പലിൻ്റെ സ്റ്റാർബോർഡ് വശത്തേക്ക് നോക്കുക.",
+    "usageExample": "Right side of ship.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "portside",
+    "wordMeaning": "തുറമുഖം",
+    "englishText": "The tugboat guided the ocean tanker along its portside towards the oil berth.",
+    "malayalamMeaning": "ടഗ് ബോട്ട് സമുദ്ര ടാങ്കറിനെ അതിൻ്റെ തുറമുഖത്തിലൂടെ ഓയിൽ ബെർത്തിലേക്ക് നയിച്ചു.",
+    "usageExample": "Left side of ship.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "anchorage",
+    "wordMeaning": "നങ്കൂരമിടുക",
+    "englishText": "Dozens of container ships waited in the safe coastal anchorage for berth allocation.",
+    "malayalamMeaning": "ബർത്ത് അലോക്കേഷനായി ഡസൻ കണക്കിന് കണ്ടെയ്‌നർ കപ്പലുകൾ സുരക്ഷിത തീരദേശ നങ്കൂരത്തിൽ കാത്തുനിന്നു.",
+    "usageExample": "Mooring area.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "archipelago",
+    "wordMeaning": "ദ്വീപസമൂഹം",
+    "englishText": "The Lakshadweep archipelago consists of thirty-six idyllic coral islands.",
+    "malayalamMeaning": "ലക്ഷദ്വീപ് ദ്വീപസമൂഹം മുപ്പത്തിയാറ് പവിഴ ദ്വീപുകൾ ഉൾക്കൊള്ളുന്നു.",
+    "usageExample": "Island chain.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "peninsula",
+    "wordMeaning": "ഉപദ്വീപ്",
+    "englishText": "The southern Indian peninsula is flanked by the Arabian Sea and Bay of Bengal.",
+    "malayalamMeaning": "തെക്കേ ഇന്ത്യൻ ഉപദ്വീപ് അറബിക്കടലും ബംഗാൾ ഉൾക്കടലും ചേർന്നതാണ്.",
+    "usageExample": "Three-sided land.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "isthmus",
+    "wordMeaning": "ഇസ്ത്മസ്",
+    "englishText": "The narrow isthmus connects the rocky headland with the mainland coast.",
+    "malayalamMeaning": "ഇടുങ്ങിയ ഇസ്ത്മസ് പാറക്കെട്ടുകളെ പ്രധാന ഭൂപ്രദേശവുമായി ബന്ധിപ്പിക്കുന്നു.",
+    "usageExample": "Land bridge.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "strait",
+    "wordMeaning": "കടലിടുക്ക്",
+    "englishText": "The Palk Strait separates the southeastern tip of India from northern Sri Lanka.",
+    "malayalamMeaning": "ഇന്ത്യയുടെ തെക്കുകിഴക്കൻ അറ്റത്തെ വടക്കൻ ശ്രീലങ്കയിൽ നിന്ന് വേർതിരിക്കുന്നത് പാക്ക് കടലിടുക്കാണ്.",
+    "usageExample": "Water channel.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "fjord",
+    "wordMeaning": "fjord",
+    "englishText": "The dramatic sheer cliffs of the deep glacial fjord stunned the ocean cruise passengers.",
+    "malayalamMeaning": "അഗാധമായ ഗ്ലേഷ്യൽ ഫ്‌ജോർഡിൻ്റെ നാടകീയമായ പാറക്കെട്ടുകൾ സമുദ്ര ക്രൂയിസ് യാത്രക്കാരെ അമ്പരപ്പിച്ചു.",
+    "usageExample": "Glacial inlet.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hinterland",
+    "wordMeaning": "ഉൾപ്രദേശങ്ങൾ",
+    "englishText": "Cochin Port serves an extensive agricultural and industrial hinterland.",
+    "malayalamMeaning": "കൊച്ചി തുറമുഖം വിപുലമായ കാർഷിക, വ്യാവസായിക ഉൾപ്രദേശങ്ങൾക്ക് സേവനം നൽകുന്നു.",
+    "usageExample": "Inland region.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "terra incognita",
+    "wordMeaning": "ടെറ ആൾമാറാട്ടം",
+    "englishText": "To the early sixteenth-century navigators, the southern oceans were terra incognita.",
+    "malayalamMeaning": "പതിനാറാം നൂറ്റാണ്ടിൻ്റെ തുടക്കത്തിലെ നാവിഗേറ്റർമാർക്ക് തെക്കൻ സമുദ്രങ്ങൾ ടെറ ആൾമാറാട്ടമായിരുന്നു.",
+    "usageExample": "Uncharted territory.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "traverse",
+    "wordMeaning": "സഞ്ചരിക്കുക",
+    "englishText": "The mountaineers prepared their crampons to traverse the treacherous ice field.",
+    "malayalamMeaning": "വഞ്ചനാപരമായ ഹിമമേഖലയിലൂടെ സഞ്ചരിക്കാൻ പർവതാരോഹകർ തങ്ങളുടെ ക്രാമ്പണുകൾ തയ്യാറാക്കി.",
+    "usageExample": "Cross across.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "wayfarer",
+    "wordMeaning": "വഴിയാത്രക്കാരൻ",
+    "englishText": "The weary wayfarer sought shelter under the sprawling canopy of the banyan tree.",
+    "malayalamMeaning": "ക്ഷീണിതനായ വഴിയാത്രക്കാരൻ ആൽമരത്തിൻ്റെ വിശാലമായ മേലാപ്പിന് കീഴിൽ അഭയം തേടി.",
+    "usageExample": "Foot traveler.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "sojourner",
+    "wordMeaning": "വിദേശി",
+    "englishText": "The ancient travelers described the hospitable reception granted to all sojourners.",
+    "malayalamMeaning": "എല്ലാ വിദേശികൾക്കും നൽകിയ ആതിഥ്യമരുളുന്ന സ്വീകരണം പുരാതന സഞ്ചാരികൾ വിവരിച്ചു.",
+    "usageExample": "Temporary guest.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "expatriate",
+    "wordMeaning": "പ്രവാസി",
+    "englishText": "A large community of Indian expatriates lives and works across the Gulf states.",
+    "malayalamMeaning": "ഇന്ത്യൻ പ്രവാസികളുടെ ഒരു വലിയ സമൂഹം ഗൾഫ് രാജ്യങ്ങളിൽ താമസിക്കുകയും ജോലി ചെയ്യുകയും ചെയ്യുന്നു.",
+    "usageExample": "Living abroad.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "diaspora",
+    "wordMeaning": "പ്രവാസികൾ",
+    "englishText": "The worldwide Malayali diaspora maintains vibrant cultural and family links.",
+    "malayalamMeaning": "ലോകമെമ്പാടുമുള്ള മലയാളി പ്രവാസികൾ ഊർജ്ജസ്വലമായ സാംസ്കാരികവും കുടുംബവുമായ ബന്ധങ്ങൾ നിലനിർത്തുന്നു.",
+    "usageExample": "Dispersed peoples.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "vista",
+    "wordMeaning": "വിസ്റ്റ",
+    "englishText": "The mountain summit offered a glorious, uninterrupted vista of the misty ranges.",
+    "malayalamMeaning": "പർവതശിഖരം മൂടൽമഞ്ഞിൻ്റെ പർവതനിരകളുടെ മഹത്തായ, തടസ്സമില്ലാത്ത ദൃശ്യം പ്രദാനം ചെയ്തു.",
+    "usageExample": "Scenic prospect.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "topographical",
+    "wordMeaning": "ഭൂപ്രകൃതി",
+    "englishText": "Surveyors utilized high-precision topographical maps to chart the mountain railway.",
+    "malayalamMeaning": "മൗണ്ടൻ റെയിൽവേ ചാർട്ട് ചെയ്യാൻ സർവേയർമാർ ഉയർന്ന കൃത്യതയുള്ള ടോപ്പോഗ്രാഫിക്കൽ മാപ്പുകൾ ഉപയോഗിച്ചു.",
+    "usageExample": "Surface geography.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "cartography",
+    "wordMeaning": "കാർട്ടോഗ്രാഫി",
+    "englishText": "Ancient Portuguese cartography of the Malabar coast was prized by global navigators.",
+    "malayalamMeaning": "മലബാർ തീരത്തെ പുരാതന പോർച്ചുഗീസ് കാർട്ടോഗ്രാഫി ആഗോള നാവിഗേറ്റർമാർ വിലമതിച്ചിരുന്നു.",
+    "usageExample": "Map-making science.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "meridian",
+    "wordMeaning": "മെറിഡിയൻ",
+    "englishText": "Navigators calculate global time differences relative to the Prime Meridian.",
+    "malayalamMeaning": "പ്രൈം മെറിഡിയനുമായി ബന്ധപ്പെട്ട ആഗോള സമയ വ്യത്യാസങ്ങൾ നാവിഗേറ്റർമാർ കണക്കാക്കുന്നു.",
+    "usageExample": "Longitude line.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "latitude",
+    "wordMeaning": "അക്ഷാംശം",
+    "englishText": "Kerala lies between eight and twelve degrees north latitude in the tropical zone.",
+    "malayalamMeaning": "ഉഷ്ണമേഖലാ മേഖലയിൽ എട്ട് മുതൽ പന്ത്രണ്ട് ഡിഗ്രി വടക്കൻ അക്ഷാംശങ്ങൾക്കിടയിലാണ് കേരളം സ്ഥിതി ചെയ്യുന്നത്.",
+    "usageExample": "Horizontal coordinate.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "longitude",
+    "wordMeaning": "രേഖാംശം",
+    "englishText": "GPS satellites transmit exact coordinates of latitude, longitude, and elevation.",
+    "malayalamMeaning": "ജിപിഎസ് ഉപഗ്രഹങ്ങൾ അക്ഷാംശം, രേഖാംശം, ഉയരം എന്നിവയുടെ കൃത്യമായ കോർഡിനേറ്റുകൾ കൈമാറുന്നു.",
+    "usageExample": "Vertical coordinate.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "deceleration",
+    "wordMeaning": "തളർച്ച",
+    "englishText": "The aircraft reverse thrusters produced powerful deceleration on the runway.",
+    "malayalamMeaning": "എയർക്രാഫ്റ്റ് റിവേഴ്സ് ത്രസ്റ്ററുകൾ റൺവേയിൽ ശക്തമായ ഡിസെലറേഷൻ ഉണ്ടാക്കി.",
+    "usageExample": "Slowing down.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "velocity",
+    "wordMeaning": "വേഗത",
+    "englishText": "The high-speed passenger train achieved a cruising velocity of 160 kilometers per hour.",
+    "malayalamMeaning": "അതിവേഗ പാസഞ്ചർ ട്രെയിൻ മണിക്കൂറിൽ 160 കിലോമീറ്റർ വേഗതയിൽ കുതിച്ചു.",
+    "usageExample": "Speed vector.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "trajectory",
+    "wordMeaning": "പാത",
+    "englishText": "The navigation computer calculated the optimal fuel-efficient flight trajectory.",
+    "malayalamMeaning": "നാവിഗേഷൻ കമ്പ്യൂട്ടർ ഒപ്റ്റിമൽ ഇന്ധനക്ഷമതയുള്ള ഫ്ലൈറ്റ് ട്രാക്ക് കണക്കാക്കി.",
+    "usageExample": "Flight path.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "viaduct",
+    "wordMeaning": "വയാഡക്റ്റ്",
+    "englishText": "The engineering marvel featured a five-kilometer concrete viaduct over the river valley.",
+    "malayalamMeaning": "നദീതടത്തിന് മുകളിലൂടെയുള്ള അഞ്ച് കിലോമീറ്റർ കോൺക്രീറ്റ് വഴിയാണ് എഞ്ചിനീയറിംഗ് വിസ്മയം അവതരിപ്പിച്ചത്.",
+    "usageExample": "High rail bridge.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "subterranean",
+    "wordMeaning": "ഭൂഗർഭ",
+    "englishText": "The city built a subterranean railway system to preserve historic street architecture.",
+    "malayalamMeaning": "ചരിത്രപരമായ തെരുവ് വാസ്തുവിദ്യ സംരക്ഷിക്കുന്നതിനായി നഗരം ഒരു ഭൂഗർഭ റെയിൽവേ സംവിധാനം നിർമ്മിച്ചു.",
+    "usageExample": "Underground.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "funicular",
+    "wordMeaning": "ഫ്യൂണിക്കുലാർ",
+    "englishText": "A scenic funicular railway transported tourists up the steep mountain slope.",
+    "malayalamMeaning": "കുത്തനെയുള്ള പർവത ചരിവിലൂടെ മനോഹരമായ ഒരു ഫ്യൂണിക്കുലാർ റെയിൽവേ സഞ്ചാരികളെ എത്തിച്ചു.",
+    "usageExample": "Cable cliff train.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hydrofoil",
+    "wordMeaning": "ഹൈഡ്രോഫോയിൽ",
+    "englishText": "The naval hydrofoil lifted its hull above the water to reach forty knots.",
+    "malayalamMeaning": "നാവിക ഹൈഡ്രോഫോയിൽ നാൽപ്പത് നോട്ടിലെത്താൻ വെള്ളത്തിന് മുകളിലൂടെ അതിൻ്റെ ഹൾ ഉയർത്തി.",
+    "usageExample": "High-speed watercraft.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "equanimity",
+    "wordMeaning": "സമചിത്തത",
+    "englishText": "The seasoned flight captain handled the emergency landing with calm equanimity.",
+    "malayalamMeaning": "പരിചയസമ്പന്നനായ ഫ്ലൈറ്റ് ക്യാപ്റ്റൻ ശാന്തമായ സമചിത്തതയോടെ അടിയന്തര ലാൻഡിംഗ് കൈകാര്യം ചെയ്തു.",
+    "usageExample": "Mental composure.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "intrepid",
+    "wordMeaning": "നിർഭയൻ",
+    "englishText": "The intrepid explorer crossed the vast desert on foot with minimal supplies.",
+    "malayalamMeaning": "നിർഭയനായ പര്യവേക്ഷകൻ ചുരുങ്ങിയ സാധനങ്ങളുമായി കാൽനടയായി വിശാലമായ മരുഭൂമി മുറിച്ചുകടന്നു.",
+    "usageExample": "Fearlessly bold.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "hallowed",
+    "wordMeaning": "വിശുദ്ധീകരിച്ചു",
+    "englishText": "We walked with hushed reverence through the hallowed corridors of the ancient monastery.",
+    "malayalamMeaning": "പുരാതന ആശ്രമത്തിൻ്റെ വിശുദ്ധ ഇടനാഴികളിലൂടെ ഞങ്ങൾ ആദരവോടെ നടന്നു.",
+    "usageExample": "Consecrated/holy.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "vicissitude",
+    "wordMeaning": "വിചിത്രത",
+    "englishText": "Seasoned travelers learn to embrace the unpredictable vicissitudes of the road.",
+    "malayalamMeaning": "പരിചയസമ്പന്നരായ യാത്രക്കാർ റോഡിൻ്റെ പ്രവചനാതീതമായ വ്യതിയാനങ്ങൾ ഉൾക്കൊള്ളാൻ പഠിക്കുന്നു.",
+    "usageExample": "Change of fortune.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "convivial",
+    "wordMeaning": "സുഖപ്രദമായ",
+    "englishText": "The mountain trekkers spent a convivial evening sharing jokes by the hearth.",
+    "malayalamMeaning": "പർവതയാത്രക്കാർ അടുപ്പത്തുവെച്ചു തമാശകൾ പങ്കുവച്ചുകൊണ്ട് സുഖപ്രദമായ ഒരു സായാഹ്നം ചെലവഴിച്ചു.",
+    "usageExample": "Festive and social.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "bonhomie",
+    "wordMeaning": "ബോൺഹോമി",
+    "englishText": "A spirit of warm cross-cultural bonhomie prevailed among international travelers.",
+    "malayalamMeaning": "അന്താരാഷ്‌ട്ര സഞ്ചാരികൾക്കിടയിൽ ഊഷ്മളമായ ക്രോസ്-കൾച്ചറൽ ബോൺഹോമിയുടെ ആത്മാവ് നിലനിന്നിരുന്നു.",
+    "usageExample": "Friendly geniality.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "camaraderie",
+    "wordMeaning": "സൗഹൃദം",
+    "englishText": "The arduous mountain expedition forged deep camaraderie among the climbers.",
+    "malayalamMeaning": "കഠിനമായ പർവത പര്യവേഷണം മലകയറ്റക്കാർക്കിടയിൽ ആഴത്തിലുള്ള സൗഹൃദം സ്ഥാപിച്ചു.",
+    "usageExample": "Mutual fellowship.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unflappable",
+    "wordMeaning": "പൊള്ളാത്ത",
+    "englishText": "The air traffic controller remained completely unflappable during the thunderstorm.",
+    "malayalamMeaning": "ഇടിമിന്നലുണ്ടായപ്പോൾ എയർ ട്രാഫിക് കൺട്രോളർ പൂർണ്ണമായും പ്രവർത്തനരഹിതമായിരുന്നു.",
+    "usageExample": "Imperturbably calm.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "prowess",
+    "wordMeaning": "പരാക്രമം",
+    "englishText": "The captain's navigational prowess steered the ship safely through the violent monsoon.",
+    "malayalamMeaning": "ക്യാപ്റ്റൻ്റെ നാവിഗേഷൻ വൈദഗ്ധ്യം, അക്രമാസക്തമായ മഴക്കാലത്ത് കപ്പലിനെ സുരക്ഷിതമായി നയിച്ചു.",
+    "usageExample": "Exceptional skill.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "dexterity",
+    "wordMeaning": "വൈദഗ്ധ്യം",
+    "englishText": "The helmsman demonstrated remarkable dexterity when docking in high crosswinds.",
+    "malayalamMeaning": "ഉയർന്ന ക്രോസ്‌വിൻഡുകളിൽ ഡോക്ക് ചെയ്യുമ്പോൾ ഹെൽസ്മാൻ ശ്രദ്ധേയമായ വൈദഗ്ദ്ധ്യം പ്രകടിപ്പിച്ചു.",
+    "usageExample": "Skillful handling.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "acumen",
+    "wordMeaning": "കുശാഗ്രബുദ്ധി",
+    "englishText": "His acute logistical acumen ensured that disaster relief reached remote flooded villages.",
+    "malayalamMeaning": "വെള്ളപ്പൊക്കത്തിൽ അകപ്പെട്ട ഗ്രാമങ്ങളിൽ ദുരന്ത നിവാരണം എത്തുന്നുവെന്ന് അദ്ദേഹത്തിൻ്റെ തീവ്രമായ ലോജിസ്റ്റിക് മിടുക്ക് ഉറപ്പാക്കി.",
+    "usageExample": "Keen insight.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "stewardship",
+    "wordMeaning": "കാര്യസ്ഥൻ",
+    "englishText": "Responsible tourism requires active environmental stewardship of fragile marine reefs.",
+    "malayalamMeaning": "ഉത്തരവാദിത്ത ടൂറിസത്തിന് ദുർബലമായ കടൽപ്പാറകളുടെ സജീവമായ പാരിസ്ഥിതിക സംരക്ഷണം ആവശ്യമാണ്.",
+    "usageExample": "Caring management.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "expedite",
+    "wordMeaning": "വേഗത്തിലാക്കുക",
+    "englishText": "The immigration department opened fast-track counters to expedite passenger clearance.",
+    "malayalamMeaning": "പാസഞ്ചർ ക്ലിയറൻസ് വേഗത്തിലാക്കാൻ എമിഗ്രേഷൻ വകുപ്പ് ഫാസ്റ്റ് ട്രാക്ക് കൗണ്ടറുകൾ തുറന്നു.",
+    "usageExample": "Accelerate.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "scrutiny",
+    "wordMeaning": "സൂക്ഷ്മപരിശോധന",
+    "englishText": "Aircraft maintenance logs undergo rigorous, uncompromising regulatory scrutiny.",
+    "malayalamMeaning": "എയർക്രാഫ്റ്റ് മെയിൻ്റനൻസ് ലോഗുകൾ കർശനവും വിട്ടുവീഴ്ചയില്ലാത്തതുമായ നിയന്ത്രണ പരിശോധനയ്ക്ക് വിധേയമാകുന്നു.",
+    "usageExample": "Detailed inspection.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "diligence",
+    "wordMeaning": "ഉത്സാഹം",
+    "englishText": "Commercial pilots perform pre-flight safety checklists with uncompromising diligence.",
+    "malayalamMeaning": "വാണിജ്യ പൈലറ്റുമാർ വിട്ടുവീഴ്ചയില്ലാത്ത ഉത്സാഹത്തോടെ വിമാനത്തിന് മുമ്പുള്ള സുരക്ഷാ ചെക്ക്‌ലിസ്റ്റുകൾ നിർവഹിക്കുന്നു.",
+    "usageExample": "Persistent care.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "proactive",
+    "wordMeaning": "സജീവമായ",
+    "englishText": "A proactive air safety culture prevents catastrophic mechanical and human failures.",
+    "malayalamMeaning": "ഒരു സജീവമായ എയർ സുരക്ഷാ സംസ്കാരം ദുരന്തകരമായ മെക്കാനിക്കൽ, മനുഷ്യ പരാജയങ്ങൾ തടയുന്നു.",
+    "usageExample": "Precautionary.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "indispensable",
+    "wordMeaning": "ഒഴിച്ചുകൂടാനാവാത്ത",
+    "englishText": "A reliable compass and satellite beacon are indispensable tools for solo voyagers.",
+    "malayalamMeaning": "വിശ്വസനീയമായ കോമ്പസും സാറ്റലൈറ്റ് ബീക്കണും സോളോ യാത്രക്കാർക്ക് ഒഴിച്ചുകൂടാനാവാത്ത ഉപകരണങ്ങളാണ്.",
+    "usageExample": "Essential.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "unprecedented",
+    "wordMeaning": "അഭൂതപൂർവമായ",
+    "englishText": "The opening of the new sea bridge unlocked unprecedented regional connectivity.",
+    "malayalamMeaning": "പുതിയ കടൽപ്പാലം തുറന്നത് അഭൂതപൂർവമായ പ്രാദേശിക കണക്റ്റിവിറ്റി അൺലോക്ക് ചെയ്തു.",
+    "usageExample": "Never seen before.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "transformative",
+    "wordMeaning": "രൂപാന്തരപ്പെടുത്തുന്ന",
+    "englishText": "Constructing the deep-water transshipment port was transformative for the state's economy.",
+    "malayalamMeaning": "ആഴത്തിലുള്ള ജല ട്രാൻസ്ഷിപ്പ്മെൻ്റ് തുറമുഖം നിർമ്മിക്കുന്നത് സംസ്ഥാനത്തിൻ്റെ സമ്പദ്‌വ്യവസ്ഥയ്ക്ക് പരിവർത്തനം വരുത്തി.",
+    "usageExample": "Revolutionary.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "seaport",
+    "wordMeaning": "തുറമുഖം",
+    "englishText": "The ancient seaport of Muziris welcomed Roman and Greek merchant ships.",
+    "malayalamMeaning": "പുരാതന തുറമുഖമായ മുസിരിസ് റോമൻ, ഗ്രീക്ക് വ്യാപാര കപ്പലുകളെ സ്വാഗതം ചെയ്തു.",
+    "usageExample": "Harbor.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "layover",
+    "wordMeaning": "പിരിച്ചുവിടൽ",
+    "englishText": "We had a pleasant two-hour flight layover in the modern Doha airport lounge.",
+    "malayalamMeaning": "ആധുനിക ദോഹ എയർപോർട്ട് ലോഞ്ചിൽ ഞങ്ങൾക്ക് രണ്ട് മണിക്കൂർ ഫ്ലൈറ്റ് ലേഓവർ സുഖകരമായിരുന്നു.",
+    "usageExample": "Flight wait.",
+    "difficulty": "BEGINNER"
+  },
+  {
+    "word": "tram",
+    "wordMeaning": "ട്രാം",
+    "englishText": "Electric trams glide quietly down the historic European cobblestone boulevards.",
+    "malayalamMeaning": "വൈദ്യുത ട്രാമുകൾ ചരിത്രപരമായ യൂറോപ്യൻ കോബ്ലെസ്റ്റോൺ ബൊളിവാർഡുകളിലൂടെ നിശബ്ദമായി നീങ്ങുന്നു.",
+    "usageExample": "Street rail.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "monorail",
+    "wordMeaning": "മോണോറെയിൽ",
+    "englishText": "The elevated monorail offers rapid transit across crowded financial districts.",
+    "malayalamMeaning": "എലിവേറ്റഡ് മോണോറെയിൽ തിരക്കേറിയ സാമ്പത്തിക ജില്ലകളിലുടനീളം അതിവേഗ ഗതാഗതം വാഗ്ദാനം ചെയ്യുന്നു.",
+    "usageExample": "Single rail transit.",
+    "difficulty": "INTERMEDIATE"
+  },
+  {
+    "word": "wayfarer",
+    "wordMeaning": "വഴിയാത്രക്കാരൻ",
+    "englishText": "The weary wayfarer rested under the sprawling shade of the banyan tree.",
+    "malayalamMeaning": "ക്ഷീണിതനായ വഴിയാത്രക്കാരൻ ആൽമരത്തിൻ്റെ പരന്ന തണലിൽ വിശ്രമിച്ചു.",
+    "usageExample": "Traveler on foot.",
+    "difficulty": "ADVANCED"
+  },
+  {
+    "word": "seafarer",
+    "wordMeaning": "നാവികൻ",
+    "englishText": "Generations of brave seafarers navigated the Indian Ocean following monsoon winds.",
+    "malayalamMeaning": "മൺസൂൺ കാറ്റിനെത്തുടർന്ന് ധീരരായ നാവികരുടെ തലമുറകൾ ഇന്ത്യൻ മഹാസമുദ്രത്തിൽ സഞ്ചരിച്ചു.",
+    "usageExample": "Sailor.",
+    "difficulty": "ADVANCED"
+  }
+]
