@@ -9,7 +9,7 @@ import { Sequelize } from 'sequelize-typescript';
 import { Op } from 'sequelize';
 import { DailyLesson, LessonStatus } from '../../database/models/daily-lesson.model';
 import { DailyLessonSentence, LessonSentenceStatus } from '../../database/models/daily-lesson-sentence.model';
-import { Sentence, SentenceStatus } from '../../database/models/sentence.model';
+import { Sentence, SentenceStatus, SentenceDifficulty } from '../../database/models/sentence.model';
 import { UserSettings } from '../../database/models/user-settings.model';
 import { UserCategory } from '../../database/models/user-category.model';
 import { Category, CategoryStatus } from '../../database/models/category.model';
@@ -57,6 +57,34 @@ export class DailyLessonsService {
     if (!lesson) {
       // Create atomically
       lesson = await this.generateDailyLesson(userId, todayStr, settings.daily_target);
+    } else {
+      // If today's lesson has not been started yet (0 learned words) and contains mixed difficulties
+      // that violate the user's current progression tier, realign it with the user's active tier
+      const learnedCount = lesson.sentences?.filter((s) => s.status === LessonSentenceStatus.LEARNED).length || 0;
+      if (learnedCount === 0 && lesson.sentences && lesson.sentences.length > 0) {
+        const userCategories = await this.userCategoryModel.findAll({
+          where: { user_id: userId },
+          attributes: ['category_id'],
+        });
+        let categoryIds = userCategories.map((uc) => uc.category_id);
+        if (categoryIds.length === 0) {
+          const allActive = await this.categoryModel.findAll({
+            where: { status: CategoryStatus.ACTIVE },
+            attributes: ['id'],
+          });
+          categoryIds = allActive.map((c) => c.id);
+        }
+
+        const targetTier = await this.determineUserDifficultyTier(userId, categoryIds);
+        const hasWrongDifficulty = lesson.sentences.some(
+          (s) => s.sentence?.difficulty && s.sentence.difficulty !== targetTier,
+        );
+
+        if (hasWrongDifficulty) {
+          await this.regenerateLessonSentences(lesson, userId, settings.daily_target);
+          lesson = await this.findLessonWithDetails(userId, todayStr);
+        }
+      }
     }
 
     return this.formatLessonResponse(userId, lesson);
@@ -272,6 +300,21 @@ export class DailyLessonsService {
       });
 
       if (created) {
+        // Sort eligible sentences by difficulty (BEGINNER -> INTERMEDIATE -> ADVANCED)
+        const difficultyWeights: Record<string, number> = {
+          BEGINNER: 1,
+          INTERMEDIATE: 2,
+          ADVANCED: 3,
+        };
+        eligibleSentences.sort((a, b) => {
+          const weightA = difficultyWeights[a.difficulty] ?? 99;
+          const weightB = difficultyWeights[b.difficulty] ?? 99;
+          if (weightA !== weightB) {
+            return weightA - weightB;
+          }
+          return a.id - b.id;
+        });
+
         let position = 1;
         for (const sentence of eligibleSentences) {
           await this.lessonSentenceModel.create(
@@ -307,6 +350,90 @@ export class DailyLessonsService {
     }
   }
 
+  /**
+   * Determines the learner's active difficulty tier based on selected categories.
+   * A learner must complete all BEGINNER words in their categories before unlocking INTERMEDIATE,
+   * and all INTERMEDIATE words before unlocking ADVANCED. No mixed combinations.
+   */
+  private async determineUserDifficultyTier(
+    userId: number,
+    categoryIds: number[],
+  ): Promise<SentenceDifficulty> {
+    // 1. Sentences already learned by this user in progress records
+    const learnedProgress = await this.progressModel.findAll({
+      where: { user_id: userId },
+      attributes: ['sentence_id'],
+    });
+    const learnedSentenceIds = new Set<number>(learnedProgress.map((p) => p.sentence_id));
+
+    // 2. Sentences marked LEARNED in user's daily lessons
+    const userLessonIds = (
+      await this.dailyLessonModel.findAll({
+        where: { user_id: userId },
+        attributes: ['id'],
+      })
+    ).map((l) => l.id);
+
+    if (userLessonIds.length > 0) {
+      const learnedLessonSentences = await this.lessonSentenceModel.findAll({
+        where: {
+          daily_lesson_id: { [Op.in]: userLessonIds },
+          status: LessonSentenceStatus.LEARNED,
+        },
+        attributes: ['sentence_id'],
+      });
+      learnedLessonSentences.forEach((ls) => learnedSentenceIds.add(ls.sentence_id));
+    }
+
+    // 3. Check if user still has unlearned BEGINNER sentences in their selected categories
+    const beginnerWhere: any = {
+      status: SentenceStatus.ACTIVE,
+      category_id: { [Op.in]: categoryIds },
+      difficulty: SentenceDifficulty.BEGINNER,
+    };
+    if (learnedSentenceIds.size > 0) {
+      beginnerWhere.id = { [Op.notIn]: Array.from(learnedSentenceIds) };
+    }
+
+    const unlearnedBeginners = await this.sentenceModel.count({ where: beginnerWhere });
+    if (unlearnedBeginners > 0) {
+      return SentenceDifficulty.BEGINNER;
+    }
+
+    // 4. If all BEGINNER sentences are completed, check INTERMEDIATE sentences
+    const intermediateWhere: any = {
+      status: SentenceStatus.ACTIVE,
+      category_id: { [Op.in]: categoryIds },
+      difficulty: SentenceDifficulty.INTERMEDIATE,
+    };
+    if (learnedSentenceIds.size > 0) {
+      intermediateWhere.id = { [Op.notIn]: Array.from(learnedSentenceIds) };
+    }
+
+    const unlearnedIntermediates = await this.sentenceModel.count({ where: intermediateWhere });
+    if (unlearnedIntermediates > 0) {
+      return SentenceDifficulty.INTERMEDIATE;
+    }
+
+    // 5. If all INTERMEDIATE sentences are completed, check ADVANCED sentences
+    const advancedWhere: any = {
+      status: SentenceStatus.ACTIVE,
+      category_id: { [Op.in]: categoryIds },
+      difficulty: SentenceDifficulty.ADVANCED,
+    };
+    if (learnedSentenceIds.size > 0) {
+      advancedWhere.id = { [Op.notIn]: Array.from(learnedSentenceIds) };
+    }
+
+    const unlearnedAdvanced = await this.sentenceModel.count({ where: advancedWhere });
+    if (unlearnedAdvanced > 0) {
+      return SentenceDifficulty.ADVANCED;
+    }
+
+    // 6. If everything in selected categories is completed, default to BEGINNER for revision cycle
+    return SentenceDifficulty.BEGINNER;
+  }
+
   private async pickEligibleSentences(userId: number, limit: number, excludeIds: number[] = []) {
     // 1. Get user selected categories
     const userCategories = await this.userCategoryModel.findAll({
@@ -325,34 +452,52 @@ export class DailyLessonsService {
       categoryIds = allActive.map((c) => c.id);
     }
 
-    // 2. Sentences assigned to this user in recent 14 days to avoid repetition
-    const recentLessons = await this.dailyLessonModel.findAll({
-      where: {
-        user_id: userId,
-      },
-      order: [['lesson_date', 'DESC']],
-      limit: 14,
-      include: [{ association: 'sentences', attributes: ['sentence_id'] }],
+    // 2. Determine active difficulty tier (strictly BEGINNER -> INTERMEDIATE -> ADVANCED)
+    const targetTier = await this.determineUserDifficultyTier(userId, categoryIds);
+
+    // 3. Collect sentences already learned or assigned in other lessons to avoid repetition
+    const learnedProgress = await this.progressModel.findAll({
+      where: { user_id: userId },
+      attributes: ['sentence_id'],
+    });
+    const learnedIds = new Set<number>(learnedProgress.map((p) => p.sentence_id));
+
+    const allAssignedLessons = await this.dailyLessonModel.findAll({
+      where: { user_id: userId },
+      include: [{ association: 'sentences', attributes: ['sentence_id', 'status'] }],
     });
 
-    const recentSentenceIds = new Set<number>(excludeIds);
-    recentLessons.forEach((l) => {
-      l.sentences?.forEach((s) => recentSentenceIds.add(s.sentence_id));
+    const assignedIds = new Set<number>(excludeIds);
+    allAssignedLessons.forEach((l) => {
+      l.sentences?.forEach((s) => {
+        assignedIds.add(s.sentence_id);
+        if (s.status === LessonSentenceStatus.LEARNED) {
+          learnedIds.add(s.sentence_id);
+        }
+      });
     });
 
-    // 3. Query candidate sentences from selected categories
+    const combinedExcludeIds = new Set<number>([...assignedIds, ...learnedIds]);
+
+    // 4. Query candidate sentences strictly matching the target tier
+    const candidateWhere: any = {
+      status: SentenceStatus.ACTIVE,
+      category_id: { [Op.in]: categoryIds },
+      difficulty: targetTier,
+    };
+    if (combinedExcludeIds.size > 0) {
+      candidateWhere.id = { [Op.notIn]: Array.from(combinedExcludeIds) };
+    }
+
     let candidateSentences = await this.sentenceModel.findAll({
-      where: {
-        status: SentenceStatus.ACTIVE,
-        category_id: { [Op.in]: categoryIds },
-        id: { [Op.notIn]: Array.from(recentSentenceIds) },
-      },
+      where: candidateWhere,
       include: [Category],
       order: Sequelize.literal('RAND()'),
       limit,
     });
 
-    // 4. Fallback if not enough unassigned candidates exist
+    // 5. Fallback if not enough completely unassigned candidates exist in target tier:
+    // Pick from unlearned sentences in target tier, excluding only recent 14 days
     if (candidateSentences.length < limit) {
       const remainingNeeded = limit - candidateSentences.length;
       const alreadyPickedIds = [
@@ -360,12 +505,29 @@ export class DailyLessonsService {
         ...candidateSentences.map((s) => s.id),
       ];
 
+      const recentLessons = await this.dailyLessonModel.findAll({
+        where: { user_id: userId },
+        order: [['lesson_date', 'DESC']],
+        limit: 14,
+        include: [{ association: 'sentences', attributes: ['sentence_id'] }],
+      });
+
+      const recentIds = new Set<number>(alreadyPickedIds);
+      recentLessons.forEach((l) => {
+        l.sentences?.forEach((s) => recentIds.add(s.sentence_id));
+      });
+
+      const fallbackWhere: any = {
+        status: SentenceStatus.ACTIVE,
+        category_id: { [Op.in]: categoryIds },
+        difficulty: targetTier, // STAY STRICTLY ON TARGET TIER! Never mix!
+      };
+      if (recentIds.size > 0) {
+        fallbackWhere.id = { [Op.notIn]: Array.from(recentIds) };
+      }
+
       const fallbackSentences = await this.sentenceModel.findAll({
-        where: {
-          status: SentenceStatus.ACTIVE,
-          category_id: { [Op.in]: categoryIds },
-          id: { [Op.notIn]: alreadyPickedIds },
-        },
+        where: fallbackWhere,
         include: [Category],
         order: Sequelize.literal('RAND()'),
         limit: remainingNeeded,
@@ -374,7 +536,78 @@ export class DailyLessonsService {
       candidateSentences = [...candidateSentences, ...fallbackSentences];
     }
 
+    // 6. Extreme fallback: if category has very few sentences, pick any sentence in targetTier
+    if (candidateSentences.length < limit) {
+      const remainingNeeded = limit - candidateSentences.length;
+      const alreadyPickedIds = candidateSentences.map((s) => s.id);
+
+      const anyTierWhere: any = {
+        status: SentenceStatus.ACTIVE,
+        category_id: { [Op.in]: categoryIds },
+        difficulty: targetTier,
+      };
+      if (alreadyPickedIds.length > 0) {
+        anyTierWhere.id = { [Op.notIn]: alreadyPickedIds };
+      }
+
+      const anyTierSentences = await this.sentenceModel.findAll({
+        where: anyTierWhere,
+        include: [Category],
+        order: Sequelize.literal('RAND()'),
+        limit: remainingNeeded,
+      });
+
+      candidateSentences = [...candidateSentences, ...anyTierSentences];
+    }
+
     return candidateSentences;
+  }
+
+  private async regenerateLessonSentences(
+    lesson: DailyLesson,
+    userId: number,
+    target: number,
+  ) {
+    const transaction = await this.sequelize.transaction();
+    try {
+      await this.lessonSentenceModel.destroy({
+        where: {
+          daily_lesson_id: lesson.id,
+          status: LessonSentenceStatus.PENDING,
+        },
+        transaction,
+      });
+
+      const candidates = await this.pickEligibleSentences(userId, target, []);
+      if (candidates.length === 0) {
+        await transaction.rollback();
+        return;
+      }
+
+      let position = 1;
+      for (const sentence of candidates) {
+        await this.lessonSentenceModel.create(
+          {
+            daily_lesson_id: lesson.id,
+            sentence_id: sentence.id,
+            position: position++,
+            status: LessonSentenceStatus.PENDING,
+            word_snapshot: sentence.word,
+            word_meaning_snapshot: sentence.word_meaning,
+            english_text_snapshot: sentence.english_text,
+            malayalam_meaning_snapshot: sentence.malayalam_meaning,
+          },
+          { transaction },
+        );
+      }
+
+      lesson.target_count = candidates.length;
+      await lesson.save({ transaction });
+
+      await transaction.commit();
+    } catch (err) {
+      await transaction.rollback();
+    }
   }
 
   private async findLessonWithDetails(userId: number, dateStr: string) {
@@ -453,6 +686,26 @@ export class DailyLessonsService {
           : null,
         isFavorite: favSet.has(ls.sentence_id),
       };
+    });
+
+    // Order sentences based on difficulty (BEGINNER -> INTERMEDIATE -> ADVANCED)
+    const difficultyWeights: Record<string, number> = {
+      BEGINNER: 1,
+      INTERMEDIATE: 2,
+      ADVANCED: 3,
+    };
+
+    items.sort((a, b) => {
+      const weightA = difficultyWeights[a.difficulty] ?? 99;
+      const weightB = difficultyWeights[b.difficulty] ?? 99;
+      if (weightA !== weightB) {
+        return weightA - weightB;
+      }
+      return a.position - b.position;
+    });
+
+    items.forEach((item, index) => {
+      item.position = index + 1;
     });
 
     return {
