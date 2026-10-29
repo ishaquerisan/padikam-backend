@@ -1,5 +1,6 @@
-import { IsEmail, IsNotEmpty, IsOptional, IsString, MinLength } from 'class-validator';
+import { IsEmail, IsNotEmpty, IsOptional, IsString, MinLength, IsEnum } from 'class-validator';
 import { ApiProperty } from '@nestjs/swagger';
+import { SentenceDifficulty } from '../../../database/models/sentence.model';
 
 export class RegisterDto {
   @ApiProperty({ example: 'Rahul Nair' })
@@ -68,6 +69,11 @@ export class UpdateProfileDto {
   @IsString()
   @IsOptional()
   avatar_url?: string;
+
+  @ApiProperty({ example: SentenceDifficulty.BEGINNER, enum: SentenceDifficulty, required: false })
+  @IsEnum(SentenceDifficulty, { message: 'Difficulty must be BEGINNER, INTERMEDIATE, or ADVANCED' })
+  @IsOptional()
+  difficulty_level?: SentenceDifficulty;
 }
 
 export class GoogleAuthDto {

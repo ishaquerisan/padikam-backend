@@ -1,5 +1,6 @@
 import { Table, Column, Model, DataType, ForeignKey, BelongsTo } from 'sequelize-typescript';
 import { User } from './user.model';
+import { SentenceDifficulty } from './sentence.model';
 
 @Table({
   tableName: 'user_settings',
@@ -31,6 +32,13 @@ export class UserSettings extends Model {
     },
   })
   daily_target: number;
+
+  @Column({
+    type: DataType.ENUM(...Object.values(SentenceDifficulty)),
+    allowNull: false,
+    defaultValue: SentenceDifficulty.BEGINNER,
+  })
+  difficulty_level: SentenceDifficulty;
 
   @Column({
     type: DataType.STRING(64),

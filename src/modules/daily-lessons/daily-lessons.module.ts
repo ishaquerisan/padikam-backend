@@ -12,9 +12,12 @@ import { Favorite } from '../../database/models/favorite.model';
 import { DailyLessonsService } from './daily-lessons.service';
 import { DailyLessonsController } from './daily-lessons.controller';
 
+import { User } from '../../database/models/user.model';
+
 @Module({
   imports: [
     SequelizeModule.forFeature([
+      User,
       DailyLesson,
       DailyLessonSentence,
       Sentence,

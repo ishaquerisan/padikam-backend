@@ -11,6 +11,7 @@ import * as bcrypt from 'bcrypt';
 import { User, UserRole, UserStatus } from '../../database/models/user.model';
 import { UserSettings } from '../../database/models/user-settings.model';
 import { ActivityLog } from '../../database/models/activity-log.model';
+import { SentenceDifficulty } from '../../database/models/sentence.model';
 import {
   RegisterDto,
   LoginDto,
@@ -65,6 +66,7 @@ export class AuthService {
         {
           user_id: user.id,
           daily_target: 5,
+          difficulty_level: SentenceDifficulty.BEGINNER,
           timezone: 'Asia/Kolkata',
           notifications_enabled: true,
         },
@@ -194,6 +196,7 @@ export class AuthService {
           {
             user_id: user.id,
             daily_target: 5,
+            difficulty_level: SentenceDifficulty.BEGINNER,
             timezone: 'Asia/Kolkata',
             notifications_enabled: true,
           },
@@ -229,13 +232,33 @@ export class AuthService {
   }
 
   async getProfile(userId: number) {
-    const user = await this.userModel.findByPk(userId, {
+    let user = await this.userModel.findByPk(userId, {
       include: [UserSettings],
       attributes: { exclude: ['password_hash'] },
     });
     if (!user) {
       throw new NotFoundException('User profile not found');
     }
+
+    if (!user.settings) {
+      const settings = await this.userSettingsModel.create({
+        user_id: userId,
+        daily_target: 5,
+        difficulty_level: user.difficulty_level || SentenceDifficulty.BEGINNER,
+        timezone: 'Asia/Kolkata',
+        notifications_enabled: true,
+      });
+      user.settings = settings;
+    } else if (!user.settings.difficulty_level) {
+      user.settings.difficulty_level = user.difficulty_level || SentenceDifficulty.BEGINNER;
+      await user.settings.save();
+    }
+
+    if (!user.difficulty_level) {
+      user.difficulty_level = user.settings?.difficulty_level || SentenceDifficulty.BEGINNER;
+      await user.save();
+    }
+
     return user;
   }
 
@@ -251,6 +274,26 @@ export class AuthService {
       user.avatar_url = dto.avatar_url.trim();
     }
     await user.save();
+
+    if (dto.difficulty_level !== undefined) {
+      user.difficulty_level = dto.difficulty_level;
+      await user.save();
+
+      let settings = await this.userSettingsModel.findOne({ where: { user_id: userId } });
+      if (!settings) {
+        await this.userSettingsModel.create({
+          user_id: userId,
+          daily_target: 5,
+          difficulty_level: dto.difficulty_level,
+          timezone: 'Asia/Kolkata',
+          notifications_enabled: true,
+        });
+      } else {
+        settings.difficulty_level = dto.difficulty_level;
+        await settings.save();
+      }
+    }
+
     return this.getProfile(userId);
   }
 

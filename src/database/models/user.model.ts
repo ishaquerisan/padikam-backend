@@ -18,6 +18,8 @@ export enum UserStatus {
   SUSPENDED = 'SUSPENDED',
 }
 
+import { SentenceDifficulty } from './sentence.model';
+
 @Table({
   tableName: 'users',
   timestamps: true,
@@ -78,6 +80,13 @@ export class User extends Model {
     allowNull: false,
   })
   role: UserRole;
+
+  @Column({
+    type: DataType.ENUM(...Object.values(SentenceDifficulty)),
+    defaultValue: SentenceDifficulty.BEGINNER,
+    allowNull: false,
+  })
+  difficulty_level: SentenceDifficulty;
 
   @Column({
     type: DataType.ENUM(...Object.values(UserStatus)),
