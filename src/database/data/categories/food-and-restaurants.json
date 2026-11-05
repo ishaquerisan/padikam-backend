@@ -3,7 +3,7 @@
     "word": "food",
     "wordMeaning": "ഭക്ഷണം",
     "englishText": "Kerala is famous for its rich, aromatic, and spicy traditional food.",
-    "malayalamMeaning": "സമ്പന്നമായ, സുഗന്ധമുള്ള, എരിവുള്ള പരമ്പരാഗത ഭക്ഷണത്തിന് കേരളം പ്രശസ്തമാണ്.",
+    "malayalamMeaning": "രുചികരവും സുഗന്ധപൂരിതവും എരിവുള്ളതുമായ പരമ്പരാഗത ഭക്ഷണത്തിന് കേരളം പ്രശസ്തമാണ്.",
     "usageExample": "Nourishment.",
     "difficulty": "BEGINNER"
   },
@@ -11,7 +11,7 @@
     "word": "eat",
     "wordMeaning": "തിന്നുക",
     "englishText": "Always sit down peacefully to eat your meals without staring at screens.",
-    "malayalamMeaning": "സ്‌ക്രീനുകളിൽ നോക്കാതെ എപ്പോഴും സമാധാനത്തോടെ ഇരുന്ന് ഭക്ഷണം കഴിക്കുക.",
+    "malayalamMeaning": "സ്‌ക്രീനുകളിലേക്ക് നോക്കാതെ എപ്പോഴും ശാന്തമായി ഇരുന്ന് ഭക്ഷണം കഴിക്കുക.",
     "usageExample": "Consume meal.",
     "difficulty": "BEGINNER"
   },
@@ -19,7 +19,7 @@
     "word": "drink",
     "wordMeaning": "കുടിക്കുക",
     "englishText": "Drink a tall glass of fresh lime water to rehydrate after playing outside.",
-    "malayalamMeaning": "പുറത്ത് കളിച്ചതിന് ശേഷം റീഹൈഡ്രേറ്റ് ചെയ്യാൻ ഉയരമുള്ള ഒരു ഗ്ലാസ് ശുദ്ധമായ നാരങ്ങാവെള്ളം കുടിക്കുക.",
+    "malayalamMeaning": "പുറത്ത് കളിച്ചതിന് ശേഷം ക്ഷീണമകറ്റാൻ ഒരു വലിയ ഗ്ലാസ് ഫ്രഷ് നാരങ്ങാവെള്ളം കുടിക്കുക.",
     "usageExample": "Imbibe liquid.",
     "difficulty": "BEGINNER"
   },
@@ -27,7 +27,7 @@
     "word": "meal",
     "wordMeaning": "ഭക്ഷണം",
     "englishText": "A traditional Onam feast is a grand three-course vegetarian meal.",
-    "malayalamMeaning": "ഒരു പരമ്പരാഗത ഓണസദ്യ ഒരു മഹത്തായ മൂന്ന് വിഭവ സസ്യഭക്ഷണമാണ്.",
+    "malayalamMeaning": "പരമ്പരാഗത ഓണസദ്യ വിഭവസമൃദ്ധമായ ഒരു സമ്പൂർണ്ണ സസ്യഭക്ഷണമാണ്.",
     "usageExample": "Dining session.",
     "difficulty": "BEGINNER"
   },
@@ -35,7 +35,7 @@
     "word": "hungry",
     "wordMeaning": "വിശക്കുന്നു",
     "englishText": "The aroma of freshly baked bread made everyone ravenously hungry.",
-    "malayalamMeaning": "പുതുതായി ചുട്ട റൊട്ടിയുടെ സുഗന്ധം എല്ലാവരിലും വിശപ്പുണ്ടാക്കി.",
+    "malayalamMeaning": "പുതുതായി ചുട്ടെടുത്ത ബ്രെഡിന്റെ മണം എല്ലാവരിലും വല്ലാത്ത വിശപ്പുണ്ടാക്കി.",
     "usageExample": "Craving food.",
     "difficulty": "BEGINNER"
   },
@@ -43,7 +43,7 @@
     "word": "thirsty",
     "wordMeaning": "ദാഹിക്കുന്നു",
     "englishText": "Working under the tropical sun made the laborers desperately thirsty.",
-    "malayalamMeaning": "ഉഷ്ണമേഖലാ സൂര്യനു കീഴെ ജോലി ചെയ്യുന്നത് തൊഴിലാളികളെ തീവ്രമായി ദാഹിച്ചു.",
+    "malayalamMeaning": "കടുത്ത വെയിലിൽ ജോലി ചെയ്തത് തൊഴിലാളികൾക്ക് കഠിനമായ ദാഹമുണ്ടാക്കി.",
     "usageExample": "Needing water.",
     "difficulty": "BEGINNER"
   },
@@ -51,7 +51,7 @@
     "word": "taste",
     "wordMeaning": "രുചി",
     "englishText": "Taste the coconut fish curry to see if it requires more sea salt.",
-    "malayalamMeaning": "കൂടുതൽ കടൽ ഉപ്പ് ആവശ്യമാണോ എന്നറിയാൻ തേങ്ങാ മീൻ കറി രുചിച്ചു നോക്കൂ.",
+    "malayalamMeaning": "തേങ്ങാപ്പാൽ ചേർത്ത മീൻ കറിയിൽ ഉപ്പ് ആവശ്യത്തിന് ഉണ്ടോ എന്ന് രുചിച്ചു നോക്കൂ.",
     "usageExample": "Flavor sensation.",
     "difficulty": "BEGINNER"
   },
@@ -59,7 +59,7 @@
     "word": "sweet",
     "wordMeaning": "മധുരം",
     "englishText": "Payasam is a rich, sweet milk pudding flavored with green cardamom.",
-    "malayalamMeaning": "പച്ച ഏലയ്ക്കയുടെ രുചിയുള്ള മധുരമുള്ള പാൽ പുഡ്ഡിംഗ് ആണ് പായസം.",
+    "malayalamMeaning": "ഏലക്കായുടെ സുഗന്ധമുള്ള, മധുരമേറിയ ഒരു പാൽ വിഭവമാണ് പായസം.",
     "usageExample": "Sugary flavor.",
     "difficulty": "BEGINNER"
   },
@@ -67,7 +67,7 @@
     "word": "sour",
     "wordMeaning": "പുളിച്ച",
     "englishText": "Raw mangoes have a delightfully tangy and sour taste with chili powder.",
-    "malayalamMeaning": "അസംസ്കൃത മാമ്പഴത്തിന് മുളകുപൊടിക്കൊപ്പം പുളിയും പുളിയുമുള്ള രുചിയുണ്ട്.",
+    "malayalamMeaning": "മുളകുപൊടി ചേർത്ത പച്ചമാങ്ങയ്ക്ക് നല്ല പുളിയും കൊതിയൂറുന്ന രുചിയുമുണ്ട്.",
     "usageExample": "Acidic flavor.",
     "difficulty": "BEGINNER"
   },
@@ -75,7 +75,7 @@
     "word": "spicy",
     "wordMeaning": "മസാലകൾ",
     "englishText": "Malabar chicken biryani is richly spiced but not overpoweringly hot.",
-    "malayalamMeaning": "മലബാർ ചിക്കൻ ബിരിയാണി ധാരാളമായി മസാലകൾ അടങ്ങിയതാണ്, പക്ഷേ അമിതമായ ചൂടില്ല.",
+    "malayalamMeaning": "മലബാർ ചിക്കൻ ബിരിയാണിയിൽ മസാലകൾ സമൃദ്ധമാണെങ്കിലും അമിതമായ എരിവില്ല.",
     "usageExample": "Rich in spice.",
     "difficulty": "BEGINNER"
   },
@@ -83,7 +83,7 @@
     "word": "salty",
     "wordMeaning": "ഉപ്പിട്ട",
     "englishText": "Avoid eating overly salty potato chips if you have high blood pressure.",
-    "malayalamMeaning": "നിങ്ങൾക്ക് ഉയർന്ന രക്തസമ്മർദ്ദമുണ്ടെങ്കിൽ അമിതമായി ഉപ്പിട്ട ഉരുളക്കിഴങ്ങ് ചിപ്സ് കഴിക്കുന്നത് ഒഴിവാക്കുക.",
+    "malayalamMeaning": "ഉയർന്ന രക്തസമ്മർദ്ദമുണ്ടെങ്കിൽ അമിതമായി ഉപ്പുള്ള ഉരുളക്കിഴങ്ങ് ചിപ്‌സ് കഴിക്കുന്നത് ഒഴിവാക്കുക.",
     "usageExample": "Saline taste.",
     "difficulty": "BEGINNER"
   },
@@ -91,7 +91,7 @@
     "word": "bitter",
     "wordMeaning": "കയ്പേറിയ",
     "englishText": "Bitter gourd fry is surprisingly delicious and remarkably healthy for diabetes.",
-    "malayalamMeaning": "കയ്പേറിയ ഫ്രൈ അത്ഭുതകരമാംവിധം രുചികരവും പ്രമേഹത്തിന് വളരെ ആരോഗ്യകരവുമാണ്.",
+    "malayalamMeaning": "പാവയ്ക്ക വറുത്തത് വളരെ രുചികരവും പ്രമേഹത്തിന് അത്യന്തം നല്ലതുമാണ്.",
     "usageExample": "Bitter taste.",
     "difficulty": "BEGINNER"
   },
@@ -99,7 +99,7 @@
     "word": "hot",
     "wordMeaning": "ചൂട്",
     "englishText": "Be careful, the freshly brewed ginger tea in the ceramic cup is very hot.",
-    "malayalamMeaning": "ശ്രദ്ധിക്കുക, സെറാമിക് കപ്പിൽ പുതുതായി ഉണ്ടാക്കിയ ഇഞ്ചി ചായ വളരെ ചൂടാണ്.",
+    "malayalamMeaning": "സൂക്ഷിക്കുക, സെറാമിക് കപ്പിലെ ഇഞ്ചി ചായയ്ക്ക് നല്ല ചൂടുണ്ട്.",
     "usageExample": "High temperature.",
     "difficulty": "BEGINNER"
   },
@@ -107,7 +107,7 @@
     "word": "cold",
     "wordMeaning": "തണുപ്പ്",
     "englishText": "A chilled glass of spiced buttermilk is wonderfully refreshing in summer.",
-    "malayalamMeaning": "ഒരു തണുത്ത ഗ്ലാസ്സ് മസാല ചേർത്ത മോർ വേനൽക്കാലത്ത് അത്ഭുതകരമായി ഉന്മേഷദായകമാണ്.",
+    "malayalamMeaning": "വേനൽക്കാലത്ത് ഒരു ഗ്ലാസ് തണുത്ത സംഭാരം കുടിക്കുന്നത് മനസ്സിനും ശരീരത്തിനും നല്ല ഉന്മേഷം നൽകും.",
     "usageExample": "Low temperature.",
     "difficulty": "BEGINNER"
   },
@@ -115,7 +115,7 @@
     "word": "warm",
     "wordMeaning": "ചൂട്",
     "englishText": "Drink a cup of warm turmeric milk before going to bed at night.",
-    "malayalamMeaning": "രാത്രി ഉറങ്ങാൻ പോകുന്നതിനു മുമ്പ് ഒരു കപ്പ് ചെറുചൂടുള്ള മഞ്ഞൾ പാൽ കുടിക്കുക.",
+    "malayalamMeaning": "രാത്രി ഉറങ്ങാൻ പോകുന്നതിനു മുൻപ് ഒരു കപ്പ് ചെറുചൂടുള്ള മഞ്ഞൾപ്പാൽ കുടിക്കുക.",
     "usageExample": "Pleasantly mild heat.",
     "difficulty": "BEGINNER"
   },
@@ -123,7 +123,7 @@
     "word": "fresh",
     "wordMeaning": "പുതിയത്",
     "englishText": "The seaside restaurant sources fresh catch from local fishermen daily.",
-    "malayalamMeaning": "പ്രാദേശിക മത്സ്യത്തൊഴിലാളികളിൽ നിന്ന് ദിവസേന പുതിയ മീൻപിടിത്തങ്ങൾ കടൽത്തീര റെസ്റ്റോറൻ്റ് ഉറവിടമാക്കുന്നു.",
+    "malayalamMeaning": "ഈ കടൽത്തീര റസ്റ്റോറന്റ് ദിവസവും പ്രാദേശിക മത്സ്യത്തൊഴിലാളികളിൽ നിന്നാണ് പുതിയ മീനുകൾ വാങ്ങുന്നത്.",
     "usageExample": "Newly harvested.",
     "difficulty": "BEGINNER"
   },
@@ -131,7 +131,7 @@
     "word": "water",
     "wordMeaning": "വെള്ളം",
     "englishText": "Always drink clean, boiled, and filtered drinking water.",
-    "malayalamMeaning": "ശുദ്ധവും തിളപ്പിച്ചതും ഫിൽട്ടർ ചെയ്തതുമായ കുടിവെള്ളം എപ്പോഴും കുടിക്കുക.",
+    "malayalamMeaning": "എപ്പോഴും തിളപ്പിച്ചാറ്റിയ ശുദ്ധമായ കുടിവെള്ളം കുടിക്കുക.",
     "usageExample": "Life liquid.",
     "difficulty": "BEGINNER"
   },
@@ -139,7 +139,7 @@
     "word": "tea",
     "wordMeaning": "ചായ",
     "englishText": "A steaming cup of spiced masala tea is the ultimate monsoon comfort drink.",
-    "malayalamMeaning": "ആവിയിൽ വേവിക്കുന്ന ഒരു കപ്പ് മസാല മസാല ചായയാണ് ആത്യന്തിക മൺസൂൺ കംഫർട്ട് ഡ്രിങ്ക്.",
+    "malayalamMeaning": "മഴക്കാലത്ത് ആവി പറക്കുന്ന ഒരു കപ്പ് മസാല ചായ കുടിക്കുന്നത് പ്രത്യേക ഒരു സുഖമാണ്.",
     "usageExample": "Hot brew.",
     "difficulty": "BEGINNER"
   },
@@ -147,7 +147,7 @@
     "word": "coffee",
     "wordMeaning": "കാപ്പി",
     "englishText": "South Indian filter coffee is brewed with freshly roasted chicory beans.",
-    "malayalamMeaning": "ദക്ഷിണേന്ത്യൻ ഫിൽട്ടർ കോഫി പുതുതായി വറുത്ത ചിക്കറി ബീൻസ് ഉപയോഗിച്ചാണ് ഉണ്ടാക്കുന്നത്.",
+    "malayalamMeaning": "പുതുതായി വറുത്തെടുത്ത കാപ്പിക്കുരുവും ചിക്കറിയും ചേർത്താണ് തെന്നിന്ത്യൻ ഫിൽട്ടർ കോഫി ഉണ്ടാക്കുന്നത്.",
     "usageExample": "Brewed beverage.",
     "difficulty": "BEGINNER"
   },
@@ -155,7 +155,7 @@
     "word": "milk",
     "wordMeaning": "പാൽ",
     "englishText": "Add a splash of fresh cow milk to your evening black tea.",
-    "malayalamMeaning": "നിങ്ങളുടെ വൈകുന്നേരത്തെ കട്ടൻ ചായയിൽ പുതിയ പശുവിൻ പാൽ ചേർക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ വൈകുന്നേരത്തെ കട്ടൻചായയിൽ അല്പം പശുവിൻ പാൽ ഒഴിക്കുക.",
     "usageExample": "Dairy beverage.",
     "difficulty": "BEGINNER"
   },
@@ -163,7 +163,7 @@
     "word": "juice",
     "wordMeaning": "ജ്യൂസ്",
     "englishText": "Fresh watermelon juice with crushed mint leaves is exceptionally hydrating.",
-    "malayalamMeaning": "ചതച്ച പുതിന ഇലകളുള്ള പുതിയ തണ്ണിമത്തൻ ജ്യൂസ് അസാധാരണമായി ജലാംശം നൽകുന്നു.",
+    "malayalamMeaning": "പുതിനയില ചേർത്ത ഫ്രഷ് തണ്ണിമത്തൻ ജ്യൂസ് ശരീരത്തിന് നല്ല തണുപ്പും ഉന്മേഷവും നൽകും.",
     "usageExample": "Fruit beverage.",
     "difficulty": "BEGINNER"
   },
@@ -171,7 +171,7 @@
     "word": "rice",
     "wordMeaning": "അരി",
     "englishText": "Steamed red Matta rice is the nutritional staple of Kerala households.",
-    "malayalamMeaning": "ആവിയിൽ വേവിച്ച ചുവന്ന മട്ട അരി കേരളത്തിലെ വീടുകളിലെ പ്രധാന പോഷകമാണ്.",
+    "malayalamMeaning": "കേരളത്തിലെ വീടുകളിലെ പ്രധാന പോഷകാഹാരമാണ് പുഴുങ്ങിയ ചുവന്ന മട്ടയരി ചോറ്.",
     "usageExample": "Staple grain.",
     "difficulty": "BEGINNER"
   },
@@ -179,7 +179,7 @@
     "word": "bread",
     "wordMeaning": "അപ്പം",
     "englishText": "Freshly baked whole-wheat brown bread pairs wonderfully with vegetable stew.",
-    "malayalamMeaning": "പുതുതായി ചുട്ടുപഴുത്ത ഗോതമ്പ് ബ്രൗൺ ബ്രെഡ് വെജിറ്റബിൾ പായസവുമായി അത്ഭുതകരമായി ജോടിയാക്കുന്നു.",
+    "malayalamMeaning": "പുതുതായി ചുട്ടെടുത്ത ഗോതമ്പ് ബ്രെഡ് വെജിറ്റബിൾ സ്റ്റൂവിനൊപ്പം കഴിക്കാൻ വളരെ നല്ലതാണ്.",
     "usageExample": "Baked staple.",
     "difficulty": "BEGINNER"
   },
@@ -187,7 +187,7 @@
     "word": "egg",
     "wordMeaning": "മുട്ട",
     "englishText": "Boiled country eggs are packed with high-quality protein and vitamins.",
-    "malayalamMeaning": "വേവിച്ച നാടൻ മുട്ടകളിൽ ഉയർന്ന ഗുണമേന്മയുള്ള പ്രോട്ടീനും വിറ്റാമിനുകളും അടങ്ങിയിട്ടുണ്ട്.",
+    "malayalamMeaning": "പുഴുങ്ങിയ നാടൻ മുട്ടകളിൽ മികച്ച പ്രോട്ടീനും വിറ്റാമിനുകളും ധാരാളമായി അടങ്ങിയിട്ടുണ്ട്.",
     "usageExample": "Poultry egg.",
     "difficulty": "BEGINNER"
   },
@@ -195,7 +195,7 @@
     "word": "fish",
     "wordMeaning": "മത്സ്യം",
     "englishText": "Pearl spot fish marinated in crushed red chili and grilled is a delicacy.",
-    "malayalamMeaning": "ചുവന്ന മുളകിൽ ചതച്ചതും ഗ്രിൽ ചെയ്തതുമായ പേൾ സ്പോട്ട് ഫിഷ് ഒരു സ്വാദിഷ്ടമാണ്.",
+    "malayalamMeaning": "മുളക് അരച്ചു തേച്ച് പൊള്ളിച്ചെടുത്ത കരിമീൻ ഒരു വിശിഷ്ട വിഭവമാണ്.",
     "usageExample": "Seafood staple.",
     "difficulty": "BEGINNER"
   },
@@ -203,7 +203,7 @@
     "word": "chicken",
     "wordMeaning": "ചിക്കൻ",
     "englishText": "The spicy country chicken roast was cooked with shallots and curry leaves.",
-    "malayalamMeaning": "എരിവുള്ള നാടൻ ചിക്കൻ റോസ്റ്റ് ചെറുപയർ, കറിവേപ്പില എന്നിവ ഉപയോഗിച്ച് പാകം ചെയ്തു.",
+    "malayalamMeaning": "ചെറിയ ഉള്ളിയും കറിവേപ്പിലയും ചേർത്താണ് എരിവുള്ള നാടൻ കോഴി റോസ്റ്റ് ഉണ്ടാക്കിയത്.",
     "usageExample": "Poultry meat.",
     "difficulty": "BEGINNER"
   },
@@ -211,7 +211,7 @@
     "word": "meat",
     "wordMeaning": "മാംസം",
     "englishText": "Kerala cuisine features rich, slow-cooked meat preparations with coconut slices.",
-    "malayalamMeaning": "തേങ്ങാ കഷ്ണങ്ങളോടുകൂടിയ സമ്പന്നമായ, സാവധാനത്തിൽ പാകം ചെയ്ത മാംസം തയ്യാറാക്കുന്നതാണ് കേരളാ പാചകരീതി.",
+    "malayalamMeaning": "തേങ്ങാക്കൊത്ത് ചേർത്ത് ചെറിയ തീയിൽ വേവിച്ചെടുക്കുന്ന ഇറച്ചി വിഭവങ്ങൾ കേരളീയ ഭക്ഷണത്തിന്റെ പ്രത്യേകതയാണ്.",
     "usageExample": "Animal protein.",
     "difficulty": "BEGINNER"
   },
@@ -219,7 +219,7 @@
     "word": "curry",
     "wordMeaning": "കറി",
     "englishText": "Vegetable stew is a mild, creamy coconut milk curry served with appam.",
-    "malayalamMeaning": "വെജിറ്റബിൾ പായസം അപ്പത്തിനൊപ്പം വിളമ്പുന്ന മൃദുവായ, ക്രീം തേങ്ങാപ്പാൽ കറിയാണ്.",
+    "malayalamMeaning": "അപ്പത്തിനൊപ്പം വിളമ്പുന്ന, തേങ്ങാപ്പാലിൽ തയാറാക്കിയ മൃദുവായ ഒരു കറിയാണ് വെജിറ്റബിൾ സ്റ്റൂ.",
     "usageExample": "Spiced gravy dish.",
     "difficulty": "BEGINNER"
   },
@@ -227,7 +227,7 @@
     "word": "soup",
     "wordMeaning": "സൂപ്പ്",
     "englishText": "A warm bowl of chicken pepper soup helps clear head colds and congestion.",
-    "malayalamMeaning": "ഒരു ചൂടുള്ള പാത്രത്തിൽ ചിക്കൻ പെപ്പർ സൂപ്പ് തലയിലെ ജലദോഷവും തിരക്കും ഇല്ലാതാക്കാൻ സഹായിക്കുന്നു.",
+    "malayalamMeaning": "ചൂടുള്ള കുരുമുളക് ചിക്കൻ സൂപ്പ് കുടിക്കുന്നത് ജലദോഷവും മൂക്കടപ്പും മാറാൻ സഹായിക്കും.",
     "usageExample": "Liquid broth.",
     "difficulty": "BEGINNER"
   },
@@ -235,7 +235,7 @@
     "word": "salad",
     "wordMeaning": "സാലഡ്",
     "englishText": "A crisp cucumber and carrot salad with lemon juice is light and healthy.",
-    "malayalamMeaning": "ചെറുനാരങ്ങാനീര് കലർന്ന വെള്ളരിക്കയും കാരറ്റ് സാലഡും ഭാരം കുറഞ്ഞതും ആരോഗ്യകരവുമാണ്.",
+    "malayalamMeaning": "നാരങ്ങാനീര് ചേർത്ത വെള്ളരിക്ക-കാരറ്റ് സാലഡ് ലളിതവും ആരോഗ്യകരവുമാണ്.",
     "usageExample": "Raw greens dish.",
     "difficulty": "BEGINNER"
   },
@@ -243,7 +243,7 @@
     "word": "fruit",
     "wordMeaning": "ഫലം",
     "englishText": "Eating seasonal tropical fruits like papaya and guava boosts immunity.",
-    "malayalamMeaning": "പപ്പായ, പേരക്ക തുടങ്ങിയ സീസണൽ ഉഷ്ണമേഖലാ പഴങ്ങൾ കഴിക്കുന്നത് പ്രതിരോധശേഷി വർദ്ധിപ്പിക്കുന്നു.",
+    "malayalamMeaning": "പപ്പായ, പേരയ്ക്ക തുടങ്ങിയ സീസണൽ പഴങ്ങൾ കഴിക്കുന്നത് രോഗപ്രതിരോധ ശേഷി വർദ്ധിപ്പിക്കും.",
     "usageExample": "Produce sweet.",
     "difficulty": "BEGINNER"
   },
@@ -251,7 +251,7 @@
     "word": "apple",
     "wordMeaning": "ആപ്പിൾ",
     "englishText": "An apple a day keeps the doctor away, as the old saying goes.",
-    "malayalamMeaning": "പഴയ പഴഞ്ചൊല്ല് പോലെ, ദിവസവും ഒരു ആപ്പിൾ ഡോക്ടറെ അകറ്റുന്നു.",
+    "malayalamMeaning": "ദിവസവും ഓരോ ആപ്പിൾ കഴിച്ചാൽ ഡോക്ടറെ ഒഴിവാക്കാം എന്നൊരു പഴയ ചൊല്ലുണ്ട്.",
     "usageExample": "Temperate fruit.",
     "difficulty": "BEGINNER"
   },
@@ -259,7 +259,7 @@
     "word": "banana",
     "wordMeaning": "വാഴപ്പഴം",
     "englishText": "Sweet golden Nendran bananas are steamed or made into crispy chips.",
-    "malayalamMeaning": "സ്വീറ്റ് ഗോൾഡൻ നേന്ത്രൻ വാഴപ്പഴം ആവിയിൽ വേവിക്കുകയോ ക്രിസ്പി ചിപ്സ് ആക്കുകയോ ചെയ്യുന്നു.",
+    "malayalamMeaning": "മധുരമുള്ള നേന്ത്രപ്പഴം പുഴുങ്ങിയോ വറുത്തുപ്പേരിയായോ കഴിക്കാറുണ്ട്.",
     "usageExample": "Tropical staple.",
     "difficulty": "BEGINNER"
   },
@@ -267,7 +267,7 @@
     "word": "mango",
     "wordMeaning": "മാങ്ങ",
     "englishText": "Ripe sweet mangoes are the undisputed crown jewel of Indian summer fruits.",
-    "malayalamMeaning": "പഴുത്ത മധുരമുള്ള മാമ്പഴങ്ങൾ ഇന്ത്യൻ വേനൽക്കാല പഴങ്ങളുടെ തർക്കമില്ലാത്ത കിരീടമാണ്.",
+    "malayalamMeaning": "നല്ല മധുരമുള്ള പഴുത്ത മാങ്ങകൾ ഇന്ത്യൻ വേനൽക്കാല പഴങ്ങളിലെ രാജാവാണ്.",
     "usageExample": "King of fruits.",
     "difficulty": "BEGINNER"
   },
@@ -275,7 +275,7 @@
     "word": "vegetable",
     "wordMeaning": "പച്ചക്കറി",
     "englishText": "Load your dinner plate with plenty of colorful steamed vegetables.",
-    "malayalamMeaning": "വർണ്ണാഭമായ ആവിയിൽ വേവിച്ച പച്ചക്കറികൾ നിങ്ങളുടെ ഡിന്നർ പ്ലേറ്റിൽ കയറ്റുക.",
+    "malayalamMeaning": "രാത്രി ഭക്ഷണത്തിൽ ആവിയിൽ വേവിച്ച ധാരാളം പച്ചക്കറികൾ ഉൾപ്പെടുത്തുക.",
     "usageExample": "Produce savory.",
     "difficulty": "BEGINNER"
   },
@@ -283,7 +283,7 @@
     "word": "potato",
     "wordMeaning": "ഉരുളക്കിഴങ്ങ്",
     "englishText": "Mashed boiled potatoes flavored with mustard seeds make a great filling.",
-    "malayalamMeaning": "കടുക് വിത്ത് രുചിയുള്ള പറങ്ങോടൻ വേവിച്ച ഉരുളക്കിഴങ്ങ് ഒരു വലിയ പൂരിപ്പിക്കൽ ഉണ്ടാക്കുന്നു.",
+    "malayalamMeaning": "കടുക് താളിച്ച് ഉടച്ച ഉരുളക്കിഴങ്ങ് ഒരു മികച്ച ഫില്ലിംഗാണ്.",
     "usageExample": "Root tuber.",
     "difficulty": "BEGINNER"
   },
@@ -291,7 +291,7 @@
     "word": "onion",
     "wordMeaning": "ഉള്ളി",
     "englishText": "Finely sliced red onions are slowly sautéed until deep golden brown.",
-    "malayalamMeaning": "നന്നായി അരിഞ്ഞ ചുവന്ന ഉള്ളി ആഴത്തിലുള്ള സ്വർണ്ണ തവിട്ട് വരെ സാവധാനം വഴറ്റുക.",
+    "malayalamMeaning": "നേർത്തതായി അരിഞ്ഞ സവാള സ്വർണ്ണനിറമാകുന്നതുവരെ ചെറിയ തീയിൽ വഴറ്റിയെടുക്കുന്നു.",
     "usageExample": "Bulb seasoning.",
     "difficulty": "BEGINNER"
   },
@@ -299,7 +299,7 @@
     "word": "tomato",
     "wordMeaning": "തക്കാളി",
     "englishText": "Juicy red tomatoes provide the tangy base for southern rasam broth.",
-    "malayalamMeaning": "ചീഞ്ഞ ചുവന്ന തക്കാളി തെക്കൻ രസം ചാറിനുള്ള ഊഷ്മളമായ അടിത്തറ നൽകുന്നു.",
+    "malayalamMeaning": "നല്ല ചുവന്ന തക്കാളിയാണ് തെക്കേ ഇന്ത്യൻ രസത്തിന് ആവശ്യമായ പുളിരസം നൽകുന്നത്.",
     "usageExample": "Red fruit vegetable.",
     "difficulty": "BEGINNER"
   },
@@ -307,7 +307,7 @@
     "word": "garlic",
     "wordMeaning": "വെളുത്തുള്ളി",
     "englishText": "Crushed fresh garlic cloves impart a robust, mouthwatering aroma to curries.",
-    "malayalamMeaning": "ചതച്ച വെളുത്തുള്ളി ഗ്രാമ്പൂ കറികൾക്ക് ശക്തമായ, വായിൽ വെള്ളമൂറുന്ന സുഗന്ധം നൽകുന്നു.",
+    "malayalamMeaning": "ചതച്ച വെളുത്തുള്ളി അല്ലികൾ കറികൾക്ക് കൊതിയൂറുന്ന നല്ലൊരു മണം നൽകുന്നു.",
     "usageExample": "Pungent bulb.",
     "difficulty": "BEGINNER"
   },
@@ -315,7 +315,7 @@
     "word": "ginger",
     "wordMeaning": "ഇഞ്ചി",
     "englishText": "Fresh ginger root aids digestive health and adds a zesty kick to tea.",
-    "malayalamMeaning": "പുതിയ ഇഞ്ചി റൂട്ട് ദഹന ആരോഗ്യത്തെ സഹായിക്കുകയും ചായയ്ക്ക് ആവേശകരമായ കിക്ക് ചേർക്കുകയും ചെയ്യുന്നു.",
+    "malayalamMeaning": "പച്ചയിഞ്ചി ദഹനത്തിന് നല്ലതാണ് കൂടാതെ ചായയ്ക്ക് നല്ലൊരു സ്വാദും നൽകുന്നു.",
     "usageExample": "Spicy rhizome.",
     "difficulty": "BEGINNER"
   },
@@ -323,7 +323,7 @@
     "word": "pepper",
     "wordMeaning": "കുരുമുളക്",
     "englishText": "Black pepper from the Malabar hills was once traded as black gold.",
-    "malayalamMeaning": "മലബാർ മലനിരകളിൽ നിന്നുള്ള കുരുമുളക് ഒരുകാലത്ത് കറുത്ത സ്വർണ്ണമായി വ്യാപാരം ചെയ്യപ്പെട്ടിരുന്നു.",
+    "malayalamMeaning": "മലബാർ കുന്നുകളിൽ നിന്നുള്ള കുരുമുളക് ഒരുകാലത്ത് കറുത്ത പൊന്ന് എന്ന പേരിലാണ് വ്യാപാരം ചെയ്യപ്പെട്ടിരുന്നത്.",
     "usageExample": "King of spices.",
     "difficulty": "BEGINNER"
   },
@@ -331,7 +331,7 @@
     "word": "chili",
     "wordMeaning": "മുളക്",
     "englishText": "Adding two slit green chilies provides just the right amount of spicy heat.",
-    "malayalamMeaning": "രണ്ട് കീറിയ പച്ചമുളക് ചേർക്കുന്നത് ശരിയായ അളവിൽ എരിവുള്ള ചൂട് നൽകുന്നു.",
+    "malayalamMeaning": "രണ്ട് പച്ചമുളക് കീറി ഇടുന്നത് കറിക്ക് പാകത്തിനുള്ള എരിവ് നൽകുന്നു.",
     "usageExample": "Hot pepper.",
     "difficulty": "BEGINNER"
   },
@@ -339,7 +339,7 @@
     "word": "salt",
     "wordMeaning": "ഉപ്പ്",
     "englishText": "Add a pinch of sea salt to balance the sweetness of the fruit smoothie.",
-    "malayalamMeaning": "ഫ്രൂട്ട് സ്മൂത്തിയുടെ മധുരം സന്തുലിതമാക്കാൻ ഒരു നുള്ള് കടൽ ഉപ്പ് ചേർക്കുക.",
+    "malayalamMeaning": "ഫ്രൂട്ട് സ്മൂത്തിയുടെ മധുരം പാകമാക്കാൻ ഒരു നുള്ള് ഉപ്പ് ചേർക്കുക.",
     "usageExample": "Mineral seasoning.",
     "difficulty": "BEGINNER"
   },
@@ -347,7 +347,7 @@
     "word": "sugar",
     "wordMeaning": "പഞ്ചസാര",
     "englishText": "Avoid adding refined white sugar to your freshly squeezed orange juice.",
-    "malayalamMeaning": "പുതുതായി ഞെക്കിയ ഓറഞ്ച് ജ്യൂസിൽ ശുദ്ധീകരിച്ച വെളുത്ത പഞ്ചസാര ചേർക്കുന്നത് ഒഴിവാക്കുക.",
+    "malayalamMeaning": "ഫ്രഷ് ഓറഞ്ച് ജ്യൂസിൽ പഞ്ചസാര ചേർക്കുന്നത് ഒഴിവാക്കുക.",
     "usageExample": "Sweetener.",
     "difficulty": "BEGINNER"
   },
@@ -355,7 +355,7 @@
     "word": "oil",
     "wordMeaning": "എണ്ണ",
     "englishText": "Cold-pressed coconut oil gives traditional Kerala curries their signature flavor.",
-    "malayalamMeaning": "തണുത്ത അമർത്തിയ വെളിച്ചെണ്ണ പരമ്പരാഗത കേരള കറികൾക്ക് അവരുടെ കൈയൊപ്പ് ചാർത്തുന്നു.",
+    "malayalamMeaning": "തനിമയാർന്ന കേരളീയ കറികൾക്ക് തനത് രുചി നൽകുന്നത് ശുദ്ധമായ വെളിച്ചെണ്ണയാണ്.",
     "usageExample": "Cooking fat.",
     "difficulty": "BEGINNER"
   },
@@ -363,7 +363,7 @@
     "word": "butter",
     "wordMeaning": "വെണ്ണ",
     "englishText": "Spread a generous dollop of homemade white butter over warm flatbreads.",
-    "malayalamMeaning": "ഊഷ്മള ഫ്ലാറ്റ് ബ്രെഡുകളിൽ വീട്ടിൽ ഉണ്ടാക്കിയ വെളുത്ത വെണ്ണ ഉദാരമായി വിതറുക.",
+    "malayalamMeaning": "ചൂടുള്ള റൊട്ടിയുടെ മുകളിൽ വീട്ടിലുണ്ടാക്കിയ വെണ്ണ പുരട്ടുക.",
     "usageExample": "Churned dairy fat.",
     "difficulty": "BEGINNER"
   },
@@ -371,7 +371,7 @@
     "word": "ghee",
     "wordMeaning": "നെയ്യ്",
     "englishText": "A spoonful of golden cow ghee drizzled over piping hot rice tastes heavenly.",
-    "malayalamMeaning": "ചൂടുള്ള ചോറിനു മുകളിൽ ഒരു നുള്ളു സ്വർണ്ണ പശു നെയ്യ് ഒഴിച്ചാൽ സ്വർഗ്ഗീയമായ രുചിയാണ്.",
+    "malayalamMeaning": "ചൂടുചോറിൽ ഒരു സ്പൂൺ പശുവിൻ നെയ്യ് ഒഴിച്ചു കഴിക്കുന്നത് അതീവ രുചികരമാണ്.",
     "usageExample": "Clarified butter.",
     "difficulty": "BEGINNER"
   },
@@ -379,7 +379,7 @@
     "word": "cheese",
     "wordMeaning": "ചീസ്",
     "englishText": "The vegetable pizza was topped with melted mozzarella cheese and basil.",
-    "malayalamMeaning": "വെജിറ്റബിൾ പിസ്സയ്ക്ക് മുകളിൽ ഉരുകിയ മൊസറെല്ല ചീസും ബേസിലും ചേർത്തു.",
+    "malayalamMeaning": "വെജിറ്റബിൾ പിസ്സയ്ക്ക് മുകളിൽ ഉരുകിയ മൊസറെല്ല ചീസും തുളസിയിലയും വിതറിയിരുന്നു.",
     "usageExample": "Dairy curd.",
     "difficulty": "BEGINNER"
   },
@@ -387,7 +387,7 @@
     "word": "cook",
     "wordMeaning": "പാചകം ചെയ്യുക",
     "englishText": "Learn how to cook traditional vegetarian curries from your grandmother.",
-    "malayalamMeaning": "നിങ്ങളുടെ മുത്തശ്ശിയിൽ നിന്ന് പരമ്പരാഗത വെജിറ്റേറിയൻ കറികൾ എങ്ങനെ പാചകം ചെയ്യാമെന്ന് മനസിലാക്കുക.",
+    "malayalamMeaning": "മുത്തശ്ശിയിൽ നിന്ന് പരമ്പരാഗത സസ്യക്കറികൾ പാകം ചെയ്യാൻ പഠിക്കുക.",
     "usageExample": "Prepare food.",
     "difficulty": "BEGINNER"
   },
@@ -395,7 +395,7 @@
     "word": "boil",
     "wordMeaning": "തിളപ്പിക്കുക",
     "englishText": "Boil the tapioca roots with turmeric and salt until tender and fluffy.",
-    "malayalamMeaning": "മരച്ചീനി വേരുകൾ മഞ്ഞളും ഉപ്പും ചേർത്ത് ഇളം മൃദുവും മൃദുവും വരെ തിളപ്പിക്കുക.",
+    "malayalamMeaning": "മഞ്ഞൾപ്പൊടിയും ഉപ്പും ചേർത്ത് കപ്പ നന്നായി വേവിച്ചെടുക്കുക.",
     "usageExample": "Cook in water.",
     "difficulty": "BEGINNER"
   },
@@ -403,7 +403,7 @@
     "word": "fry",
     "wordMeaning": "വറുക്കുക",
     "englishText": "Fry the marinated fish slices over medium heat until the skin turns crisp.",
-    "malayalamMeaning": "മാരിനേറ്റ് ചെയ്ത മീൻ കഷ്ണങ്ങൾ ഇടത്തരം ചൂടിൽ തൊലി ക്രിസ്പ് ആയി മാറുന്നത് വരെ വറുക്കുക.",
+    "malayalamMeaning": "മസാല പുരട്ടിയ മീൻ കഷ്ണങ്ങൾ പുറംഭാഗം നല്ല മൊരിഞ്ഞു വരുന്നതുവരെ ഇടത്തരം തീയിൽ വറുത്തെടുക്കുക.",
     "usageExample": "Pan fry.",
     "difficulty": "BEGINNER"
   },
@@ -411,7 +411,7 @@
     "word": "bake",
     "wordMeaning": "ചുടേണം",
     "englishText": "The bakery fills the street with the aroma of freshly baked cardamom buns.",
-    "malayalamMeaning": "പുതുതായി ചുട്ടെടുത്ത ഏലക്ക ബണ്ണുകളുടെ സൌരഭ്യം കൊണ്ട് തെരുവിൽ ബേക്കറി നിറയുന്നു.",
+    "malayalamMeaning": "പുതുതായി ചുട്ടെടുത്ത ഏലക്ക ബണ്ണുകളുടെ കൊതിയൂറുന്ന മണം ആ തെരുവിലാകെ പരന്നു.",
     "usageExample": "Oven bake.",
     "difficulty": "BEGINNER"
   },
@@ -419,7 +419,7 @@
     "word": "roast",
     "wordMeaning": "വറുത്തെടുക്കുക",
     "englishText": "Slow roast the whole spices in an ungreased pan to release their essential oils.",
-    "malayalamMeaning": "അവശ്യ എണ്ണകൾ പുറത്തുവിടാൻ മുഴുവൻ സുഗന്ധവ്യഞ്ജനങ്ങളും എണ്ണ പുരട്ടാത്ത ചട്ടിയിൽ പതുക്കെ വറുക്കുക.",
+    "malayalamMeaning": "മസാലക്കൂട്ടുകളുടെ തനത് മണവും ഗുണവും പുറത്തുവരാൻ അവ എണ്ണയില്ലാതെ ഒരു പാനിൽ ചെറിയ തീയിൽ വറുത്തെടുക്കുക.",
     "usageExample": "Dry heat cook.",
     "difficulty": "BEGINNER"
   },
@@ -427,7 +427,7 @@
     "word": "grill",
     "wordMeaning": "ഗ്രിൽ",
     "englishText": "We love to grill skewered chicken pieces over fragrant charcoal embers.",
-    "malayalamMeaning": "സുഗന്ധമുള്ള കരി തീക്കനലുകൾക്ക് മുകളിൽ ചരിഞ്ഞ ചിക്കൻ കഷണങ്ങൾ ഗ്രിൽ ചെയ്യാൻ ഞങ്ങൾ ഇഷ്ടപ്പെടുന്നു.",
+    "malayalamMeaning": "കനലിൽ കമ്പിയിൽ കോർത്ത് ചുട്ടെടുത്ത ചിക്കൻ കഷ്ണങ്ങൾ കഴിക്കാൻ ഞങ്ങൾക്ക് വളരെ ഇഷ്ടമാണ്.",
     "usageExample": "Direct heat cook.",
     "difficulty": "BEGINNER"
   },
@@ -435,7 +435,7 @@
     "word": "pot",
     "wordMeaning": "കലം",
     "englishText": "The large clay pot kept the fish curry fresh and flavorful for two days.",
-    "malayalamMeaning": "വലിയ കളിമൺ പാത്രം മീൻ കറി രണ്ടു ദിവസം ഫ്രഷും സ്വാദും നിലനിർത്തി.",
+    "malayalamMeaning": "വലിയ മൺചട്ടി മീൻകറിയുടെ സ്വാദും പുതുമയും രണ്ടു ദിവസത്തേക്ക് കേടുകൂടാതെ നിലനിർത്തി.",
     "usageExample": "Cooking vessel.",
     "difficulty": "BEGINNER"
   },
@@ -443,7 +443,7 @@
     "word": "pan",
     "wordMeaning": "പാൻ",
     "englishText": "Heat two tablespoons of coconut oil in the heavy iron frying pan.",
-    "malayalamMeaning": "കനത്തിൽ ഇരുമ്പ് ഫ്രയിംഗ് പാനിൽ രണ്ട് ടേബിൾസ്പൂൺ വെളിച്ചെണ്ണ ചൂടാക്കുക.",
+    "malayalamMeaning": "കട്ടിയുള്ള ഇരുമ്പ് ചീനച്ചട്ടിയിൽ രണ്ട് ടേബിൾസ്പൂൺ വെളിച്ചെണ്ണ ഒഴിച്ച് ചൂടാക്കുക.",
     "usageExample": "Shallow vessel.",
     "difficulty": "BEGINNER"
   },
@@ -451,7 +451,7 @@
     "word": "stove",
     "wordMeaning": "അടുപ്പ്",
     "englishText": "Turn off the gas stove as soon as the pressure cooker whistles twice.",
-    "malayalamMeaning": "പ്രഷർ കുക്കർ രണ്ടുതവണ വിസിൽ മുഴക്കിയാൽ ഉടൻ ഗ്യാസ് സ്റ്റൗ ഓഫ് ചെയ്യുക.",
+    "malayalamMeaning": "പ്രഷർ കുക്കർ രണ്ട് വിസിൽ അടിച്ച ഉടൻ തന്നെ ഗ്യാസ് സ്റ്റൗ ഓഫ് ചെയ്യുക.",
     "usageExample": "Cooking burner.",
     "difficulty": "BEGINNER"
   },
@@ -459,7 +459,7 @@
     "word": "oven",
     "wordMeaning": "അടുപ്പ്",
     "englishText": "Preheat the convection oven to two hundred degrees before baking the cake.",
-    "malayalamMeaning": "കേക്ക് ബേക്കിംഗ് ചെയ്യുന്നതിന് മുമ്പ് സംവഹന ഓവൻ ഇരുനൂറ് ഡിഗ്രി വരെ ചൂടാക്കുക.",
+    "malayalamMeaning": "കേക്ക് ബേക്ക് ചെയ്യുന്നതിന് മുൻപ് അവ്ൻ ഇരുനൂറ് ഡിഗ്രിയിൽ പ്രീഹീറ്റ് ചെയ്യുക.",
     "usageExample": "Baking chamber.",
     "difficulty": "BEGINNER"
   },
@@ -467,7 +467,7 @@
     "word": "dish",
     "wordMeaning": "വിഭവം",
     "englishText": "Appam paired with creamy vegetable stew is our family's favorite breakfast dish.",
-    "malayalamMeaning": "ക്രീം വെജിറ്റബിൾ പായസത്തിനൊപ്പം ചേർത്ത അപ്പം ഞങ്ങളുടെ കുടുംബത്തിൻ്റെ പ്രിയപ്പെട്ട പ്രഭാതഭക്ഷണമാണ്.",
+    "malayalamMeaning": "തേങ്ങാപ്പാലിൽ തയാറാക്കിയ വെജിറ്റബിൾ സ്റ്റൂവിനൊപ്പം അപ്പം കഴിക്കുന്നത് ഞങ്ങളുടെ കുടുംബത്തിന് ഏറ്റവും പ്രിയപ്പെട്ട പ്രഭാതഭക്ഷണമാണ്.",
     "usageExample": "Food preparation.",
     "difficulty": "BEGINNER"
   },
@@ -475,7 +475,7 @@
     "word": "plate",
     "wordMeaning": "പ്ലേറ്റ്",
     "englishText": "Place the crispy golden dosa carefully on the center of the dining plate.",
-    "malayalamMeaning": "ക്രിസ്പി ഗോൾഡൻ ദോശ ഡൈനിംഗ് പ്ലേറ്റിൻ്റെ മധ്യഭാഗത്ത് ശ്രദ്ധാപൂർവ്വം വയ്ക്കുക.",
+    "malayalamMeaning": "നല്ല മൊരിഞ്ഞ നെയ്‌റോസ്റ്റ് തീൻമേശയിലെ പ്ലേറ്റിന്റെ നടുവിലായി ശ്രദ്ധയോടെ വെക്കുക.",
     "usageExample": "Serving dish.",
     "difficulty": "BEGINNER"
   },
@@ -483,7 +483,7 @@
     "word": "bowl",
     "wordMeaning": "പാത്രം",
     "englishText": "She served hot tomato soup in individual ceramic bowls with croutons.",
-    "malayalamMeaning": "ക്രൗട്ടണുകളുള്ള വ്യക്തിഗത സെറാമിക് പാത്രങ്ങളിൽ അവൾ ചൂടുള്ള തക്കാളി സൂപ്പ് വിളമ്പി.",
+    "malayalamMeaning": "ക്രുട്ടോണുകൾ ചേർത്ത ചൂടുള്ള തക്കാളി സൂപ്പ് അവൾ സെറാമിക് ബൗളുകളിൽ വിളമ്പി.",
     "usageExample": "Deep dish.",
     "difficulty": "BEGINNER"
   },
@@ -491,7 +491,7 @@
     "word": "cup",
     "wordMeaning": "കപ്പ്",
     "englishText": "Sip your morning filter coffee slowly from a traditional steel tumbler cup.",
-    "malayalamMeaning": "പരമ്പരാഗത സ്റ്റീൽ ടംബ്ലർ കപ്പിൽ നിന്ന് നിങ്ങളുടെ പ്രഭാത ഫിൽട്ടർ കോഫി പതുക്കെ കുടിക്കുക.",
+    "malayalamMeaning": "രാവിലെയുള്ള ഫിൽട്ടർ കോഫി പരമ്പരാഗത സ്റ്റീൽ ഗ്ലാസിൽ നിന്ന് പതിയെ നുണഞ്ഞു കുടിക്കുക.",
     "usageExample": "Drink vessel.",
     "difficulty": "BEGINNER"
   },
@@ -499,7 +499,7 @@
     "word": "glass",
     "wordMeaning": "ഗ്ലാസ്",
     "englishText": "Pour the chilled freshly squeezed mango juice into a tall glass.",
-    "malayalamMeaning": "ശീതീകരിച്ച് പുതുതായി ഞെക്കിയ മാമ്പഴ ജ്യൂസ് ഉയരമുള്ള ഗ്ലാസിലേക്ക് ഒഴിക്കുക.",
+    "malayalamMeaning": "തണുപ്പിച്ച ഫ്രഷ് മാമ്പഴ ജ്യൂസ് ഒരു വലിയ ഗ്ലാസിലേക്ക് ഒഴിക്കുക.",
     "usageExample": "Drinking glass.",
     "difficulty": "BEGINNER"
   },
@@ -507,7 +507,7 @@
     "word": "spoon",
     "wordMeaning": "സ്പൂൺ",
     "englishText": "Eat your warm vegetable soup with a rounded stainless steel soup spoon.",
-    "malayalamMeaning": "ഉരുണ്ട സ്റ്റെയിൻലെസ് സ്റ്റീൽ സൂപ്പ് സ്പൂൺ ഉപയോഗിച്ച് നിങ്ങളുടെ ചൂടുള്ള പച്ചക്കറി സൂപ്പ് കഴിക്കുക.",
+    "malayalamMeaning": "ചൂടുള്ള വെജിറ്റബിൾ സൂപ്പ് സ്റ്റെയിൻലെസ്സ് സ്റ്റീൽ സൂപ്പ് സ്പൂൺ ഉപയോഗിച്ച് കഴിക്കുക.",
     "usageExample": "Cutlery piece.",
     "difficulty": "BEGINNER"
   },
@@ -515,7 +515,7 @@
     "word": "fork",
     "wordMeaning": "നാൽക്കവല",
     "englishText": "Use a fork to twirl the pasta noodles with creamy white garlic sauce.",
-    "malayalamMeaning": "ക്രീം വൈറ്റ് ഗാർലിക് സോസ് ഉപയോഗിച്ച് പാസ്ത നൂഡിൽസ് വളയ്ക്കാൻ ഒരു ഫോർക്ക് ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "ക്രീമി വൈറ്റ് ഗാർലിക് സോസ് ചേർത്ത പാസ്ത ഒരു ഫോർക്ക് ഉപയോഗിച്ച് ചുരുട്ടിയെടുത്ത് കഴിക്കുക.",
     "usageExample": "Pronged tool.",
     "difficulty": "BEGINNER"
   },
@@ -523,7 +523,7 @@
     "word": "knife",
     "wordMeaning": "കത്തി",
     "englishText": "Use a sharp serrated knife to cut the crusty sourdough loaf into slices.",
-    "malayalamMeaning": "കഷ്ണങ്ങളാക്കിയ പുളിച്ച അപ്പം കഷ്ണങ്ങളാക്കാൻ മൂർച്ചയുള്ള ഒരു കത്തി ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "മൊരിഞ്ഞ സോർഡോ ബ്രെഡ് കഷ്ണങ്ങളാക്കാൻ മൂർച്ചയുള്ള കത്തി ഉപയോഗിക്കുക.",
     "usageExample": "Cutting blade.",
     "difficulty": "BEGINNER"
   },
@@ -531,7 +531,7 @@
     "word": "napkin",
     "wordMeaning": "തൂവാല",
     "englishText": "Tuck a soft cloth napkin on your lap before starting formal dining.",
-    "malayalamMeaning": "ഔപചാരിക ഡൈനിംഗ് ആരംഭിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ മടിയിൽ മൃദുവായ തുണികൊണ്ടുള്ള തൂവാല വയ്ക്കുക.",
+    "malayalamMeaning": "ഭക്ഷണം കഴിക്കാൻ തുടങ്ങുന്നതിനു മുൻപ് ഒരു തുണി നാപ്കിൻ നിങ്ങളുടെ മടിയിൽ വിരിക്കുക.",
     "usageExample": "Dining wipe.",
     "difficulty": "BEGINNER"
   },
@@ -539,7 +539,7 @@
     "word": "table",
     "wordMeaning": "മേശ",
     "englishText": "The restaurant booked a quiet table for two beside the illuminated fountain.",
-    "malayalamMeaning": "വെളിച്ചമുള്ള ജലധാരയുടെ അരികിൽ രണ്ടുപേർക്കുള്ള ശാന്തമായ ഒരു മേശ റെസ്റ്റോറൻ്റ് ബുക്ക് ചെയ്തു.",
+    "malayalamMeaning": "റസ്റ്റോറന്റിൽ ജലധാരയ്ക്കരികിലായി രണ്ടുപേർക്ക് ഇരിക്കാവുന്ന ശാന്തമായ ഒരു ടേബിൾ അവർ ബുക്ക് ചെയ്തു.",
     "usageExample": "Dining surface.",
     "difficulty": "BEGINNER"
   },
@@ -547,7 +547,7 @@
     "word": "chair",
     "wordMeaning": "കസേര",
     "englishText": "Pull out the dining chair for your grandmother when she enters the room.",
-    "malayalamMeaning": "നിങ്ങളുടെ മുത്തശ്ശി മുറിയിൽ പ്രവേശിക്കുമ്പോൾ അവൾക്കുള്ള ഡൈനിംഗ് കസേര വലിച്ചിടുക.",
+    "malayalamMeaning": "മുത്തശ്ശി മുറിയിലേക്ക് വരുമ്പോൾ അവർക്കായി ഡൈനിംഗ് ചെയർ വലിച്ചിട്ടു കൊടുക്കുക.",
     "usageExample": "Dining seat.",
     "difficulty": "BEGINNER"
   },
@@ -555,7 +555,7 @@
     "word": "menu",
     "wordMeaning": "മെനു",
     "englishText": "Read through the vegetarian menu to explore the chef's seasonal specials.",
-    "malayalamMeaning": "ഷെഫിൻ്റെ സീസണൽ വിശേഷങ്ങൾ അടുത്തറിയാൻ വെജിറ്റേറിയൻ മെനുവിലൂടെ വായിക്കുക.",
+    "malayalamMeaning": "ഷെഫിന്റെ പ്രത്യേക സീസണൽ വിഭവങ്ങൾ അറിയാൻ വെജിറ്റേറിയൻ മെനു പരിശോധിക്കുക.",
     "usageExample": "List of dishes.",
     "difficulty": "BEGINNER"
   },
@@ -563,7 +563,7 @@
     "word": "order",
     "wordMeaning": "ഓർഡർ",
     "englishText": "Are you ready to order your main course dishes, or do you need five minutes?",
-    "malayalamMeaning": "നിങ്ങളുടെ പ്രധാന കോഴ്‌സ് വിഭവങ്ങൾ ഓർഡർ ചെയ്യാൻ നിങ്ങൾ തയ്യാറാണോ, അല്ലെങ്കിൽ നിങ്ങൾക്ക് അഞ്ച് മിനിറ്റ് വേണോ?",
+    "malayalamMeaning": "നിങ്ങൾ പ്രധാന വിഭവങ്ങൾ ഓർഡർ ചെയ്യാൻ തയാറാണോ, അതോ അഞ്ച് മിനിറ്റ് കൂടി വേണമെന്നുണ്ടോ?",
     "usageExample": "Requesting food.",
     "difficulty": "BEGINNER"
   },
@@ -571,7 +571,7 @@
     "word": "bill",
     "wordMeaning": "ബിൽ",
     "englishText": "Ask the waiter to bring the bill when everyone has finished their coffee.",
-    "malayalamMeaning": "എല്ലാവരും കാപ്പി കഴിച്ചു കഴിഞ്ഞാൽ ബിൽ കൊണ്ടുവരാൻ വെയിറ്ററോട് പറയുക.",
+    "malayalamMeaning": "എല്ലാവരും കാപ്പി കുടിച്ചു കഴിഞ്ഞാൽ വെയ്റ്ററോട് ബിൽ കൊണ്ടുവരാൻ പറയുക.",
     "usageExample": "Payment tally.",
     "difficulty": "BEGINNER"
   },
@@ -579,7 +579,7 @@
     "word": "pay",
     "wordMeaning": "പണം നൽകുക",
     "englishText": "You can pay the restaurant bill with credit card, UPI, or cash.",
-    "malayalamMeaning": "നിങ്ങൾക്ക് ക്രെഡിറ്റ് കാർഡ്, UPI അല്ലെങ്കിൽ പണം ഉപയോഗിച്ച് റസ്റ്റോറൻ്റ് ബിൽ അടയ്ക്കാം.",
+    "malayalamMeaning": "റസ്റ്റോറന്റ് ബിൽ ക്രെഡിറ്റ് കാർഡ്, യുപിഐ അല്ലെങ്കിൽ പണമായി നൽകാം.",
     "usageExample": "Settle charge.",
     "difficulty": "BEGINNER"
   },
@@ -587,7 +587,7 @@
     "word": "tip",
     "wordMeaning": "നുറുങ്ങ്",
     "englishText": "It is customary to leave a generous tip for attentive, courteous table service.",
-    "malayalamMeaning": "ശ്രദ്ധാപൂർവ്വവും മര്യാദയുള്ളതുമായ മേശ സേവനത്തിനായി ഉദാരമായ ഒരു നുറുങ്ങ് നൽകുന്നത് പതിവാണ്.",
+    "malayalamMeaning": "മികച്ചതും മാന്യവുമായ സേവനത്തിന് നല്ലൊരു ടിപ്പ് നൽകുന്നത് പതിവാണ്.",
     "usageExample": "Server gratuity.",
     "difficulty": "BEGINNER"
   },
@@ -595,7 +595,7 @@
     "word": "waiter",
     "wordMeaning": "വെയിറ്റർ",
     "englishText": "The courteous waiter recommended the grilled pearl spot fish as the house specialty.",
-    "malayalamMeaning": "മര്യാദയുള്ള വെയിറ്റർ ഗ്രിൽഡ് പേൾ സ്പോട്ട് ഫിഷാണ് ഹൗസ് സ്പെഷ്യാലിറ്റിയായി ശുപാർശ ചെയ്തത്.",
+    "malayalamMeaning": "വിനയാന്വിതനായ വെയ്റ്റർ അവരുടെ പ്രത്യേക വിഭവമായ കരിമീൻ പൊള്ളിച്ചത് കഴിക്കാൻ ശുപാർശ ചെയ്തു.",
     "usageExample": "Table server.",
     "difficulty": "BEGINNER"
   },
@@ -603,7 +603,7 @@
     "word": "waitress",
     "wordMeaning": "പരിചാരിക",
     "englishText": "The friendly waitress brought colorful coloring books for the little children.",
-    "malayalamMeaning": "സൗഹൃദപരമായ പരിചാരിക കൊച്ചുകുട്ടികൾക്കായി വർണ്ണാഭമായ കളറിംഗ് പുസ്തകങ്ങൾ കൊണ്ടുവന്നു.",
+    "malayalamMeaning": "സൗഹൃദത്തോടെ പെരുമാറിയ വെയിട്രസ് കൊച്ചുകുട്ടികൾക്കായി വർണ്ണാഭമായ കളറിംഗ് ബുക്കുകൾ കൊണ്ടുവന്നു.",
     "usageExample": "Female server.",
     "difficulty": "BEGINNER"
   },
@@ -611,7 +611,7 @@
     "word": "server",
     "wordMeaning": "സെർവർ",
     "englishText": "Our server promptly refilled our water glasses throughout the dinner.",
-    "malayalamMeaning": "അത്താഴത്തിലുടനീളം ഞങ്ങളുടെ സെർവർ ഞങ്ങളുടെ വാട്ടർ ഗ്ലാസുകളിൽ ഉടനടി നിറച്ചു.",
+    "malayalamMeaning": "ഭക്ഷണത്തിലുടനീളം ഞങ്ങളുടെ ഗ്ലാസുകളിൽ കൃത്യമായി വെള്ളം ഒഴിച്ച് തരാൻ സെർവർ ശ്രദ്ധിച്ചിരുന്നു.",
     "usageExample": "Dining attendant.",
     "difficulty": "BEGINNER"
   },
@@ -619,7 +619,7 @@
     "word": "chef",
     "wordMeaning": "ഷെഫ്",
     "englishText": "The executive chef greeted the diners and explained the origins of each recipe.",
-    "malayalamMeaning": "എക്സിക്യൂട്ടീവ് ഷെഫ് ഡൈനേഴ്സിനെ അഭിവാദ്യം ചെയ്യുകയും ഓരോ പാചകക്കുറിപ്പിൻ്റെയും ഉത്ഭവം വിശദീകരിക്കുകയും ചെയ്തു.",
+    "malayalamMeaning": "എക്സിക്യൂട്ടീവ് ഷെഫ് അതിഥികളെ സ്വീകരിക്കുകയും ഓരോ വിഭവത്തിന്റെയും പശ്ചാത്തലം വിശദീകരിക്കുകയും ചെയ്തു.",
     "usageExample": "Professional cook.",
     "difficulty": "BEGINNER"
   },
@@ -627,7 +627,7 @@
     "word": "restaurant",
     "wordMeaning": "ഭക്ഷണശാല",
     "englishText": "This seaside heritage restaurant has been serving traditional seafood since 1950.",
-    "malayalamMeaning": "ഈ കടൽത്തീര ഹെറിറ്റേജ് റെസ്റ്റോറൻ്റ് 1950 മുതൽ പരമ്പരാഗത സമുദ്രവിഭവങ്ങൾ വിളമ്പുന്നു.",
+    "malayalamMeaning": "കടൽത്തീരത്തുള്ള ഈ പൈതൃക റസ്റ്റോറന്റ് 1950 മുതൽ പരമ്പരാഗത കടൽവിഭവങ്ങൾ വിളമ്പുന്നു.",
     "usageExample": "Dining place.",
     "difficulty": "BEGINNER"
   },
@@ -635,7 +635,7 @@
     "word": "cafe",
     "wordMeaning": "കഫേ",
     "englishText": "The cozy waterfront cafe is an idyllic spot to read and enjoy espresso.",
-    "malayalamMeaning": "സുഖപ്രദമായ വാട്ടർഫ്രണ്ട് കഫേ എസ്പ്രസ്സോ വായിക്കാനും ആസ്വദിക്കാനുമുള്ള ഒരു മനോഹരമായ സ്ഥലമാണ്.",
+    "malayalamMeaning": "കായലോരത്തുള്ള ഈ ചെറിയ കഫേ പുസ്തകം വായിക്കാനും എസ്പ്രെസ്സോ കാപ്പി ആസ്വദിക്കാനും പറ്റിയ മനോഹരമായ ഒരിടമാണ്.",
     "usageExample": "Casual coffee shop.",
     "difficulty": "BEGINNER"
   },
@@ -643,7 +643,7 @@
     "word": "hotel",
     "wordMeaning": "ഹോട്ടൽ",
     "englishText": "Many travelers stop at the highway hotel for clean restrooms and hot meals.",
-    "malayalamMeaning": "വൃത്തിയുള്ള വിശ്രമമുറികൾക്കും ചൂടുള്ള ഭക്ഷണത്തിനുമായി നിരവധി യാത്രക്കാർ ഹൈവേ ഹോട്ടലിൽ നിർത്തുന്നു.",
+    "malayalamMeaning": "വൃത്തിയുള്ള ശുചിമുറികൾക്കും ചൂടുള്ള ഭക്ഷണത്തിനുമായി നിരവധി യാത്രക്കാർ ഈ ഹൈവേ ഹോട്ടലിൽ നിർത്താറുണ്ട്.",
     "usageExample": "Dining/lodging place.",
     "difficulty": "BEGINNER"
   },
@@ -651,7 +651,7 @@
     "word": "canteen",
     "wordMeaning": "കാൻ്റീന്",
     "englishText": "The hospital canteen serves wholesome steamed meals at subsidized prices.",
-    "malayalamMeaning": "ആശുപത്രി കാൻ്റീനിൽ ആവിയിൽ വേവിച്ച ഭക്ഷണം സബ്‌സിഡി നിരക്കിൽ ലഭിക്കും.",
+    "malayalamMeaning": "ആശുപത്രി കാന്റീനിൽ മിതമായ നിരക്കിൽ ആവിയിൽ വേവിച്ച ആരോഗ്യകരമായ ഭക്ഷണം ലഭിക്കുന്നു.",
     "usageExample": "Cafeteria.",
     "difficulty": "BEGINNER"
   },
@@ -659,7 +659,7 @@
     "word": "stall",
     "wordMeaning": "സ്റ്റാൾ",
     "englishText": "A famous roadside tea stall serves steaming hot banana fritters at dusk.",
-    "malayalamMeaning": "റോഡരികിലെ ഒരു പ്രശസ്തമായ ചായക്കടയിൽ സന്ധ്യാസമയത്ത് ചൂടുള്ള ഏത്തപ്പഴം വറുത്തത് വിളമ്പുന്നു.",
+    "malayalamMeaning": "സന്ധ്യാസമയത്ത് ആവി പറക്കുന്ന ചൂടുള്ള പഴംപൊരി വിളമ്പുന്ന ഒരു പ്രശസ്തമായ തട്ടുകട വഴിയരികിലുണ്ട്.",
     "usageExample": "Street food kiosk.",
     "difficulty": "BEGINNER"
   },
@@ -667,7 +667,7 @@
     "word": "smell",
     "wordMeaning": "മണം",
     "englishText": "The appetizing smell of roasting mustard seeds and curry leaves filled the air.",
-    "malayalamMeaning": "കടുകും കറിവേപ്പിലയും വറുത്തതിൻ്റെ വിശപ്പടക്കുന്ന മണം അന്തരീക്ഷത്തിൽ നിറഞ്ഞു.",
+    "malayalamMeaning": "കടുക് പൊട്ടുന്നതിന്റെയും കറിവേപ്പില താളിക്കുന്നതിന്റെയും കൊതിയൂറുന്ന മണം അന്തരീക്ഷത്തിൽ നിറഞ്ഞു.",
     "usageExample": "Olfactory scent.",
     "difficulty": "BEGINNER"
   },
@@ -675,7 +675,7 @@
     "word": "aroma",
     "wordMeaning": "സൌരഭ്യവാസന",
     "englishText": "The rich aroma of brewing roasted coffee beans woke up the whole household.",
-    "malayalamMeaning": "വറുത്ത കാപ്പിക്കുരു ഉണ്ടാക്കുന്നതിൻ്റെ സമൃദ്ധമായ സുഗന്ധം വീട്ടുകാരെ മുഴുവൻ ഉണർത്തി.",
+    "malayalamMeaning": "വറുത്ത കാപ്പിക്കുരു തിളപ്പിച്ചതിന്റെ സുഗന്ധം വീട്ടുകാരെയെല്ലാം ഉണർത്തി.",
     "usageExample": "Pleasant food scent.",
     "difficulty": "BEGINNER"
   },
@@ -683,7 +683,7 @@
     "word": "delicious",
     "wordMeaning": "രുചികരമായ",
     "englishText": "The coconut-crusted tiger prawns were remarkably tender and delicious.",
-    "malayalamMeaning": "തേങ്ങാക്കൊതിച്ച കടുവ ചെമ്മീൻ വളരെ മൃദുവും രുചികരവുമായിരുന്നു.",
+    "malayalamMeaning": "തേങ്ങ വറുത്തരച്ച ടൈഗർ കൊഞ്ചുകൾ വളരെ മൃദുവും അതീവ രുചികരവുമായിരുന്നു.",
     "usageExample": "Highly delectable.",
     "difficulty": "BEGINNER"
   },
@@ -691,7 +691,7 @@
     "word": "tasty",
     "wordMeaning": "രുചിയുള്ള",
     "englishText": "This homemade lemon pickle is incredibly tasty when paired with curd rice.",
-    "malayalamMeaning": "തൈര് ചോറിനൊപ്പം ചേരുമ്പോൾ ഈ വീട്ടിലുണ്ടാക്കുന്ന നാരങ്ങ അച്ചാർ അവിശ്വസനീയമാംവിധം രുചികരമാണ്.",
+    "malayalamMeaning": "വീട്ടിലുണ്ടാക്കിയ ഈ നാരങ്ങാ അച്ചാർ തൈര് സാദത്തിനൊപ്പം കഴിക്കാൻ വളരെ സ്വാദുള്ളതാണ്.",
     "usageExample": "Flavorful.",
     "difficulty": "BEGINNER"
   },
@@ -699,7 +699,7 @@
     "word": "yummy",
     "wordMeaning": "സ്വാദിഷ്ടമായ",
     "englishText": "The little girl declared that the chocolate walnut brownie was super yummy.",
-    "malayalamMeaning": "ചോക്ലേറ്റ് വാൽനട്ട് ബ്രൗണി വളരെ രുചികരമാണെന്ന് പെൺകുട്ടി പ്രഖ്യാപിച്ചു.",
+    "malayalamMeaning": "ചോക്കലേറ്റ് വാൽനട്ട് ബ്രൗണിക്ക് സൂപ്പർ രുചിയാണെന്ന് ആ കൊച്ചു പെൺകുട്ടി പറഞ്ഞു.",
     "usageExample": "Deliciously sweet.",
     "difficulty": "BEGINNER"
   },
@@ -707,7 +707,7 @@
     "word": "bad",
     "wordMeaning": "മോശം",
     "englishText": "Discard the opened milk packet if it has developed a sour, bad odor.",
-    "malayalamMeaning": "തുറന്ന പാൽ പാക്കറ്റിന് പുളിച്ചതും ദുർഗന്ധവും ഉണ്ടെങ്കിൽ അത് ഉപേക്ഷിക്കുക.",
+    "malayalamMeaning": "തുറന്ന പാൽ പാക്കറ്റിന് പുളിച്ച ദുർഗന്ധമുണ്ടെങ്കിൽ അത് കളയുക.",
     "usageExample": "Spoiled/unpleasant.",
     "difficulty": "BEGINNER"
   },
@@ -715,7 +715,7 @@
     "word": "spoiled",
     "wordMeaning": "കേടായി",
     "englishText": "Food spoils quickly in high humidity if not stored in the refrigerator.",
-    "malayalamMeaning": "റഫ്രിജറേറ്ററിൽ സൂക്ഷിച്ചില്ലെങ്കിൽ ഉയർന്ന ആർദ്രതയിൽ ഭക്ഷണം പെട്ടെന്ന് കേടാകും.",
+    "malayalamMeaning": "ഫ്രിഡ്ജിൽ സൂക്ഷിച്ചില്ലെങ്കിൽ അന്തരീക്ഷത്തിലെ ഈർപ്പം കാരണം ഭക്ഷണം പെട്ടെന്ന് കേടാകും.",
     "usageExample": "Rotten.",
     "difficulty": "BEGINNER"
   },
@@ -723,7 +723,7 @@
     "word": "full",
     "wordMeaning": "നിറഞ്ഞു",
     "englishText": "Thank you, I cannot eat another bite because I am completely full.",
-    "malayalamMeaning": "നന്ദി, ഞാൻ പൂർണ്ണമായും നിറഞ്ഞതിനാൽ എനിക്ക് മറ്റൊരു കടി കഴിക്കാൻ കഴിയില്ല.",
+    "malayalamMeaning": "നന്ദി, എന്റെ വയറു നിറഞ്ഞു, ഇനി ഒരു പിടി പോലും കഴിക്കാൻ എനിക്ക് കഴിയില്ല.",
     "usageExample": "Satiated.",
     "difficulty": "BEGINNER"
   },
@@ -731,7 +731,7 @@
     "word": "breakfast",
     "wordMeaning": "പ്രാതൽ",
     "englishText": "Idlis steamed in banana leaves make a light and healthy morning breakfast.",
-    "malayalamMeaning": "വാഴയിലയിൽ ആവിയിൽ വേവിച്ച ഇഡ്ഡലി ലഘുവും ആരോഗ്യകരവുമായ പ്രഭാതഭക്ഷണം ഉണ്ടാക്കുന്നു.",
+    "malayalamMeaning": "വാഴയിലയിൽ പുഴുങ്ങിയ ഇഡ്ഡലി ലളിതവും ആരോഗ്യകരവുമായ ഒരു പ്രഭാതഭക്ഷണമാണ്.",
     "usageExample": "First meal.",
     "difficulty": "BEGINNER"
   },
@@ -739,7 +739,7 @@
     "word": "lunch",
     "wordMeaning": "ഉച്ചഭക്ഷണം",
     "englishText": "We sat down for a sumptuous South Indian banana-leaf vegetarian lunch.",
-    "malayalamMeaning": "വിഭവസമൃദ്ധമായ ദക്ഷിണേന്ത്യൻ വാഴയില-വെജിറ്റേറിയൻ ഉച്ചഭക്ഷണത്തിനായി ഞങ്ങൾ ഇരുന്നു.",
+    "malayalamMeaning": "വാഴയിലയിൽ വിളമ്പിയ വിഭവസമൃദ്ധമായ തെക്കേ ഇന്ത്യൻ സസ്യഭക്ഷണത്തിനായി ഞങ്ങൾ ഇരുന്നു.",
     "usageExample": "Midday meal.",
     "difficulty": "BEGINNER"
   },
@@ -747,7 +747,7 @@
     "word": "dinner",
     "wordMeaning": "അത്താഴം",
     "englishText": "Keep your dinner light with vegetable soup and wheat flatbreads.",
-    "malayalamMeaning": "വെജിറ്റബിൾ സൂപ്പും ഗോതമ്പ് ഫ്ലാറ്റ് ബ്രെഡും ഉപയോഗിച്ച് നിങ്ങളുടെ അത്താഴം ലഘുവായി സൂക്ഷിക്കുക.",
+    "malayalamMeaning": "വെജിറ്റബിൾ സൂപ്പും ചപ്പാത്തിയും കഴിച്ച് രാത്രി ഭക്ഷണം ലളിതമാക്കുക.",
     "usageExample": "Evening meal.",
     "difficulty": "BEGINNER"
   },
@@ -755,7 +755,7 @@
     "word": "snack",
     "wordMeaning": "ലഘുഭക്ഷണം",
     "englishText": "Roasted salted cashew nuts are our favorite accompaniment for evening tea.",
-    "malayalamMeaning": "വറുത്ത ഉപ്പിട്ട കശുവണ്ടിപ്പരിപ്പ് വൈകുന്നേരത്തെ ചായയ്ക്കുള്ള ഞങ്ങളുടെ പ്രിയപ്പെട്ട കൂട്ടാണ്.",
+    "malayalamMeaning": "വൈകുന്നേരത്തെ ചായയ്ക്കൊപ്പം കഴിക്കാൻ ഞങ്ങൾക്ക് ഏറ്റവും പ്രിയപ്പെട്ടത് വറുത്തുപ്പിലിട്ട കശുവണ്ടിയാണ്.",
     "usageExample": "Light bite.",
     "difficulty": "BEGINNER"
   },
@@ -763,7 +763,7 @@
     "word": "dessert",
     "wordMeaning": "മധുരപലഹാരം",
     "englishText": "Warm jalebis served with chilled rabri is a decadent celebration dessert.",
-    "malayalamMeaning": "ശീതീകരിച്ച റബ്രിയോടൊപ്പം വിളമ്പുന്ന ചൂടുള്ള ജിലേബിസ് ഒരു ജീർണിച്ച ആഘോഷത്തിൻ്റെ മധുരപലഹാരമാണ്.",
+    "malayalamMeaning": "തണുത്ത റബ്ഡിക്കൊപ്പം നൽകുന്ന ചൂടുള്ള ജിലേബി ആഘോഷങ്ങൾക്ക് അനുയോജ്യമായ ഒരു മികച്ച മധുരപലഹാരമാണ്.",
     "usageExample": "Sweet course.",
     "difficulty": "BEGINNER"
   },
@@ -771,7 +771,7 @@
     "word": "ice cream",
     "wordMeaning": "ഐസ് ക്രീം",
     "englishText": "Children love having a scoop of creamy vanilla ice cream on hot days.",
-    "malayalamMeaning": "ചൂടുള്ള ദിവസങ്ങളിൽ ഒരു സ്കൂപ്പ് ക്രീം വാനില ഐസ്ക്രീം കഴിക്കാൻ കുട്ടികൾ ഇഷ്ടപ്പെടുന്നു.",
+    "malayalamMeaning": "ചൂടുള്ള ദിവസങ്ങളിൽ ഒരു സ്കൂപ്പ് വാനില ഐസ്ക്രീം കഴിക്കാൻ കുട്ടികൾക്ക് വലിയ ഇഷ്ടമാണ്.",
     "usageExample": "Frozen dairy treat.",
     "difficulty": "BEGINNER"
   },
@@ -779,7 +779,7 @@
     "word": "cake",
     "wordMeaning": "കേക്ക്",
     "englishText": "Mother baked a rich plum cake packed with dry fruits for Christmas eve.",
-    "malayalamMeaning": "ക്രിസ്മസ് തലേന്ന് ഡ്രൈ ഫ്രൂട്ട്‌സ് നിറച്ച വിഭവസമൃദ്ധമായ പ്ലം കേക്ക് അമ്മ ചുട്ടെടുത്തു.",
+    "malayalamMeaning": "ക്രിസ്മസ് രാവിനായി ഉണക്കപ്പഴങ്ങൾ ധാരാളം ചേർത്ത നല്ലൊരു പ്ലം കേക്ക് അമ്മ ഉണ്ടാക്കി.",
     "usageExample": "Baked confection.",
     "difficulty": "BEGINNER"
   },
@@ -787,7 +787,7 @@
     "word": "fast",
     "wordMeaning": "വേഗം",
     "englishText": "Many people observe a spiritual fast on festival days, drinking only fruit juice.",
-    "malayalamMeaning": "പലരും ഉത്സവ ദിവസങ്ങളിൽ പഴച്ചാറ് മാത്രം കുടിച്ച് ആത്മീയ വ്രതം അനുഷ്ഠിക്കുന്നു.",
+    "malayalamMeaning": "ഉത്സവ ദിനങ്ങളിൽ പഴച്ചാറുകൾ മാത്രം കുടിച്ച് പലരും വ്രതം അനുഷ്ഠിക്കാറുണ്ട്.",
     "usageExample": "Abstaining from food.",
     "difficulty": "BEGINNER"
   },
@@ -795,7 +795,7 @@
     "word": "take away",
     "wordMeaning": "എടുത്തുകളയുക",
     "englishText": "Order a take away box of chicken biryani on your way home from the office.",
-    "malayalamMeaning": "ഓഫീസിൽ നിന്ന് വീട്ടിലേക്ക് പോകുമ്പോൾ ചിക്കൻ ബിരിയാണിയുടെ ഒരു ടേക്ക് എവേ ബോക്സ് ഓർഡർ ചെയ്യുക.",
+    "malayalamMeaning": "ഓഫീസിൽ നിന്ന് വീട്ടിലേക്ക് പോകും വഴി ഒരു പാഴ്സൽ ചിക്കൻ ബിരിയാണി വാങ്ങുക.",
     "usageExample": "Packed meal.",
     "difficulty": "BEGINNER"
   },

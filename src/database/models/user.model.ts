@@ -82,8 +82,8 @@ export class User extends Model {
   role: UserRole;
 
   @Column({
-    type: DataType.ENUM(...Object.values(SentenceDifficulty)),
-    defaultValue: SentenceDifficulty.BEGINNER,
+    type: DataType.ENUM('BEGINNER', 'INTERMEDIATE', 'ADVANCED'),
+    defaultValue: 'BEGINNER',
     allowNull: false,
   })
   difficulty_level: SentenceDifficulty;
