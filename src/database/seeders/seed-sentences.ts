@@ -1,6 +1,22 @@
-import { Sequelize } from 'sequelize-typescript';
-import * as fs from 'fs';
+import * as dotenv from 'dotenv';
 import * as path from 'path';
+import * as fs from 'fs';
+
+// Load .env configuration from candidate paths
+const envCandidates = [
+  path.resolve(__dirname, '../../../.env'),
+  path.resolve(process.cwd(), '.env'),
+  path.resolve(process.cwd(), 'backend/.env'),
+];
+
+for (const envPath of envCandidates) {
+  if (fs.existsSync(envPath)) {
+    dotenv.config({ path: envPath });
+    break;
+  }
+}
+
+import { Sequelize } from 'sequelize-typescript';
 import { Category, CategoryStatus } from '../models/category.model';
 import { Sentence, SentenceDifficulty, SentenceStatus } from '../models/sentence.model';
 import { DailyLesson, LessonStatus } from '../models/daily-lesson.model';
@@ -77,6 +93,12 @@ export async function seedCategorizedSentences(existingSequelize?: Sequelize) {
 
   if (!sequelize) {
     isStandalone = true;
+    console.log(`🔌 Connecting using configuration from .env:`);
+    console.log(`   Host: ${process.env.DB_HOST || 'localhost'}`);
+    console.log(`   Port: ${process.env.DB_PORT || '3306'}`);
+    console.log(`   User: ${process.env.DB_USERNAME || 'root'}`);
+    console.log(`   Database: ${process.env.DB_NAME || 'padikam_db'}`);
+
     sequelize = new Sequelize({
       dialect: 'mysql',
       host: process.env.DB_HOST || 'localhost',

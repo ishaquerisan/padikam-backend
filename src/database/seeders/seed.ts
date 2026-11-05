@@ -1,3 +1,21 @@
+import * as dotenv from 'dotenv';
+import * as path from 'path';
+import * as fs from 'fs';
+
+// Load .env configuration from candidate paths
+const envCandidates = [
+  path.resolve(__dirname, '../../../.env'),
+  path.resolve(process.cwd(), '.env'),
+  path.resolve(process.cwd(), 'backend/.env'),
+];
+
+for (const envPath of envCandidates) {
+  if (fs.existsSync(envPath)) {
+    dotenv.config({ path: envPath });
+    break;
+  }
+}
+
 import { Sequelize } from 'sequelize-typescript';
 import * as bcrypt from 'bcrypt';
 import { databaseModels } from '../models';
@@ -10,6 +28,11 @@ import { seedCategorizedSentences } from './seed-sentences';
 
 async function seed() {
   console.log('🌱 Starting Padikam Base Database Seeding...');
+  console.log(`🔌 Connecting using configuration from .env:`);
+  console.log(`   Host: ${process.env.DB_HOST || 'localhost'}`);
+  console.log(`   Port: ${process.env.DB_PORT || '3306'}`);
+  console.log(`   User: ${process.env.DB_USERNAME || 'root'}`);
+  console.log(`   Database: ${process.env.DB_NAME || 'padikam_db'}`);
 
   const sequelize = new Sequelize({
     dialect: 'mysql',
