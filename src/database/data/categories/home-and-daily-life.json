@@ -41,7 +41,7 @@
   },
   {
     "word": "wall",
-    "wordMeaning": "മതിൽ",
+    "wordMeaning": "ചുവര്",
     "englishText": "We hung a beautiful hand-painted Kathakali mask on the living room wall.",
     "malayalamMeaning": "സ്വീകരണമുറിയുടെ ചുവരിൽ ഞങ്ങൾ മനോഹരമായ ഒരു കഥകളി മുഖം തൂക്കിയിട്ടുണ്ട്.",
     "usageExample": "Room barrier.",
@@ -65,7 +65,7 @@
   },
   {
     "word": "ceiling",
-    "wordMeaning": "പരിധി",
+    "wordMeaning": "മേൽത്തട്ട്",
     "englishText": "The ceiling fan circled quietly above the wooden dining table.",
     "malayalamMeaning": "ഡൈനിംഗ് ടേബിളിന് മുകളിൽ സീലിംഗ് ഫാൻ ഒച്ചയില്ലാതെ കറങ്ങിക്കൊണ്ടിരുന്നു.",
     "usageExample": "Overhead interior.",
@@ -113,7 +113,7 @@
   },
   {
     "word": "plant",
-    "wordMeaning": "പ്ലാൻ്റ്",
+    "wordMeaning": "ചെടി",
     "englishText": "Water the indoor money plant regularly to keep its leaves vibrant.",
     "malayalamMeaning": "ഇലകൾ വാടാതിരിക്കാൻ ചെടിച്ചട്ടിയിലെ മണിപ്ലാന്റിന് ദിവസവും വെള്ളമൊഴിക്കുക.",
     "usageExample": "Vegetative growth.",
@@ -129,7 +129,7 @@
   },
   {
     "word": "clean",
-    "wordMeaning": "ശുദ്ധമായ",
+    "wordMeaning": "വൃത്തിയുള്ള",
     "englishText": "Keep your kitchen counter clean to maintain food hygiene.",
     "malayalamMeaning": "ഭക്ഷണശുചിത്വം ഉറപ്പാക്കാൻ അടുക്കളയിലെ സ്ലാബ് എപ്പോഴും വൃത്തിയായി സൂക്ഷിക്കുക.",
     "usageExample": "Free of dirt.",
@@ -145,7 +145,7 @@
   },
   {
     "word": "mop",
-    "wordMeaning": "മാപ്പ്",
+    "wordMeaning": "തറ തുടയ്ക്കുക",
     "englishText": "Mop the kitchen tiles with disinfectant after cooking oily dishes.",
     "malayalamMeaning": "എണ്ണപ്പലഹാരങ്ങൾ ഉണ്ടാക്കിക്കഴിഞ്ഞാൽ അടുക്കളത്തറ അണുനാശിനി ലായനി ഒഴിച്ച് തുടയ്ക്കുക.",
     "usageExample": "Washing floor.",
@@ -153,7 +153,7 @@
   },
   {
     "word": "dust",
-    "wordMeaning": "പൊടി",
+    "wordMeaning": "പൊടി തുടയ്ക്കുക",
     "englishText": "Use a soft microfiber cloth to dust the computer monitor and shelves.",
     "malayalamMeaning": "കമ്പ്യൂട്ടർ മോണിറ്ററിലെയും ഷെൽഫുകളിലെയും പൊടി തുടയ്ക്കാൻ നല്ലൊരു മൈക്രോഫൈബർ തുണി ഉപയോഗിക്കുക.",
     "usageExample": "Wiping particles.",
@@ -177,7 +177,7 @@
   },
   {
     "word": "dry",
-    "wordMeaning": "വരണ്ട",
+    "wordMeaning": "ഉണക്കുക",
     "englishText": "Hang the wet cotton clothes on the sunny terrace line to dry.",
     "malayalamMeaning": "നനഞ്ഞ കോട്ടൺ വസ്ത്രങ്ങൾ ഉണങ്ങാൻ ടെറസിലെ അയയിൽ ഇടുക.",
     "usageExample": "Removing moisture.",
@@ -185,7 +185,7 @@
   },
   {
     "word": "iron",
-    "wordMeaning": "ഇരുമ്പ്",
+    "wordMeaning": "ഇസ്തിരിയിടുക",
     "englishText": "Iron your formal cotton shirts and hang them inside the wardrobe.",
     "malayalamMeaning": "ഓഫീസ് ഷർട്ടുകൾ തേച്ച് വാർഡ്രോബിൽ തൂക്കിയിടുക.",
     "usageExample": "Pressing clothes.",
@@ -225,7 +225,7 @@
   },
   {
     "word": "sheet",
-    "wordMeaning": "ഷീറ്റ്",
+    "wordMeaning": "വിരിപ്പ്",
     "englishText": "Change the cotton bed sheet and pillow covers once every week.",
     "malayalamMeaning": "കോട്ടൺ വിരിപ്പും തലയിണയുറകളും ആഴ്ചയിലൊരിക്കൽ മാറ്റുക.",
     "usageExample": "Bed covering.",
@@ -249,7 +249,7 @@
   },
   {
     "word": "sleep",
-    "wordMeaning": "ഉറങ്ങുക",
+    "wordMeaning": "ഉറക്കം",
     "englishText": "Getting eight hours of peaceful sleep rejuvenates the mind.",
     "malayalamMeaning": "എട്ടു മണിക്കൂർ നല്ല ഉറക്കം കിട്ടുന്നത് മനസ്സിന് പുതിയ ഉന്മേഷം നൽകും.",
     "usageExample": "Resting state.",
@@ -281,7 +281,7 @@
   },
   {
     "word": "brush",
-    "wordMeaning": "ബ്രഷ്",
+    "wordMeaning": "പല്ല് തേയ്ക്കുക",
     "englishText": "Brush your teeth twice daily with herbal toothpaste for healthy gums.",
     "malayalamMeaning": "മോണകളുടെ ആരോഗ്യത്തിനായി ആയുർവേദ പേസ്റ്റ് ഉപയോഗിച്ച് ദിവസവും രണ്ടുനേരം പല്ല് തേക്കുക.",
     "usageExample": "Dental cleaning.",
@@ -321,7 +321,7 @@
   },
   {
     "word": "towel",
-    "wordMeaning": "ടവൽ",
+    "wordMeaning": "തോർത്ത്",
     "englishText": "Hang your wet cotton bath towel on the outdoor drying rack.",
     "malayalamMeaning": "നനഞ്ഞ തോർത്ത് പുറത്തുള്ള അയയിലോ സ്റ്റാൻഡിലോ വിരിച്ചിടുക.",
     "usageExample": "Drying cloth.",
@@ -337,7 +337,7 @@
   },
   {
     "word": "tap",
-    "wordMeaning": "ടാപ്പ് ചെയ്യുക",
+    "wordMeaning": "ടാപ്പ്",
     "englishText": "Make sure you turn off the water tap tightly to prevent wasteful leaks.",
     "malayalamMeaning": "വെള്ളം പാഴാകാതിരിക്കാൻ പൈപ്പ് നന്നായി അടച്ചിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക.",
     "usageExample": "Plumbing faucet.",
@@ -385,7 +385,7 @@
   },
   {
     "word": "dress",
-    "wordMeaning": "വസ്ത്രധാരണം",
+    "wordMeaning": "വസ്ത്രം ധരിക്കുക",
     "englishText": "Dress comfortably in light cotton clothes when staying at home.",
     "malayalamMeaning": "വീട്ടിലായിരിക്കുമ്പോൾ അയഞ്ഞ കോട്ടൺ വസ്ത്രങ്ങൾ ധരിക്കുന്നതാണ് സുഖകരം.",
     "usageExample": "Attire.",
@@ -425,7 +425,7 @@
   },
   {
     "word": "bake",
-    "wordMeaning": "ചുടേണം",
+    "wordMeaning": "ചുട്ടെടുക്കുക",
     "englishText": "The kids were thrilled to bake chocolate chip cookies in the oven.",
     "malayalamMeaning": "കുട്ടികൾക്ക് ഓവനിലിട്ട് ചോക്ലേറ്റ് കുക്കീസ് ഉണ്ടാക്കാൻ വലിയ ഉത്സാഹമായിരുന്നു.",
     "usageExample": "Oven cooking.",
@@ -433,7 +433,7 @@
   },
   {
     "word": "heat",
-    "wordMeaning": "ചൂട്",
+    "wordMeaning": "ചൂടാക്കുക",
     "englishText": "Heat the leftover vegetable stew gently on low flame before serving.",
     "malayalamMeaning": "ബാക്കിവന്ന വെജിറ്റബിൾ സ്റ്റൂ വിളമ്പുന്നതിന് മുൻപ് ചെറിയ തീയിൽ ചെറുതായി ചൂടാക്കുക.",
     "usageExample": "Warm up.",
@@ -465,7 +465,7 @@
   },
   {
     "word": "pan",
-    "wordMeaning": "പാൻ",
+    "wordMeaning": "വറചട്ടി",
     "englishText": "Use a cast-iron frying pan to make crispy paper dosas.",
     "malayalamMeaning": "നല്ല മൊരിഞ്ഞ പേപ്പർ റോസ്റ്റ് ഉണ്ടാക്കാൻ ഇരുമ്പ് ദോശക്കല്ല് ഉപയോഗിക്കുക.",
     "usageExample": "Shallow vessel.",
@@ -505,7 +505,7 @@
   },
   {
     "word": "plate",
-    "wordMeaning": "പ്ലേറ്റ്",
+    "wordMeaning": "തളിക",
     "englishText": "Serve the steaming hot rice and curries on a traditional banana leaf plate.",
     "malayalamMeaning": "വാഴയിലയിൽ നല്ല ആവി പറക്കുന്ന ചോറും കറികളും വിളമ്പുക.",
     "usageExample": "Dining dish.",
@@ -521,7 +521,7 @@
   },
   {
     "word": "fork",
-    "wordMeaning": "നാൽക്കവല",
+    "wordMeaning": "മുള്ളുകരണ്ടി",
     "englishText": "Set the dining table neatly with stainless steel spoons and forks.",
     "malayalamMeaning": "ഡൈനിംഗ് ടേബിളിൽ സ്റ്റീൽ സ്പൂണുകളും ഫോർക്കുകളും ഭംഗിയായി എടുത്തു വെക്കുക.",
     "usageExample": "Pronged cutlery.",
@@ -545,7 +545,7 @@
   },
   {
     "word": "cut",
-    "wordMeaning": "വെട്ടി",
+    "wordMeaning": "മുറിക്കുക",
     "englishText": "Cut the fresh coriander leaves finely to garnish the chicken curry.",
     "malayalamMeaning": "ചിക്കൻ കറിക്ക് മുകളിൽ വിതറാൻ മല്ലിയില ചെറുതായി അരിയുക.",
     "usageExample": "Divide with blade.",
@@ -553,7 +553,7 @@
   },
   {
     "word": "chop",
-    "wordMeaning": "മുളകും",
+    "wordMeaning": "കൊത്തിയരിയുക",
     "englishText": "Chop two red onions and three green chilies for the morning omelet.",
     "malayalamMeaning": "രാവിലത്തെ ഓംലെറ്റിനായി രണ്ട് സവാളയും മൂന്ന് പച്ചമുളകും ചെറുതായി അരിയുക.",
     "usageExample": "Dice finely.",
@@ -561,7 +561,7 @@
   },
   {
     "word": "slice",
-    "wordMeaning": "കഷണം",
+    "wordMeaning": "കഷ്ണങ്ങളാക്കുക",
     "englishText": "Slice the ripe yellow mango into thin, elegant wedges for dessert.",
     "malayalamMeaning": "പഴുത്ത മാമ്പഴം മനോഹരമായ കഷ്ണങ്ങളാക്കി മുറിച്ച് തീൻമേശയിൽ വെക്കുക.",
     "usageExample": "Cut into pieces.",
@@ -569,7 +569,7 @@
   },
   {
     "word": "peel",
-    "wordMeaning": "പീൽ",
+    "wordMeaning": "തൊലി കളയുക",
     "englishText": "Peel the potatoes and boil them until soft for the masala filling.",
     "malayalamMeaning": "മസാലക്കൂട്ടിൽ ചേർക്കാൻ ഉരുളക്കിഴങ്ങ് തൊലി കളഞ്ഞ് നന്നായി വേവിച്ചെടുക്കുക.",
     "usageExample": "Strip skin.",
@@ -585,7 +585,7 @@
   },
   {
     "word": "bread",
-    "wordMeaning": "അപ്പം",
+    "wordMeaning": "റൊട്ടി",
     "englishText": "Toast two slices of whole-wheat bread and spread fresh butter on them.",
     "malayalamMeaning": "രണ്ട് കഷ്ണം ഗോതമ്പ് ബ്രെഡ് ടോസ്റ്റ് ചെയ്ത് അതിൽ വെണ്ണ പുരട്ടുക.",
     "usageExample": "Baked loaf.",
@@ -617,7 +617,7 @@
   },
   {
     "word": "spice",
-    "wordMeaning": "സുഗന്ധവ്യഞ്ജനങ്ങൾ",
+    "wordMeaning": "സുഗന്ധവ്യഞ്ജനം",
     "englishText": "Kerala is world-renowned for its aromatic black pepper, cardamom, and clove.",
     "malayalamMeaning": "നല്ല കുരുമുളകിനും ഏലത്തിനും ഗ്രാമ്പൂവിനും ലോകമെമ്പാടും പേരു കേട്ടതാണ് കേരളം.",
     "usageExample": "Flavoring seasoning.",
@@ -625,7 +625,7 @@
   },
   {
     "word": "eat",
-    "wordMeaning": "തിന്നുക",
+    "wordMeaning": "ഭക്ഷിക്കുക",
     "englishText": "Sit down with your family to eat a peaceful, unhurried dinner.",
     "malayalamMeaning": "കുടുംബത്തോടൊപ്പം ഒരുമിച്ചിരുന്ന് സമാധാനമായി അത്താഴം കഴിക്കുക.",
     "usageExample": "Consume food.",
@@ -641,7 +641,7 @@
   },
   {
     "word": "hungry",
-    "wordMeaning": "വിശക്കുന്നു",
+    "wordMeaning": "വിശപ്പുള്ള",
     "englishText": "The children came home ravenously hungry after their football match.",
     "malayalamMeaning": "ഫുട്ബോൾ കളി കഴിഞ്ഞ് നല്ല വിശപ്പോടെയാണ് കുട്ടികൾ വീട്ടിലെത്തിയത്.",
     "usageExample": "Needing food.",
@@ -649,7 +649,7 @@
   },
   {
     "word": "thirsty",
-    "wordMeaning": "ദാഹിക്കുന്നു",
+    "wordMeaning": "ദാഹമുള്ള",
     "englishText": "Working in the afternoon sun made him desperately thirsty for tender coconut.",
     "malayalamMeaning": "ഉച്ചവെയിലിലെ ജോലി കഴിഞ്ഞ് ക്ഷീണിച്ച അയാൾക്ക് കരിക്കിൻവെള്ളം കുടിക്കാൻ അതിയായ ദാഹം തോന്നി.",
     "usageExample": "Needing water.",
@@ -689,7 +689,7 @@
   },
   {
     "word": "watch",
-    "wordMeaning": "വാച്ച്",
+    "wordMeaning": "കാണുക",
     "englishText": "We love to watch old comedy movies together on rainy Sunday afternoons.",
     "malayalamMeaning": "മഴയുള്ള ഞായറാഴ്ചകളിൽ പഴയ കോമഡി സിനിമകൾ ഒരുമിച്ചിരുന്ന് കാണാൻ ഞങ്ങൾക്ക് വലിയ ഇഷ്ടമാണ്.",
     "usageExample": "View screen.",
@@ -737,7 +737,7 @@
   },
   {
     "word": "charge",
-    "wordMeaning": "ഈടാക്കുക",
+    "wordMeaning": "ചാർജ് ചെയ്യുക",
     "englishText": "Do not forget to charge your laptop battery before the morning meeting.",
     "malayalamMeaning": "രാവിലത്തെ മീറ്റിംഗിന് മുൻപ് ലാപ്ടോപ്പ് ചാർജ് ചെയ്യാൻ മറക്കരുത്.",
     "usageExample": "Power device.",
@@ -761,7 +761,7 @@
   },
   {
     "word": "lock",
-    "wordMeaning": "പൂട്ടുക",
+    "wordMeaning": "പൂട്ട്",
     "englishText": "Check that the back door lock is securely engaged before leaving home.",
     "malayalamMeaning": "വീട്ടിൽ നിന്ന് ഇറങ്ങുന്നതിന് മുൻപ് അടുക്കളവാതിൽ കുറ്റിയിട്ടിട്ടുണ്ടോ എന്ന് ഉറപ്പുവരുത്തുക.",
     "usageExample": "Fastener.",
@@ -777,7 +777,7 @@
   },
   {
     "word": "safe",
-    "wordMeaning": "സുരക്ഷിതം",
+    "wordMeaning": "സുരക്ഷിതപ്പെട്ടി",
     "englishText": "Store important land deeds and gold jewelry inside the fireproof home safe.",
     "malayalamMeaning": "ആധാരങ്ങളും സ്വർണ്ണാഭരണങ്ങളും സുരക്ഷിതമായ ലോക്കറിൽ സൂക്ഷിക്കുക.",
     "usageExample": "Secure box.",
@@ -849,7 +849,7 @@
   },
   {
     "word": "dark",
-    "wordMeaning": "ഇരുണ്ട്",
+    "wordMeaning": "ഇരുണ്ട",
     "englishText": "Light a candle if a sudden monsoon power outage leaves the room dark.",
     "malayalamMeaning": "മഴക്കാലത്ത് പെട്ടെന്ന് കറണ്ട് പോയി ഇരുട്ടായാൽ മെഴുകുതിരി കത്തിക്കുക.",
     "usageExample": "Without light.",
@@ -857,7 +857,7 @@
   },
   {
     "word": "routine",
-    "wordMeaning": "പതിവ്",
+    "wordMeaning": "ദിനചര്യ",
     "englishText": "Establishing a healthy morning routine sets a positive tone for the whole day.",
     "malayalamMeaning": "നല്ലൊരു പ്രഭാത ദിനചര്യ ശീലമാക്കുന്നത് ദിവസം മുഴുവൻ ഉന്മേഷം നൽകും.",
     "usageExample": "Daily habit.",
@@ -865,7 +865,7 @@
   },
   {
     "word": "chore",
-    "wordMeaning": "ജോലി",
+    "wordMeaning": "വീട്ടുജോലി",
     "englishText": "Doing household chores together teaches children responsibility and teamwork.",
     "malayalamMeaning": "വീട്ടുജോലികൾ ഒരുമിച്ചു ചെയ്യുന്നത് കുട്ടികളിൽ ഉത്തരവാദിത്തബോധവും സഹകരണമനോഭാവവും വളർത്തും.",
     "usageExample": "Home task.",
@@ -873,7 +873,7 @@
   },
   {
     "word": "fix",
-    "wordMeaning": "പരിഹരിക്കുക",
+    "wordMeaning": "ശരിയാക്കുക",
     "englishText": "He used a screwdriver to fix the loose wooden handle on the kitchen cabinet.",
     "malayalamMeaning": "അടുക്കള അലമാരയിലെ ഇളകിയ പിടി സ്ക്രൂഡ്രൈവർ ഉപയോഗിച്ച് അയാൾ മുറുക്കി.",
     "usageExample": "Repair.",
@@ -881,7 +881,7 @@
   },
   {
     "word": "repair",
-    "wordMeaning": "നന്നാക്കൽ",
+    "wordMeaning": "നന്നാക്കുക",
     "englishText": "We called an authorized technician to repair the leaking washing machine.",
     "malayalamMeaning": "വാഷിംഗ് മെഷീനിലെ ചോർച്ച പരിഹരിക്കാൻ സർവീസ് സെന്ററിലെ മെക്കാനിക്കിനെ വിളിച്ചു.",
     "usageExample": "Mend.",
@@ -921,7 +921,7 @@
   },
   {
     "word": "trash",
-    "wordMeaning": "ചവറ്റുകുട്ട",
+    "wordMeaning": "ചവറ്",
     "englishText": "Segregate kitchen food scraps from dry paper and plastic trash.",
     "malayalamMeaning": "അടുക്കളയിലെ ജൈവമാലിന്യങ്ങളും പ്ലാസ്റ്റിക് മാലിന്യങ്ങളും പ്രത്യേകം തരംതിരിക്കുക.",
     "usageExample": "Waste.",
@@ -929,7 +929,7 @@
   },
   {
     "word": "bin",
-    "wordMeaning": "ബിൻ",
+    "wordMeaning": "ചവറ്റുകുട്ട",
     "englishText": "Empty the kitchen waste bin every night to prevent bad odors and fruit flies.",
     "malayalamMeaning": "ദുർഗന്ധവും ഈച്ചശല്യവും ഉണ്ടാകാതിരിക്കാൻ എല്ലാ ദിവസവും രാത്രി അടുക്കളയിലെ വേസ്റ്റ് ബിൻ വൃത്തിയാക്കുക.",
     "usageExample": "Waste container.",
@@ -953,7 +953,7 @@
   },
   {
     "word": "neat",
-    "wordMeaning": "വൃത്തിയായി",
+    "wordMeaning": "വൃത്തിയും ചിട്ടയുമുള്ള",
     "englishText": "She kept her clothes, books, and study papers in remarkably neat order.",
     "malayalamMeaning": "വസ്ത്രങ്ങളും പുസ്തകങ്ങളും പഠനോപകരണങ്ങളും അവൾ വളരെ അടുക്കും ചിട്ടയോടും കൂടി സൂക്ഷിച്ചു.",
     "usageExample": "Tidy.",
@@ -969,7 +969,7 @@
   },
   {
     "word": "sweet",
-    "wordMeaning": "മധുരം",
+    "wordMeaning": "മധുരമുള്ള",
     "englishText": "The sweet smell of blooming night jasmine drifted into the open bedroom.",
     "malayalamMeaning": "മുറ്റത്തു വിരിഞ്ഞുനിൽക്കുന്ന പവിഴമല്ലിയുടെ സുഗന്ധം കിടപ്പുമുറിയിലേക്ക് ഒഴുകിയെത്തി.",
     "usageExample": "Pleasantly fragrant.",
@@ -1001,7 +1001,7 @@
   },
   {
     "word": "drawer",
-    "wordMeaning": "ഡ്രോയർ",
+    "wordMeaning": "മേശവലിപ്പ്",
     "englishText": "Store your passports, birth certificates, and keys in the locked desk drawer.",
     "malayalamMeaning": "പാസ്‌പോർട്ടും സർട്ടിഫിക്കറ്റുകളും മേശയുടെ പൂട്ടിയിട്ട വലിപ്പിൽ സൂക്ഷിക്കുക.",
     "usageExample": "Sliding storage.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "sink",
-    "wordMeaning": "മുങ്ങുക",
+    "wordMeaning": "സിങ്ക്",
     "englishText": "Do not leave dirty tea glasses in the kitchen sink overnight.",
     "malayalamMeaning": "ചായ കുടിച്ച ഗ്ലാസുകൾ രാത്രി മുഴുവൻ സിങ്കിൽ കഴുകാതെ ഇടരുത്.",
     "usageExample": "Wash basin.",
@@ -1033,7 +1033,7 @@
   },
   {
     "word": "basin",
-    "wordMeaning": "തടം",
+    "wordMeaning": "വാഷ് ബേസിൻ",
     "englishText": "Wash your hands at the ceramic wash basin before sitting down for lunch.",
     "malayalamMeaning": "ഉച്ചഭക്ഷണം കഴിക്കാൻ ഇരിക്കുന്നതിന് മുൻപ് വാഷ് ബേസിനിൽ പോയി കൈ കഴുകുക.",
     "usageExample": "Washing bowl.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "stair",
-    "wordMeaning": "പടികൾ",
+    "wordMeaning": "കോണിപ്പടി",
     "englishText": "The toddler held onto the polished banister while climbing the wooden stairs.",
     "malayalamMeaning": "തടിപ്പടികൾ കയറുമ്പോൾ കുട്ടി കൈവരിയിൽ മുറുകെ പിടിച്ചിരുന്നു.",
     "usageExample": "Step.",
@@ -1057,7 +1057,7 @@
   },
   {
     "word": "terrace",
-    "wordMeaning": "ടെറസ്",
+    "wordMeaning": "മട്ടുപ്പാവ്",
     "englishText": "We spread sun-dried red chilies and banana chips across the flat roof terrace.",
     "malayalamMeaning": "ഞങ്ങൾ ടെറസിൽ വറ്റൽമുളകും കായ വറുത്തതും വെയിലത്തു വെച്ച് ഉണക്കി.",
     "usageExample": "Open roof.",
@@ -1105,7 +1105,7 @@
   },
   {
     "word": "well",
-    "wordMeaning": "നന്നായി",
+    "wordMeaning": "കിണർ",
     "englishText": "The traditional backyard well provides sweet, pure drinking water year-round.",
     "malayalamMeaning": "വീട്ടുമുറ്റത്തെ കിണറ്റിൽ നിന്ന് വർഷം മുഴുവനും നല്ല തെളിഞ്ഞ ശുദ്ധജലം ലഭിക്കുന്നു.",
     "usageExample": "Water shaft.",
@@ -1129,7 +1129,7 @@
   },
   {
     "word": "drain",
-    "wordMeaning": "ചോർച്ച",
+    "wordMeaning": "ഓട",
     "englishText": "Clean the outdoor rainwater drain regularly to prevent waterlogging.",
     "malayalamMeaning": "വെള്ളക്കെട്ട് ഉണ്ടാവാതിരിക്കാൻ മഴവെള്ളച്ചാലുകൾ കൃത്യമായി വൃത്തിയാക്കുക.",
     "usageExample": "Water channel.",
@@ -1153,7 +1153,7 @@
   },
   {
     "word": "spade",
-    "wordMeaning": "പാര",
+    "wordMeaning": "തൂമ്പ",
     "englishText": "He used a steel spade to dig fertile planting pits for the banana trees.",
     "malayalamMeaning": "വാഴ നടാനുള്ള കുഴിയെടുക്കാൻ അയാൾ തൂമ്പ ഉപയോഗിച്ചു.",
     "usageExample": "Digging tool.",
@@ -1161,7 +1161,7 @@
   },
   {
     "word": "ladder",
-    "wordMeaning": "ഗോവണി",
+    "wordMeaning": "ഏണി",
     "englishText": "Climb the aluminum step ladder carefully when cleaning the ceiling fan blades.",
     "malayalamMeaning": "ഫാനിന്റെ ലീഫുകൾ തുടയ്ക്കാൻ അലുമിനിയം ഏണി ഉപയോഗിച്ച് സൂക്ഷിച്ച് കയറുക.",
     "usageExample": "Climbing steps.",
@@ -1217,7 +1217,7 @@
   },
   {
     "word": "ventilation",
-    "wordMeaning": "വെൻ്റിലേഷൻ",
+    "wordMeaning": "വായുസഞ്ചാരം",
     "englishText": "Cross ventilation keeps traditional Kerala architecture naturally cool and airy.",
     "malayalamMeaning": "നല്ല വായുസഞ്ചാരം ഉള്ളതുകൊണ്ട് പരമ്പരാഗത കേരളീയ ശൈലിയിലുള്ള വീടുകളിൽ നല്ല തണുപ്പ് അനുഭവപ്പെടുന്നു.",
     "usageExample": "Air circulation.",
@@ -1241,7 +1241,7 @@
   },
   {
     "word": "furnishings",
-    "wordMeaning": "ഫർണിച്ചറുകൾ",
+    "wordMeaning": "ഗൃഹസാമഗ്രികൾ",
     "englishText": "Handwoven cotton drapes and teak furniture constituted the interior furnishings.",
     "malayalamMeaning": "കൈത്തറി കർട്ടനുകളും തേക്ക് ഫർണിച്ചറുകളുമാണ് വീടിന്റെ അകത്തളത്തിന് ഭംഗിയേകുന്നത്.",
     "usageExample": "Home fittings.",
@@ -1265,7 +1265,7 @@
   },
   {
     "word": "comforter",
-    "wordMeaning": "സാന്ത്വനക്കാരൻ",
+    "wordMeaning": "പഞ്ഞിപ്പുതപ്പ്",
     "englishText": "Wrap yourself in a lightweight microfiber comforter during cool rainy nights.",
     "malayalamMeaning": "മഴക്കാലത്തെ തണുപ്പുള്ള രാത്രികളിൽ നേർത്ത കമ്പിളിപ്പുതപ്പ് പുതച്ചുറങ്ങുക.",
     "usageExample": "Quilted blanket.",
@@ -1281,7 +1281,7 @@
   },
   {
     "word": "cabinet",
-    "wordMeaning": "കാബിനറ്റ്",
+    "wordMeaning": "ചെറു അലമാര",
     "englishText": "Store your ceramic dinnerware safely inside the glass-fronted kitchen cabinet.",
     "malayalamMeaning": "സെറാമിക് പാത്രങ്ങൾ അടുക്കളയിലെ ഗ്ലാസ് അലമാരയിൽ സുരക്ഷിതമായി വെക്കുക.",
     "usageExample": "Cupboard unit.",
@@ -1297,7 +1297,7 @@
   },
   {
     "word": "organizer",
-    "wordMeaning": "സംഘാടകൻ",
+    "wordMeaning": "തരംതിരിക്കൽ പെട്ടി",
     "englishText": "Use a modular drawer organizer to keep cutlery and cooking tools separated.",
     "malayalamMeaning": "സ്പൂണുകളും കത്തികളും വെവ്വേറെ അടുക്കിവെക്കാൻ ഡ്രോയർ ഓർഗനൈസർ ഉപയോഗിക്കുക.",
     "usageExample": "Storage divider.",
@@ -1305,7 +1305,7 @@
   },
   {
     "word": "declutter",
-    "wordMeaning": "നിരസിക്കുക",
+    "wordMeaning": "അനാവശ്യ വസ്തുക്കൾ നീക്കുക",
     "englishText": "Spend a weekend afternoon decluttering the attic and donating unwanted items.",
     "malayalamMeaning": "അവധിദിവസം ഉച്ചകഴിഞ്ഞ് തട്ടിൻപുറത്തെ അനാവശ്യ സാധനങ്ങൾ ഒഴിപ്പിച്ചു വൃത്തിയാക്കുക.",
     "usageExample": "Clear clutter.",
@@ -1313,7 +1313,7 @@
   },
   {
     "word": "sanitization",
-    "wordMeaning": "ശുചീകരണം",
+    "wordMeaning": "അണുനശീകരണം",
     "englishText": "Regular sanitization of high-touch door handles protects family health.",
     "malayalamMeaning": "എല്ലാവരും തൊടുന്ന വാതിൽപ്പടികൾ ഇടയ്ക്കിടെ അണുവിമുക്തമാക്കുന്നത് രോഗങ്ങൾ വരുന്നത് തടയും.",
     "usageExample": "Disinfecting.",
@@ -1345,7 +1345,7 @@
   },
   {
     "word": "interior",
-    "wordMeaning": "ഇൻ്റീരിയർ",
+    "wordMeaning": "അകത്തളം",
     "englishText": "She hired a skilled interior designer to maximize natural light in the living room.",
     "malayalamMeaning": "സ്വീകരണമുറിയിൽ ആവശ്യത്തിന് വെളിച്ചം ലഭിക്കുന്ന രീതിയിൽ വീടൊരുക്കാൻ അവൾ ഒരു ഇന്റീരിയർ ഡിസൈനറെ ചുമതലപ്പെടുത്തി.",
     "usageExample": "Indoor design.",
@@ -1385,7 +1385,7 @@
   },
   {
     "word": "banister",
-    "wordMeaning": "ബനിസ്റ്റർ",
+    "wordMeaning": "കൈവരി",
     "englishText": "The polished rosewood banister provides a sturdy handrail along the stairs.",
     "malayalamMeaning": "കോണിപ്പടിക്ക് വശങ്ങളിലായി ഈട്ടിത്തടിയിൽ തീർത്ത നല്ല ബലമുള്ള കൈവരികളുണ്ട്.",
     "usageExample": "Stair railing.",
@@ -1393,7 +1393,7 @@
   },
   {
     "word": "storeroom",
-    "wordMeaning": "സ്റ്റോർറൂം",
+    "wordMeaning": "സംഭരണമുറി",
     "englishText": "Old brass cooking cauldrons and seasonal suitcases are kept in the storeroom.",
     "malayalamMeaning": "പഴയ പിച്ചള ഉരുളികളും പെട്ടികളുമെല്ലാം സ്റ്റോർ റൂമിലാണ് സൂക്ഷിച്ചിരിക്കുന്നത്.",
     "usageExample": "Storage room.",
@@ -1417,7 +1417,7 @@
   },
   {
     "word": "compost",
-    "wordMeaning": "കമ്പോസ്റ്റ്",
+    "wordMeaning": "ജൈവവളം",
     "englishText": "Kitchen vegetable peelings and coffee grounds are tossed into the outdoor compost bin.",
     "malayalamMeaning": "അടുക്കളയിലെ പച്ചക്കറി അവശിഷ്ടങ്ങൾ പുറത്തെ കമ്പോസ്റ്റ് കുഴിയിലാണ് നിക്ഷേപിക്കുന്നത്.",
     "usageExample": "Organic fertilizer.",
@@ -1425,7 +1425,7 @@
   },
   {
     "word": "lawnmower",
-    "wordMeaning": "പുൽത്തകിടി",
+    "wordMeaning": "പുൽവെട്ട് യന്ത്രം",
     "englishText": "He uses an electric lawnmower to keep the courtyard grass neatly trimmed.",
     "malayalamMeaning": "മുറ്റത്തെ പുല്ല് ഒരേപോലെ വെട്ടിയൊതുക്കാൻ അയാൾ മെഷീൻ ഉപയോഗിക്കുന്നു.",
     "usageExample": "Grass cutter.",
@@ -1433,7 +1433,7 @@
   },
   {
     "word": "pruning",
-    "wordMeaning": "അരിവാൾകൊണ്ടു",
+    "wordMeaning": "കൊമ്പുകോതൽ",
     "englishText": "Regular pruning of the bougainvillea bushes encourages vibrant flowering.",
     "malayalamMeaning": "കടലാസുപൂച്ചെടികൾ ഇടയ്ക്കിടെ കൊമ്പു കോതിയാൽ നിറയെ പൂക്കൾ ഉണ്ടാകും.",
     "usageExample": "Clipping shrubs.",
@@ -1441,7 +1441,7 @@
   },
   {
     "word": "sprinkler",
-    "wordMeaning": "സ്പ്രിംഗളർ",
+    "wordMeaning": "വെള്ളം തളിക്കുന്ന യന്ത്രം",
     "englishText": "An automated garden sprinkler waters the lawn every morning at six o'clock.",
     "malayalamMeaning": "ഓട്ടോമാറ്റിക് സ്പ്രിംഗ്ലർ വഴി ദിവസവും രാവിലെ ആറുമണിക്ക് പുൽത്തകിടി നനയുന്നു.",
     "usageExample": "Irrigation spray.",
@@ -1449,7 +1449,7 @@
   },
   {
     "word": "drainage",
-    "wordMeaning": "ഡ്രെയിനേജ്",
+    "wordMeaning": "നീർവാർച്ച",
     "englishText": "Ensure your rainwater drainage pipes are unclogged before the heavy monsoon sets in.",
     "malayalamMeaning": "കാലവർഷം തുടങ്ങുന്നതിന് മുൻപേ മഴവെള്ളപ്പാത്തികളിലെ തടസ്സങ്ങൾ മാറ്റി വൃത്തിയാക്കുക.",
     "usageExample": "Water runoff.",
@@ -1465,7 +1465,7 @@
   },
   {
     "word": "insulation",
-    "wordMeaning": "ഇൻസുലേഷൻ",
+    "wordMeaning": "താപപ്രതിരോധം",
     "englishText": "Proper ceiling insulation reduces the heat radiating into the top-floor bedrooms.",
     "malayalamMeaning": "മേൽക്കൂരയിൽ കൃത്യമായ ഇൻസുലേഷൻ നൽകിയാൽ മുകളിലത്തെ മുറികളിലെ ചൂട് കുറയ്ക്കാം.",
     "usageExample": "Thermal shield.",
@@ -1593,7 +1593,7 @@
   },
   {
     "word": "spick-and-span",
-    "wordMeaning": "സ്പിക് ആൻഡ് സ്പാൻ",
+    "wordMeaning": "തികച്ചും വൃത്തിയുള്ള",
     "englishText": "The children cleaned their bedrooms until everything was spick-and-span.",
     "malayalamMeaning": "കിടപ്പുമുറികൾ ഒട്ടും അഴുക്കില്ലാതെ കുട്ടികൾ വൃത്തിയായി അടിച്ചുവാരി തുടച്ചുവെച്ചു.",
     "usageExample": "Completely neat.",
@@ -1601,7 +1601,7 @@
   },
   {
     "word": "pristine",
-    "wordMeaning": "പ്രാകൃതമായ",
+    "wordMeaning": "നിർമ്മലമായ",
     "englishText": "The crystal-clear water of the ancestral well remained pristine and sweet.",
     "malayalamMeaning": "തറവാട്ടിലെ കിണറ്റിലെ തെളിഞ്ഞ വെള്ളം എപ്പോഴും ശുദ്ധവും മധുരമുള്ളതുമായിരുന്നു.",
     "usageExample": "Unspoiled.",
@@ -1609,7 +1609,7 @@
   },
   {
     "word": "fastidious",
-    "wordMeaning": "വേഗമേറിയ",
+    "wordMeaning": "സൂക്ഷ്മതയുള്ള",
     "englishText": "She was fastidious about ensuring that every spice jar was labeled and wiped clean.",
     "malayalamMeaning": "മസാലപ്പാത്രങ്ങളെല്ലാം പേരെഴുതി ഒട്ടിച്ച് വൃത്തിയായി വെക്കുന്നതിൽ അവൾക്ക് പ്രത്യേക നിർബന്ധമുണ്ടായിരുന്നു.",
     "usageExample": "Meticulous.",
@@ -1617,7 +1617,7 @@
   },
   {
     "word": "repose",
-    "wordMeaning": "വിശ്രമിക്കുക",
+    "wordMeaning": "വിശ്രമം",
     "englishText": "The garden hammock under the coconut trees was his favorite spot for afternoon repose.",
     "malayalamMeaning": "തെങ്ങിൻചുവട്ടിൽ കെട്ടിയ ആട്ടുകട്ടിലിൽ കിടന്നുള്ള ഉച്ചയുറക്കമാണ് അയാൾക്ക് ഏറ്റവും പ്രിയപ്പെട്ടത്.",
     "usageExample": "Resting state.",
@@ -1681,7 +1681,7 @@
   },
   {
     "word": "pastoral",
-    "wordMeaning": "ഇടയൻ",
+    "wordMeaning": "ഗ്രാമീണമായ",
     "englishText": "The green hills and grazing cows presented an idyllic pastoral scene outside the window.",
     "malayalamMeaning": "പച്ചപ്പു നിറഞ്ഞ കുന്നുകളും മേഞ്ഞുനടക്കുന്ന പശുക്കളും ജനലിലൂടെ നോക്കുമ്പോൾ മനോഹരമായ ഒരു ഗ്രാമീണ ഭംഗി നൽകി.",
     "usageExample": "Rural peace.",
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "idyllic",
-    "wordMeaning": "ഇഡലിക്",
+    "wordMeaning": "ശാന്തസുന്ദരമായ",
     "englishText": "They enjoyed an idyllic childhood growing up in a peaceful backwater hamlet.",
     "malayalamMeaning": "ശാന്തമായ ഒരു കായലോര ഗ്രാമത്തിലാണ് അവരുടെ മനോഹരമായ ബാല്യകാലം കടന്നുപോയത്.",
     "usageExample": "Charming/peaceful.",
@@ -1697,7 +1697,7 @@
   },
   {
     "word": "convivial",
-    "wordMeaning": "സുഖപ്രദമായ",
+    "wordMeaning": "ഉല്ലാസഭരിതമായ",
     "englishText": "Sunday family lunches are convivial gatherings filled with laughter and stories.",
     "malayalamMeaning": "ഞായറാഴ്ചകളിലെ കുടുംബ സദ്യകൾ ചിരിയും വിശേഷങ്ങളും നിറഞ്ഞ ഒത്തുചേരലുകളാണ്.",
     "usageExample": "Festive company.",
@@ -1705,7 +1705,7 @@
   },
   {
     "word": "hallowed",
-    "wordMeaning": "വിശുദ്ധീകരിച്ചു",
+    "wordMeaning": "വിശുദ്ധമായ",
     "englishText": "We stepped with hushed reverence through the hallowed portals of the ancestral temple.",
     "malayalamMeaning": "തറവാട്ട് ക്ഷേത്രത്തിന്റെ പുണ്യഭൂമിയിലേക്ക് ഞങ്ങൾ ഭക്തിയോടെ പ്രവേശിച്ചു.",
     "usageExample": "Sacred.",
@@ -1729,7 +1729,7 @@
   },
   {
     "word": "patio",
-    "wordMeaning": "നടുമുറ്റം",
+    "wordMeaning": "പുറംമുറ്റം",
     "englishText": "We set up cane armchairs on the paved stone patio for afternoon tea.",
     "malayalamMeaning": "വൈകുന്നേരത്തെ ചായ കുടിക്കാനായി ഞങ്ങൾ കല്ലുപാകിയ മുറ്റത്ത് ചൂരൽ കസേരകളിട്ടു.",
     "usageExample": "Outdoor terrace.",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "pergola",
-    "wordMeaning": "പെർഗോള",
+    "wordMeaning": "വള്ളിപ്പന്തൽ",
     "englishText": "Fragrant white jasmine vines climbed over the wooden garden pergola.",
     "malayalamMeaning": "തോട്ടത്തിലെ പന്തലിലേക്ക് മുല്ലവള്ളികൾ പടർന്നു കയറിയിരുന്നു.",
     "usageExample": "Arbor framework.",
@@ -1745,7 +1745,7 @@
   },
   {
     "word": "gazebo",
-    "wordMeaning": "ഗസീബോ",
+    "wordMeaning": "പൂന്തോട്ട മണ്ഡപം",
     "englishText": "A hexagonal wooden gazebo beside the pond offered a scenic reading retreat.",
     "malayalamMeaning": "കുളത്തിനടുത്തുള്ള ചെറിയ തടിപ്പവിലിയൻ പുസ്തകം വായിച്ചിരിക്കാൻ പറ്റിയ ശാന്തമായ ഒരിടമായിരുന്നു.",
     "usageExample": "Garden pavilion.",
@@ -1761,7 +1761,7 @@
   },
   {
     "word": "perennial",
-    "wordMeaning": "വറ്റാത്ത",
+    "wordMeaning": "ചിരസ്ഥായിയായ",
     "englishText": "Hibiscus and bougainvillea are perennial flowering shrubs that bloom year-round.",
     "malayalamMeaning": "ചെമ്പരത്തിയും കടലാസുപൂക്കളും വർഷം മുഴുവൻ പൂത്തുനിൽക്കുന്ന ചെടികളാണ്.",
     "usageExample": "Enduring plant.",
@@ -1769,7 +1769,7 @@
   },
   {
     "word": "horticulture",
-    "wordMeaning": "ഹോർട്ടികൾച്ചർ",
+    "wordMeaning": "ഉദ്യാനകൃഷി",
     "englishText": "He studied sustainable horticulture and established a thriving rooftop garden.",
     "malayalamMeaning": "കൃഷിശാസ്ത്രം പഠിച്ച അയാൾ ടെറസിൽ സമൃദ്ധമായ ഒരു പച്ചക്കറിത്തോട്ടം ഉണ്ടാക്കിയെടുത്തു.",
     "usageExample": "Garden science.",
@@ -1793,7 +1793,7 @@
   },
   {
     "word": "composting",
-    "wordMeaning": "കമ്പോസ്റ്റിംഗ്",
+    "wordMeaning": "ജൈവവള നിർമ്മാണം",
     "englishText": "Segregating kitchen food scraps for composting enriches the garden soil naturally.",
     "malayalamMeaning": "അടുക്കള മാലിന്യങ്ങൾ കമ്പോസ്റ്റാക്കി മാറ്റുന്നത് ചെടികൾക്ക് നല്ല ജൈവവളമായി ഉപയോഗിക്കാം.",
     "usageExample": "Soil creation.",
@@ -1801,7 +1801,7 @@
   },
   {
     "word": "recycling",
-    "wordMeaning": "റീസൈക്ലിംഗ്",
+    "wordMeaning": "പുനരുപയോഗം",
     "englishText": "Sort your dry newspapers, glass bottles, and cardboard boxes for municipal recycling.",
     "malayalamMeaning": "പഴയ പത്രങ്ങളും കുപ്പികളും പെട്ടികളും പുനരുപയോഗത്തിനായി മാറ്റിവെക്കുക.",
     "usageExample": "Reusing waste.",
@@ -1809,7 +1809,7 @@
   },
   {
     "word": "waterproofing",
-    "wordMeaning": "വാട്ടർപ്രൂഫിംഗ്",
+    "wordMeaning": "ജലപ്രതിരോധം",
     "englishText": "Apply a double coat of acrylic waterproofing sealant before the monsoon rain begins.",
     "malayalamMeaning": "മഴക്കാലം തുടങ്ങുന്നതിനു മുൻപ് ടെറസിൽ വാട്ടർപ്രൂഫ് പെയിന്റ് രണ്ട് കോട്ട് അടിക്കുക.",
     "usageExample": "Sealing water.",
@@ -1817,7 +1817,7 @@
   },
   {
     "word": "electrical",
-    "wordMeaning": "ഇലക്ട്രിക്കൽ",
+    "wordMeaning": "വൈദ്യുത",
     "englishText": "Hire a licensed technician to inspect your domestic electrical wiring periodically.",
     "malayalamMeaning": "വീട്ടിലെ വയറിംഗിലെ തകരാറുകൾ പരിശോധിക്കാൻ ഒരു വിദഗ്ദ്ധ ഇലക്ട്രീഷ്യന്റെ സഹായം തേടുക.",
     "usageExample": "Power system.",
@@ -1833,7 +1833,7 @@
   },
   {
     "word": "acoustic",
-    "wordMeaning": "അക്കോസ്റ്റിക്",
+    "wordMeaning": "ശബ്ദസംബന്ധമായ",
     "englishText": "Heavy velvet curtains improve the acoustic quality of the home cinema room.",
     "malayalamMeaning": "കട്ടിയുള്ള വെൽവെറ്റ് കർട്ടനുകൾ ഹോം തിയേറ്റർ മുറിയിലെ ശബ്ദനിലവാരം മെച്ചപ്പെടുത്തുന്നു.",
     "usageExample": "Sound quality.",
@@ -1857,7 +1857,7 @@
   },
   {
     "word": "housekeeping",
-    "wordMeaning": "വീട്ടുജോലി",
+    "wordMeaning": "ഗൃഹപരിപാലനം",
     "englishText": "Diligent daily housekeeping ensures that every room remains fresh and welcoming.",
     "malayalamMeaning": "ദിവസവുമുള്ള വൃത്തിയാക്കൽ വീടിനകം എപ്പോഴും സുന്ദരവും ആകർഷകവുമാക്കി നിലനിർത്തുന്നു.",
     "usageExample": "Home management.",
@@ -1889,7 +1889,7 @@
   },
   {
     "word": "bespoke",
-    "wordMeaning": "നിർദ്ദേശിച്ചു",
+    "wordMeaning": "പ്രത്യേകം നിർമ്മിച്ച",
     "englishText": "The master carpenter created bespoke rosewood dining chairs fitted to the family's stature.",
     "malayalamMeaning": "മൂത്താശാരി ആ കുടുംബത്തിന് അനുയോജ്യമായ രീതിയിൽ ഈട്ടിത്തടിയിൽ ഭംഗിയുള്ള ഡൈനിംഗ് കസേരകൾ പണിതു നൽകി.",
     "usageExample": "Custom created.",
@@ -1905,7 +1905,7 @@
   },
   {
     "word": "masonry",
-    "wordMeaning": "കൊത്തുപണി",
+    "wordMeaning": "കൽപ്പണി",
     "englishText": "The sturdy laterite stone masonry of the ancestral foundation has weathered centuries.",
     "malayalamMeaning": "വെട്ടുകല്ലിൽ തീർത്ത തറവാടിന്റെ അടിത്തറ നൂറ്റാണ്ടുകളായി യാതൊരു കേടുപാടും കൂടാതെ നിലനിൽക്കുന്നു.",
     "usageExample": "Stonework.",
@@ -1913,7 +1913,7 @@
   },
   {
     "word": "fenestration",
-    "wordMeaning": "ഫെനെസ്ട്രേഷൻ",
+    "wordMeaning": "ജാലകവിന്യാസം",
     "englishText": "The elegant rhythmic fenestration of the facade allowed cross-breezes to circulate freely.",
     "malayalamMeaning": "വീടിന്റെ മുൻഭാഗത്തെ ജനലുകളുടെ ഭംഗിയുള്ള വിന്യാസം വീടിനുള്ളിലേക്ക് നല്ല കാറ്റ് നൽകി.",
     "usageExample": "Window design.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "lintel",
-    "wordMeaning": "ലിൻ്റൽ",
+    "wordMeaning": "വാതിലുത്തരം",
     "englishText": "Carved floral motifs adorned the heavy teakwood lintel above the main entrance.",
     "malayalamMeaning": "മുൻവാതിലിന്റെ മുകളിലത്തെ തേക്ക് ഉത്തരത്തിൽ മനോഹരമായ പൂക്കളുടെ കൊത്തുപണികൾ ഉണ്ടായിരുന്നു.",
     "usageExample": "Door beam.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "portico",
-    "wordMeaning": "പോർട്ടിക്കോ",
+    "wordMeaning": "മുഖമണ്ഡപം",
     "englishText": "Carriages traditionally pulled up beneath the shelter of the projecting front portico.",
     "malayalamMeaning": "പണ്ടുകാലത്ത് കുതിരവണ്ടികൾ വന്ന് നിന്നിരുന്നത് വീടിന്റെ ഉമ്മറപ്പടിക്ക് മുന്നിലെ പോർട്ടിക്കോയിലാണ്.",
     "usageExample": "Covered entrance.",
@@ -1945,7 +1945,7 @@
   },
   {
     "word": "vestibule",
-    "wordMeaning": "വെസ്റ്റിബ്യൂൾ",
+    "wordMeaning": "പ്രവേശനമുറി",
     "englishText": "Guests left their umbrellas and muddy footwear inside the tiled entry vestibule.",
     "malayalamMeaning": "അതിഥികൾ തങ്ങളുടെ കുടകളും ചെരുപ്പുകളും ഉമ്മറപ്പടിക്ക് പുറത്തുവെച്ചു.",
     "usageExample": "Entry lobby.",
@@ -1953,7 +1953,7 @@
   },
   {
     "word": "foyer",
-    "wordMeaning": "ഫോയർ",
+    "wordMeaning": "പ്രവേശനത്തളം",
     "englishText": "A sparkling crystal chandelier illuminated the marble foyer of the residence.",
     "malayalamMeaning": "പ്രവേശന കവാടത്തിലെ മാർബിൾ തറയ്ക്ക് മുകളിൽ തിളങ്ങുന്ന ക്രിസ്റ്റൽ വിളക്ക് പ്രകാശം പരത്തി.",
     "usageExample": "Entrance hall.",
@@ -1961,7 +1961,7 @@
   },
   {
     "word": "mezzanine",
-    "wordMeaning": "മെസാനൈൻ",
+    "wordMeaning": "ഇടത്തട്ട്",
     "englishText": "The master bedroom overlooked the double-height living room from a cozy mezzanine.",
     "malayalamMeaning": "മുകളിലെ മെസനൈൻ തട്ടിൽ നിന്ന് താഴത്തെ സ്വീകരണമുറി മുഴുവൻ കാണാമായിരുന്നു.",
     "usageExample": "Intermediate floor.",
@@ -1969,7 +1969,7 @@
   },
   {
     "word": "alcove",
-    "wordMeaning": "ആൽക്കോട്ട്",
+    "wordMeaning": "ചുവർമാടം",
     "englishText": "She curled up with a novel in a cushioned reading alcove beside the arched window.",
     "malayalamMeaning": "കമാന ജനലിനടുത്തുള്ള ചെറിയ ഇരിപ്പിടത്തിലിരുന്ന് അവൾ നോവൽ വായിക്കുകയായിരുന്നു.",
     "usageExample": "Recessed nook.",
@@ -1977,7 +1977,7 @@
   },
   {
     "word": "atrium",
-    "wordMeaning": "ആട്രിയം",
+    "wordMeaning": "നടുമുറ്റം",
     "englishText": "Rainwater fell gracefully into the central sunken atrium of the eco-friendly home.",
     "malayalamMeaning": "നടുമുറ്റത്തേക്ക് മഴവെള്ളം ഭംഗിയായി പെയ്തിറങ്ങി.",
     "usageExample": "Open sky courtyard.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "colonnade",
-    "wordMeaning": "കോളനഡ്",
+    "wordMeaning": "തൂൺനിര",
     "englishText": "A shaded colonnade of carved stone pillars flanked the courtyard garden path.",
     "malayalamMeaning": "പൂന്തോട്ട നടപ്പാതയ്ക്ക് ഇരുവശവുമായി കൊത്തുപണികളുള്ള കൽത്തൂൺ നിരകൾ ഉണ്ടായിരുന്നു.",
     "usageExample": "Row of columns.",
@@ -1993,7 +1993,7 @@
   },
   {
     "word": "balustrade",
-    "wordMeaning": "ബാലസ്ട്രേഡ്",
+    "wordMeaning": "സുരക്ഷാ കൈവരി",
     "englishText": "The ornate wrought-iron balustrade prevented falls along the second-floor balcony.",
     "malayalamMeaning": "മുകളിലത്തെ ബാൽക്കണിയിലെ ഇരുമ്പ് കൈവരികൾ സുരക്ഷിതത്വവും ഭംഗിയും ഒരുപോലെ ഉറപ്പാക്കി.",
     "usageExample": "Protective railing.",
@@ -2001,7 +2001,7 @@
   },
   {
     "word": "parquetry",
-    "wordMeaning": "പാർക്ക്വെട്രി",
+    "wordMeaning": "തടിത്തറ അലങ്കാരം",
     "englishText": "The dining room floor featured geometric wooden parquetry crafted from teak and rosewood.",
     "malayalamMeaning": "ഡൈനിംഗ് റൂമിന്റെ തറയിൽ തേക്കും ഈട്ടിയും ചേർത്തുവെച്ചുള്ള മനോഹരമായ മരപ്പണികൾ ചെയ്തിരുന്നു.",
     "usageExample": "Wood mosaic floor.",
@@ -2009,7 +2009,7 @@
   },
   {
     "word": "porcelain",
-    "wordMeaning": "പോർസലൈൻ",
+    "wordMeaning": "പിഞ്ഞാണം",
     "englishText": "Delicate hand-painted blue and white porcelain tea cups were reserved for special guests.",
     "malayalamMeaning": "പ്രത്യേക അതിഥികൾക്ക് നൽകാനായി ചിത്രപ്പണികളുള്ള പോർസലൈൻ കപ്പുകൾ എടുത്തുവെച്ചിരുന്നു.",
     "usageExample": "Fine ceramic.",
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "terracotta",
-    "wordMeaning": "ടെറാക്കോട്ട",
+    "wordMeaning": "ചുട്ട കളിമണ്ണ്",
     "englishText": "Cool terracotta floor tiles are naturally insulating and soothing to bare feet.",
     "malayalamMeaning": "തറയിലെ ഓട്ടുറ്റൈലുകൾ ചൂടു കുറയ്ക്കാനും നടക്കുമ്പോൾ കുളിർമ നൽകാനും സഹായിക്കുന്നു.",
     "usageExample": "Fired clay.",
@@ -2041,7 +2041,7 @@
   },
   {
     "word": "heirloom",
-    "wordMeaning": "അവകാശം",
+    "wordMeaning": "പൈതൃകവസ്തു",
     "englishText": "This hundred-year-old brass oil lamp is a sacred, treasured family heirloom.",
     "malayalamMeaning": "നൂറിലധികം വർഷം പഴക്കമുള്ള ഈ നിലവിളക്ക് ഞങ്ങളുടെ കുടുംബത്തിലെ വലിയൊരു അമൂല്യ സമ്പത്താണ്.",
     "usageExample": "Inherited treasure.",
@@ -2073,7 +2073,7 @@
   },
   {
     "word": "filial",
-    "wordMeaning": "പുത്രസ്വഭാവമുള്ള",
+    "wordMeaning": "മക്കളുടേതായ",
     "englishText": "Filial reverence toward aging parents was regarded as the highest virtue in the home.",
     "malayalamMeaning": "പ്രായമായ മാതാപിതാക്കളെ ആദരവോടെ നോക്കുന്നതിനാണ് ആ കുടുംബം ഏറ്റവും വലിയ പ്രാധാന്യം നൽകിയത്.",
     "usageExample": "Duty to parents.",
@@ -2081,7 +2081,7 @@
   },
   {
     "word": "patriarchal",
-    "wordMeaning": "പുരുഷാധിപത്യം",
+    "wordMeaning": "പിതൃമേധാവിത്വപരമായ",
     "englishText": "The patriarchal grandfather provided gentle, steady guidance across four generations.",
     "malayalamMeaning": "കുടുംബത്തിലെ കാരണവരായ മുത്തശ്ശൻ നാല് തലമുറകൾക്ക് സ്നേഹത്തോടെ വഴികാട്ടിയായി നിന്നു.",
     "usageExample": "Father-led.",
@@ -2089,7 +2089,7 @@
   },
   {
     "word": "matriarchal",
-    "wordMeaning": "മാട്രിയാർക്കൽ",
+    "wordMeaning": "മാതൃമേധാവിത്വപരമായ",
     "englishText": "Historically, many communities in Kerala practiced progressive matriarchal inheritance.",
     "malayalamMeaning": "ചരിത്രപരമായി കേരളത്തിലെ പല സമുദായങ്ങളിലും മരുമക്കത്തായ സമ്പ്രദായമാണ് നിലനിന്നിരുന്നത്.",
     "usageExample": "Mother-led.",
@@ -2097,7 +2097,7 @@
   },
   {
     "word": "ancestral",
-    "wordMeaning": "പൂർവ്വികർ",
+    "wordMeaning": "പൂർവ്വികമായ",
     "englishText": "We gather annually at our ancestral estate to honor the legacy of our forebears.",
     "malayalamMeaning": "പൂർവ്വികരെ സ്മരിക്കാനായി എല്ലാ വർഷവും ഞങ്ങൾ തറവാട്ടു വീട്ടിൽ ഒത്തുകൂടാറുണ്ട്.",
     "usageExample": "From ancestors.",
@@ -2113,7 +2113,7 @@
   },
   {
     "word": "bedrock",
-    "wordMeaning": "അടിത്തട്ട്",
+    "wordMeaning": "അടിത്തറ",
     "englishText": "Mutual trust, love, and honesty form the emotional bedrock of a flourishing household.",
     "malayalamMeaning": "പരസ്പര വിശ്വാസവും സ്നേഹവും സത്യസന്ധതയുമാണ് സന്തുഷ്ടമായ ഒരു കുടുംബത്തിന്റെ അടിത്തറ.",
     "usageExample": "Foundational base.",
@@ -2145,7 +2145,7 @@
   },
   {
     "word": "solicitude",
-    "wordMeaning": "അഭ്യർത്ഥന",
+    "wordMeaning": "കരുതൽ",
     "englishText": "Her tender solicitude for her ailing grandmother was evident in every prepared meal.",
     "malayalamMeaning": "സുഖമില്ലാത്ത മുത്തശ്ശിയോടുള്ള അവളുടെ സ്നേഹവും കരുതലും അവരുണ്ടാക്കിക്കൊടുത്ത ഓരോ ഭക്ഷണത്തിലും കാണാമായിരുന്നു.",
     "usageExample": "Caring concern.",
@@ -2161,7 +2161,7 @@
   },
   {
     "word": "unflinching",
-    "wordMeaning": "അനിയന്ത്രിതമായ",
+    "wordMeaning": "പതറാത്ത",
     "englishText": "The family showed unflinching loyalty to one another throughout life's trials.",
     "malayalamMeaning": "പ്രതിസന്ധി ഘട്ടങ്ങളിലെല്ലാം കുടുംബാംഗങ്ങൾ പരസ്പരം വിശ്വസ്തതയോടെ ഒന്നിച്ചുനിന്നു.",
     "usageExample": "Steadfast boldness.",
@@ -2177,7 +2177,7 @@
   },
   {
     "word": "paragon",
-    "wordMeaning": "പാരാഗൺ",
+    "wordMeaning": "ഉത്തമമാതൃക",
     "englishText": "My grandmother was universally celebrated as a paragon of graceful homemaking.",
     "malayalamMeaning": "കുടുംബം ഭംഗിയായി നോക്കിനടത്തുന്നതിൽ എന്റെ മുത്തശ്ശി എല്ലാവർക്കും ഒരു മാതൃകയായിരുന്നു.",
     "usageExample": "Model ideal.",
@@ -2185,7 +2185,7 @@
   },
   {
     "word": "chintz",
-    "wordMeaning": "chintz",
+    "wordMeaning": "ചിത്രപ്പണിയുള്ള തുണി",
     "englishText": "The bedroom windows were draped in vintage floral chintz fabric that filtered the sunlight.",
     "malayalamMeaning": "കിടപ്പുമുറിയിലെ ജനലുകളിൽ പൂക്കളുടെ ചിത്രപ്പണികളുള്ള മനോഹരമായ കർട്ടനുകൾ തൂക്കിയിരുന്നു.",
     "usageExample": "Printed cotton.",
@@ -2201,7 +2201,7 @@
   },
   {
     "word": "dustpan",
-    "wordMeaning": "പൊടിപടലം",
+    "wordMeaning": "ചവറുകോരി",
     "englishText": "Collect the swept dust into the plastic dustpan and empty it into the bin.",
     "malayalamMeaning": "അടിച്ചുകൂട്ടിയ പൊടി കോരിയെടുത്ത് ഡസ്റ്റ്ബിന്നിൽ നിക്ഷേപിക്കുക.",
     "usageExample": "Cleaning pan.",
@@ -2209,7 +2209,7 @@
   },
   {
     "word": "scrub",
-    "wordMeaning": "ചുരണ്ടുക",
+    "wordMeaning": "ഉരച്ചു കഴുകുക",
     "englishText": "Use a coconut coir pad to scrub the clay cooking pot until spotless.",
     "malayalamMeaning": "മൺചട്ടിയിലെ കരിയും അഴുക്കും കളയാൻ നല്ല ചകിരിയിട്ട് ഉരച്ചു കഴുകുക.",
     "usageExample": "Clean vigorously.",
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "doormat",
-    "wordMeaning": "വാതിൽപ്പടി",
+    "wordMeaning": "ചവിട്ടി",
     "englishText": "Wipe your wet sandals thoroughly on the coir doormat before entering the hall.",
     "malayalamMeaning": "ഹാളിലേക്ക് പ്രവേശിക്കുന്നതിന് മുൻപ് നനഞ്ഞ ചെരുപ്പുകൾ ചവിട്ടിയിൽ നന്നായി തുടയ്ക്കുക.",
     "usageExample": "Floor mat.",
@@ -2249,7 +2249,7 @@
   },
   {
     "word": "hanger",
-    "wordMeaning": "തൂക്കിക്കൊല്ലൽ",
+    "wordMeaning": "ഹാങ്ങർ",
     "englishText": "Hang your ironed shirts on sturdy wooden clothes hangers inside the wardrobe.",
     "malayalamMeaning": "ഇസ്തിരിയിട്ട ഷർട്ടുകൾ ഹാങ്ങറിൽ ഇട്ട് അലമാരയിൽ തൂക്കിയിടുക.",
     "usageExample": "Closet hook.",
@@ -2257,7 +2257,7 @@
   },
   {
     "word": "clothespin",
-    "wordMeaning": "ക്ലോസ്‌പിൻ",
+    "wordMeaning": "തുണിക്ലിപ്പ്",
     "englishText": "Secure the bedsheets to the terrace clothesline using colorful plastic clothespins.",
     "malayalamMeaning": "അയയിലെ വിരിപ്പുകൾ കാറ്റിൽ പറന്നുപോവാതിരിക്കാൻ ക്ലിപ്പിടുക.",
     "usageExample": "Laundry clip.",
@@ -2265,7 +2265,7 @@
   },
   {
     "word": "clothesline",
-    "wordMeaning": "തുണിത്തരങ്ങൾ",
+    "wordMeaning": "തുണി അയ",
     "englishText": "Mother tied a strong nylon clothesline across the sunny terrace for drying laundry.",
     "malayalamMeaning": "തുണികൾ ഉണങ്ങാനിടാൻ അമ്മ ടെറസിൽ നല്ല ബലമുള്ള നൈലോൺ അയ കെട്ടി.",
     "usageExample": "Drying rope.",
@@ -2289,7 +2289,7 @@
   },
   {
     "word": "colander",
-    "wordMeaning": "കോലാണ്ടർ",
+    "wordMeaning": "അരിപ്പപ്പാത്രം",
     "englishText": "Drain the boiled tapioca roots in a large stainless steel colander.",
     "malayalamMeaning": "വേവിച്ച കപ്പയിലെ വെള്ളം ഊറ്റിക്കളയാൻ വലിയൊരു അരിപ്പപ്പാത്രം ഉപയോഗിക്കുക.",
     "usageExample": "Straining bowl.",
@@ -2297,7 +2297,7 @@
   },
   {
     "word": "grater",
-    "wordMeaning": "grater",
+    "wordMeaning": "ചിരവ",
     "englishText": "Use a stainless steel box grater to shred fresh coconut for the dessert.",
     "malayalamMeaning": "പായസത്തിനായി തേങ്ങ ചിരകിയെടുക്കാൻ ഗ്രേറ്റർ ഉപയോഗിക്കുക.",
     "usageExample": "Shredding tool.",
@@ -2305,7 +2305,7 @@
   },
   {
     "word": "peeler",
-    "wordMeaning": "പീലർ",
+    "wordMeaning": "തൊലി കളയുന്ന കത്തി",
     "englishText": "A sharp vegetable peeler strips potato skins in seconds without wasting flesh.",
     "malayalamMeaning": "ഉരുളക്കിഴങ്ങ് പാഴാകാതെ തൊലി മാത്രം എളുപ്പത്തിൽ ചെത്തിയെടുക്കാൻ പീലർ സഹായിക്കും.",
     "usageExample": "Peeling blade.",
@@ -2313,7 +2313,7 @@
   },
   {
     "word": "tongs",
-    "wordMeaning": "ടോങ്ങുകൾ",
+    "wordMeaning": "ചവണ",
     "englishText": "Use silicone-tipped kitchen tongs to turn hot parottas safely over the iron skillet.",
     "malayalamMeaning": "ഇരുമ്പ് തവയിൽ നിന്ന് ചൂടുള്ള പൊറോട്ട മറിച്ചിടാൻ ചവണ ഉപയോഗിക്കുക.",
     "usageExample": "Gripping tool.",
@@ -2321,7 +2321,7 @@
   },
   {
     "word": "whisk",
-    "wordMeaning": "തീയൽ",
+    "wordMeaning": "കടയുക",
     "englishText": "Whisk the yogurt, water, ginger, and green chilies together to make refreshing sambharam.",
     "malayalamMeaning": "തൈരിൽ ഇഞ്ചിയും പച്ചമുളകും വെള്ളവും ചേർത്ത് കടഞ്ഞ് നല്ല ഉന്മേഷം തരുന്ന സംഭാരമുണ്ടാക്കുക.",
     "usageExample": "Beating tool.",
@@ -2329,7 +2329,7 @@
   },
   {
     "word": "rolling pin",
-    "wordMeaning": "റോളിംഗ് പിൻ",
+    "wordMeaning": "ചപ്പാത്തിക്കോൽ",
     "englishText": "Roll out the whole wheat dough into thin, even circles using a wooden rolling pin.",
     "malayalamMeaning": "ചപ്പാത്തിക്കോൽ ഉപയോഗിച്ച് ഗോതമ്പ് മാവ് നല്ല നേർമയായി പരത്തുക.",
     "usageExample": "Dough roller.",
@@ -2337,7 +2337,7 @@
   },
   {
     "word": "saucepan",
-    "wordMeaning": "എണ്ന",
+    "wordMeaning": "പിടിയുള്ള പാത്രം",
     "englishText": "Heat the milk and tea leaves together in a small copper-bottomed saucepan.",
     "malayalamMeaning": "ചെറിയൊരു പാത്രത്തിൽ പാലും തേയിലപ്പൊടിയും ചേർത്ത് തിളപ്പിക്കുക.",
     "usageExample": "Cooking pan.",
@@ -2353,7 +2353,7 @@
   },
   {
     "word": "spatula",
-    "wordMeaning": "സ്പാറ്റുല",
+    "wordMeaning": "ചട്ടുകം",
     "englishText": "Flip the fluffy golden appam gently using a non-stick wooden spatula.",
     "malayalamMeaning": "നല്ല പൂ പോലുള്ള പാലപ്പം മരത്തവി ഉപയോഗിച്ച് സാവധാനം ഇളക്കിയെടുക്കുക.",
     "usageExample": "Turning tool.",
@@ -2361,7 +2361,7 @@
   },
   {
     "word": "ladle",
-    "wordMeaning": "കലശ",
+    "wordMeaning": "തവി",
     "englishText": "Use a deep brass ladle to serve generous portions of steaming vegetable sambar.",
     "malayalamMeaning": "നല്ല ആവി പറക്കുന്ന സാമ്പാർ വിളമ്പാൻ പിച്ചളത്തവി ഉപയോഗിക്കുക.",
     "usageExample": "Serving spoon.",
@@ -2385,7 +2385,7 @@
   },
   {
     "word": "masonry",
-    "wordMeaning": "കൊത്തുപണി",
+    "wordMeaning": "കൽപ്പണി",
     "englishText": "The sturdy laterite stone masonry of the foundation has withstood fifty monsoons.",
     "malayalamMeaning": "വെട്ടുകല്ലിൽ തീർത്ത വീടിന്റെ അടിത്തറ അമ്പത് വർഷത്തെ മഴക്കാലങ്ങളെയും അതിജീവിച്ചു.",
     "usageExample": "Stonework.",

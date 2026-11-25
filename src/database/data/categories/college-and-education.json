@@ -17,7 +17,7 @@
   },
   {
     "word": "university",
-    "wordMeaning": "യൂണിവേഴ്സിറ്റി",
+    "wordMeaning": "സർവകലാശാല",
     "englishText": "The state university announced examination dates for all affiliated colleges.",
     "malayalamMeaning": "സംസ്ഥാന സർവകലാശാല തങ്ങളുടെ കീഴിലുള്ള എല്ലാ കോളേജുകളിലെയും പരീക്ഷാ തീയതികൾ പ്രഖ്യാപിച്ചു.",
     "usageExample": "Higher academy.",
@@ -97,7 +97,7 @@
   },
   {
     "word": "paper",
-    "wordMeaning": "പേപ്പർ",
+    "wordMeaning": "കടലാസ്",
     "englishText": "The invigilator distributed blank answer paper to all candidates.",
     "malayalamMeaning": "ഇൻവിജിലേറ്റർ എല്ലാ പരീക്ഷാർത്ഥികൾക്കും ഉത്തരക്കടലാസുകൾ വിതരണം ചെയ്തു.",
     "usageExample": "Writing sheet.",
@@ -153,7 +153,7 @@
   },
   {
     "word": "period",
-    "wordMeaning": "കാലഘട്ടം",
+    "wordMeaning": "ക്ലാസ് സമയം",
     "englishText": "We have a dedicated forty-minute library period every Wednesday afternoon.",
     "malayalamMeaning": "എല്ലാ ബുധനാഴ്ചയും ഉച്ചകഴിഞ്ഞ് ഞങ്ങൾക്ക് നാല്പത് മിനിറ്റ് ലൈബ്രറി പിരീഡ് ഉണ്ട്.",
     "usageExample": "Class session.",
@@ -185,7 +185,7 @@
   },
   {
     "word": "read",
-    "wordMeaning": "വായിച്ചു",
+    "wordMeaning": "വായിക്കുക",
     "englishText": "Read classic literature to enrich your English vocabulary and expression.",
     "malayalamMeaning": "ഇംഗ്ലീഷ് പദസമ്പത്തും പ്രയോഗങ്ങളും മെച്ചപ്പെടുത്താൻ ക്ലാസിക് സാഹിത്യങ്ങൾ വായിക്കുക.",
     "usageExample": "Comprehend text.",
@@ -249,7 +249,7 @@
   },
   {
     "word": "mark",
-    "wordMeaning": "അടയാളം",
+    "wordMeaning": "മാർക്ക്",
     "englishText": "Students who score over ninety marks are eligible for the merit scholarship.",
     "malayalamMeaning": "തൊണ്ണൂറിലധികം മാർക്ക് നേടുന്ന വിദ്യാർത്ഥികൾക്ക് മെറിറ്റ് സ്കോളർഷിപ്പിന് അർഹതയുണ്ട്.",
     "usageExample": "Score unit.",
@@ -257,7 +257,7 @@
   },
   {
     "word": "pass",
-    "wordMeaning": "കടന്നുപോകുക",
+    "wordMeaning": "വിജയിക്കുക",
     "englishText": "With steady dedication, you will comfortably pass all your semester subjects.",
     "malayalamMeaning": "തുടർച്ചയായ ആത്മാർത്ഥതയോടെ പഠിച്ചാൽ എല്ലാ സെമസ്റ്റർ വിഷയങ്ങളും നിങ്ങൾക്ക് എളുപ്പത്തിൽ പാസ്സാകാം.",
     "usageExample": "Clear exam.",
@@ -265,7 +265,7 @@
   },
   {
     "word": "fail",
-    "wordMeaning": "പരാജയപ്പെടുന്നു",
+    "wordMeaning": "പരാജയപ്പെടുക",
     "englishText": "Do not be disheartened if you fail; treat it as an opportunity to improve.",
     "malayalamMeaning": "പരാജയപ്പെട്ടാൽ നിരാശപ്പെടരുത്; മെച്ചപ്പെടാനുള്ള ഒരു അവസരമായി അതിനെ കാണുക.",
     "usageExample": "Unsuccessful attempt.",
@@ -329,7 +329,7 @@
   },
   {
     "word": "assignment",
-    "wordMeaning": "നിയമനം",
+    "wordMeaning": "പഠനച്ചുമതല",
     "englishText": "Submit your literature assignment via the student portal before Friday.",
     "malayalamMeaning": "വെള്ളിയാഴ്ചയ്ക്ക് മുമ്പ് സ്റ്റുഡന്റ് പോർട്ടൽ വഴി നിങ്ങളുടെ സാഹിത്യ അസൈൻമെന്റ് സമർപ്പിക്കുക.",
     "usageExample": "Coursework task.",
@@ -409,7 +409,7 @@
   },
   {
     "word": "library",
-    "wordMeaning": "ലൈബ്രറി",
+    "wordMeaning": "ഗ്രന്ഥശാല",
     "englishText": "The university library houses over one hundred thousand academic volumes.",
     "malayalamMeaning": "സർവകലാശാലാ ലൈബ്രറിയിൽ ഒരു ലക്ഷത്തിലധികം അക്കാദമിക് പുസ്തകങ്ങളുണ്ട്.",
     "usageExample": "Book depository.",
@@ -425,7 +425,7 @@
   },
   {
     "word": "return",
-    "wordMeaning": "മടങ്ങുക",
+    "wordMeaning": "തിരിച്ചുനൽകുക",
     "englishText": "Remember to return borrowed library books on time to avoid late fees.",
     "malayalamMeaning": "പിഴ ഒഴിവാക്കാൻ ലൈബ്രറിയിൽ നിന്ന് എടുത്ത പുസ്തകങ്ങൾ കൃത്യസമയത്ത് തിരിച്ചേൽപ്പിക്കാൻ ശ്രദ്ധിക്കുക.",
     "usageExample": "Give back book.",
@@ -441,7 +441,7 @@
   },
   {
     "word": "quiet",
-    "wordMeaning": "നിശബ്ദം",
+    "wordMeaning": "നിശബ്ദമായ",
     "englishText": "Silence must be observed strictly inside the central reading and study zone.",
     "malayalamMeaning": "സെൻട്രൽ റീഡിംഗ് റൂമിലും പഠന മേഖലയിലും കർശനമായ നിശബ്ദത പാലിക്കേണ്ടതാണ്.",
     "usageExample": "Noiseless environment.",
@@ -449,7 +449,7 @@
   },
   {
     "word": "laboratory",
-    "wordMeaning": "ലബോറട്ടറി",
+    "wordMeaning": "പരീക്ഷണശാല",
     "englishText": "Safety goggles and white lab coats are compulsory in the chemical laboratory.",
     "malayalamMeaning": "കെമിസ്ട്രി ലാബിൽ സുരക്ഷാ കണ്ണടകളും വെള്ള ലാബ് കോട്ടുകളും നിർബന്ധമാണ്.",
     "usageExample": "Experimental lab.",
@@ -489,7 +489,7 @@
   },
   {
     "word": "ground",
-    "wordMeaning": "നിലം",
+    "wordMeaning": "കളിസ്ഥലം",
     "englishText": "Students gathered on the sports ground for the annual athletic meet.",
     "malayalamMeaning": "വാർഷിക കായികമേളയ്ക്കായി വിദ്യാർത്ഥികൾ കളിസ്ഥലത്ത് ഒത്തുകൂടി.",
     "usageExample": "Playing field.",
@@ -569,7 +569,7 @@
   },
   {
     "word": "sports",
-    "wordMeaning": "കായിക",
+    "wordMeaning": "കായികവിനോദം",
     "englishText": "Participating in team sports builds leadership, grit, and physical fitness.",
     "malayalamMeaning": "കായിക ഇനങ്ങളിൽ പങ്കെടുക്കുന്നത് നേതൃത്വപാടവം, നിശ്ചയദാർഢ്യം, ശാരീരികക്ഷമത എന്നിവ വളർത്തുന്നു.",
     "usageExample": "Athletic activities.",
@@ -577,7 +577,7 @@
   },
   {
     "word": "team",
-    "wordMeaning": "ടീം",
+    "wordMeaning": "സംഘം",
     "englishText": "Our college football team qualified for the state-level inter-university finals.",
     "malayalamMeaning": "ഞങ്ങളുടെ കോളേജ് ഫുട്ബോൾ ടീം സംസ്ഥാനതല അന്തർസർവകലാശാല ഫൈനലിലേക്ക് യോഗ്യത നേടി.",
     "usageExample": "Sports squad.",
@@ -593,7 +593,7 @@
   },
   {
     "word": "medal",
-    "wordMeaning": "മെഡൽ",
+    "wordMeaning": "പതക്കം",
     "englishText": "The gold medal was awarded to the student who secured the highest overall GPA.",
     "malayalamMeaning": "ഏറ്റവും ഉയർന്ന മൊത്തം ജിപിഎ നേടിയ വിദ്യാർത്ഥിക്ക് സ്വർണ്ണ മെഡൽ സമ്മാനിച്ചു.",
     "usageExample": "Honorary coin.",
@@ -609,7 +609,7 @@
   },
   {
     "word": "certificate",
-    "wordMeaning": "സർട്ടിഫിക്കറ്റ്",
+    "wordMeaning": "സാക്ഷ്യപത്രം",
     "englishText": "Participants received a signed certificate upon completing the coding bootcamp.",
     "malayalamMeaning": "കോഡിംഗ് ബൂട്ട്ക്യാമ്പ് വിജയകരമായി പൂർത്തിയാക്കിയ പങ്കാളികൾക്ക് സാക്ഷ്യപത്രം ലഭിച്ചു.",
     "usageExample": "Official diploma.",
@@ -641,7 +641,7 @@
   },
   {
     "word": "term",
-    "wordMeaning": "കാലാവധി",
+    "wordMeaning": "അധ്യയന കാലം",
     "englishText": "The autumn academic term runs from July through to early December.",
     "malayalamMeaning": "ഓട്ടം അക്കാദമിക് ടേം ജൂലൈ മുതൽ ഡിസംബർ ആദ്യവാരം വരെ നീളുന്നു.",
     "usageExample": "School season.",
@@ -665,7 +665,7 @@
   },
   {
     "word": "leave",
-    "wordMeaning": "വിടുക",
+    "wordMeaning": "അവധി",
     "englishText": "Submit a medical certificate if you need to apply for sick leave from college.",
     "malayalamMeaning": "കോളേജിൽ അസുഖം കാരണം അവധിക്ക് അപേക്ഷിക്കാൻ മെഡിക്കൽ സർട്ടിഫിക്കറ്റ് സമർപ്പിക്കുക.",
     "usageExample": "Permitted absence.",
@@ -673,7 +673,7 @@
   },
   {
     "word": "absent",
-    "wordMeaning": "ഇല്ല",
+    "wordMeaning": "ഹാജരാകാത്ത",
     "englishText": "Students who are absent for more than twenty percent of classes cannot write exams.",
     "malayalamMeaning": "ഇരുപത് ശതമാനത്തിലധികം ക്ലാസുകളിൽ ഹാജരാകാത്ത വിദ്യാർത്ഥികൾക്ക് പരീക്ഷ എഴുതാൻ കഴിയില്ല.",
     "usageExample": "Not attending.",
@@ -697,7 +697,7 @@
   },
   {
     "word": "rule",
-    "wordMeaning": "ഭരണം",
+    "wordMeaning": "നിയമം",
     "englishText": "Strict anti-ragging rules are enforced across all university campus grounds.",
     "malayalamMeaning": "എല്ലാ സർവകലാശാലാ കാമ്പസുകളിലും കർശനമായ റാഗിംഗ് വിരുദ്ധ നിയമങ്ങൾ നടപ്പിലാക്കുന്നുണ്ട്.",
     "usageExample": "Regulation.",
@@ -721,7 +721,7 @@
   },
   {
     "word": "scholarship",
-    "wordMeaning": "സ്കോളർഷിപ്പ്",
+    "wordMeaning": "പഠനസഹായം",
     "englishText": "Deserving students from humble backgrounds received full state scholarships.",
     "malayalamMeaning": "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്നുള്ള അർഹരായ വിദ്യാർത്ഥികൾക്ക് മുഴുവൻ സംസ്ഥാന സ്കോളർഷിപ്പും ലഭിച്ചു.",
     "usageExample": "Tuition grant.",
@@ -737,7 +737,7 @@
   },
   {
     "word": "form",
-    "wordMeaning": "രൂപം",
+    "wordMeaning": "ഫോം",
     "englishText": "Fill in your personal details carefully on the college admission application form.",
     "malayalamMeaning": "കോളേജ് പ്രവേശന അപേക്ഷാ ഫോമിൽ നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ ശ്രദ്ധാപൂർവ്വം പൂരിപ്പിക്കുക.",
     "usageExample": "Document sheet.",
@@ -745,7 +745,7 @@
   },
   {
     "word": "apply",
-    "wordMeaning": "പ്രയോഗിക്കുക",
+    "wordMeaning": "അപേക്ഷിക്കുക",
     "englishText": "Graduates are encouraged to apply for international research fellowships.",
     "malayalamMeaning": "അന്താരാഷ്ട്ര ഗവേഷണ ഫെലോഷിപ്പുകൾക്കായി അപേക്ഷിക്കാൻ ബിരുദധാരികളെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
     "usageExample": "Submit candidacy.",
@@ -753,7 +753,7 @@
   },
   {
     "word": "seat",
-    "wordMeaning": "ഇരിപ്പിടം",
+    "wordMeaning": "പ്രവേശന സീറ്റ്",
     "englishText": "Competition for a merit seat in government medical colleges is intense.",
     "malayalamMeaning": "സർക്കാർ മെഡിക്കൽ കോളേജുകളിൽ മെറിറ്റ് സീറ്റിനായുള്ള മത്സരം വളരെ കടുത്തതാണ്.",
     "usageExample": "Enrolled position.",
@@ -769,7 +769,7 @@
   },
   {
     "word": "canteen",
-    "wordMeaning": "കാൻ്റീന്",
+    "wordMeaning": "കാന്റീൻ",
     "englishText": "The lively college canteen serves hot tea, samosas, and steamed banana snacks.",
     "malayalamMeaning": "തുടിപ്പുള്ള കോളേജ് കാന്റീനിൽ ചൂടുള്ള ചായയും സമൂസയും പഴംപൊരിയും വിളമ്പുന്നു.",
     "usageExample": "Campus cafeteria.",
@@ -785,7 +785,7 @@
   },
   {
     "word": "break",
-    "wordMeaning": "ബ്രേക്ക്",
+    "wordMeaning": "ഇടവേള",
     "englishText": "We gathered under the shady banyan tree during the ten-minute morning break.",
     "malayalamMeaning": "രാവിലത്തെ പത്ത് മിനിറ്റ് ഇടവേളയിൽ ഞങ്ങൾ തണലുള്ള ആൽമരച്ചുവട്ടിൽ ഒത്തുകൂടി.",
     "usageExample": "Class recess.",
@@ -793,7 +793,7 @@
   },
   {
     "word": "practice",
-    "wordMeaning": "പ്രാക്ടീസ്",
+    "wordMeaning": "പരിശീലനം",
     "englishText": "Consistent daily practice is the only way to master complex calculus formulas.",
     "malayalamMeaning": "സങ്കീർണ്ണമായ കാൽക്കുലസ് സമവാക്യങ്ങൾ സ്വായത്തമാക്കാനുള്ള ഏക വഴി ദിവസവുമുള്ള ചിട്ടയായ പരിശീലനമാണ്.",
     "usageExample": "Repeated study.",
@@ -801,7 +801,7 @@
   },
   {
     "word": "clever",
-    "wordMeaning": "മിടുക്കൻ",
+    "wordMeaning": "മിടുക്കുള്ള",
     "englishText": "A clever student finds innovative, practical solutions to everyday problems.",
     "malayalamMeaning": "സമർത്ഥനായ ഒരു വിദ്യാർത്ഥി ദൈനംദിന പ്രശ്നങ്ങൾക്കായി നൂതനവും പ്രായോഗികവുമായ പരിഹാരങ്ങൾ കണ്ടെത്തുന്നു.",
     "usageExample": "Sharp-minded.",
@@ -809,7 +809,7 @@
   },
   {
     "word": "smart",
-    "wordMeaning": "മിടുക്കൻ",
+    "wordMeaning": "സമർത്ഥമായ",
     "englishText": "Work smart by planning your revision strategy around past exam question papers.",
     "malayalamMeaning": "മുൻവർഷങ്ങളിലെ ചോദ്യപേപ്പറുകൾ മുൻനിർത്തി റിവിഷൻ പ്ലാൻ തയ്യാറാക്കി ബുദ്ധിപൂർവ്വം പഠിക്കുക.",
     "usageExample": "Intelligent.",
@@ -817,7 +817,7 @@
   },
   {
     "word": "wise",
-    "wordMeaning": "ജ്ഞാനി",
+    "wordMeaning": "വിവേകമുള്ള",
     "englishText": "It is wise to balance rigorous academic study with sports and creative arts.",
     "malayalamMeaning": "പഠനത്തോടൊപ്പം കായിക വിനോദങ്ങളും സർഗ്ഗാത്മക കലകളും സമന്വയിപ്പിക്കുന്നത് ബുദ്ധിപരമാണ്.",
     "usageExample": "Judicious.",
@@ -865,7 +865,7 @@
   },
   {
     "word": "correct",
-    "wordMeaning": "ശരിയാണ്",
+    "wordMeaning": "തിരുത്തുക",
     "englishText": "The teacher took time to correct every grammatical error in the student's essay.",
     "malayalamMeaning": "വിദ്യാർത്ഥിയുടെ ഉപന്യാസത്തിലെ വ്യാകരണ തെറ്റുകൾ തിരുത്താൻ അധ്യാപകൻ പ്രത്യേകം സമയം കണ്ടെത്തി.",
     "usageExample": "Rectify.",
@@ -913,7 +913,7 @@
   },
   {
     "word": "draft",
-    "wordMeaning": "ഡ്രാഫ്റ്റ്",
+    "wordMeaning": "കരട്",
     "englishText": "Write an initial draft of your research proposal and seek your guide's feedback.",
     "malayalamMeaning": "നിങ്ങളുടെ ഗവേഷണ നിർദ്ദേശത്തിന്റെ ആദ്യ കരട് തയ്യാറാക്കി ഗൈഡിന്റെ അഭിപ്രായം തേടുക.",
     "usageExample": "Preliminary text.",
@@ -1009,7 +1009,7 @@
   },
   {
     "word": "convocation",
-    "wordMeaning": "സമ്മേളനം",
+    "wordMeaning": "ബിരുദദാന ചടങ്ങ്",
     "englishText": "Graduates proudly wore their ceremonial black robes during the convocation.",
     "malayalamMeaning": "ബിരുദദാന ചടങ്ങിൽ ബിരുദധാരികൾ പരമ്പരാഗത കറുത്ത ഗൗണുകൾ അഭിമാനത്തോടെ ധരിച്ചു.",
     "usageExample": "Graduation event.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "syllabus",
-    "wordMeaning": "സിലബസ്",
+    "wordMeaning": "പാഠ്യപദ്ധതി",
     "englishText": "The professor distributed a comprehensive syllabus outlining weekly reading assignments.",
     "malayalamMeaning": "ഓരോ ആഴ്ചയിലെയും വായനാ ഭാഗങ്ങൾ ഉൾപ്പെടുത്തിയ വിശദമായ സിലബസ് പ്രൊഫസർ വിതരണം ചെയ്തു.",
     "usageExample": "Course outline.",
@@ -1033,7 +1033,7 @@
   },
   {
     "word": "dissertation",
-    "wordMeaning": "പ്രബന്ധം",
+    "wordMeaning": "ഗവേഷണ പ്രബന്ധം",
     "englishText": "She defended her doctoral dissertation on marine biodiversity with distinction.",
     "malayalamMeaning": "സമുദ്ര ജൈവവൈവിധ്യത്തെക്കുറിച്ചുള്ള തന്റെ ഡോക്ടറൽ പ്രബന്ധം അവൾ ഉന്നത വിജയത്തോടെ സമർപ്പിച്ചു.",
     "usageExample": "Research thesis.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "thesis",
-    "wordMeaning": "തീസിസ്",
+    "wordMeaning": "പ്രബന്ധം",
     "englishText": "His master's thesis analyzed the socioeconomic impacts of rural electrification.",
     "malayalamMeaning": "ഗ്രാമീണ വൈദ്യുതീകരണത്തിന്റെ സാമൂഹിക-സാമ്പത്തിക പ്രത്യാഘാതങ്ങളെക്കുറിച്ചാണ് അദ്ദേഹത്തിന്റെ മാസ്റ്റേഴ്സ് തീസിസ് വിശകലനം ചെയ്തത്.",
     "usageExample": "Academic treatise.",
@@ -1049,7 +1049,7 @@
   },
   {
     "word": "academic",
-    "wordMeaning": "അക്കാദമിക്",
+    "wordMeaning": "വിദ്യാഭ്യാസപരമായ",
     "englishText": "The college maintains an uncompromised standard of academic excellence and ethics.",
     "malayalamMeaning": "വിദ്യാഭ്യാസ നിലവാരത്തിലും ധാർമ്മികതയിലും കോളേജ് വിട്ടുവീഴ്ചയില്ലാത്ത മാതൃക പുലർത്തുന്നു.",
     "usageExample": "Scholarly.",
@@ -1057,7 +1057,7 @@
   },
   {
     "word": "faculty",
-    "wordMeaning": "ഫാക്കൽറ്റി",
+    "wordMeaning": "അധ്യാപകവിഭാഗം",
     "englishText": "The engineering faculty comprises forty distinguished professors and researchers.",
     "malayalamMeaning": "എഞ്ചിനീയറിംഗ് ഫാക്കൽറ്റിയിൽ നാല്പത് പ്രമുഖ പ്രൊഫസർമാരും ഗവേഷകരുമുണ്ട്.",
     "usageExample": "Teaching staff.",
@@ -1065,7 +1065,7 @@
   },
   {
     "word": "dean",
-    "wordMeaning": "മഠാധിപതി",
+    "wordMeaning": "അധ്യയന മേധാവി",
     "englishText": "The dean of academic affairs addressed the orientation gathering of freshmen.",
     "malayalamMeaning": "പുതുതായി ചേർന്ന വിദ്യാർത്ഥികളുടെ ഓറിയന്റേഷൻ സമ്മേളനത്തിൽ അക്കാദമിക് ഡീൻ സംസാരിച്ചു.",
     "usageExample": "College head.",
@@ -1081,7 +1081,7 @@
   },
   {
     "word": "fellowship",
-    "wordMeaning": "കൂട്ടായ്മ",
+    "wordMeaning": "ഗവേഷണ സഹായധനം",
     "englishText": "He was awarded a prestigious research fellowship at Cambridge University.",
     "malayalamMeaning": "കേംബ്രിഡ്ജ് സർവകലാശാലയിൽ അദ്ദേഹത്തിന് അഭിമാനകരമായ ഒരു ഗവേഷണ ഫെലോഷിപ്പ് ലഭിച്ചു.",
     "usageExample": "Research grant.",
@@ -1097,7 +1097,7 @@
   },
   {
     "word": "graduation",
-    "wordMeaning": "ബിരുദം",
+    "wordMeaning": "ബിരുദപൂർത്തീകരണം",
     "englishText": "The proud parents attended their daughter's medical college graduation ceremony.",
     "malayalamMeaning": "മകളുടെ മെഡിക്കൽ കോളേജ് ബിരുദദാന ചടങ്ങിൽ മാതാപിതാക്കൾ അഭിമാനത്തോടെ പങ്കെടുത്തു.",
     "usageExample": "Degree completion.",
@@ -1105,7 +1105,7 @@
   },
   {
     "word": "transcript",
-    "wordMeaning": "ട്രാൻസ്ക്രിപ്റ്റ്",
+    "wordMeaning": "പഠനരേഖ",
     "englishText": "Request an official sealed transcript from the university registrar office.",
     "malayalamMeaning": "സർവകലാശാലാ രജിസ്ട്രാർ ഓഫീസിൽ നിന്ന് ഔദ്യോഗിക സീൽ വെച്ച ട്രാൻസ്ക്രിപ്റ്റിനായി അപേക്ഷിക്കുക.",
     "usageExample": "Academic record.",
@@ -1121,7 +1121,7 @@
   },
   {
     "word": "accreditation",
-    "wordMeaning": "അക്രഡിറ്റേഷൻ",
+    "wordMeaning": "ഔദ്യോഗിക അംഗീകാരം",
     "englishText": "The technical institute received top-tier national NAAC accreditation.",
     "malayalamMeaning": "സാങ്കേതിക വിദ്യാഭ്യാസ സ്ഥാപനത്തിന് ഉയർന്ന ദേശീയ 'നാക്' (NAAC) അക്രഡിറ്റേഷൻ ലഭിച്ചു.",
     "usageExample": "Official approval.",
@@ -1129,7 +1129,7 @@
   },
   {
     "word": "internship",
-    "wordMeaning": "ഇൻ്റേൺഷിപ്പ്",
+    "wordMeaning": "പ്രായോഗിക പരിശീലനം",
     "englishText": "Students completed a mandatory three-month industrial engineering internship.",
     "malayalamMeaning": "വിദ്യാർത്ഥികൾ നിർബന്ധിതമായ മൂന്ന് മാസത്തെ ഇൻഡസ്ട്രിയൽ എഞ്ചിനീയറിംഗ് ഇന്റേൺഷിപ്പ് പൂർത്തിയാക്കി.",
     "usageExample": "Practical training.",
@@ -1153,7 +1153,7 @@
   },
   {
     "word": "distinction",
-    "wordMeaning": "വ്യത്യാസം",
+    "wordMeaning": "ഉന്നത വിജയം",
     "englishText": "He passed his bachelor of science degree with highest academic distinction.",
     "malayalamMeaning": "ബാച്ചിലർ ഓഫ് സയൻസ് ബിരുദം അദ്ദേഹം ഉന്നത വിജയത്തോടെ (ഡിസ്റ്റിങ്ഷനോടെ) പാസ്സായി.",
     "usageExample": "Top honor.",
@@ -1169,7 +1169,7 @@
   },
   {
     "word": "credential",
-    "wordMeaning": "ക്രെഡൻഷ്യൽ",
+    "wordMeaning": "യോഗ്യതാപത്രം",
     "englishText": "Verify the academic credentials of all applicants before extending job offers.",
     "malayalamMeaning": "ജോബ് ഓഫർ നൽകുന്നതിന് മുമ്പ് എല്ലാ അപേക്ഷകരുടെയും വിദ്യാഭ്യാസ യോഗ്യതകൾ പരിശോധിച്ച് ഉറപ്പുവരുത്തുക.",
     "usageExample": "Proof of skill.",
@@ -1193,7 +1193,7 @@
   },
   {
     "word": "pedagogy",
-    "wordMeaning": "അധ്യാപനശാസ്ത്രം",
+    "wordMeaning": "ബോധനശാസ്ത്രം",
     "englishText": "Modern pedagogy emphasizes hands-on experiential learning over passive rote learning.",
     "malayalamMeaning": "കാണാപ്പാഠം പഠിക്കുന്നതിനേക്കാൾ പ്രായോഗികമായ അനുഭവങ്ങളിലൂടെയുള്ള പഠനത്തിനാണ് ആധുനിക ബോധനശാസ്ത്രം ഊന്നൽ നൽകുന്നത്.",
     "usageExample": "Teaching methodology.",
@@ -1265,7 +1265,7 @@
   },
   {
     "word": "plagiarism",
-    "wordMeaning": "കോപ്പിയടി",
+    "wordMeaning": "സാഹിത്യമോഷണം",
     "englishText": "The university enforces strict disciplinary zero-tolerance policies against plagiarism.",
     "malayalamMeaning": "പ്രബന്ധ മോഷണത്തിനെതിരെ (പ്ലേജിയറിസം) കർശനമായ വിട്ടുവീഴ്ചയില്ലാത്ത അച്ചടക്ക നടപടികളാണ് സർവകലാശാല സ്വീകരിക്കുന്നത്.",
     "usageExample": "Copying work.",
@@ -1273,7 +1273,7 @@
   },
   {
     "word": "peer-review",
-    "wordMeaning": "പിയർ റിവ്യൂ",
+    "wordMeaning": "വിദഗ്ദ്ധ അവലോകനം",
     "englishText": "The scientific paper underwent rigorous blind peer-review before formal acceptance.",
     "malayalamMeaning": "ഔദ്യോഗികമായി അംഗീകരിക്കുന്നതിന് മുമ്പ് ശാസ്ത്ര ലേഖനം കർശനമായ ബ്ലൈൻഡ് പിയർ-റിവ്യൂവിന് വിധേയമാക്കി.",
     "usageExample": "Expert vetting.",
@@ -1289,7 +1289,7 @@
   },
   {
     "word": "journal",
-    "wordMeaning": "ജേണൽ",
+    "wordMeaning": "ഗവേഷണ പത്രിക",
     "englishText": "The department library subscribes to dozens of international academic journals.",
     "malayalamMeaning": "ഡിപ്പാർട്ട്‌മെന്റ് ലൈബ്രറി നിരവധി അന്താരാഷ്ട്ര അക്കാദമിക് ജേണലുകൾ വരുത്തുന്നുണ്ട്.",
     "usageExample": "Scholarly periodical.",
@@ -1297,7 +1297,7 @@
   },
   {
     "word": "symposium",
-    "wordMeaning": "സിമ്പോസിയം",
+    "wordMeaning": "ചർച്ചാസമ്മേളനം",
     "englishText": "The physics department organized a two-day national symposium on quantum optics.",
     "malayalamMeaning": "ക്വാണ്ടം ഒപ്റ്റിക്സിനെക്കുറിച്ച് ഭൗതികശാസ്ത്ര വിഭാഗം രണ്ടു ദിവസത്തെ ദേശീയ സിമ്പോസിയം സംഘടിപ്പിച്ചു.",
     "usageExample": "Academic conference.",
@@ -1305,7 +1305,7 @@
   },
   {
     "word": "colloquium",
-    "wordMeaning": "colloquium",
+    "wordMeaning": "പഠനസമ്മേളനം",
     "englishText": "Scholars from across the country gathered for the interdisciplinary humanities colloquium.",
     "malayalamMeaning": "ഇന്റർ ഡിസിപ്ലിനറി ഹ്യുമാനിറ്റീസ് കൊളോക്കിയത്തിനായി രാജ്യത്തിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നുള്ള പണ്ഡിതർ ഒത്തുകൂടി.",
     "usageExample": "Academic gathering.",
@@ -1313,7 +1313,7 @@
   },
   {
     "word": "tuition",
-    "wordMeaning": "ട്യൂഷൻ",
+    "wordMeaning": "പഠനഫീസ്",
     "englishText": "The university offers tuition fee waivers for meritorious economically challenged students.",
     "malayalamMeaning": "സാമ്പത്തികമായി പിന്നാക്കം നിൽക്കുന്ന സമർത്ഥരായ വിദ്യാർത്ഥികൾക്ക് സർവകലാശാല ട്യൂഷൻ ഫീസ് ഇളവ് നൽകുന്നു.",
     "usageExample": "Teaching fee.",
@@ -1321,7 +1321,7 @@
   },
   {
     "word": "enrollment",
-    "wordMeaning": "എൻറോൾമെൻ്റ്",
+    "wordMeaning": "പേര് ചേർക്കൽ",
     "englishText": "Student enrollment in computer science and data analytics programs reached record highs.",
     "malayalamMeaning": "കമ്പ്യൂട്ടർ സയൻസ്, ഡാറ്റാ അനലിറ്റിക്സ് പ്രോഗ്രാമുകളിലേക്കുള്ള വിദ്യാർത്ഥി പ്രവേശനം റെക്കോർഡ് നിരക്കിലെത്തി.",
     "usageExample": "Registration count.",
@@ -1337,7 +1337,7 @@
   },
   {
     "word": "apprenticeship",
-    "wordMeaning": "അപ്രൻ്റീസ്ഷിപ്പ്",
+    "wordMeaning": "തൊഴിൽ പരിശീലനം",
     "englishText": "He completed a two-year technical apprenticeship at the naval ship repair yard.",
     "malayalamMeaning": "നാവൽ ഷിപ്പ് റിപ്പയർ യാർഡിൽ അദ്ദേഹം രണ്ടു വർഷത്തെ സാങ്കേതിക അപ്രന്റീസ്ഷിപ്പ് പൂർത്തിയാക്കി.",
     "usageExample": "Practical mentorship.",
@@ -1353,7 +1353,7 @@
   },
   {
     "word": "valedictorian",
-    "wordMeaning": "വാലിഡിക്റ്റോറിയൻ",
+    "wordMeaning": "ഉന്നതവിജയി",
     "englishText": "The graduating valedictorian reflected on the transformative lessons of college life.",
     "malayalamMeaning": "ബിരുദം നേടുന്ന ഉന്നതവിജയിയായ വിദ്യാർത്ഥി കോളേജ് ജീവിതം സമ്മാനിച്ച പരിവർത്തന പാഠങ്ങളെക്കുറിച്ച് അനുസ്മരിച്ചു.",
     "usageExample": "Top ranked graduate.",
@@ -1361,7 +1361,7 @@
   },
   {
     "word": "salutatorian",
-    "wordMeaning": "അഭിവാദനക്കാരൻ",
+    "wordMeaning": "രണ്ടാം ഉന്നതവിജയി",
     "englishText": "The salutatorian delivered a warm, witty welcome address at commencement.",
     "malayalamMeaning": "ബിരുദദാന സമ്മേളനത്തിൽ സല്യൂട്ടേറ്റോറിയൻ സ്നേഹനിർഭരവും രസകരവുമായ സ്വാഗതപ്രസംഗം നടത്തി.",
     "usageExample": "Second ranked graduate.",
@@ -1369,7 +1369,7 @@
   },
   {
     "word": "remedial",
-    "wordMeaning": "പ്രതിവിധി",
+    "wordMeaning": "പരിഹാരപരമായ",
     "englishText": "The department offers remedial coaching for students needing extra help in calculus.",
     "malayalamMeaning": "കാൽക്കുലസിൽ കൂടുതൽ സഹായം ആവശ്യമുള്ള വിദ്യാർത്ഥികൾക്കായി വകുപ്പ് റെമിഡിയൽ കോച്ചിംഗ് നൽകുന്നു.",
     "usageExample": "Catch-up coaching.",
@@ -1377,7 +1377,7 @@
   },
   {
     "word": "tenure",
-    "wordMeaning": "കാലാവധി",
+    "wordMeaning": "സ്ഥിരം പദവി",
     "englishText": "After publishing three seminal monographs, the professor was granted permanent academic tenure.",
     "malayalamMeaning": "മൂന്ന് സുപ്രധാന ഗവേഷണ ഗ്രന്ഥങ്ങൾ പ്രസിദ്ധീകരിച്ചതിനെ തുടർന്ന് പ്രൊഫസർക്ക് സ്ഥിരം അക്കാദമിക് പദവി അനുവദിച്ചു.",
     "usageExample": "Permanent post.",
@@ -1385,7 +1385,7 @@
   },
   {
     "word": "trimester",
-    "wordMeaning": "ത്രിമാസത്തിലെ",
+    "wordMeaning": "ത്രിമാസ ഘട്ടം",
     "englishText": "The business school divides its intensive academic calendar into three twelve-week trimesters.",
     "malayalamMeaning": "ബിസിനസ് സ്കൂൾ തങ്ങളുടെ അക്കാദമിക് കലണ്ടറിനെ പന്ത്രണ്ട് ആഴ്ചകൾ വീതമുള്ള മൂന്ന് ട്രൈമെസ്റ്ററുകളായി തിരിച്ചിരിക്കുന്നു.",
     "usageExample": "Three-term system.",
@@ -1417,7 +1417,7 @@
   },
   {
     "word": "academician",
-    "wordMeaning": "അക്കാദമിഷ്യൻ",
+    "wordMeaning": "വിദ്യാഭ്യാസ വിചക്ഷണൻ",
     "englishText": "The distinguished academician was appointed to the national education advisory council.",
     "malayalamMeaning": "പ്രമുഖ വിദ്യാഭ്യാസ വിചക്ഷണനെ ദേശീയ വിദ്യാഭ്യാസ ഉപദേശക സമിതിയിലേക്ക് നിയമിച്ചു.",
     "usageExample": "University scholar.",
@@ -1433,7 +1433,7 @@
   },
   {
     "word": "sabbatical",
-    "wordMeaning": "ശബ്ബത്ത്",
+    "wordMeaning": "പഠനാവധി",
     "englishText": "The senior professor took a one-year sabbatical to write his textbook on fluid mechanics.",
     "malayalamMeaning": "ഫ്ലൂയിഡ് മെക്കാനിക്സിനെക്കുറിച്ച് പാഠപുസ്തകം എഴുതുന്നതിനായി സീനിയർ പ്രൊഫസർ ഒരു വർഷത്തെ സാബറ്റിക്കൽ അവധിയെടുത്തു.",
     "usageExample": "Academic leave.",
@@ -1449,7 +1449,7 @@
   },
   {
     "word": "dormitory",
-    "wordMeaning": "ഡോർമിറ്ററി",
+    "wordMeaning": "താമസശാല",
     "englishText": "The student dormitory includes high-speed Wi-Fi, study lounges, and laundry facilities.",
     "malayalamMeaning": "വിദ്യാർത്ഥി ഹോസ്റ്റലിൽ അതിവേഗ വൈഫൈ, സ്റ്റഡി ലോഞ്ചുകൾ, അലക്കു സൗകര്യങ്ങൾ എന്നിവ ഉൾപ്പെടുന്നു.",
     "usageExample": "Campus residence.",
@@ -1481,7 +1481,7 @@
   },
   {
     "word": "endowment",
-    "wordMeaning": "എൻഡോവ്മെൻ്റ്",
+    "wordMeaning": "സ്ഥിരനിധി",
     "englishText": "The university invested its multi-crore endowment fund to sponsor merit scholarships forever.",
     "malayalamMeaning": "ശാശ്വതമായി മെറിറ്റ് സ്കോളർഷിപ്പുകൾ നൽകുന്നതിനായി സർവകലാശാല തങ്ങളുടെ കോടികളുടെ എൻഡോവ്‌മെന്റ് ഫണ്ട് നിക്ഷേപിച്ചു.",
     "usageExample": "Permanent capital.",
@@ -1489,7 +1489,7 @@
   },
   {
     "word": "grant",
-    "wordMeaning": "ഗ്രാൻ്റ്",
+    "wordMeaning": "ധനസഹായം",
     "englishText": "The research lab secured a substantial government grant to develop indigenous battery cells.",
     "malayalamMeaning": "തദ്ദേശീയമായി ബാറ്ററി സെല്ലുകൾ വികസിപ്പിക്കുന്നതിന് ഗവേഷണ ലാബിന് ഗണ്യമായ സർക്കാർ ഗ്രാന്റ് ലഭിച്ചു.",
     "usageExample": "Financial award.",
@@ -1497,7 +1497,7 @@
   },
   {
     "word": "disciplinary",
-    "wordMeaning": "അച്ചടക്കമുള്ള",
+    "wordMeaning": "അച്ചടക്കപരമായ",
     "englishText": "The disciplinary committee investigated allegations of exam malpractice thoroughly.",
     "malayalamMeaning": "പരീക്ഷാ ക്രമക്കേടുകൾ സംബന്ധിച്ച പരാതികൾ അച്ചടക്ക സമിതി വിശദമായി അന്വേഷിച്ചു.",
     "usageExample": "Conduct enforcement.",
@@ -1513,7 +1513,7 @@
   },
   {
     "word": "pedagogical",
-    "wordMeaning": "പെഡഗോഗിക്കൽ",
+    "wordMeaning": "ബോധനശാസ്ത്രപരമായ",
     "englishText": "The new pedagogical framework incorporates interactive digital simulations into science classes.",
     "malayalamMeaning": "ശാസ്ത്ര ക്ലാസുകളിൽ ഇന്ററാക്ടീവ് ഡിജിറ്റൽ സിമുലേഷനുകൾ പുതിയ അധ്യാപന രീതിയിൽ ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.",
     "usageExample": "Educational method.",
@@ -1521,7 +1521,7 @@
   },
   {
     "word": "intellectual",
-    "wordMeaning": "ബുദ്ധിജീവി",
+    "wordMeaning": "ബൗദ്ധികമായ",
     "englishText": "Engaging in spirited intellectual debates sharpens your capacity for critical thinking.",
     "malayalamMeaning": "ആഴത്തിലുള്ള ബൗദ്ധിക സംവാദങ്ങളിൽ ഏർപ്പെടുന്നത് വിമർശനാത്മക ചിന്താശേഷി മൂർച്ചയുള്ളതാക്കുന്നു.",
     "usageExample": "Mental/cerebral.",
@@ -1561,7 +1561,7 @@
   },
   {
     "word": "heuristic",
-    "wordMeaning": "ഹ്യൂറിസ്റ്റിക്",
+    "wordMeaning": "അന്വേഷണാത്മകമായ",
     "englishText": "Heuristic problem-solving strategies help computer algorithms find rapid approximate solutions.",
     "malayalamMeaning": "ഹ്യൂറിസ്റ്റിക് പ്രശ്നപരിഹാര തന്ത്രങ്ങൾ കമ്പ്യൂട്ടർ അൽഗോരിതങ്ങളെ പെട്ടെന്ന് ഏകദേശ പരിഹാരങ്ങൾ കണ്ടെത്താൻ സഹായിക്കുന്നു.",
     "usageExample": "Rule of thumb.",
@@ -1601,7 +1601,7 @@
   },
   {
     "word": "ontology",
-    "wordMeaning": "അന്തരശാസ്ത്രം",
+    "wordMeaning": "സത്താശാസ്ത്രം",
     "englishText": "Ontology examines fundamental questions concerning the nature of being and reality.",
     "malayalamMeaning": "നിലനിൽപ്പിന്റെയും യാഥാർത്ഥ്യത്തിന്റെയും സ്വഭാവത്തെക്കുറിച്ചുള്ള അടിസ്ഥാനപരമായ ചോദ്യങ്ങളെയാണ് ഓന്റോളജി പരിശോധിക്കുന്നത്.",
     "usageExample": "Study of being.",
@@ -1609,7 +1609,7 @@
   },
   {
     "word": "metaphysics",
-    "wordMeaning": "മെറ്റാഫിസിക്സ്",
+    "wordMeaning": "അതിഭൗതികശാസ്ത്രം",
     "englishText": "Classical metaphysics investigates questions beyond the realm of empirical physical observation.",
     "malayalamMeaning": "ഭൗതിക നിരീക്ഷണങ്ങൾക്ക് അതീതമായ ചോദ്യങ്ങളെക്കുറിച്ചാണ് പരമ്പരാഗത മെറ്റാഫിസിക്സ് അന്വേഷിക്കുന്നത്.",
     "usageExample": "Philosophical study.",
@@ -1625,7 +1625,7 @@
   },
   {
     "word": "rigorous",
-    "wordMeaning": "കഠിനമായ",
+    "wordMeaning": "കർക്കശമായ",
     "englishText": "The doctoral program requires four years of rigorous mathematical modeling and laboratory trials.",
     "malayalamMeaning": "ഡോക്ടറൽ പ്രോഗ്രാമിന് നാല് വർഷത്തെ കൃത്യമായ ഗണിതശാസ്ത്ര മാതൃകകളും ലബോറട്ടറി പരീക്ഷണങ്ങളും ആവശ്യമാണ്.",
     "usageExample": "Painstakingly exact.",
@@ -1633,7 +1633,7 @@
   },
   {
     "word": "seminal",
-    "wordMeaning": "സെമിനൽ",
+    "wordMeaning": "വഴികാട്ടിയായ",
     "englishText": "His seminal paper published in 1985 laid the theoretical foundation for quantum computing.",
     "malayalamMeaning": "1985-ൽ പ്രസിദ്ധീകരിച്ച അദ്ദേഹത്തിന്റെ സുപ്രധാന പ്രബന്ധമാണ് ക്വാണ്ടം കമ്പ്യൂട്ടിംഗിന് സൈദ്ധാന്തിക അടിത്തറയിട്ടത്.",
     "usageExample": "Groundbreaking.",
@@ -1665,7 +1665,7 @@
   },
   {
     "word": "perspicacious",
-    "wordMeaning": "സ്പഷ്ടമായ",
+    "wordMeaning": "സൂക്ഷ്മദൃഷ്ടിയുള്ള",
     "englishText": "The perspicacious student noticed a subtle statistical anomaly that others overlooked.",
     "malayalamMeaning": "മറ്റുള്ളവർ ശ്രദ്ധിക്കാതെ വിട്ട ഒരു ചെറിയ സ്റ്റാറ്റിസ്റ്റിക്കൽ പൊരുത്തക്കേട് ആ ബുദ്ധിമാനായ വിദ്യാർത്ഥി കണ്ടെത്തി.",
     "usageExample": "Insightful/sharp.",
@@ -1681,7 +1681,7 @@
   },
   {
     "word": "cogent",
-    "wordMeaning": "കോജൻ്റ്",
+    "wordMeaning": "യുക്തിസഹമായ",
     "englishText": "He presented a cogent, data-backed argument that convinced the entire faculty board.",
     "malayalamMeaning": "ഡാറ്റയുടെ പിൻബലമുള്ള വ്യക്തവും യുക്തിസഹവുമായ വാദങ്ങൾ നിരത്തി അദ്ദേഹം ഫാക്കൽറ്റി ബോർഡിനെ പൂർണ്ണമായി ബോധ്യപ്പെടുത്തി.",
     "usageExample": "Compelling/logical.",
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "dialectic",
-    "wordMeaning": "വൈരുദ്ധ്യാത്മക",
+    "wordMeaning": "സംവാദരീതി",
     "englishText": "Through rigorous Socratic dialectic, the teacher guided students toward deeper understanding.",
     "malayalamMeaning": "സോക്രട്ടീസിന്റെ സംവാദ രീതിയിലൂടെ അധ്യാപകൻ വിദ്യാർത്ഥികളെ ആഴത്തിലുള്ള അറിവിലേക്ക് നയിച്ചു.",
     "usageExample": "Logical discourse.",
@@ -1713,7 +1713,7 @@
   },
   {
     "word": "quintessential",
-    "wordMeaning": "പരമപ്രധാനമായ",
+    "wordMeaning": "ഉത്തമ മാതൃകയായ",
     "englishText": "The library with its towering teak shelves and green desk lamps is the quintessential study haven.",
     "malayalamMeaning": "ഉയരമുള്ള തേക്ക് ഷെൽഫുകളും പച്ച നിറത്തിലുള്ള ഡെസ്ക് ലാമ്പുകളുമുള്ള ആ ലൈബ്രറി ശാന്തമായ പഠനത്തിന് ഏറ്റവും അനുയോജ്യമായ ഒരിടമാണ്.",
     "usageExample": "Archetypal model.",
@@ -1729,7 +1729,7 @@
   },
   {
     "word": "perusal",
-    "wordMeaning": "പരിശോധിക്കൽ",
+    "wordMeaning": "സൂക്ഷ്മവായന",
     "englishText": "The rare historical manuscripts are available for careful academic perusal in the special collection.",
     "malayalamMeaning": "അപൂർവ ചരിത്ര രേഖകൾ സൂക്ഷ്മമായ പഠനത്തിനായി ലൈബ്രറിയുടെ പ്രത്യേക ശേഖരത്തിൽ ലഭ്യമാണ്.",
     "usageExample": "Careful reading.",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "scholasticism",
-    "wordMeaning": "സ്കോളാസ്റ്റിസം",
+    "wordMeaning": "പാണ്ഡിത്യവാദം",
     "englishText": "Medieval scholasticism attempted to harmonize ancient classical philosophy with religious doctrine.",
     "malayalamMeaning": "മധ്യകാല സ്കോളാസ്റ്റിസിസം പുരാതന ക്ലാസിക്കൽ തത്ത്വചിന്തയെ മതപരമായ വിശ്വാസങ്ങളുമായി പൊരുത്തപ്പെടുത്താൻ ശ്രമിച്ചു.",
     "usageExample": "Academic philosophy.",
@@ -1745,7 +1745,7 @@
   },
   {
     "word": "pedantic",
-    "wordMeaning": "പെഡാൻ്റിക്",
+    "wordMeaning": "അമിതനിഷ്ഠയുള്ള",
     "englishText": "Avoid being pedantic when grading essays; focus on original ideas rather than minor punctuation.",
     "malayalamMeaning": "ഉപന്യാസങ്ങൾ മൂല്യനിർണ്ണയം ചെയ്യുമ്പോൾ അനാവശ്യമായ കാർക്കശ്യം ഒഴിവാക്കുക; ചിഹ്നങ്ങളിലെ നിസ്സാര തെറ്റുകളേക്കാൾ പുതിയ ആശയങ്ങൾക്ക് മുൻഗണന നൽകുക.",
     "usageExample": "Overly nitpicky.",
@@ -1753,7 +1753,7 @@
   },
   {
     "word": "didacticism",
-    "wordMeaning": "ഉപദേശം",
+    "wordMeaning": "ഉപദേശശൈലി",
     "englishText": "The play was praised for its dramatic emotional power despite its overt didacticism.",
     "malayalamMeaning": "സാരോപദേശപരമായ ശൈലി പ്രകടമായിരുന്നിട്ടും നാടകത്തിന്റെ വികാരനിർഭരമായ അവതരണം ഏറെ പ്രശംസിക്കപ്പെട്ടു.",
     "usageExample": "Preachiness.",
@@ -1761,7 +1761,7 @@
   },
   {
     "word": "panegyric",
-    "wordMeaning": "പനേജിറിക്",
+    "wordMeaning": "പ്രശംസാപ്രസംഗം",
     "englishText": "The student council president delivered an eloquent panegyric honoring the retiring principal.",
     "malayalamMeaning": "വിരമിക്കുന്ന പ്രിൻസിപ്പലിനെ ആദരിച്ചുകൊണ്ട് സ്റ്റുഡന്റ് കൗൺസിൽ പ്രസിഡന്റ് ഹൃദ്യമായ ഒരു പ്രശംസാ പ്രസംഗം നടത്തി.",
     "usageExample": "Laudatory speech.",
@@ -1769,7 +1769,7 @@
   },
   {
     "word": "eulogy",
-    "wordMeaning": "സ്തോത്രം",
+    "wordMeaning": "അനുസ്മരണ പ്രസംഗം",
     "englishText": "The faculty gathered in solemn assembly to deliver a moving eulogy for their beloved department head.",
     "malayalamMeaning": "തങ്ങളുടെ പ്രിയപ്പെട്ട ഡിപ്പാർട്ട്‌മെന്റ് തലവന് ആദരാഞ്ജലികൾ അർപ്പിക്കാൻ അധ്യാപകർ ഒത്തുകൂടി അനുസ്മരണ പ്രസംഗം നടത്തി.",
     "usageExample": "Memorial tribute.",
@@ -1777,7 +1777,7 @@
   },
   {
     "word": "valediction",
-    "wordMeaning": "മൂല്യനിർണ്ണയം",
+    "wordMeaning": "വിടവാങ്ങൽ പ്രസംഗം",
     "englishText": "Her emotional valediction captured the bittersweet joy of leaving college to step into the world.",
     "malayalamMeaning": "കോളേജ് വിട്ട് വിശാലമായ ലോകത്തേക്ക് കടക്കുന്നതിന്റെ സന്തോഷവും സങ്കടവും നിറഞ്ഞ വികാരങ്ങൾ അവളുടെ വിടവാങ്ങൽ പ്രസംഗത്തിൽ പ്രതിഫലിച്ചു.",
     "usageExample": "Farewell speech.",
@@ -1785,7 +1785,7 @@
   },
   {
     "word": "chancellor",
-    "wordMeaning": "ചാൻസലർ",
+    "wordMeaning": "കുലപതി",
     "englishText": "The state governor serves as the ex-officio chancellor of all public universities.",
     "malayalamMeaning": "സംസ്ഥാന ഗവർണറാണ് എല്ലാ പൊതു സർവകലാശാലകളുടെയും ഔദ്യോഗിക ചാൻസലറായി പ്രവർത്തിക്കുന്നത്.",
     "usageExample": "Head of university.",
@@ -1793,7 +1793,7 @@
   },
   {
     "word": "provost",
-    "wordMeaning": "പ്രൊവോസ്റ്റ്",
+    "wordMeaning": "മുഖ്യ അധ്യയന മേധാവി",
     "englishText": "The university provost oversees all academic departments, faculty appointments, and research grants.",
     "malayalamMeaning": "സർവകലാശാലാ പ്രൊവോസ്റ്റ് എല്ലാ അക്കാദമിക് വിഭാഗങ്ങൾക്കും അധ്യാപക നിയമനങ്ങൾക്കും ഗവേഷണ ഗ്രാന്റുകൾക്കും മേൽനോട്ടം വഹിക്കുന്നു.",
     "usageExample": "Chief academic officer.",
@@ -1801,7 +1801,7 @@
   },
   {
     "word": "bursar",
-    "wordMeaning": "ബർസാർ",
+    "wordMeaning": "ധനകാര്യ ഉദ്യോഗസ്ഥൻ",
     "englishText": "Submit all fee payment queries and scholarship disbursements directly to the college bursar.",
     "malayalamMeaning": "ഫീസ് അടയ്ക്കൽ സംബന്ധിച്ച സംശയങ്ങളും സ്കോളർഷിപ്പ് വിവരങ്ങളും കോളേജ് ബർസറെ നേരിട്ട് അറിയിക്കുക.",
     "usageExample": "Financial officer.",
@@ -1809,7 +1809,7 @@
   },
   {
     "word": "docent",
-    "wordMeaning": "ഡോസൻ്റ്",
+    "wordMeaning": "അധ്യാപക വഴികാട്ടി",
     "englishText": "The knowledgeable museum docent guided university students through the bronze sculpture gallery.",
     "malayalamMeaning": "വിവരമുള്ള മ്യൂസിയം ഗൈഡ് സർവകലാശാലാ വിദ്യാർത്ഥികളെ വെങ്കല ശിൽപ ഗാലറിയിലൂടെ നയിച്ചു വിവരങ്ങൾ വിശദീകരിച്ചു കൊടുത്തു.",
     "usageExample": "Lecturer/guide.",
@@ -1817,7 +1817,7 @@
   },
   {
     "word": "autodidact",
-    "wordMeaning": "ഓട്ടോഡിഡാക്റ്റ്",
+    "wordMeaning": "സ്വയംപഠിതാവ്",
     "englishText": "A brilliant autodidact, he mastered three programming languages entirely through independent study.",
     "malayalamMeaning": "സ്വയം പഠിച്ച് മിടുക്കനായ അദ്ദേഹം സ്വന്തം പരിശ്രമത്തിലൂടെ മൂന്ന് പ്രോഗ്രാമിംഗ് ഭാഷകൾ സ്വായത്തമാക്കി.",
     "usageExample": "Self-taught person.",
@@ -1825,7 +1825,7 @@
   },
   {
     "word": "polymath",
-    "wordMeaning": "ബഹുസ്വരത",
+    "wordMeaning": "ബഹുമുഖ പ്രതിഭ",
     "englishText": "Leonardo da Vinci was history's quintessential polymath, excelling in painting, anatomy, and engineering.",
     "malayalamMeaning": "ചിത്രകല, അനാട്ടമി, എഞ്ചിനീയറിംഗ് എന്നിവയിലെല്ലാം പ്രാവീണ്യം തെളിയിച്ച ലിയോനാർഡോ ഡാവിഞ്ചി ചരിത്രത്തിലെ അതുല്യനായ ഒരു ബഹുമുഖ പ്രതിഭയായിരുന്നു.",
     "usageExample": "Master of many fields.",
@@ -1841,7 +1841,7 @@
   },
   {
     "word": "magnum opus",
-    "wordMeaning": "മാഗ്നം ഓപസ്",
+    "wordMeaning": "ശ്രേഷ്ഠകൃതി",
     "englishText": "The four-volume historical encyclopedia of Kerala was universally hailed as the historian's magnum opus.",
     "malayalamMeaning": "നാല് വാല്യങ്ങളുള്ള കേരള ചരിത്ര വിജ്ഞാനകോശം ആ ചരിത്രകാരന്റെ ഏറ്റവും മഹത്തായ സൃഷ്ടിയായി പരക്കെ വാഴ്ത്തപ്പെട്ടു.",
     "usageExample": "Masterpiece work.",
@@ -1849,7 +1849,7 @@
   },
   {
     "word": "monograph",
-    "wordMeaning": "മോണോഗ്രാഫ്",
+    "wordMeaning": "ഗവേഷണ ഗ്രന്ഥം",
     "englishText": "The botanist published an authoritative monograph on the medicinal orchids of the Western Ghats.",
     "malayalamMeaning": "പശ്ചിമഘട്ടത്തിലെ ഔഷധ ഓർക്കിഡുകളെക്കുറിച്ച് സസ്യശാസ്ത്രജ്ഞൻ ആധികാരികമായ ഒരു ഗവേഷണ ഗ്രന്ഥം പ്രസിദ്ധീകരിച്ചു.",
     "usageExample": "Specialized book.",
@@ -1857,7 +1857,7 @@
   },
   {
     "word": "symposia",
-    "wordMeaning": "സിമ്പോസിയ",
+    "wordMeaning": "ചർച്ചാസമ്മേളനങ്ങൾ",
     "englishText": "The university regularly hosts international symposia bringing together leading planetary scientists.",
     "malayalamMeaning": "പ്രമുഖ ബഹിരാകാശ ശാസ്ത്രജ്ഞരെ ഒന്നിപ്പിച്ചുകൊണ്ട് സർവകലാശാല അന്താരാഷ്ട്ര സിമ്പോസിയങ്ങൾ പതിവായി സംഘടിപ്പിക്കാറുണ്ട്.",
     "usageExample": "Scholarly meets.",
@@ -1865,7 +1865,7 @@
   },
   {
     "word": "colloquia",
-    "wordMeaning": "സംസാരഭാഷ",
+    "wordMeaning": "പഠനസമ്മേളനങ്ങൾ",
     "englishText": "Graduate students participate in weekly departmental colloquia to present ongoing research progress.",
     "malayalamMeaning": "തങ്ങളുടെ ഗവേഷണ പുരോഗതി അവതരിപ്പിക്കുന്നതിനായി ബിരുദാനന്തര ബിരുദ വിദ്യാർത്ഥികൾ ആഴ്ചതോറുമുള്ള ഡിപ്പാർട്ട്‌മെന്റ് കൊളോക്കിയങ്ങളിൽ പങ്കെടുക്കുന്നു.",
     "usageExample": "Academic seminars.",
@@ -1889,7 +1889,7 @@
   },
   {
     "word": "propaedeutic",
-    "wordMeaning": "പ്രൊപ്പോഡ്യൂട്ടിക്",
+    "wordMeaning": "മുന്നൊരുക്ക പഠനം",
     "englishText": "The introductory logic course served as a helpful propaedeutic to advanced legal studies.",
     "malayalamMeaning": "അടിസ്ഥാന ലോജിക് കോഴ്സ് നിയമ പഠനത്തിലേക്കുള്ള മികച്ചൊരു മുന്നൊരുക്കമായി മാറി.",
     "usageExample": "Preparatory study.",
@@ -1905,7 +1905,7 @@
   },
   {
     "word": "hermeneutic",
-    "wordMeaning": "വ്യാഖ്യാനം",
+    "wordMeaning": "വ്യാഖ്യാനപരമായ",
     "englishText": "Scholars debated the hermeneutic principles governing the interpretation of constitutional law.",
     "malayalamMeaning": "ഭരണഘടനാ നിയമത്തിന്റെ വ്യാഖ്യാനവുമായി ബന്ധപ്പെട്ട തത്വങ്ങളെക്കുറിച്ച് പണ്ഡിതന്മാർ ചർച്ച ചെയ്തു.",
     "usageExample": "Interpretive.",
@@ -1913,7 +1913,7 @@
   },
   {
     "word": "ontological",
-    "wordMeaning": "ഓൻ്റോളജിക്കൽ",
+    "wordMeaning": "സത്താപരമായ",
     "englishText": "Theoretical physics grapples with deep ontological questions regarding the nature of space and time.",
     "malayalamMeaning": "സ്ഥലകാലങ്ങളുടെ സ്വഭാവത്തെക്കുറിച്ചുള്ള ആഴത്തിലുള്ള സത്താപരമായ ചോദ്യങ്ങളെയാണ് തിയറിറ്റിക്കൽ ഫിസിക്സ് അഭിമുഖീകരിക്കുന്നത്.",
     "usageExample": "Nature of existence.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "perspicacity",
-    "wordMeaning": "വ്യക്തത",
+    "wordMeaning": "സൂക്ഷ്മദൃഷ്ടി",
     "englishText": "Her clinical perspicacity allowed the young medical resident to diagnose the rare genetic syndrome.",
     "malayalamMeaning": "ആ യുവ മെഡിക്കൽ റെസിഡന്റിന്റെ സൂക്ഷ്മ നിരീക്ഷണ പാടവമാണ് അപൂർവ്വ ജനിതക രോഗാവസ്ഥ കൃത്യമായി നിർണ്ണയിക്കാൻ സഹായിച്ചത്.",
     "usageExample": "Keen mental sharpness.",
@@ -1929,7 +1929,7 @@
   },
   {
     "word": "polymathic",
-    "wordMeaning": "ബഹുസ്വരത",
+    "wordMeaning": "ബഹുമുഖമായ",
     "englishText": "His polymathic curiosity spanned classical linguistics, organic chemistry, and musical composition.",
     "malayalamMeaning": "ഭാഷാശാസ്ത്രം, ഓർഗാനിക് കെമിസ്ട്രി, സംഗീത രചന തുടങ്ങി വിവിധ മേഖലകളിലേക്ക് അദ്ദേഹത്തിന്റെ ബഹുമുഖ ജിജ്ഞാസ വ്യാപിച്ചിരുന്നു.",
     "usageExample": "Multi-talented.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "autodidactic",
-    "wordMeaning": "സ്വയം ശിക്ഷാവിധി",
+    "wordMeaning": "സ്വയംപഠനപരമായ",
     "englishText": "Her autodidactic journey from a remote village to an international software architect inspired many.",
     "malayalamMeaning": "ഒരു വിദൂര ഗ്രാമത്തിൽ നിന്ന് സ്വയം പഠിച്ച് അന്താരാഷ്ട്ര സോഫ്റ്റ്‌വെയർ ആർക്കിടെക്റ്റായി മാറിയ അവളുടെ ജീവിതയാത്ര പലർക്കും പ്രചോദനമായി.",
     "usageExample": "Self-educated.",
@@ -1945,7 +1945,7 @@
   },
   {
     "word": "magisterial",
-    "wordMeaning": "മജിസ്റ്റീരിയൽ",
+    "wordMeaning": "ആധികാരികമായ",
     "englishText": "The professor delivered a magisterial review of post-colonial literature in South Asia.",
     "malayalamMeaning": "ദക്ഷിണേഷ്യയിലെ പോസ്റ്റ്-കൊളോണിയൽ സാഹിത്യത്തെക്കുറിച്ച് പ്രൊഫസർ ആധികാരികവും സമഗ്രവുമായ ഒരു അവലോകനം നടത്തി.",
     "usageExample": "Authoritative/masterly.",
@@ -1953,7 +1953,7 @@
   },
   {
     "word": "inscrutable",
-    "wordMeaning": "അവ്യക്തമായ",
+    "wordMeaning": "മനസ്സിലാക്കാനാവാത്ത",
     "englishText": "The complex mathematical notation appeared completely inscrutable to the uninitiated freshers.",
     "malayalamMeaning": "സങ്കീർണ്ണമായ ഗണിത ചിഹ്നങ്ങൾ പുതുതായി എത്തിയ വിദ്യാർത്ഥികൾക്ക് ഒട്ടും മനസ്സിലാകാത്ത വിധം പ്രയാസകരമായി തോന്നി.",
     "usageExample": "Difficult to fathom.",
@@ -1961,7 +1961,7 @@
   },
   {
     "word": "trenchant",
-    "wordMeaning": "ട്രെഞ്ചൻ്റ്",
+    "wordMeaning": "മൂർച്ചയേറിയ",
     "englishText": "Her trenchant critique of the flawed statistical methodology exposed major weaknesses in the study.",
     "malayalamMeaning": "തെറ്റായ സ്റ്റാറ്റിസ്റ്റിക്കൽ രീതിശാസ്ത്രത്തെക്കുറിച്ചുള്ള അവളുടെ മൂർച്ചയേറിയ വിമർശനം പഠനത്തിലെ വലിയ പോരായ്മകളെ തുറന്നുകാട്ടി.",
     "usageExample": "Vigorously effective.",
@@ -1969,7 +1969,7 @@
   },
   {
     "word": "pedantry",
-    "wordMeaning": "പെഡൻട്രി",
+    "wordMeaning": "പാണ്ഡിത്യപ്രകടനം",
     "englishText": "Avoid getting bogged down in useless pedantry when the fundamental concepts need mastering.",
     "malayalamMeaning": "അടിസ്ഥാന ആശയങ്ങൾ സ്വായത്തമാക്കേണ്ട ഘട്ടത്തിൽ അനാവശ്യമായ ശാഠ്യങ്ങളിലും പാണ്ഡിത്യ പ്രകടനങ്ങളിലും കുടുങ്ങിപ്പോകരുത്.",
     "usageExample": "Excessive concern for rules.",
@@ -1977,7 +1977,7 @@
   },
   {
     "word": "didactics",
-    "wordMeaning": "ഉപദേശങ്ങൾ",
+    "wordMeaning": "ബോധനരീതി",
     "englishText": "Effective medical didactics integrates bedside clinical training with laboratory pathology.",
     "malayalamMeaning": "ഫലപ്രദമായ മെഡിക്കൽ അധ്യാപന രീതി രോഗീപരിചരണ പരിശീലനത്തെ ലബോറട്ടറി പാത്തോളജിയുമായി സംയോജിപ്പിക്കുന്നു.",
     "usageExample": "Science of instruction.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "disquisition",
-    "wordMeaning": "ഡിസ്ക്വിസിഷൻ",
+    "wordMeaning": "വിശദപ്രബന്ധം",
     "englishText": "The senior scholar presented an exhaustive disquisition on the evolutionary origins of speech.",
     "malayalamMeaning": "സംസാരശേഷിയുടെ പരിണാമപരമായ ഉത്ഭവത്തെക്കുറിച്ച് മുതിർന്ന പണ്ഡിതൻ സമഗ്രമായ ഒരു പ്രബന്ധാവതരണം നടത്തി.",
     "usageExample": "Formal treatise.",
@@ -2001,7 +2001,7 @@
   },
   {
     "word": "prolegomenon",
-    "wordMeaning": "പ്രോലിഗോമെനോൻ",
+    "wordMeaning": "മുഖവുര",
     "englishText": "The opening chapter provides a necessary theoretical prolegomenon to the study of modern linguistics.",
     "malayalamMeaning": "ആദ്യ അധ്യായം ആധുനിക ഭാഷാശാസ്ത്ര പഠനത്തിനാവശ്യമായ സൈദ്ധാന്തിക ആമുഖം നൽകുന്നു.",
     "usageExample": "Prefatory remarks.",
@@ -2009,7 +2009,7 @@
   },
   {
     "word": "propadeutics",
-    "wordMeaning": "പ്രൊപാഡ്യൂട്ടിക്സ്",
+    "wordMeaning": "മുന്നൊരുക്ക പാഠങ്ങൾ",
     "englishText": "Introductory laboratory propaedeutics instill rigorous safety habits in chemistry freshers.",
     "malayalamMeaning": "ലാബിലെ പ്രാഥമിക മുന്നൊരുക്ക പരിശീലനം കെമിസ്ട്രിയിൽ പുതുതായി ചേർന്ന വിദ്യാർത്ഥികളിൽ കൃത്യമായ സുരക്ഷാ ശീലങ്ങൾ വളർത്തുന്നു.",
     "usageExample": "Preparatory lessons.",
@@ -2017,7 +2017,7 @@
   },
   {
     "word": "solipsism",
-    "wordMeaning": "സോളിപ്സിസം",
+    "wordMeaning": "അഹംമാത്രവാദം",
     "englishText": "Philosophical solipsism asserts that only one's own conscious mind is genuinely knowable.",
     "malayalamMeaning": "സ്വന്തം മനസ്സിനെ മാത്രമേ യഥാർത്ഥത്തിൽ അറിയാൻ കഴിയൂ എന്നാണ് സോളിപ്സിസം എന്ന ദാർശനിക സിദ്ധാന്തം വാദിക്കുന്നത്.",
     "usageExample": "Extreme skepticism.",
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "teleology",
-    "wordMeaning": "ടെലിയോളജി",
+    "wordMeaning": "ഉദ്ദേശ്യശാസ്ത്രം",
     "englishText": "Aristotelian teleology interprets natural phenomena in terms of the underlying purpose they fulfill.",
     "malayalamMeaning": "ഓരോ പ്രതിഭാസവും നിറവേറ്റുന്ന അടിസ്ഥാനപരമായ ലക്ഷ്യത്തെ മുൻനിർത്തിയാണ് അരിസ്റ്റോട്ടിലിന്റെ ഉദ്ദേശ്യശാസ്ത്രം (ടെലിയോളജി) പ്രകൃതി പ്രതിഭാസങ്ങളെ വ്യാഖ്യാനിക്കുന്നത്.",
     "usageExample": "Study of ends/purpose.",
@@ -2033,7 +2033,7 @@
   },
   {
     "word": "axiomatic",
-    "wordMeaning": "അച്ചുതണ്ട്",
+    "wordMeaning": "സ്വയംസിദ്ധമായ",
     "englishText": "In classical Euclidean geometry, parallel lines never intersecting is treated as an axiomatic truth.",
     "malayalamMeaning": "സമാന്തര രേഖകൾ ഒരിക്കലും കൂട്ടിമുട്ടില്ല എന്നത് ക്ലാസിക്കൽ യൂക്ലിഡിയൻ ജ്യാമിതിയിലെ സ്വയംസിദ്ധമായ ഒരു സത്യമായി കണക്കാക്കപ്പെടുന്നു.",
     "usageExample": "Self-evident.",
@@ -2049,7 +2049,7 @@
   },
   {
     "word": "expatiate",
-    "wordMeaning": "പ്രവാസി",
+    "wordMeaning": "വിസ്തരിച്ചു പറയുക",
     "englishText": "The professor was always eager to expatiate on his favorite topic of Renaissance humanism.",
     "malayalamMeaning": "തന്റെ പ്രിയപ്പെട്ട വിഷയമായ നവോത്ഥാന മാനവികതയെക്കുറിച്ച് വിശദമായി സംസാരിക്കാൻ പ്രൊഫസർ എപ്പോഴും താല്പര്യം കാണിച്ചിരുന്നു.",
     "usageExample": "Speak at length.",
@@ -2057,7 +2057,7 @@
   },
   {
     "word": "pellucid",
-    "wordMeaning": "പെലുസിഡ്",
+    "wordMeaning": "സുസ്പഷ്ടമായ",
     "englishText": "Her pellucid prose style made complex neurobiological processes accessible to ordinary readers.",
     "malayalamMeaning": "സങ്കീർണ്ണമായ ന്യൂറോബയോളജിക്കൽ പ്രക്രിയകൾ സാധാരണ വായനക്കാർക്ക് പോലും എളുപ്പത്തിൽ മനസ്സിലാകുന്ന വിധത്തിലുള്ളതായിരുന്നു അവളുടെ ലളിതവും വ്യക്തവുമായ രചനാശൈലി.",
     "usageExample": "Translucently clear.",
@@ -2073,7 +2073,7 @@
   },
   {
     "word": "recondite",
-    "wordMeaning": "പുനഃസ്ഥാപിക്കുക",
+    "wordMeaning": "ഗഹനമായ",
     "englishText": "The recondite terminology of advanced topology can intimidate undergraduate mathematics students.",
     "malayalamMeaning": "അഡ്വാൻസ്ഡ് ടോപ്പോളജിയിലെ സങ്കീർണ്ണവും ദുർഗ്രഹവുമായ സാങ്കേതിക പദങ്ങൾ ഡിഗ്രി മാത്തമാറ്റിക്സ് വിദ്യാർത്ഥികളിൽ ഭയം ജനിപ്പിച്ചേക്കാം.",
     "usageExample": "Abstruse/hidden.",
@@ -2081,7 +2081,7 @@
   },
   {
     "word": "abstruse",
-    "wordMeaning": "അമൂർത്തമായ",
+    "wordMeaning": "ദുർഗ്രഹമായ",
     "englishText": "His lectures on non-Euclidean geometry were intellectually brilliant but undeniably abstruse.",
     "malayalamMeaning": "നോൺ-യൂക്ലിഡിയൻ ജ്യാമിതിയെക്കുറിച്ചുള്ള അദ്ദേഹത്തിന്റെ പ്രഭാഷണങ്ങൾ അത്യധികം ബൗദ്ധിക മികവ് പുലർത്തിയെങ്കിലും തികച്ചും ദുർഗ്രഹമായിരുന്നു.",
     "usageExample": "Difficult to understand.",
@@ -2105,7 +2105,7 @@
   },
   {
     "word": "lucubration",
-    "wordMeaning": "ലൂക്കുബ്രേഷൻ",
+    "wordMeaning": "രാത്രികാല പഠനം",
     "englishText": "Years of intense midnight lucubration resulted in his definitive history of maritime Kerala.",
     "malayalamMeaning": "വർഷങ്ങളോളം നീണ്ട രാപ്പകലില്ലാത്ത കഠിനമായ പഠനത്തിന്റെയും ഗവേഷണത്തിന്റെയും ഫലമാണ് കേരളത്തിന്റെ സമുദ്ര ചരിത്രത്തെക്കുറിച്ചുള്ള അദ്ദേഹത്തിന്റെ ആധികാരിക ഗ്രന്ഥം.",
     "usageExample": "Laborious night study.",
@@ -2113,7 +2113,7 @@
   },
   {
     "word": "percipient",
-    "wordMeaning": "ഗ്രഹിക്കുന്ന",
+    "wordMeaning": "ഉൾക്കാഴ്ചയുള്ള",
     "englishText": "The percipient examiner observed that the student's solution revealed remarkable intuitive genius.",
     "malayalamMeaning": "വിദ്യാർത്ഥിയുടെ ഉത്തരത്തിൽ അസാധാരണമായ ഉൾക്കാഴ്ചയും പ്രതിഭയും പ്രകടമാണെന്ന് വിവേകശാലിയായ എക്സാമിനർ നിരീക്ഷിച്ചു.",
     "usageExample": "Keenly perceptive.",
@@ -2137,7 +2137,7 @@
   },
   {
     "word": "inculcate",
-    "wordMeaning": "ഉളവാക്കുക",
+    "wordMeaning": "മനസ്സിൽ പതിപ്പിക്കുക",
     "englishText": "Dedicated teachers strive to inculcate moral integrity and empathy alongside academic rigor.",
     "malayalamMeaning": "പഠന മികവിനൊപ്പം ധാർമ്മിക മൂല്യങ്ങളും സഹാനുഭൂതിയും കുട്ടികളിൽ വളർത്താൻ ആത്മാർത്ഥതയുള്ള അധ്യാപകർ പരിശ്രമിക്കുന്നു.",
     "usageExample": "Instill persistently.",
@@ -2145,7 +2145,7 @@
   },
   {
     "word": "edification",
-    "wordMeaning": "പരിഷ്കരണം",
+    "wordMeaning": "ധാർമ്മിക ഉന്നമനം",
     "englishText": "The classic literary works were selected specifically for the moral edification of students.",
     "malayalamMeaning": "വിദ്യാർത്ഥികളിൽ ധാർമ്മിക മൂല്യങ്ങൾ വളർത്തുക എന്ന ലക്ഷ്യത്തോടെയാണ് ക്ലാസിക് സാഹിത്യ കൃതികൾ തിരഞ്ഞെടുത്തത്.",
     "usageExample": "Moral enlightenment.",
@@ -2161,7 +2161,7 @@
   },
   {
     "word": "omniscient",
-    "wordMeaning": "സർവജ്ഞൻ",
+    "wordMeaning": "എല്ലാം അറിയുന്ന",
     "englishText": "No individual scholar can claim to be omniscient in an era of exploding scientific data.",
     "malayalamMeaning": "ശാസ്ത്രീയ വിവരങ്ങൾ അതിവേഗം വളരുന്ന ഈ കാലഘട്ടത്തിൽ സർവ്വജ്ഞനാണെന്ന് ഒരു പണ്ഡിതനും അവകാശപ്പെടാനാവില്ല.",
     "usageExample": "All-knowing.",
@@ -2169,7 +2169,7 @@
   },
   {
     "word": "infallible",
-    "wordMeaning": "തെറ്റില്ലാത്തത്",
+    "wordMeaning": "തെറ്റുപറ്റാത്ത",
     "englishText": "Science advances precisely because it recognizes that human theories are never infallible.",
     "malayalamMeaning": "മനുഷ്യന്റെ സിദ്ധാന്തങ്ങൾ ഒരിക്കലും തെറ്റുപറ്റാത്തവയല്ല എന്ന് തിരിച്ചറിയുന്നതുകൊണ്ടാണ് ശാസ്ത്രം മുന്നേറുന്നത്.",
     "usageExample": "Incapable of error.",
@@ -2177,7 +2177,7 @@
   },
   {
     "word": "pedagogics",
-    "wordMeaning": "പെഡഗോഗിക്സ്",
+    "wordMeaning": "ബോധനശാസ്ത്രം",
     "englishText": "Innovative pedagogics transforms passive school classrooms into lively laboratories of wonder.",
     "malayalamMeaning": "നൂതന അധ്യാപന രീതികൾ നിർജ്ജീവമായ ക്ലാസ് മുറികളെ വിസ്മയങ്ങളുടെ സജീവ ലബോറട്ടറികളാക്കി മാറ്റുന്നു.",
     "usageExample": "Educational practice.",
@@ -2209,7 +2209,7 @@
   },
   {
     "word": "hermeneutical",
-    "wordMeaning": "ഹെർമെന്യൂട്ടിക്കൽ",
+    "wordMeaning": "വ്യാഖ്യാനശാസ്ത്രപരമായ",
     "englishText": "The scholar applied advanced hermeneutical methods to decode the multi-layered temple inscriptions.",
     "malayalamMeaning": "ക്ഷേത്ര ലിഖിതങ്ങളിലെ ബഹുതല അർത്ഥങ്ങൾ കണ്ടെത്താൻ ആ പണ്ഡിതൻ ഉന്നതമായ വ്യാഖ്യാന രീതികൾ ഉപയോഗിച്ചു.",
     "usageExample": "Interpretive study.",
@@ -2217,7 +2217,7 @@
   },
   {
     "word": "scholastic",
-    "wordMeaning": "സ്കോളാസ്റ്റിക്",
+    "wordMeaning": "പഠനപരമായ",
     "englishText": "His scholastic achievements earned him early admission to the national institute of science.",
     "malayalamMeaning": "മികച്ച അക്കാദമിക് നേട്ടങ്ങൾ അദ്ദേഹത്തിന് ദേശീയ ശാസ്ത്ര ഇൻസ്റ്റിറ്റ്യൂട്ടിൽ നേരത്തെ തന്നെ പ്രവേശനം നേടിക്കൊടുത്തു.",
     "usageExample": "Academic excellence.",
@@ -2225,7 +2225,7 @@
   },
   {
     "word": "cognizant",
-    "wordMeaning": "അറിവുള്ള",
+    "wordMeaning": "ബോധമുള്ള",
     "englishText": "Researchers must remain fully cognizant of ethical guidelines when experimenting on human subjects.",
     "malayalamMeaning": "മനുഷ്യരിൽ പരീക്ഷണങ്ങൾ നടത്തുമ്പോൾ ഗവേഷകർ ധാർമ്മിക മാർഗ്ഗനിർദ്ദേശങ്ങളെക്കുറിച്ച് പൂർണ്ണ ബോധവാന്മാരായിരിക്കണം.",
     "usageExample": "Aware/mindful.",
@@ -2233,7 +2233,7 @@
   },
   {
     "word": "cognition",
-    "wordMeaning": "അറിവ്",
+    "wordMeaning": "ജ്ഞാനപ്രക്രിയ",
     "englishText": "Adequate sleep and nutritious food are indispensable for optimal cognitive performance during exams.",
     "malayalamMeaning": "പരീക്ഷാ സമയത്ത് മികച്ച രീതിയിൽ ചിന്തിക്കാനും ഓർമ്മിക്കാനും ആവശ്യത്തിന് ഉറക്കവും പോഷകാഹാരവും അത്യന്താപേക്ഷിതമാണ്.",
     "usageExample": "Mental processing.",
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "metacognition",
-    "wordMeaning": "മെറ്റാകോഗ്നിഷൻ",
+    "wordMeaning": "സ്വയംചിന്താബോധം",
     "englishText": "Developing metacognition—the ability to monitor your own thinking—is the hallmark of self-directed learners.",
     "malayalamMeaning": "സ്വന്തം ചിന്താ പ്രക്രിയയെ സ്വയം നിരീക്ഷിക്കാനുള്ള കഴിവ് (മെറ്റാകോഗ്നിഷൻ) വികസിപ്പിക്കുക എന്നത് സ്വയം പഠിക്കുന്ന വിദ്യാർത്ഥികളുടെ ഒരു സവിശേഷതയാണ്.",
     "usageExample": "Thinking about thinking.",
@@ -2257,7 +2257,7 @@
   },
   {
     "word": "fecundity",
-    "wordMeaning": "ഗർഭധാരണം",
+    "wordMeaning": "ഉൽപ്പാദനക്ഷമത",
     "englishText": "The professor's extraordinary intellectual fecundity resulted in over two hundred published papers.",
     "malayalamMeaning": "പ്രൊഫസറുടെ അസാധാരണമായ ചിന്താ ശേഷിയും ഉൽപ്പാദനക്ഷമതയും ഇരുനൂറിലധികം ഗവേഷണ പ്രബന്ധങ്ങൾ പ്രസിദ്ധീകരിക്കാൻ കാരണമായി.",
     "usageExample": "Mental fruitfulness.",
@@ -2265,7 +2265,7 @@
   },
   {
     "word": "rigor",
-    "wordMeaning": "കാഠിന്യം",
+    "wordMeaning": "സൂക്ഷ്മകൃത്യത",
     "englishText": "Uncompromising mathematical rigor distinguishes genuine scientific research from popular pseudoscience.",
     "malayalamMeaning": "വിട്ടുവീഴ്ചയില്ലാത്ത ഗണിതശാസ്ത്രപരമായ കൃത്യതയാണ് യഥാർത്ഥ ശാസ്ത്ര ഗവേഷണത്തെ വ്യാജ ശാസ്ത്രത്തിൽ നിന്ന് വേർതിരിക്കുന്നത്.",
     "usageExample": "Strict accuracy.",
@@ -2273,7 +2273,7 @@
   },
   {
     "word": "seminality",
-    "wordMeaning": "സെമിനാലിറ്റി",
+    "wordMeaning": "മൗലികത",
     "englishText": "The seminality of his breakthrough discoveries in genetic transcription cannot be overstated.",
     "malayalamMeaning": "ജനിതക ട്രാൻസ്ക്രിപ്ഷൻ രംഗത്ത് അദ്ദേഹം നടത്തിയ വിപ്ലവകരമായ കണ്ടെത്തലുകളുടെ പ്രാധാന്യം എത്ര പറഞ്ഞാലും മതിയാകില്ല.",
     "usageExample": "Pioneering originality.",
@@ -2329,7 +2329,7 @@
   },
   {
     "word": "ruler",
-    "wordMeaning": "ഭരണാധികാരി",
+    "wordMeaning": "അളവുകോൽ",
     "englishText": "Draw a crisp straight margin along the left edge using a plastic ruler.",
     "malayalamMeaning": "പ്ലാസ്റ്റിക് റൂളർ ഉപയോഗിച്ച് ഇടത് വശത്ത് കൃത്യമായി ഒരു നേർവര മാർജിൻ വരയ്ക്കുക.",
     "usageExample": "Measuring scale.",
@@ -2361,7 +2361,7 @@
   },
   {
     "word": "pedagogy",
-    "wordMeaning": "അധ്യാപനശാസ്ത്രം",
+    "wordMeaning": "ബോധനശാസ്ത്രം",
     "englishText": "Innovative teaching pedagogy incorporates collaborative problem-based group work.",
     "malayalamMeaning": "ഗ്രൂപ്പുകളായി തിരിഞ്ഞ് പ്രശ്നങ്ങൾ പരിഹരിക്കുന്ന കൂട്ടായ്മാ പഠനത്തെ നൂതന അധ്യാപന രീതികൾ ഉൾക്കൊള്ളുന്നു.",
     "usageExample": "Teaching method.",

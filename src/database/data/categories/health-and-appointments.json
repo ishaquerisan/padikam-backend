@@ -25,7 +25,7 @@
   },
   {
     "word": "fit",
-    "wordMeaning": "അനുയോജ്യം",
+    "wordMeaning": "ശാരീരികക്ഷമതയുള്ള",
     "englishText": "Grandfather still walks five kilometers every morning to stay physically fit.",
     "malayalamMeaning": "ശാരീരികക്ഷമത നിലനിർത്താൻ മുത്തശ്ശൻ ഇപ്പോഴും ദിവസവും രാവിലെ അഞ്ച് കിലോമീറ്റർ നടക്കാറുണ്ട്.",
     "usageExample": "In shape.",
@@ -57,7 +57,7 @@
   },
   {
     "word": "ill",
-    "wordMeaning": "അസുഖം",
+    "wordMeaning": "അസുഖമുള്ള",
     "englishText": "When my brother fell critically ill, the community supported our family.",
     "malayalamMeaning": "എന്റെ സഹോദരന്റെ അസുഖം ഗുരുതരമായപ്പോൾ നാട്ടുകാർ ഞങ്ങളുടെ കുടുംബത്തിന് താങ്ങായി നിന്നു.",
     "usageExample": "Sickly state.",
@@ -81,7 +81,7 @@
   },
   {
     "word": "hurt",
-    "wordMeaning": "വേദനിപ്പിച്ചു",
+    "wordMeaning": "വേദനിക്കുക",
     "englishText": "Does it hurt when I gently press around your swollen ankle?",
     "malayalamMeaning": "നീരുവന്ന കണങ്കാലിൽ പതുക്കെ അമർത്തുമ്പോൾ വേദനിക്കുന്നുണ്ടോ?",
     "usageExample": "Cause discomfort.",
@@ -169,7 +169,7 @@
   },
   {
     "word": "back",
-    "wordMeaning": "തിരികെ",
+    "wordMeaning": "മുതുക്",
     "englishText": "Lift heavy cardboard boxes using your leg muscles rather than your lower back.",
     "malayalamMeaning": "ഭാരമുള്ള പെട്ടികൾ പൊക്കുമ്പോൾ നടുവിന് ആയാസം നൽകാതെ കാലുകളുടെ പേശികൾ ഉപയോഗിച്ച് ഉയർത്തുക.",
     "usageExample": "Spinal area.",
@@ -225,7 +225,7 @@
   },
   {
     "word": "foot",
-    "wordMeaning": "കാൽ",
+    "wordMeaning": "പാദം",
     "englishText": "Diabetic patients must inspect their feet daily for cuts or blisters.",
     "malayalamMeaning": "പ്രമേഹരോഗികൾ തങ്ങളുടെ പാദങ്ങളിൽ മുറിവുകളോ കുമിളകളോ ഉണ്ടോയെന്ന് ദിവസവും പരിശോധിക്കണം.",
     "usageExample": "Pedal extremity.",
@@ -233,7 +233,7 @@
   },
   {
     "word": "knee",
-    "wordMeaning": "മുട്ടുകുത്തി",
+    "wordMeaning": "കാൽമുട്ട്",
     "englishText": "The orthopedic surgeon performed arthroscopic surgery on his injured knee.",
     "malayalamMeaning": "പരിക്കേറ്റ കാൽമുട്ടിന് ഓർത്തോപീഡിക് സർജൻ ആർത്രോസ്കോപ്പിക് ശസ്ത്രക്രിയ നടത്തി.",
     "usageExample": "Joint.",
@@ -249,7 +249,7 @@
   },
   {
     "word": "cut",
-    "wordMeaning": "വെട്ടി",
+    "wordMeaning": "മുറിവ്",
     "englishText": "Clean the minor finger cut with antiseptic liquid and apply a clean bandage.",
     "malayalamMeaning": "വിരലിലെ ചെറിയ മുറിവ് ആന്റിസെപ്റ്റിക് ലായനി ഉപയോഗിച്ച് വൃത്തിയാക്കി ബാൻഡേജ് ഒട്ടിക്കുക.",
     "usageExample": "Laceration.",
@@ -273,7 +273,7 @@
   },
   {
     "word": "bleed",
-    "wordMeaning": "രക്തസ്രാവം",
+    "wordMeaning": "രക്തസ്രാവമുണ്ടാകുക",
     "englishText": "Apply firm, steady pressure with a sterile cloth to stop the wound from bleeding.",
     "malayalamMeaning": "മുറിവിൽ നിന്നുള്ള രക്തസ്രാവം നിലയ്ക്കാൻ വൃത്തിയുള്ള തുണികൊണ്ട് മുറുക്കി അമർത്തിപ്പിടിക്കുക.",
     "usageExample": "Loss of blood.",
@@ -281,7 +281,7 @@
   },
   {
     "word": "burn",
-    "wordMeaning": "കത്തിക്കുക",
+    "wordMeaning": "പൊള്ളൽ",
     "englishText": "Cool the minor steam burn under running cold tap water for ten minutes.",
     "malayalamMeaning": "നീരാവിയേറ്റ് ചെറിയ പൊള്ളലേറ്റ ഭാഗം പത്ത് മിനിറ്റോളം പൈപ്പ് വെള്ളത്തിന് അടിയിൽ കാണിക്കുക.",
     "usageExample": "Thermal injury.",
@@ -297,7 +297,7 @@
   },
   {
     "word": "fall",
-    "wordMeaning": "വീഴുന്നു",
+    "wordMeaning": "വീഴ്ച",
     "englishText": "Elderly citizens must be careful on slippery bathroom tiles to avoid a dangerous fall.",
     "malayalamMeaning": "ബാത്ത്റൂമിലെ വഴുക്കലുള്ള ടൈലുകളിൽ തെന്നിവീഴാതിരിക്കാൻ മുതിർന്നവർ പ്രത്യേകം ശ്രദ്ധിക്കണം.",
     "usageExample": "Accidental tumble.",
@@ -305,7 +305,7 @@
   },
   {
     "word": "break",
-    "wordMeaning": "ബ്രേക്ക്",
+    "wordMeaning": "ഒടിവ്",
     "englishText": "The X-ray confirmed that there was no bone break in the twisted wrist.",
     "malayalamMeaning": "ഉളുക്കിയ കൈത്തണ്ടയിലെ എല്ലിന് ഒടിവൊന്നും സംഭവിച്ചിട്ടില്ലെന്ന് എക്സ്-റേയിൽ വ്യക്തമായി.",
     "usageExample": "Fracture.",
@@ -329,7 +329,7 @@
   },
   {
     "word": "cold",
-    "wordMeaning": "തണുപ്പ്",
+    "wordMeaning": "ജലദോഷം",
     "englishText": "A common viral cold usually resolves within five to seven days of rest.",
     "malayalamMeaning": "സാധാരണ ജലദോഷം അഞ്ചോ ഏഴോ ദിവസത്തെ വിശ്രമം കൊണ്ട് ഭേദമാകാറുണ്ട്.",
     "usageExample": "Upper respiratory virus.",
@@ -361,7 +361,7 @@
   },
   {
     "word": "chill",
-    "wordMeaning": "തണുപ്പിക്കുക",
+    "wordMeaning": "കുളിർവിറയൽ",
     "englishText": "He wrapped himself in a woolen blanket after experiencing sudden body chills.",
     "malayalamMeaning": "പെട്ടെന്ന് വിറയൽ അനുഭവപ്പെട്ടപ്പോൾ അയാൾ കമ്പിളിപ്പുതപ്പ് പുതച്ചു.",
     "usageExample": "Cold shivering.",
@@ -393,7 +393,7 @@
   },
   {
     "word": "dizzy",
-    "wordMeaning": "തലകറക്കം",
+    "wordMeaning": "തലകറക്കമുള്ള",
     "englishText": "Sit down immediately with your head between your knees if you feel dizzy.",
     "malayalamMeaning": "തലകറക്കം തോന്നുകയാണെങ്കിൽ ഉടൻതന്നെ ഇരുന്ന് തല കാൽമുട്ടുകൾക്കിടയിലേക്ക് താഴ്ത്തിപ്പിടിക്കുക.",
     "usageExample": "Lightheaded.",
@@ -401,7 +401,7 @@
   },
   {
     "word": "faint",
-    "wordMeaning": "തളർന്നു വീഴുന്നു",
+    "wordMeaning": "ബോധം കെടുക",
     "englishText": "Lack of breakfast combined with standing in the hot sun caused her to faint.",
     "malayalamMeaning": "പ്രഭാതഭക്ഷണം കഴിക്കാതിരുന്നതും കടുത്ത വെയിലിൽ നിന്നതും കാരണം അവൾ തലകറങ്ങി വീണു.",
     "usageExample": "Lose consciousness.",
@@ -433,7 +433,7 @@
   },
   {
     "word": "pulse",
-    "wordMeaning": "പൾസ്",
+    "wordMeaning": "നാഡിമിടിപ്പ്",
     "englishText": "The paramedic checked the casualty's radial pulse at the wrist.",
     "malayalamMeaning": "പാരാമെഡിക്കൽ ജീവനക്കാരൻ അപകടത്തിൽപ്പെട്ടയാളുടെ കൈത്തണ്ടയിലെ നാഡിമിടിപ്പ് പരിശോധിച്ചു.",
     "usageExample": "Arterial beat.",
@@ -441,7 +441,7 @@
   },
   {
     "word": "sleep",
-    "wordMeaning": "ഉറങ്ങുക",
+    "wordMeaning": "ഉറക്കം",
     "englishText": "Seven to eight hours of sound sleep is critical for cell repair and recovery.",
     "malayalamMeaning": "ശരീരകോശങ്ങളുടെ പുനരുജ്ജീവനത്തിനും ഉന്മേഷത്തിനും ഏഴോ എട്ടോ മണിക്കൂർ നല്ല ഉറക്കം അത്യന്താപേക്ഷിതമാണ്.",
     "usageExample": "Night rest.",
@@ -457,7 +457,7 @@
   },
   {
     "word": "tired",
-    "wordMeaning": "തളർന്നു",
+    "wordMeaning": "ക്ഷീണിച്ച",
     "englishText": "Chronic fatigue and feeling tired all the time could indicate iron anemia.",
     "malayalamMeaning": "എപ്പോഴും കടുത്ത ക്ഷീണം തോന്നുന്നത് വിളർച്ചയുടെ ലക്ഷണമാകാം.",
     "usageExample": "Lacking energy.",
@@ -497,7 +497,7 @@
   },
   {
     "word": "tablet",
-    "wordMeaning": "ടാബ്ലറ്റ്",
+    "wordMeaning": "ഗുളിക",
     "englishText": "Take one paracetamol tablet if your body temperature rises above 100 degrees.",
     "malayalamMeaning": "ശരീരോഷ്മാവ് 100 ഡിഗ്രിക്ക് മുകളിലായാൽ ഒരു പാരസെറ്റമോൾ ഗുളിക കഴിക്കുക.",
     "usageExample": "Compressed pill.",
@@ -521,7 +521,7 @@
   },
   {
     "word": "drop",
-    "wordMeaning": "ഡ്രോപ്പ്",
+    "wordMeaning": "തുള്ളി",
     "englishText": "Instill two drops of antibiotic eye solution into the lower eyelid three times daily.",
     "malayalamMeaning": "ദിവസവും മൂന്നുനേരം താഴത്തെ കൺപോളയിലേക്ക് രണ്ട് തുള്ളി ആന്റിബയോട്ടിക് ഐ ഡ്രോപ്സ് വീതം ഒഴിക്കുക.",
     "usageExample": "Liquid drop.",
@@ -545,7 +545,7 @@
   },
   {
     "word": "cotton",
-    "wordMeaning": "പരുത്തി",
+    "wordMeaning": "പഞ്ഞി",
     "englishText": "Dab the wound gently with sterile cotton dipped in warm antiseptic solution.",
     "malayalamMeaning": "ആന്റിസെപ്റ്റിക് ലായനിയിൽ മുക്കിയ പഞ്ഞി ഉപയോഗിച്ച് മുറിവ് സാവധാനം ഒപ്പി തുടയ്ക്കുക.",
     "usageExample": "Surgical cotton.",
@@ -553,7 +553,7 @@
   },
   {
     "word": "plaster",
-    "wordMeaning": "കുമ്മായം",
+    "wordMeaning": "ഒട്ടിക്കുന്ന ബാൻഡേജ്",
     "englishText": "Keep a box of adhesive medical plasters handy in your home first-aid kit.",
     "malayalamMeaning": "വീട്ടിലെ പ്രഥമശുശ്രൂഷാ പെട്ടിയിൽ ഒട്ടിക്കുന്ന ബാൻഡേജുകൾ കരുതിവെക്കുക.",
     "usageExample": "Adhesive bandage.",
@@ -585,7 +585,7 @@
   },
   {
     "word": "shot",
-    "wordMeaning": "വെടിവച്ചു",
+    "wordMeaning": "കുത്തിവയ്പ്പ്",
     "englishText": "Getting your annual influenza shot reduces the risk of severe chest complications.",
     "malayalamMeaning": "എല്ലാ വർഷവും ഫ്ലൂ വാക്സിൻ എടുക്കുന്നത് ശ്വാസകോശ സംബന്ധമായ ഗുരുതര പ്രശ്നങ്ങൾ ഒഴിവാക്കാൻ സഹായിക്കും.",
     "usageExample": "Vaccine shot.",
@@ -601,7 +601,7 @@
   },
   {
     "word": "test",
-    "wordMeaning": "പരീക്ഷ",
+    "wordMeaning": "പരിശോധന",
     "englishText": "The physician ordered a fasting blood test to monitor blood sugar levels.",
     "malayalamMeaning": "രക്തത്തിലെ പഞ്ചസാരയുടെ അളവ് അറിയാൻ ഒഴിഞ്ഞ വയറ്റിലുള്ള രക്തപരിശോധനയ്ക്ക് ഡോക്ടർ നിർദ്ദേശിച്ചു.",
     "usageExample": "Medical assessment.",
@@ -617,7 +617,7 @@
   },
   {
     "word": "scan",
-    "wordMeaning": "സ്കാൻ ചെയ്യുക",
+    "wordMeaning": "സ്കാൻ",
     "englishText": "The MRI scan revealed a minor cartilage tear in the patient's knee joint.",
     "malayalamMeaning": "രോഗിയുടെ കാൽമുട്ടിലെ തരുണാസ്ഥിയിൽ ചെറിയൊരു കീറൽ ഉണ്ടെന്ന് എം.ആർ.ഐ സ്കാനിൽ വ്യക്തമായി.",
     "usageExample": "Diagnostic imaging.",
@@ -681,7 +681,7 @@
   },
   {
     "word": "appointment",
-    "wordMeaning": "നിയമനം",
+    "wordMeaning": "നിശ്ചിത കൂടിക്കാഴ്ച",
     "englishText": "Book an appointment online with the pediatric specialist for Thursday.",
     "malayalamMeaning": "വ്യാഴാഴ്ച ശിശുരോഗവിദഗ്ദ്ധനെ കാണാൻ ഓൺലൈനായി അപ്പോയിന്റ്മെന്റ് എടുക്കുക.",
     "usageExample": "Scheduled visit.",
@@ -705,7 +705,7 @@
   },
   {
     "word": "visit",
-    "wordMeaning": "സന്ദർശിക്കുക",
+    "wordMeaning": "സന്ദർശനം",
     "englishText": "The family doctor made a compassionate home visit to check on the bedridden senior.",
     "malayalamMeaning": "കിടപ്പിലായ വൃദ്ധനെ പരിശോധിക്കാൻ കുടുംബ ഡോക്ടർ വീട്ടിൽ നേരിട്ടെത്തി.",
     "usageExample": "Medical check.",
@@ -769,7 +769,7 @@
   },
   {
     "word": "scale",
-    "wordMeaning": "സ്കെയിൽ",
+    "wordMeaning": "തൂക്കയന്ത്രം",
     "englishText": "Step onto the calibrated medical scale to record your exact body weight.",
     "malayalamMeaning": "കൃത്യമായ ഭാരം അറിയാൻ വെയ്ങ് മെഷീനിലേക്ക് കയറി നിൽക്കുക.",
     "usageExample": "Weighing tool.",
@@ -785,7 +785,7 @@
   },
   {
     "word": "recover",
-    "wordMeaning": "വീണ്ടെടുക്കുക",
+    "wordMeaning": "സുഖം പ്രാപിക്കുക",
     "englishText": "With adequate hydration and sleep, most viral infections recover within a week.",
     "malayalamMeaning": "ധാരാളം വെള്ളം കുടിക്കുകയും നന്നായി വിശ്രമിക്കുകയും ചെയ്താൽ മിക്ക വൈറൽ പനികളും ഒരാഴ്ചയ്ക്കുള്ളിൽ ഭേദമാകും.",
     "usageExample": "Heal/get well.",
@@ -793,7 +793,7 @@
   },
   {
     "word": "heal",
-    "wordMeaning": "സുഖപ്പെടുത്തുക",
+    "wordMeaning": "മുറിവ് ഉണങ്ങുക",
     "englishText": "The clean surgical incision began to heal smoothly without any redness.",
     "malayalamMeaning": "ശസ്ത്രക്രിയ ചെയ്ത മുറിവ് ചുവപ്പോ തടിപ്പോ ഇല്ലാതെ നന്നായി ഉണങ്ങിത്തുടങ്ങി.",
     "usageExample": "Tissue repair.",
@@ -833,7 +833,7 @@
   },
   {
     "word": "mask",
-    "wordMeaning": "മുഖംമൂടി",
+    "wordMeaning": "മുഖാവരണം",
     "englishText": "Wearing an N95 protective mask reduces exposure to airborne viral droplets.",
     "malayalamMeaning": "എൻ95 മാസ്ക് ധരിക്കുന്നത് വായുവിലൂടെ വൈറസ് പകരുന്നത് തടയാൻ സഹായിക്കും.",
     "usageExample": "Face covering.",
@@ -841,7 +841,7 @@
   },
   {
     "word": "fresh",
-    "wordMeaning": "പുതിയത്",
+    "wordMeaning": "ശുദ്ധമായ",
     "englishText": "Breathe in the clean, fresh mountain air to expand your lung capacity.",
     "malayalamMeaning": "ശ്വാസകോശത്തിന്റെ ആരോഗ്യം മെച്ചപ്പെടുത്താൻ മലനിരകളിലെ ശുദ്ധവായു ശ്വസിക്കുക.",
     "usageExample": "Unpolluted.",
@@ -913,7 +913,7 @@
   },
   {
     "word": "rash",
-    "wordMeaning": "ചുണങ്ങു",
+    "wordMeaning": "തിണർപ്പ്",
     "englishText": "Apply soothing calamine lotion over the itchy red heat rash on your neck.",
     "malayalamMeaning": "കഴുത്തിലെ വേനൽക്കുരുവിനും ചൊറിച്ചിലിനും ആശ്വാസം ലഭിക്കാൻ കലാമിൻ ലോഷൻ പുരട്ടുക.",
     "usageExample": "Skin outbreak.",
@@ -929,7 +929,7 @@
   },
   {
     "word": "scratch",
-    "wordMeaning": "സ്ക്രാച്ച്",
+    "wordMeaning": "പോറൽ",
     "englishText": "The cat gave him a superficial scratch on his hand, which was treated with Betadine.",
     "malayalamMeaning": "പൂച്ച മാന്തിയതിനെ തുടർന്ന് കൈയിലുണ്ടായ പോറലിൽ ബെറ്റാഡിൻ പുരട്ടി.",
     "usageExample": "Minor laceration.",
@@ -945,7 +945,7 @@
   },
   {
     "word": "strain",
-    "wordMeaning": "ബുദ്ധിമുട്ട്",
+    "wordMeaning": "പേശിവലിവ്",
     "englishText": "He suffered a hamstring muscle strain while sprinting in the football match.",
     "malayalamMeaning": "ഫുട്ബോൾ മത്സരത്തിനിടെ വേഗത്തിൽ ഓടിയപ്പോൾ അയാളുടെ കാൽപേശിക്ക് ഉളുക്കും വലിവുമുണ്ടായി.",
     "usageExample": "Muscle tear.",
@@ -961,7 +961,7 @@
   },
   {
     "word": "cast",
-    "wordMeaning": "കാസ്റ്റ്",
+    "wordMeaning": "പ്ലാസ്റ്റർ കെട്ട്",
     "englishText": "Keep the plaster cast dry while showering by wrapping it in plastic.",
     "malayalamMeaning": "കുളിക്കുമ്പോൾ പ്ലാസ്റ്റർ ഇട്ട ഭാഗത്ത് വെള്ളം കയറാതിരിക്കാൻ പ്ലാസ്റ്റിക് കവർ കൊണ്ട് മൂടുക.",
     "usageExample": "Orthopedic wrap.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "dosage",
-    "wordMeaning": "അളവ്",
+    "wordMeaning": "മരുന്നിന്റെ അളവ്",
     "englishText": "Never exceed the recommended dosage of paracetamol printed on the box.",
     "malayalamMeaning": "മരുന്ന് പെട്ടിയിൽ രേഖപ്പെടുത്തിയിട്ടുള്ള അളവിൽ കൂടുതൽ പാരസെറ്റമോൾ ഒരിക്കലും കഴിക്കരുത്.",
     "usageExample": "Medicine measure.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "chemist",
-    "wordMeaning": "രസതന്ത്രജ്ഞൻ",
+    "wordMeaning": "മരുന്നുകടക്കാരൻ",
     "englishText": "The friendly local chemist explained how to take the prescribed iron supplements.",
     "malayalamMeaning": "ഡോക്ടർ കുറിച്ചുതന്ന അയൺ ഗുളികകൾ എങ്ങനെ കഴിക്കണമെന്ന് മെഡിക്കൽ ഷോപ്പുകാരൻ വിശദീകരിച്ചു കൊടുത്തു.",
     "usageExample": "Pharmacist.",
@@ -1049,7 +1049,7 @@
   },
   {
     "word": "prescription",
-    "wordMeaning": "കുറിപ്പടി",
+    "wordMeaning": "മരുന്ന് കുറിപ്പടി",
     "englishText": "The pharmacist requires an official doctor's prescription to dispense antibiotics.",
     "malayalamMeaning": "ആന്റിബയോട്ടിക്കുകൾ നൽകാൻ ഫാർമസിസ്റ്റിന് ഡോക്ടറുടെ കുറിപ്പടി നിർബന്ധമാണ്.",
     "usageExample": "Doctor's script.",
@@ -1057,7 +1057,7 @@
   },
   {
     "word": "consult",
-    "wordMeaning": "കൂടിയാലോചിക്കുക",
+    "wordMeaning": "ഉപദേശം തേടുക",
     "englishText": "Consult a registered medical specialist before starting any new herbal supplements.",
     "malayalamMeaning": "പുതിയ പച്ചമരുന്ന് സപ്ലിമെന്റുകൾ കഴിച്ചുതുടങ്ങുന്നതിന് മുൻപ് അംഗീകൃത ഡോക്ടറുടെ ഉപദേശം തേടുക.",
     "usageExample": "Seek advice.",
@@ -1065,7 +1065,7 @@
   },
   {
     "word": "refer",
-    "wordMeaning": "റഫർ ചെയ്യുക",
+    "wordMeaning": "ശുപാർശ ചെയ്യുക",
     "englishText": "The general physician decided to refer the complex cardiac case to a specialist.",
     "malayalamMeaning": "ഹൃദയസംബന്ധമായ സങ്കീർണ്ണ പ്രശ്നം വിദഗ്ദ്ധ ഡോക്ടറെ കാണിക്കാൻ ജനറൽ ഫിസിഷ്യൻ നിർദ്ദേശിച്ചു.",
     "usageExample": "Direct to expert.",
@@ -1073,7 +1073,7 @@
   },
   {
     "word": "specialist",
-    "wordMeaning": "സ്പെഷ്യലിസ്റ്റ്",
+    "wordMeaning": "വിദഗ്ദ്ധ ഡോക്ടർ",
     "englishText": "She scheduled a consultation with a pediatric specialist in child development.",
     "malayalamMeaning": "കുട്ടികളുടെ വളർച്ച സംബന്ധിച്ച വിദഗ്ദ്ധനായ പീഡിയാട്രീഷ്യനെ കാണാൻ അവൾ അപ്പോയിന്റ്മെന്റ് എടുത്തു.",
     "usageExample": "Expert doctor.",
@@ -1081,7 +1081,7 @@
   },
   {
     "word": "surgeon",
-    "wordMeaning": "സർജൻ",
+    "wordMeaning": "ശസ്ത്രക്രിയാ വിദഗ്ദ്ധൻ",
     "englishText": "The skilled neurosurgeon performed the delicate brain procedure with total precision.",
     "malayalamMeaning": "വിദഗ്ദ്ധനായ ന്യൂറോ സർജൻ തലച്ചോറിലെ സങ്കീർണ്ണ ശസ്ത്രക്രിയ പൂർണ്ണ വിജയകരമായി പൂർത്തിയാക്കി.",
     "usageExample": "Operative physician.",
@@ -1097,7 +1097,7 @@
   },
   {
     "word": "operation",
-    "wordMeaning": "ഓപ്പറേഷൻ",
+    "wordMeaning": "ശസ്ത്രക്രിയ",
     "englishText": "The three-hour heart bypass operation was completed successfully with no complications.",
     "malayalamMeaning": "മൂന്ന് മണിക്കൂർ നീണ്ട ഹൃദയ ബൈപാസ് ശസ്ത്രക്രിയ സങ്കീർണ്ണതകളൊന്നുമില്ലാതെ വിജയകരമായി പൂർത്തിയായി.",
     "usageExample": "Surgical procedure.",
@@ -1105,7 +1105,7 @@
   },
   {
     "word": "physician",
-    "wordMeaning": "വൈദ്യൻ",
+    "wordMeaning": "ഭിഷഗ്വരൻ",
     "englishText": "A trusted family physician understands your complete multi-generational medical history.",
     "malayalamMeaning": "കുടുംബ ഡോക്ടർക്ക് കുടുംബത്തിലെ എല്ലാവരുടെയും ആരോഗ്യ ചരിത്രത്തെക്കുറിച്ച് കൃത്യമായ ധാരണയുണ്ടാകും.",
     "usageExample": "Medical doctor.",
@@ -1121,7 +1121,7 @@
   },
   {
     "word": "therapy",
-    "wordMeaning": "തെറാപ്പി",
+    "wordMeaning": "ചികിത്സാരീതി",
     "englishText": "Post-stroke physical therapy helps patients regain lost speech and mobility.",
     "malayalamMeaning": "പക്ഷാഘാതം വന്നവർക്ക് സംസാരശേഷിയും ചലനശേഷിയും വീണ്ടെടുക്കാൻ ഫിസിയോതെറാപ്പി സഹായിക്കും.",
     "usageExample": "Rehabilitative treatment.",
@@ -1129,7 +1129,7 @@
   },
   {
     "word": "symptom",
-    "wordMeaning": "ലക്ഷണം",
+    "wordMeaning": "രോഗലക്ഷണം",
     "englishText": "Chest tightness and shortness of breath are red-flag symptoms requiring emergency care.",
     "malayalamMeaning": "നെഞ്ചിൽ ഭാരവും ശ്വാസതടസ്സവും അനുഭവപ്പെടുന്നത് അടിയന്തര ചികിത്സ തേടേണ്ട അപകട ലക്ഷണങ്ങളാണ്.",
     "usageExample": "Sign of disease.",
@@ -1153,7 +1153,7 @@
   },
   {
     "word": "consultation",
-    "wordMeaning": "കൂടിയാലോചന",
+    "wordMeaning": "ഡോക്ടറുടെ പരിശോധന",
     "englishText": "The initial psychiatric consultation lasted forty-five minutes in a private room.",
     "malayalamMeaning": "സൈക്യാട്രിസ്റ്റുമായുള്ള ആദ്യ കൂടിക്കാഴ്ച നാൽപ്പത്തിയഞ്ച് മിനിറ്റോളം നീണ്ടുനിന്നു.",
     "usageExample": "Doctor session.",
@@ -1169,7 +1169,7 @@
   },
   {
     "word": "cardiologist",
-    "wordMeaning": "കാർഡിയോളജിസ്റ്റ്",
+    "wordMeaning": "ഹൃദ്രോഗവിദഗ്ദ്ധൻ",
     "englishText": "The cardiologist recommended a coronary angiogram following an abnormal treadmill test.",
     "malayalamMeaning": "ട്രെഡ്മിൽ ടെസ്റ്റിലെ വ്യതിയാനങ്ങളെ തുടർന്ന് കാർഡിയോളജിസ്റ്റ് ആൻജിയോഗ്രാം പരിശോധന നിർദ്ദേശിച്ചു.",
     "usageExample": "Heart specialist.",
@@ -1177,7 +1177,7 @@
   },
   {
     "word": "dermatologist",
-    "wordMeaning": "ഡെർമറ്റോളജിസ്റ്റ്",
+    "wordMeaning": "ചർമ്മരോഗവിദഗ്ദ്ധൻ",
     "englishText": "Consult a dermatologist if you notice changing borders on an existing skin mole.",
     "malayalamMeaning": "മറുകിന്റെ വലിപ്പത്തിലോ ആകൃതിയിലോ മാറ്റം കണ്ടാൽ ചർമ്മരോഗ വിദഗ്ദ്ധനെ കാണുക.",
     "usageExample": "Skin specialist.",
@@ -1185,7 +1185,7 @@
   },
   {
     "word": "orthopedist",
-    "wordMeaning": "ഓർത്തോപീഡിസ്റ്റ്",
+    "wordMeaning": "അസ്ഥിരോഗവിദഗ്ദ്ധൻ",
     "englishText": "The orthopedist fitted a customized knee brace to stabilize the torn ligament.",
     "malayalamMeaning": "ലിഗമെന്റ് കീറിയ കാൽമുട്ടിന്റെ താങ്ങിനായി ഓർത്തോപീഡിക് ഡോക്ടർ നീ-ബ്രേസ് നൽകി.",
     "usageExample": "Bone specialist.",
@@ -1193,7 +1193,7 @@
   },
   {
     "word": "ophthalmologist",
-    "wordMeaning": "ഒഫ്താൽമോളജിസ്റ്റ്",
+    "wordMeaning": "നേത്രരോഗവിദഗ്ദ്ധൻ",
     "englishText": "The ophthalmologist performed painless laser surgery to correct severe nearsightedness.",
     "malayalamMeaning": "കടുത്ത ഹ്രസ്വദൃഷ്ടി പരിഹരിക്കാൻ നേത്രരോഗവിദഗ്ദ്ധൻ വേദനയില്ലാത്ത ലേസർ ശസ്ത്രക്രിയ നടത്തി.",
     "usageExample": "Eye surgeon.",
@@ -1233,7 +1233,7 @@
   },
   {
     "word": "paramedic",
-    "wordMeaning": "പാരാമെഡിക്കൽ",
+    "wordMeaning": "പാരാമെഡിക്കൽ ജീവനക്കാരൻ",
     "englishText": "The certified paramedic initiated CPR compressions within three minutes of the cardiac arrest.",
     "malayalamMeaning": "ഹൃദയസ്തംഭനം ഉണ്ടായ ഉടൻതന്നെ പാരാമെഡിക്കൽ ജീവനക്കാരൻ സിപിആർ നൽകി തുടങ്ങി.",
     "usageExample": "Emergency medic.",
@@ -1249,7 +1249,7 @@
   },
   {
     "word": "inpatient",
-    "wordMeaning": "ഇൻപേഷ്യൻ്റ്",
+    "wordMeaning": "കിടത്തിച്ചികിത്സാ രോഗി",
     "englishText": "The private hospital provides dedicated private rooms for surgical inpatient care.",
     "malayalamMeaning": "ശസ്ത്രക്രിയ കഴിഞ്ഞ രോഗികൾക്ക് കിടത്തിച്ചികിത്സയ്ക്കായി സ്വകാര്യ ആശുപത്രിയിൽ പ്രത്യേക മുറികൾ ലഭ്യമാണ്.",
     "usageExample": "Admitted patient.",
@@ -1257,7 +1257,7 @@
   },
   {
     "word": "outpatient",
-    "wordMeaning": "ഔട്ട്പേഷ്യൻ്റ്",
+    "wordMeaning": "ബാഹ്യരോഗി",
     "englishText": "Minor cyst removal is routinely performed as a same-day outpatient procedure.",
     "malayalamMeaning": "ചെറിയ മുഴകൾ നീക്കം ചെയ്യുന്ന ശസ്ത്രക്രിയ സാധാരണയായി അന്നുതന്നെ വീട്ടിൽ പോകാവുന്ന രീതിയിലാണ് ചെയ്യുന്നത്.",
     "usageExample": "Clinic visitor.",
@@ -1265,7 +1265,7 @@
   },
   {
     "word": "admission",
-    "wordMeaning": "പ്രവേശനം",
+    "wordMeaning": "ആശുപത്രി പ്രവേശനം",
     "englishText": "The hospital admission process was streamlined through an electronic insurance portal.",
     "malayalamMeaning": "ഓൺലൈൻ ഇൻഷുറൻസ് പോർട്ടൽ വഴി ആശുപത്രിയിൽ അഡ്മിറ്റ് ആകുന്നതിനുള്ള നടപടികൾ വേഗത്തിലാക്കി.",
     "usageExample": "Entering hospital.",
@@ -1273,7 +1273,7 @@
   },
   {
     "word": "discharge",
-    "wordMeaning": "ഡിസ്ചാർജ്",
+    "wordMeaning": "ആശുപത്രി വിടുതൽ",
     "englishText": "The attending physician signed the formal hospital discharge summary after the fever cleared.",
     "malayalamMeaning": "പനി പൂർണ്ണമായി മാറിയതോടെ രോഗിയെ ഡിസ്ചാർജ് ചെയ്തുകൊണ്ടുള്ള രേഖയിൽ ഡോക്ടർ ഒപ്പുവെച്ചു.",
     "usageExample": "Leaving hospital.",
@@ -1313,7 +1313,7 @@
   },
   {
     "word": "antiseptic",
-    "wordMeaning": "ആൻ്റിസെപ്റ്റിക്",
+    "wordMeaning": "അണുനാശിനി",
     "englishText": "Clean the minor road abrasion with antiseptic chlorhexidine solution immediately.",
     "malayalamMeaning": "വീണുണ്ടായ ചെറിയ പോറലുകൾ ഉടൻതന്നെ ആന്റിസെപ്റ്റിക് ലായനി ഉപയോഗിച്ച് വൃത്തിയാക്കുക.",
     "usageExample": "Germ cleaner.",
@@ -1321,7 +1321,7 @@
   },
   {
     "word": "analgesic",
-    "wordMeaning": "വേദനസംഹാരിയായ",
+    "wordMeaning": "വേദനസംഹാരി",
     "englishText": "The doctor prescribed a mild oral analgesic to relieve postoperative wisdom tooth pain.",
     "malayalamMeaning": "താടിയെല്ലിലെ പല്ല് എടുത്തതിനു ശേഷമുള്ള വേദന കുറയ്ക്കാൻ ഡോക്ടർ ചെറിയ വേദനസംഹാരി നൽകി.",
     "usageExample": "Painkiller.",
@@ -1329,7 +1329,7 @@
   },
   {
     "word": "sedative",
-    "wordMeaning": "മയക്കമരുന്ന്",
+    "wordMeaning": "മയക്കത്തിനുള്ള മരുന്ന്",
     "englishText": "A mild sedative helped the anxious patient relax before undergoing the MRI tunnel scan.",
     "malayalamMeaning": "എം.ആർ.ഐ സ്കാനിംഗിന് മുന്നോടിയായി രോഗിയുടെ ഭയം അകറ്റാൻ നേരിയ മയക്കത്തിനുള്ള മരുന്ന് നൽകി.",
     "usageExample": "Calming drug.",
@@ -1337,7 +1337,7 @@
   },
   {
     "word": "side effect",
-    "wordMeaning": "പാർശ്വഫലങ്ങൾ",
+    "wordMeaning": "പാർശ്വഫലം",
     "englishText": "Drowsiness and dry mouth are common mild side effects of first-generation antihistamines.",
     "malayalamMeaning": "മയക്കവും വായ വരളുന്നതും അലർജി മരുന്നുകളുടെ സാധാരണ പാർശ്വഫലങ്ങളാണ്.",
     "usageExample": "Secondary reaction.",
@@ -1353,7 +1353,7 @@
   },
   {
     "word": "acute",
-    "wordMeaning": "നിശിതം",
+    "wordMeaning": "തീവ്രമായ",
     "englishText": "Acute appendicitis requires emergency surgical intervention to prevent organ rupture.",
     "malayalamMeaning": "അപ്പെൻഡിസൈറ്റിസ് പൊട്ടിത്തെറിക്കാതിരിക്കാൻ അടിയന്തര ശസ്ത്രക്രിയ ആവശ്യമാണ്.",
     "usageExample": "Sudden severe illness.",
@@ -1369,7 +1369,7 @@
   },
   {
     "word": "pandemic",
-    "wordMeaning": "പാൻഡെമിക്",
+    "wordMeaning": "മഹാമാരി",
     "englishText": "The global viral pandemic prompted rapid acceleration in mRNA vaccine technology.",
     "malayalamMeaning": "ആഗോള മഹാമാരി എം.ആർ.എൻ.എ വാക്സിൻ സാങ്കേതികവിദ്യയുടെ ദ്രുതഗതിയിലുള്ള വളർച്ചയ്ക്ക് കാരണമായി.",
     "usageExample": "Worldwide outbreak.",
@@ -1377,7 +1377,7 @@
   },
   {
     "word": "immunity",
-    "wordMeaning": "പ്രതിരോധശേഷി",
+    "wordMeaning": "രോഗപ്രതിരോധ ശേഷി",
     "englishText": "Vaccination stimulates the adaptive immune system to build durable immunological memory.",
     "malayalamMeaning": "പ്രതിരോധ കുത്തിവെയ്പുകൾ ശരീരത്തിൽ ദീർഘകാല രോഗപ്രതിരോധ ശേഷി ഉണ്ടാക്കാൻ സഹായിക്കുന്നു.",
     "usageExample": "Disease resistance.",
@@ -1385,7 +1385,7 @@
   },
   {
     "word": "vaccination",
-    "wordMeaning": "വാക്സിനേഷൻ",
+    "wordMeaning": "പ്രതിരോധ കുത്തിവയ്പ്പ്",
     "englishText": "Timely childhood vaccination programs have eradicated smallpox from the planet.",
     "malayalamMeaning": "കുട്ടിക്കാലത്തെ കൃത്യമായ പ്രതിരോധ കുത്തിവെയ്പുകൾ വഴി ലോകത്തുനിന്ന് വസൂരി പൂർണ്ണമായി തുടച്ചുനീക്കപ്പെട്ടു.",
     "usageExample": "Immunizing shot.",
@@ -1417,7 +1417,7 @@
   },
   {
     "word": "quarantine",
-    "wordMeaning": "ക്വാറൻ്റൈൻ",
+    "wordMeaning": "സമ്പർക്കവിലക്ക്",
     "englishText": "Travelers arriving from yellow fever endemic zones underwent mandatory health quarantine.",
     "malayalamMeaning": "മഞ്ഞപ്പനി ബാധിത പ്രദേശങ്ങളിൽ നിന്ന് വരുന്ന യാത്രക്കാർ നിർബന്ധിത ക്വാറന്റൈനിൽ കഴിയേണ്ടതുണ്ട്.",
     "usageExample": "Disease isolation.",
@@ -1425,7 +1425,7 @@
   },
   {
     "word": "convalescence",
-    "wordMeaning": "സുഖം പ്രാപിക്കുന്നു",
+    "wordMeaning": "രോഗശമന കാലം",
     "englishText": "A two-week period of quiet convalescence at home allowed his pneumonia to heal fully.",
     "malayalamMeaning": "രണ്ടാഴ്ചത്തെ പൂർണ്ണ വിശ്രമം ന്യുമോണിയയിൽ നിന്ന് പൂർണ്ണമായി സുഖം പ്രാപിക്കാൻ അയാളെ സഹായിച്ചു.",
     "usageExample": "Recovery period.",
@@ -1441,7 +1441,7 @@
   },
   {
     "word": "stamina",
-    "wordMeaning": "സ്റ്റാമിന",
+    "wordMeaning": "സഹനശക്തി",
     "englishText": "Consistent aerobic swimming builds extraordinary cardiovascular stamina and lung power.",
     "malayalamMeaning": "സ്ഥിരമായി നീന്തുന്നത് ഹൃദയത്തിന്റെ കാര്യക്ഷമതയും ശ്വാസകോശത്തിന്റെ കരുത്തും വർദ്ധിപ്പിക്കും.",
     "usageExample": "Endurance.",
@@ -1449,7 +1449,7 @@
   },
   {
     "word": "cardiovascular",
-    "wordMeaning": "ഹൃദയധമനികൾ",
+    "wordMeaning": "ഹൃദയധമനീ സംബന്ധമായ",
     "englishText": "Eating walnuts and oily fish supports cardiovascular health and lowers bad cholesterol.",
     "malayalamMeaning": "വാൽനട്ടും കൊഴുപ്പുള്ള മത്സ്യങ്ങളും കഴിക്കുന്നത് ഹൃദയാരോഗ്യത്തിനും ചീത്ത കൊളസ്ട്രോൾ കുറയ്ക്കുന്നതിനും നല്ലതാണ്.",
     "usageExample": "Heart and vessels.",
@@ -1521,7 +1521,7 @@
   },
   {
     "word": "preventive",
-    "wordMeaning": "പ്രതിരോധം",
+    "wordMeaning": "പ്രതിരോധാത്മകമായ",
     "englishText": "Annual preventive health checkups catch silent medical conditions before symptoms develop.",
     "malayalamMeaning": "വർഷം തോറുമുള്ള ആരോഗ്യ പരിശോധനകൾ ലക്ഷണങ്ങൾ പുറത്തുകാണിക്കാത്ത രോഗങ്ങളെ തുടക്കത്തിലേ കണ്ടെത്താൻ സഹായിക്കും.",
     "usageExample": "Precautionary.",
@@ -1553,7 +1553,7 @@
   },
   {
     "word": "pathology",
-    "wordMeaning": "പതോളജി",
+    "wordMeaning": "രോഗനിർണയ ശാസ്ത്രം",
     "englishText": "Clinical pathology laboratories analyze tissue samples to provide definitive diagnoses.",
     "malayalamMeaning": "രോഗനിർണ്ണയം കൃത്യമായി നടത്തുന്നതിനായി ക്ലിനിക്കൽ പാത്തോളജി ലാബുകൾ സാമ്പിളുകൾ പരിശോധിക്കുന്നു.",
     "usageExample": "Disease study.",
@@ -1561,7 +1561,7 @@
   },
   {
     "word": "oncology",
-    "wordMeaning": "ഓങ്കോളജി",
+    "wordMeaning": "അർബുദ ചികിത്സാശാസ്ത്രം",
     "englishText": "The medical oncology department specializes in chemotherapy and targeted immunotherapy.",
     "malayalamMeaning": "മെഡിക്കൽ ഓങ്കോളജി വിഭാഗം കീമോതെറാപ്പി, ഇമ്മ്യൂണോതെറാപ്പി തുടങ്ങിയ കാൻസർ ചികിത്സകളിൽ വൈദഗ്ദ്ധ്യം നേടിയിട്ടുള്ളതാണ്.",
     "usageExample": "Cancer medicine.",
@@ -1569,7 +1569,7 @@
   },
   {
     "word": "neurology",
-    "wordMeaning": "ന്യൂറോളജി",
+    "wordMeaning": "നാഡീരോഗ ശാസ്ത്രം",
     "englishText": "The neurology clinic treats epilepsy, Parkinson's disease, and peripheral neuropathy.",
     "malayalamMeaning": "അപസ്മാരം, പാർക്കിൻസൺസ് തുടങ്ങിയ നാഡീസംബന്ധമായ രോഗങ്ങൾക്കാണ് ന്യൂറോളജി ക്ലിനിക്കിൽ ചികിത്സ നൽകുന്നത്.",
     "usageExample": "Nerve medicine.",
@@ -1577,7 +1577,7 @@
   },
   {
     "word": "geriatrics",
-    "wordMeaning": "ജെറിയാട്രിക്സ്",
+    "wordMeaning": "വയോജന ചികിത്സാശാസ്ത്രം",
     "englishText": "The field of geriatrics focuses on the complex health and mobility needs of seniors.",
     "malayalamMeaning": "മുതിർന്ന പൗരന്മാരുടെ ആരോഗ്യപ്രശ്നങ്ങളും ചലന ബുദ്ധിമുട്ടുകളുമാണ് ജെറിയാട്രിക്സ് കൈകാര്യം ചെയ്യുന്നത്.",
     "usageExample": "Elderly medicine.",
@@ -1585,7 +1585,7 @@
   },
   {
     "word": "palliative",
-    "wordMeaning": "പാലിയേറ്റീവ്",
+    "wordMeaning": "സാന്ത്വനപരമായ",
     "englishText": "Palliative medicine prioritizes symptom control, pain management, and emotional dignity.",
     "malayalamMeaning": "വേദനയും ശാരീരിക അസ്വസ്ഥതകളും കുറച്ച് രോഗികൾക്ക് സമാധാനപരമായ അന്തരീക്ഷം ഒരുക്കുന്നതിനാണ് പാലിയേറ്റീവ് ചികിത്സയിൽ മുൻഗണന നൽകുന്നത്.",
     "usageExample": "Comfort care.",
@@ -1593,7 +1593,7 @@
   },
   {
     "word": "hospice",
-    "wordMeaning": "ഹോസ്പിസ്",
+    "wordMeaning": "സാന്ത്വന പരിചരണ കേന്ദ്രം",
     "englishText": "Hospice care teams provide compassionate holistic support during life's final journey.",
     "malayalamMeaning": "ജീവിതത്തിന്റെ അവസാന നാളുകളിൽ രോഗികൾക്ക് സ്നേഹത്തോടെയുള്ള സാന്ത്വന പരിചരണം നൽകാൻ ഹോസ്പിസ് കെയർ ടീമുകൾ ഒപ്പമുണ്ട്.",
     "usageExample": "End-of-life care.",
@@ -1609,7 +1609,7 @@
   },
   {
     "word": "copay",
-    "wordMeaning": "പകർത്തുക",
+    "wordMeaning": "ചികിത്സാ ചെലവ് വിഹിതം",
     "englishText": "The health insurance policy requires a nominal ten-percent copay on prescription drugs.",
     "malayalamMeaning": "ആരോഗ്യ ഇൻഷുറൻസ് പോളിസി പ്രകാരം മരുന്നുകളുടെ വിലയുടെ പത്ത് ശതമാനം കോപേയായി രോഗി അടയ്ക്കേണ്ടതുണ്ട്.",
     "usageExample": "Patient fee share.",
@@ -1625,7 +1625,7 @@
   },
   {
     "word": "etiology",
-    "wordMeaning": "എറ്റിയോളജി",
+    "wordMeaning": "രോഗകാരണ ശാസ്ത്രം",
     "englishText": "Medical researchers are investigating the genetic etiology of autoimmune arthritis.",
     "malayalamMeaning": "ഓട്ടോ ഇമ്മ്യൂൺ ആർത്രൈറ്റിസിന് കാരണമാകുന്ന ജനിതക ഘടകങ്ങളെക്കുറിച്ച് ഗവേഷകർ പഠനം നടത്തിവരുന്നു.",
     "usageExample": "Origin of disease.",
@@ -1633,7 +1633,7 @@
   },
   {
     "word": "prognosis",
-    "wordMeaning": "പ്രവചനം",
+    "wordMeaning": "രോഗഗതി പ്രവചനം",
     "englishText": "With early diagnosis and modern therapy, the clinical prognosis is exceptionally bright.",
     "malayalamMeaning": "രോഗം നേരത്തെ കണ്ടെത്താനും മികച്ച ചികിത്സ നൽകാനും കഴിഞ്ഞാൽ രോഗമുക്തിക്കുള്ള സാധ്യത വളരെ കൂടുതലാണ്.",
     "usageExample": "Forecast of illness.",
@@ -1641,7 +1641,7 @@
   },
   {
     "word": "epidemiology",
-    "wordMeaning": "എപ്പിഡെമിയോളജി",
+    "wordMeaning": "പകർച്ചവ്യാധി ശാസ്ത്രം",
     "englishText": "Epidemiology tracks the incidence, distribution, and control of public health diseases.",
     "malayalamMeaning": "പകർച്ചവ്യാധികൾ പടരുന്നതും അവയെ നിയന്ത്രിക്കുന്നതിനുള്ള വഴികളും പഠിക്കുന്ന ശാഖയാണ് എപ്പിഡെമിയോളജി.",
     "usageExample": "Outbreak science.",
@@ -1649,7 +1649,7 @@
   },
   {
     "word": "prophylaxis",
-    "wordMeaning": "പ്രതിരോധം",
+    "wordMeaning": "പ്രതിരോധ ചികിത്സ",
     "englishText": "Antimalarial prophylaxis is strongly recommended for travelers visiting tropical jungles.",
     "malayalamMeaning": "വനപ്രദേശങ്ങളിലേക്ക് യാത്ര ചെയ്യുന്നവർ മലമ്പനി വരാതിരിക്കാനുള്ള മുൻകരുതൽ മരുന്നുകൾ കഴിക്കുന്നത് നല്ലതാണ്.",
     "usageExample": "Preventive treatment.",
@@ -1657,7 +1657,7 @@
   },
   {
     "word": "triage",
-    "wordMeaning": "വിചാരണ",
+    "wordMeaning": "ചികിത്സാ മുൻഗണനാ നിർണയം",
     "englishText": "The emergency room triage nurse prioritizes critical chest pain patients ahead of minor cuts.",
     "malayalamMeaning": "ചെറിയ മുറിവുകളുള്ളവരേക്കാൾ നെഞ്ചുവേദനയുള്ള അത്യാഹിത രോഗികൾക്കാണ് കാഷ്വാലിറ്റിയിലെ ട്രയാജ് നഴ്സ് മുൻഗണന നൽകുന്നത്.",
     "usageExample": "Priority sorting.",
@@ -1681,7 +1681,7 @@
   },
   {
     "word": "comorbidity",
-    "wordMeaning": "കോമോർബിഡിറ്റി",
+    "wordMeaning": "അനുബന്ധ രോഗം",
     "englishText": "Elderly patients with underlying comorbidity like diabetes face higher surgical risks.",
     "malayalamMeaning": "പ്രമേഹം പോലുള്ള മറ്റ് അസുഖങ്ങളുള്ള പ്രായമായ രോഗികൾക്ക് ശസ്ത്രക്രിയയിലെ അപകടസാധ്യത കൂടുതലാണ്.",
     "usageExample": "Co-existing ailment.",
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "virulence",
-    "wordMeaning": "വൈറൽസ്",
+    "wordMeaning": "രോഗതീവ്രത",
     "englishText": "Mutations in the viral spike protein altered the pathogen's transmissibility and virulence.",
     "malayalamMeaning": "വൈറസിലുണ്ടായ ജനിതക വ്യതിയാനങ്ങൾ രോഗവ്യാപന ശേഷിയെയും രോഗതീവ്രതയെയും മാറ്റിമറിച്ചു.",
     "usageExample": "Disease severity.",
@@ -1713,7 +1713,7 @@
   },
   {
     "word": "incubation",
-    "wordMeaning": "ഇൻകുബേഷൻ",
+    "wordMeaning": "രോഗാണു വളർച്ചാക്കാലം",
     "englishText": "The viral incubation period ranges from two to fourteen days before fever manifests.",
     "malayalamMeaning": "വൈറസ് ശരീരത്തിൽ പ്രവേശിച്ച് രോഗലക്ഷണങ്ങൾ പുറത്തുവരാൻ രണ്ട് മുതൽ പതിനാല് ദിവസം വരെ എടുക്കാം.",
     "usageExample": "Dormant period.",
@@ -1721,7 +1721,7 @@
   },
   {
     "word": "immunological",
-    "wordMeaning": "രോഗപ്രതിരോധം",
+    "wordMeaning": "രോഗപ്രതിരോധ സംബന്ധമായ",
     "englishText": "Breast milk delivers maternal immunological antibodies that protect the infant gut.",
     "malayalamMeaning": "മുലപ്പാലിലൂടെ ലഭിക്കുന്ന ആന്റിബോഡികൾ കുഞ്ഞിന്റെ കുടലിലെ അണുബാധകളെ പ്രതിരോധിക്കാൻ സഹായിക്കുന്നു.",
     "usageExample": "Immune science.",
@@ -1729,7 +1729,7 @@
   },
   {
     "word": "intravenous",
-    "wordMeaning": "ഇൻട്രാവെനസ്",
+    "wordMeaning": "ഞരമ്പിലൂടെയുള്ള",
     "englishText": "The dehydration patient received saline fluid via an intravenous cannula line.",
     "malayalamMeaning": "നിർജ്ജലീകരണം സംഭവിച്ച രോഗിക്ക് ഞരമ്പിലൂടെ ഡ്രിപ്പായി സലൈൻ നൽകി.",
     "usageExample": "Direct into vein.",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "intramuscular",
-    "wordMeaning": "ഇൻട്രാമുസ്കുലർ",
+    "wordMeaning": "പേശിയിലേക്കുള്ള",
     "englishText": "Most childhood immunizations are administered via deep intramuscular injection.",
     "malayalamMeaning": "കുട്ടികൾക്കുള്ള മിക്ക പ്രതിരോധ കുത്തിവെയ്പുകളും പേശിയിലേക്കാണ് നൽകാറുള്ളത്.",
     "usageExample": "Into muscle.",
@@ -1745,7 +1745,7 @@
   },
   {
     "word": "subcutaneous",
-    "wordMeaning": "അടിവസ്ത്രം",
+    "wordMeaning": "തൊലിക്കടിയിലുള്ള",
     "englishText": "Diabetic patients learn how to administer daily subcutaneous insulin shots painlessly.",
     "malayalamMeaning": "വേദനയില്ലാതെ തൊലിക്കടിയിലേക്ക് ഇൻസുലിൻ കുത്തിവെയ്പ് എടുക്കുന്നത് പ്രമേഹരോഗികൾ പഠിച്ചെടുക്കുന്നു.",
     "usageExample": "Under skin.",
@@ -1753,7 +1753,7 @@
   },
   {
     "word": "metastasis",
-    "wordMeaning": "മെറ്റാസ്റ്റാസിസ്",
+    "wordMeaning": "അർബുദ വ്യാപനം",
     "englishText": "Early surgical excision of the tumor prevents regional and distant cellular metastasis.",
     "malayalamMeaning": "ട്യൂമർ തുടക്കത്തിലേ ശസ്ത്രക്രിയയിലൂടെ നീക്കം ചെയ്യുന്നത് ശരീരത്തിന്റെ മറ്റ് ഭാഗങ്ങളിലേക്ക് കാൻസർ പടരുന്നത് തടയും.",
     "usageExample": "Cancer spreading.",
@@ -1761,7 +1761,7 @@
   },
   {
     "word": "benign",
-    "wordMeaning": "സൗമ്യമായ",
+    "wordMeaning": "അപകടകരമല്ലാത്ത",
     "englishText": "The ultrasound biopsy confirmed that the breast nodule was completely harmless and benign.",
     "malayalamMeaning": "സ്തനത്തിലെ മുഴ അപകടകരമായ ഒന്നല്ലെന്ന് ബയോപ്സി പരിശോധനയിൽ വ്യക്തമായി.",
     "usageExample": "Non-cancerous.",
@@ -1777,7 +1777,7 @@
   },
   {
     "word": "remission",
-    "wordMeaning": "മോചനം",
+    "wordMeaning": "രോഗമുക്തി",
     "englishText": "Following targeted immunotherapy, the leukemia patient entered full clinical remission.",
     "malayalamMeaning": "ഇമ്മ്യൂണോതെറാപ്പി ചികിത്സയ്ക്ക് ശേഷം രക്താർബുദ ബാധിതനായ രോഗി പൂർണ്ണ രോഗമുക്തി നേടി.",
     "usageExample": "Disease-free state.",
@@ -1785,7 +1785,7 @@
   },
   {
     "word": "echocardiogram",
-    "wordMeaning": "എക്കോകാർഡിയോഗ്രാം",
+    "wordMeaning": "ഹൃദയ അൾട്രാസൗണ്ട്",
     "englishText": "An echocardiogram uses reflected ultrasound waves to visualize pumping heart chambers.",
     "malayalamMeaning": "ശബ്ദതരംഗങ്ങൾ ഉപയോഗിച്ച് ഹൃദയ അറകളുടെ പ്രവർത്തനം പരിശോധിക്കുന്ന രീതിയാണ് എക്കോ കാർഡിയോഗ്രാം.",
     "usageExample": "Heart ultrasound.",
@@ -1793,7 +1793,7 @@
   },
   {
     "word": "electrocardiogram",
-    "wordMeaning": "ഇലക്ട്രോകാർഡിയോഗ്രാം",
+    "wordMeaning": "ഹൃദയമിടിപ്പ് രേഖ",
     "englishText": "The paramedic recorded an immediate electrocardiogram to rule out myocardial infarction.",
     "malayalamMeaning": "ഹൃദയാഘാത സാധ്യതയില്ലെന്ന് ഉറപ്പാക്കാൻ പാരാമെഡിക്കൽ ജീവനക്കാരൻ ഉടനടി ഇ.സി.ജി എടുത്തു.",
     "usageExample": "ECG heart trace.",
@@ -1801,7 +1801,7 @@
   },
   {
     "word": "arrhythmia",
-    "wordMeaning": "അരിഹ്‌മിയ",
+    "wordMeaning": "ക്രമരഹിതമായ ഹൃദയമിടിപ്പ്",
     "englishText": "The cardiac electrophysiologist implanted a pacemaker to correct cardiac arrhythmia.",
     "malayalamMeaning": "ക്രമരഹിതമായ ഹൃദയമിടിപ്പ് ശരിയാക്കാൻ കാർഡിയോളജിസ്റ്റ് രോഗിക്ക് പേസ്മേക്കർ ഘടിപ്പിച്ചു.",
     "usageExample": "Irregular heartbeat.",
@@ -1809,7 +1809,7 @@
   },
   {
     "word": "hypotension",
-    "wordMeaning": "ഹൈപ്പോടെൻഷൻ",
+    "wordMeaning": "കുറഞ്ഞ രക്തസമ്മർദ്ദം",
     "englishText": "Severe dehydration and heat exhaustion can cause sudden, dangerous postural hypotension.",
     "malayalamMeaning": "കടുത്ത നിർജ്ജലീകരണവും ചൂടും കാരണം പെട്ടെന്ന് എഴുന്നേൽക്കുമ്പോൾ രക്തസമ്മർദ്ദം അപകടകരമായി കുറയാൻ സാധ്യതയുണ്ട്.",
     "usageExample": "Low blood pressure.",
@@ -1817,7 +1817,7 @@
   },
   {
     "word": "hematology",
-    "wordMeaning": "ഹെമറ്റോളജി",
+    "wordMeaning": "രക്തരോഗ ശാസ്ത്രം",
     "englishText": "The hematology lab analyzed the complete blood count to detect iron-deficiency anemia.",
     "malayalamMeaning": "വിളർച്ച തിരിച്ചറിയാൻ ഹെമറ്റോളജി ലാബിൽ രക്തത്തിലെ വിവിധ ഘടകങ്ങളുടെ അളവ് പരിശോധിച്ചു.",
     "usageExample": "Blood science.",
@@ -1833,7 +1833,7 @@
   },
   {
     "word": "thrombosis",
-    "wordMeaning": "ത്രോംബോസിസ്",
+    "wordMeaning": "രക്തക്കട്ട രൂപപ്പെടൽ",
     "englishText": "Deep vein thrombosis can occur when passengers remain immobile on long flights.",
     "malayalamMeaning": "നീണ്ട വിമാനയാത്രകളിൽ അനങ്ങാതെ ഇരിക്കുന്നത് സിരകളിൽ രക്തം കട്ടപിടിക്കുന്ന ഡീപ് വെയിൻ ത്രോംബോസിസിന് കാരണമാകാം.",
     "usageExample": "Blood clot.",
@@ -1849,7 +1849,7 @@
   },
   {
     "word": "immunosuppression",
-    "wordMeaning": "രോഗപ്രതിരോധം",
+    "wordMeaning": "പ്രതിരോധശേഷി അടിച്ചമർത്തൽ",
     "englishText": "Organ transplant recipients require lifelong pharmacological immunosuppression.",
     "malayalamMeaning": "അവയവം മാറ്റിവെച്ചവർ ശരീരത്തിന്റെ പ്രതിരോധശേഷി നിയന്ത്രിച്ചു നിർത്തുന്ന മരുന്നുകൾ ആജീവനാന്തം കഴിക്കേണ്ടതുണ്ട്.",
     "usageExample": "Damping immune system.",
@@ -1865,7 +1865,7 @@
   },
   {
     "word": "encephalitis",
-    "wordMeaning": "എൻസെഫലൈറ്റിസ്",
+    "wordMeaning": "മസ്തിഷ്ക ജ്വരം",
     "englishText": "Viral encephalitis causes acute swelling of the brain tissue requiring ICU monitoring.",
     "malayalamMeaning": "വൈറൽ എൻസെഫലൈറ്റിസ് തലച്ചോറിൽ നീർക്കെട്ടുണ്ടാക്കുന്നതിനാൽ ഐ.സി.യു നിരീക്ഷണം ആവശ്യമാണ്.",
     "usageExample": "Brain inflammation.",
@@ -1881,7 +1881,7 @@
   },
   {
     "word": "embolism",
-    "wordMeaning": "എംബോളിസം",
+    "wordMeaning": "രക്തക്കുഴൽ തടസ്സം",
     "englishText": "A dislodged blood clot traveling to the pulmonary artery causes an acute embolism.",
     "malayalamMeaning": "രക്തക്കുഴലുകളിൽ കട്ടപിടിച്ച രക്തം ശ്വാസകോശ ധമനിയിലേക്ക് നീങ്ങുന്നത് ഗുരുതരമായ എംബോളിസത്തിന് കാരണമാകും.",
     "usageExample": "Vessel obstruction.",
@@ -1897,7 +1897,7 @@
   },
   {
     "word": "sterilization",
-    "wordMeaning": "വന്ധ്യംകരണം",
+    "wordMeaning": "അണുവിമുക്തമാക്കൽ",
     "englishText": "Autoclave steam sterilization guarantees that all surgical instruments are germ-free.",
     "malayalamMeaning": "ഓട്ടോക്ലേവ് സ്റ്റീം സ്റ്റിറിലൈസേഷൻ വഴി ശസ്ത്രക്രിയാ ഉപകരണങ്ങൾ പൂർണ്ണമായും അണുവിമുക്തമാണെന്ന് ഉറപ്പാക്കുന്നു.",
     "usageExample": "Eradicating microbes.",
@@ -1905,7 +1905,7 @@
   },
   {
     "word": "aseptic",
-    "wordMeaning": "അസെപ്റ്റിക്",
+    "wordMeaning": "അണുവിമുക്തമായ",
     "englishText": "Surgeons scrub thoroughly to maintain an uncompromising aseptic field in the theatre.",
     "malayalamMeaning": "ഓപ്പറേഷൻ തിയേറ്റർ പൂർണ്ണമായും അണുവിമുക്തമായി സൂക്ഷിക്കാൻ സർജന്മാർ കൈകൾ വൃത്തിയായി കഴുകി തയ്യാറെടുക്കുന്നു.",
     "usageExample": "Germ-free state.",
@@ -1913,7 +1913,7 @@
   },
   {
     "word": "inoculation",
-    "wordMeaning": "കുത്തിവയ്പ്പ്",
+    "wordMeaning": "പ്രതിരോധ കുത്തിവയ്പ്പ്",
     "englishText": "Mass prophylactic inoculation campaigns succeeded in halting the smallpox epidemic.",
     "malayalamMeaning": "വൻതോതിലുള്ള പ്രതിരോധ കുത്തിവെയ്പ് യജ്ഞങ്ങളിലൂടെ വസൂരി പടരുന്നത് തടയാൻ കഴിഞ്ഞു.",
     "usageExample": "Vaccination.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "regimen",
-    "wordMeaning": "ചിട്ട",
+    "wordMeaning": "ചികിത്സാചിട്ട",
     "englishText": "The patient maintained a strict therapeutic regimen combining insulin, diet, and yoga.",
     "malayalamMeaning": "ഇൻസുലിനും ഭക്ഷണനിയന്ത്രണവും യോഗയും ചേർന്ന കർശനമായ ചികിത്സാരീതിയാണ് രോഗി പിന്തുടർന്നത്.",
     "usageExample": "Prescribed routine.",
@@ -1929,7 +1929,7 @@
   },
   {
     "word": "psychosomatic",
-    "wordMeaning": "സൈക്കോസോമാറ്റിക്",
+    "wordMeaning": "മനോജന്യമായ",
     "englishText": "Chronic workplace stress can trigger debilitating psychosomatic gastrointestinal ulcers.",
     "malayalamMeaning": "ജോലിസ്ഥലത്തെ അമിത മാനസിക സമ്മർദ്ദം ഗുരുതരമായ അൾസറിന് കാരണമായേക്കാം.",
     "usageExample": "Mind-body ailment.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "homeostasis",
-    "wordMeaning": "ഹോമിയോസ്റ്റാസിസ്",
+    "wordMeaning": "ശരീര സന്തുലിതാവസ്ഥ",
     "englishText": "The endocrine system continuously secretes hormones to maintain physiological homeostasis.",
     "malayalamMeaning": "ശരീരത്തിന്റെ സന്തുലിതാവസ്ഥ നിലനിർത്താൻ അന്തഃസ്രാവി ഗ്രന്ഥികൾ നിരന്തരം ഹോർമോണുകൾ ഉൽപ്പാദിപ്പിക്കുന്നു.",
     "usageExample": "Biological balance.",
@@ -1961,7 +1961,7 @@
   },
   {
     "word": "idiopathic",
-    "wordMeaning": "ഇഡിയൊപാത്തിക്",
+    "wordMeaning": "അജ്ഞാത കാരണത്താലുള്ള",
     "englishText": "Idiopathic pulmonary fibrosis is a condition whose underlying trigger remains unproven.",
     "malayalamMeaning": "കൃത്യമായ കാരണം കണ്ടെത്താനാവാത്ത ഒരു ശ്വാസകോശ രോഗമാണ് ഇഡിയോപതിക് പൾമണറി ഫൈബ്രോസിസ്.",
     "usageExample": "Of unknown cause.",
@@ -1969,7 +1969,7 @@
   },
   {
     "word": "pharmacopoeia",
-    "wordMeaning": "ഫാർമക്കോപ്പിയ",
+    "wordMeaning": "ഔഷധ ഗ്രന്ഥം",
     "englishText": "Ayurvedic pharmacopoeia documents thousands of therapeutic herbal plants and extracts.",
     "malayalamMeaning": "ആയുർവേദ ഗ്രന്ഥങ്ങളിൽ ആയിരക്കണക്കിന് ഔഷധസസ്യങ്ങളെക്കുറിച്ചും അവയുടെ ഗുണങ്ങളെക്കുറിച്ചും പ്രതിപാദിക്കുന്നുണ്ട്.",
     "usageExample": "Book of medicines.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "hemodialysis",
-    "wordMeaning": "ഹീമോഡയാലിസിസ്",
+    "wordMeaning": "രക്തശുദ്ധീകരണം",
     "englishText": "End-stage renal failure patients undergo four-hour hemodialysis sessions thrice weekly.",
     "malayalamMeaning": "വൃക്കകളുടെ പ്രവർത്തനം പൂർണ്ണമായി നിലച്ച രോഗികൾ ആഴ്ചയിൽ മൂന്നുതവണ നാല് മണിക്കൂർ വീതം ഡയാലിസിസ് ചെയ്യാറുണ്ട്.",
     "usageExample": "Blood filtration.",
@@ -1993,7 +1993,7 @@
   },
   {
     "word": "laparoscopy",
-    "wordMeaning": "ലാപ്രോസ്കോപ്പി",
+    "wordMeaning": "താക്കോൽദ്വാര ശസ്ത്രക്രിയ",
     "englishText": "Laparoscopy allows abdominal surgeries to be performed via tiny keyhole incisions.",
     "malayalamMeaning": "ലാപ്രോസ്കോപ്പിയിലൂടെ വയറ്റിൽ ചെറിയ സുഷിരങ്ങൾ മാത്രം ഉണ്ടാക്കി ശസ്ത്രക്രിയ നടത്താൻ സാധിക്കുന്നു.",
     "usageExample": "Keyhole surgery.",
@@ -2009,7 +2009,7 @@
   },
   {
     "word": "bronchoscopy",
-    "wordMeaning": "ബ്രോങ്കോസ്കോപ്പി",
+    "wordMeaning": "ശ്വാസനാള പരിശോധന",
     "englishText": "The pulmonologist performed a flexible bronchoscopy to inspect the bronchial tree.",
     "malayalamMeaning": "ശ്വാസകോശ വിദഗ്ദ്ധൻ ബ്രോങ്കോസ്കോപ്പിയിലൂടെ ശ്വാസനാളങ്ങളുടെ ഉൾവശം പരിശോധിച്ചു.",
     "usageExample": "Airway endoscopy.",
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "catheterization",
-    "wordMeaning": "കത്തീറ്ററൈസേഷൻ",
+    "wordMeaning": "കത്തീറ്റർ ഘടിപ്പിക്കൽ",
     "englishText": "Coronary catheterization unblocked the narrowed artery and placed a drug-eluting stent.",
     "malayalamMeaning": "ആൻജിയോപ്ലാസ്റ്റിയിലൂടെ ഹൃദയത്തിലെ ധമനിയിലെ തടസ്സം നീക്കി സ്റ്റെന്റ് ഘടിപ്പിച്ചു.",
     "usageExample": "Heart tube threading.",
@@ -2033,7 +2033,7 @@
   },
   {
     "word": "immuno-oncology",
-    "wordMeaning": "ഇമ്മ്യൂണോ-ഓങ്കോളജി",
+    "wordMeaning": "രോഗപ്രതിരോധ അർബുദചികിത്സ",
     "englishText": "Immuno-oncology harnesses the patient's own T-lymphocytes to destroy malignant tumors.",
     "malayalamMeaning": "ശരീരത്തിലെ സ്വന്തം പ്രതിരോധ കോശങ്ങളെ ഉപയോഗിച്ച് കാൻസർ മുഴകളെ നശിപ്പിക്കുന്ന അത്യാധുനിക ചികിത്സാരീതിയാണ് ഇമ്മ്യൂണോ-ഓങ്കോളജി.",
     "usageExample": "Cancer immunotherapy.",
@@ -2041,7 +2041,7 @@
   },
   {
     "word": "iatrogenic",
-    "wordMeaning": "അയട്രോജെനിക്",
+    "wordMeaning": "ചികിത്സാമൂലമുണ്ടാകുന്ന",
     "englishText": "Careful antibiotic stewardship minimizes the occurrence of iatrogenic gut infections.",
     "malayalamMeaning": "ആന്റിബയോട്ടിക്കുകൾ ശ്രദ്ധയോടെ ഉപയോഗിക്കുന്നത് ചികിത്സ മൂലമുണ്ടാകുന്ന കുടലിലെ അണുബാധകൾ ഒഴിവാക്കാൻ സഹായിക്കും.",
     "usageExample": "Doctor-induced illness.",
@@ -2049,7 +2049,7 @@
   },
   {
     "word": "nosocomial",
-    "wordMeaning": "നൊസോകോമിയൽ",
+    "wordMeaning": "ആശുപത്രിയിൽ നിന്നുണ്ടാകുന്ന",
     "englishText": "Rigorous hand hygiene protocols reduce the incidence of nosocomial hospital infections.",
     "malayalamMeaning": "കൈകൾ കൃത്യമായി വൃത്തിയാക്കുന്നത് ആശുപത്രികളിൽ നിന്നുള്ള അണുബാധകൾ പടരുന്നത് തടയും.",
     "usageExample": "Hospital-acquired.",
@@ -2057,7 +2057,7 @@
   },
   {
     "word": "hyperglycemia",
-    "wordMeaning": "ഹൈപ്പർ ഗ്ലൈസീമിയ",
+    "wordMeaning": "ഉയർന്ന രക്തപഞ്ചസാര",
     "englishText": "Diabetic ketoacidosis is an acute metabolic crisis caused by uncontrolled hyperglycemia.",
     "malayalamMeaning": "രക്തത്തിലെ പഞ്ചസാരയുടെ അളവ് അനിയന്ത്രിതമായി ഉയരുന്നത് മൂലം ഉണ്ടാകുന്ന ഗുരുതരമായ അവസ്ഥയാണ് ഡയബറ്റിക് കീറ്റോഅസിഡോസിസ്.",
     "usageExample": "High blood sugar.",
@@ -2065,7 +2065,7 @@
   },
   {
     "word": "hypoglycemia",
-    "wordMeaning": "ഹൈപ്പോഗ്ലൈസീമിയ",
+    "wordMeaning": "കുറഞ്ഞ രക്തപഞ്ചസാര",
     "englishText": "Diabetic patients should carry glucose sweets to treat sudden shakiness from hypoglycemia.",
     "malayalamMeaning": "രക്തത്തിലെ പഞ്ചസാര പെട്ടെന്ന് കുറഞ്ഞുണ്ടാകുന്ന വിറയൽ മാറ്റാൻ പ്രമേഹരോഗികൾ എപ്പോഴും മധുരപലഹാരങ്ങളോ മിഠായിയോ കരുതണം.",
     "usageExample": "Low blood sugar.",
@@ -2073,7 +2073,7 @@
   },
   {
     "word": "hypertrophy",
-    "wordMeaning": "ഹൈപ്പർട്രോഫി",
+    "wordMeaning": "കോശങ്ങളുടെ അമിതവളർച്ച",
     "englishText": "Untreated hypertension can lead to progressive left ventricular muscle hypertrophy.",
     "malayalamMeaning": "രക്താതിമർദ്ദത്തിന് ചികിത്സ തേടാതിരുന്നാൽ അത് ഹൃദയപേശികൾ തടിക്കുന്നതിന് കാരണമാകും.",
     "usageExample": "Tissue enlargement.",
@@ -2081,7 +2081,7 @@
   },
   {
     "word": "ischemia",
-    "wordMeaning": "ഇസ്കെമിയ",
+    "wordMeaning": "രക്തയോട്ടക്കുറവ്",
     "englishText": "Coronary artery disease reduces oxygenated blood flow, causing myocardial ischemia.",
     "malayalamMeaning": "ഹൃദയ ധമനികളിലെ രോഗങ്ങൾ രക്തയോട്ടം കുറയ്ക്കുകയും ഹൃദയപേശികളിലേക്ക് ഓക്സിജൻ എത്തുന്നത് തടസ്സപ്പെടുത്തുകയും ചെയ്യുന്നു.",
     "usageExample": "Blood flow starvation.",
@@ -2089,7 +2089,7 @@
   },
   {
     "word": "necrosis",
-    "wordMeaning": "necrosis",
+    "wordMeaning": "കോശനാശം",
     "englishText": "Prolonged arterial blockage causes irreversible cellular necrosis in ischemic tissues.",
     "malayalamMeaning": "ധമനികളിലെ തടസ്സം ദീർഘനേരം തുടരുന്നത് രക്തം കിട്ടാതെ കോശങ്ങൾ നശിച്ചുപോകാൻ ഇടയാക്കും.",
     "usageExample": "Cell death.",
@@ -2097,7 +2097,7 @@
   },
   {
     "word": "infarction",
-    "wordMeaning": "ഇൻഫ്രാക്ഷൻ",
+    "wordMeaning": "രക്തതടസ്സം മൂലമുള്ള കോശനാശം",
     "englishText": "Immediate thrombolytic therapy within ninety minutes limits the size of myocardial infarction.",
     "malayalamMeaning": "ഹൃദയാഘാതം ഉണ്ടായി ഒന്നര മണിക്കൂറിനുള്ളിൽ രക്തം കട്ടപിടിക്കുന്നത് അലിയിക്കാനുള്ള മരുന്ന് നൽകിയാൽ ഹൃദയത്തിനേൽക്കുന്ന ആഘാതം കുറയ്ക്കാം.",
     "usageExample": "Tissue death by clot.",
@@ -2105,7 +2105,7 @@
   },
   {
     "word": "stenosis",
-    "wordMeaning": "സ്റ്റെനോസിസ്",
+    "wordMeaning": "നാളീ സങ്കോചം",
     "englishText": "Surgical replacement was required to correct severe calcified aortic valve stenosis.",
     "malayalamMeaning": "അയോർട്ടിക് വാൽവ് ചുരുങ്ങി കട്ടിയായതിനെ തുടർന്ന് ശസ്ത്രക്രിയയിലൂടെ പുതിയ വാൽവ് വെച്ചുപിടിപ്പിച്ചു.",
     "usageExample": "Narrowing of canal.",
@@ -2113,7 +2113,7 @@
   },
   {
     "word": "aneurysm",
-    "wordMeaning": "അനൂറിസം",
+    "wordMeaning": "രക്തക്കുഴൽ വീക്കം",
     "englishText": "Neurosurgeons clamped the cerebral vascular aneurysm before catastrophic rupture occurred.",
     "malayalamMeaning": "തലച്ചോറിലെ രക്തക്കുഴലിലെ വീക്കം പൊട്ടിത്തെറിക്കുന്നതിന് മുൻപ് ന്യൂറോ സർജന്മാർ ക്ലിപ്പ് ചെയ്ത് സുരക്ഷിതമാക്കി.",
     "usageExample": "Artery ballooning.",
@@ -2121,7 +2121,7 @@
   },
   {
     "word": "embolus",
-    "wordMeaning": "എംബോളസ്",
+    "wordMeaning": "സഞ്ചരിക്കുന്ന രക്തക്കട്ട",
     "englishText": "The vascular surgeon extracted the migrating arterial embolus using a balloon catheter.",
     "malayalamMeaning": "ധമനിയിൽ അടിഞ്ഞുകൂടിയ രക്തക്കട്ട വാസ്കുലർ സർജൻ കത്തീറ്റർ ഉപയോഗിച്ച് നീക്കം ചെയ്തു.",
     "usageExample": "Traveling clot.",
@@ -2129,7 +2129,7 @@
   },
   {
     "word": "fibrillation",
-    "wordMeaning": "ഫൈബ്രിലേഷൻ",
+    "wordMeaning": "ഹൃദയമിടിപ്പ് താളംതെറ്റൽ",
     "englishText": "Ventricular fibrillation requires immediate electric defibrillation to prevent brain death.",
     "malayalamMeaning": "തലച്ചോറിന്റെ മരണം സംഭവിക്കാതിരിക്കാൻ ഹൃദയമിടിപ്പ് താളം തെറ്റുന്ന അവസ്ഥയിൽ ഉടനടി ഷോക്ക് നൽകേണ്ടതുണ്ട്.",
     "usageExample": "Chaotic heart twitch.",
@@ -2137,7 +2137,7 @@
   },
   {
     "word": "septicemia",
-    "wordMeaning": "സെപ്റ്റിസീമിയ",
+    "wordMeaning": "രക്തവിഷബാധ",
     "englishText": "Early aggressive intravenous antibiotics are vital to avert fatal bacterial septicemia.",
     "malayalamMeaning": "ബാക്ടീരിയ മൂലമുണ്ടാകുന്ന സെപ്റ്റിസീമിയ തടയാൻ ഞരമ്പിലൂടെ ഉടനടി വീര്യമേറിയ ആന്റിബയോട്ടിക്കുകൾ നൽകേണ്ടത് അത്യാവശ്യമാണ്.",
     "usageExample": "Blood poisoning.",
@@ -2145,7 +2145,7 @@
   },
   {
     "word": "bacteremia",
-    "wordMeaning": "ബാക്ടീരിയ",
+    "wordMeaning": "രക്തത്തിലെ ബാക്ടീരിയ ബാധ",
     "englishText": "Dental infections can occasionally cause transient bacteremia in susceptible patients.",
     "malayalamMeaning": "പല്ലിലെ അണുബാധ ചില രോഗികളിൽ രക്തത്തിലേക്ക് അണുക്കൾ പടരുന്നതിന് ഇടയാക്കിയേക്കാം.",
     "usageExample": "Bacteria in blood.",
@@ -2153,7 +2153,7 @@
   },
   {
     "word": "hypoxemia",
-    "wordMeaning": "ഹൈപ്പോക്സീമിയ",
+    "wordMeaning": "രക്തത്തിലെ ഓക്സിജൻ കുറവ്",
     "englishText": "Pulse oximeters alert clinical staff to sudden arterial oxygen saturation hypoxemia.",
     "malayalamMeaning": "രക്തത്തിലെ ഓക്സിജന്റെ അളവ് അപകടകരമായി താഴുന്നത് തിരിച്ചറിയാൻ പൾസ് ഓക്സിമീറ്ററുകൾ സഹായിക്കുന്നു.",
     "usageExample": "Low blood oxygen.",
@@ -2169,7 +2169,7 @@
   },
   {
     "word": "intubation",
-    "wordMeaning": "ഇൻകുബേഷൻ",
+    "wordMeaning": "ശ്വാസനാളത്തിൽ ട്യൂബിടൽ",
     "englishText": "Endotracheal intubation secured the comatose trauma patient's airway in the ambulance.",
     "malayalamMeaning": "അബോധാവസ്ഥയിലായ അപകടബാധിതന് ആംബുലൻസിൽ വെച്ചുതന്നെ തൊണ്ടയിലൂടെ ട്യൂബിട്ട് ശ്വാസതടസ്സം ഒഴിവാക്കി.",
     "usageExample": "Airway tube placing.",
@@ -2177,7 +2177,7 @@
   },
   {
     "word": "tracheostomy",
-    "wordMeaning": "ട്രക്കിയോസ്റ്റമി",
+    "wordMeaning": "ശ്വാസനാളത്തിൽ ദ്വാരമിടൽ",
     "englishText": "Long-term ventilator patients often require a temporary surgical tracheostomy.",
     "malayalamMeaning": "ദീർഘനാൾ വെന്റിലേറ്റർ സഹായം ആവശ്യമുള്ള രോഗികൾക്ക് ശ്വാസനാളത്തിൽ ചെറിയ ദ്വാരമുണ്ടാക്കി ട്യൂബ് ഇടേണ്ടി വരാറുണ്ട്.",
     "usageExample": "Trachea opening.",
@@ -2185,7 +2185,7 @@
   },
   {
     "word": "scalpel",
-    "wordMeaning": "സ്കാൽപെൽ",
+    "wordMeaning": "ശസ്ത്രക്രിയാ കത്തി",
     "englishText": "The surgeon held the sterile surgical scalpel with steady, practiced precision.",
     "malayalamMeaning": "സർജൻ അതീവ ശ്രദ്ധയോടെയും കൃത്യതയോടെയും സർജിക്കൽ കത്തി ഉപയോഗിച്ചു.",
     "usageExample": "Surgical blade.",
@@ -2201,7 +2201,7 @@
   },
   {
     "word": "gauze",
-    "wordMeaning": "നെയ്തെടുത്ത",
+    "wordMeaning": "നേർത്ത പഞ്ഞിത്തുണി",
     "englishText": "Apply a sterile medicated gauze pad over the clean cut before taping it securely.",
     "malayalamMeaning": "മുറിവ് വൃത്തിയാക്കിയ ശേഷം മരുന്ന് വെച്ച പഞ്ഞി വെച്ച് ടേപ്പ് ഒട്ടിക്കുക.",
     "usageExample": "Wound mesh.",
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "lozenge",
-    "wordMeaning": "ലോസഞ്ച്",
+    "wordMeaning": "തൊണ്ടഗുളിക",
     "englishText": "Suck on a honey and lemon throat lozenge to soothe a dry, hacking ticklish cough.",
     "malayalamMeaning": "തൊണ്ടയിലെ ചൊറിച്ചിലും വരണ്ട ചുമയും മാറാൻ തേനും ചെറുനാരങ്ങയും അടങ്ങിയ തൊണ്ടഗുളിക നുണയുക.",
     "usageExample": "Throat sweet.",
@@ -2249,7 +2249,7 @@
   },
   {
     "word": "tincture",
-    "wordMeaning": "കഷായങ്ങൾ",
+    "wordMeaning": "ഔഷധ ലായനി",
     "englishText": "Apply a few drops of iodine tincture around the scraped knee to prevent infection.",
     "malayalamMeaning": "കാൽമുട്ടിലെ പോറലിൽ അണുബാധ ഉണ്ടാകാതിരിക്കാൻ അല്പം അയഡിൻ ലായനി പുരട്ടുക.",
     "usageExample": "Antiseptic solution.",
@@ -2257,7 +2257,7 @@
   },
   {
     "word": "dressing",
-    "wordMeaning": "വസ്ത്രധാരണം",
+    "wordMeaning": "മുറിവുകെട്ട്",
     "englishText": "Visit the community health clinic daily to have your surgical dressing changed hygienically.",
     "malayalamMeaning": "മുറിവ് വൃത്തിയായി ഡ്രസ്സ് ചെയ്യുന്നതിനായി ദിവസവും അടുത്തുള്ള ആരോഗ്യ കേന്ദ്രത്തിൽ പോവുക.",
     "usageExample": "Wound covering.",
@@ -2273,7 +2273,7 @@
   },
   {
     "word": "splint",
-    "wordMeaning": "സ്പ്ലിൻ്റ്",
+    "wordMeaning": "ഒടിവിനുള്ള താങ്ങ്",
     "englishText": "The paramedic applied a rigid padded splint to immobilize the fractured forearm.",
     "malayalamMeaning": "കൈയിലെ ഒടിവ് ഇളകാതിരിക്കാൻ പാരാമെഡിക്കൽ ജീവനക്കാരൻ സ്പ്ലിന്റ് വെച്ചുകെട്ടി.",
     "usageExample": "Limb support.",
@@ -2281,7 +2281,7 @@
   },
   {
     "word": "tourniquet",
-    "wordMeaning": "ടൂർണിക്കറ്റ്",
+    "wordMeaning": "രക്തസ്രാവം തടയുന്ന കെട്ട്",
     "englishText": "Apply a tight medical tourniquet above an arterial limb wound to halt catastrophic hemorrhage.",
     "malayalamMeaning": "കൈകാലുകളിലെ കഠിനമായ രക്തസ്രാവം തടയാൻ മുറിവിന് മുകളിലായി ടൂർണിക്കെറ്റ് മുറുക്കിക്കെട്ടുക.",
     "usageExample": "Bleeding clamp.",
@@ -2337,7 +2337,7 @@
   },
   {
     "word": "pathologist",
-    "wordMeaning": "പാത്തോളജിസ്റ്റ്",
+    "wordMeaning": "രോഗനിർണയ വിദഗ്ദ്ധൻ",
     "englishText": "The clinical pathologist examined the blood smear to detect malarial parasites.",
     "malayalamMeaning": "മലമ്പനി പരത്തുന്ന പരാന്നഭോജികളെ കണ്ടെത്താൻ പാത്തോളജിസ്റ്റ് രക്തസാമ്പിൾ പരിശോധിച്ചു.",
     "usageExample": "Lab MD.",
@@ -2369,7 +2369,7 @@
   },
   {
     "word": "neurologist",
-    "wordMeaning": "ന്യൂറോളജിസ്റ്റ്",
+    "wordMeaning": "നാഡീരോഗവിദഗ്ദ്ധൻ",
     "englishText": "The neurologist conducted nerve conduction studies to evaluate numbness in the legs.",
     "malayalamMeaning": "കാലുകളിലെ മരവിപ്പിന്റെ കാരണം കണ്ടെത്താൻ ന്യൂറോളജിസ്റ്റ് നാഡീ പരിശോധന നടത്തി.",
     "usageExample": "Nerve MD.",
@@ -2377,7 +2377,7 @@
   },
   {
     "word": "cardiologist",
-    "wordMeaning": "കാർഡിയോളജിസ്റ്റ്",
+    "wordMeaning": "ഹൃദ്രോഗവിദഗ്ദ്ധൻ",
     "englishText": "The intervention cardiologist successfully implanted a stent to restore coronary blood flow.",
     "malayalamMeaning": "ഹൃദയത്തിലേക്കുള്ള രക്തയോട്ടം പുനഃസ്ഥാപിക്കാൻ ഇന്റർവെൻഷൻ കാർഡിയോളജിസ്റ്റ് വിജയകരമായി സ്റ്റെന്റ് ഘടിപ്പിച്ചു.",
     "usageExample": "Heart MD.",
@@ -2385,7 +2385,7 @@
   },
   {
     "word": "endocrinologist",
-    "wordMeaning": "എൻഡോക്രൈനോളജിസ്റ്റ്",
+    "wordMeaning": "ഹോർമോൺ രോഗവിദഗ്ദ്ധൻ",
     "englishText": "An endocrinologist specializes in optimizing insulin and thyroid hormonal balance.",
     "malayalamMeaning": "ഇൻസുലിൻ, തൈറോയ്ഡ് തുടങ്ങിയ ഹോർമോൺ വ്യതിയാനങ്ങൾ ചികിത്സിക്കുന്നതിൽ വിദഗ്ദ്ധനാണ് എൻഡോക്രൈനോളജിസ്റ്റ്.",
     "usageExample": "Hormone MD.",
@@ -2393,7 +2393,7 @@
   },
   {
     "word": "nephrologist",
-    "wordMeaning": "നെഫ്രോളജിസ്റ്റ്",
+    "wordMeaning": "വൃക്കരോഗവിദഗ്ദ്ധൻ",
     "englishText": "The nephrologist monitored kidney filtration rates and managed fluid electrolyte balances.",
     "malayalamMeaning": "നെഫ്രോളജിസ്റ്റ് വൃക്കകളുടെ പ്രവർത്തനശേഷി നിരീക്ഷിക്കുകയും ശരീരത്തിലെ ലവണങ്ങളുടെ സന്തുലിതാവസ്ഥ ഉറപ്പുവരുത്തുകയും ചെയ്തു.",
     "usageExample": "Kidney MD.",

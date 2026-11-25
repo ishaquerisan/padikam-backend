@@ -49,7 +49,7 @@
   },
   {
     "word": "client",
-    "wordMeaning": "ക്ലയൻ്റ്",
+    "wordMeaning": "ഉപഭോക്താവ്",
     "englishText": "Always listen attentively to your corporate client's requirements.",
     "malayalamMeaning": "നിങ്ങളുടെ കോർപ്പറേറ്റ് ഉപഭോക്താവിന്റെ ആവശ്യങ്ങൾ എപ്പോഴും ശ്രദ്ധയോടെ കേൾക്കുക.",
     "usageExample": "Business buyer.",
@@ -113,7 +113,7 @@
   },
   {
     "word": "check",
-    "wordMeaning": "പരിശോധിക്കുക",
+    "wordMeaning": "ചെക്ക്",
     "englishText": "The supplier accepted payment via an account-payee check.",
     "malayalamMeaning": "വിതരണക്കാരൻ അക്കൗണ്ട് പേയീ ചെക്ക് വഴി പണം സ്വീകരിച്ചു.",
     "usageExample": "Bank draft.",
@@ -145,7 +145,7 @@
   },
   {
     "word": "store",
-    "wordMeaning": "സ്റ്റോർ",
+    "wordMeaning": "കട",
     "englishText": "The clothing store attracts hundreds of weekend shoppers.",
     "malayalamMeaning": "വസ്ത്രശാല വാരാന്ത്യങ്ങളിൽ നൂറുകണക്കിന് ഉപഭോക്താക്കളെ ആകർഷിക്കുന്നു.",
     "usageExample": "Retail venue.",
@@ -217,7 +217,7 @@
   },
   {
     "word": "ship",
-    "wordMeaning": "കപ്പൽ",
+    "wordMeaning": "ചരക്കയയ്ക്കുക",
     "englishText": "The shipping company will ship the container to Dubai tomorrow.",
     "malayalamMeaning": "ഷിപ്പിംഗ് കമ്പനി നാളെ കണ്ടെയ്നർ ദുബായിലേക്ക് അയയ്ക്കും.",
     "usageExample": "Dispatch cargo.",
@@ -225,7 +225,7 @@
   },
   {
     "word": "pack",
-    "wordMeaning": "പായ്ക്ക്",
+    "wordMeaning": "പൊതിയുക",
     "englishText": "Workers carefully pack ceramic tea sets in bubble wrap.",
     "malayalamMeaning": "തൊഴിലാളികൾ ബബിൾ റാപ്പിൽ സെറാമിക് ടീ സെറ്റുകൾ ശ്രദ്ധാപൂർവ്വം പായ്ക്ക് ചെയ്യുന്നു.",
     "usageExample": "Package goods.",
@@ -241,7 +241,7 @@
   },
   {
     "word": "stock",
-    "wordMeaning": "സ്റ്റോക്ക്",
+    "wordMeaning": "ശേഖരം",
     "englishText": "Check our warehouse stock before confirming the online order.",
     "malayalamMeaning": "ഓൺലൈൻ ഓർഡർ സ്ഥിരീകരിക്കുന്നതിന് മുമ്പ് ഞങ്ങളുടെ വെയർഹൗസ് സ്റ്റോക്ക് പരിശോധിക്കുക.",
     "usageExample": "Available inventory.",
@@ -313,7 +313,7 @@
   },
   {
     "word": "save",
-    "wordMeaning": "സംരക്ഷിക്കുക",
+    "wordMeaning": "ലാഭിക്കുക",
     "englishText": "Adopting solar power helped the factory save on electricity bills.",
     "malayalamMeaning": "സൗരോർജം ഉപയോഗിക്കാൻ തുടങ്ങിയതിലൂടെ ഫാക്ടറിയുടെ വൈദ്യുതി ബിൽ കുറയ്ക്കാനായി.",
     "usageExample": "Conserve capital.",
@@ -329,7 +329,7 @@
   },
   {
     "word": "fund",
-    "wordMeaning": "ഫണ്ട്",
+    "wordMeaning": "നിധി",
     "englishText": "The government created a special startup seed fund for youths.",
     "malayalamMeaning": "യുവാക്കൾക്കായി സർക്കാർ പ്രത്യേക സ്റ്റാർട്ടപ്പ് സീഡ് ഫണ്ട് രൂപീകരിച്ചു.",
     "usageExample": "Financial pool.",
@@ -345,7 +345,7 @@
   },
   {
     "word": "note",
-    "wordMeaning": "കുറിപ്പ്",
+    "wordMeaning": "കറൻസി നോട്ട്",
     "englishText": "The cashier inspected the five-hundred-rupee currency note.",
     "malayalamMeaning": "കാഷ്യർ അഞ്ഞൂറ് രൂപയുടെ കറൻസി നോട്ട് പരിശോധിച്ചു.",
     "usageExample": "Paper money.",
@@ -393,7 +393,7 @@
   },
   {
     "word": "charge",
-    "wordMeaning": "ഈടാക്കുക",
+    "wordMeaning": "നിരക്ക്",
     "englishText": "There is no extra delivery charge for orders over five hundred rupees.",
     "malayalamMeaning": "അഞ്ഞൂറ് രൂപയ്ക്ക് മുകളിലുള്ള ഓർഡറുകൾക്ക് അധിക ഡെലിവറി ചാർജ് ഈടാക്കില്ല.",
     "usageExample": "Fee assessed.",
@@ -409,7 +409,7 @@
   },
   {
     "word": "offer",
-    "wordMeaning": "ഓഫർ",
+    "wordMeaning": "വാഗ്ദാനം",
     "englishText": "Check out our special buy-one-get-one-free festival offer.",
     "malayalamMeaning": "ഞങ്ങളുടെ പ്രത്യേകമായ ഒന്ന് വാങ്ങൂ, ഒന്ന് സൗജന്യമായി നേടൂ എന്ന ഉത്സവ ഓഫർ പരിശോധിക്കുക.",
     "usageExample": "Promotional deal.",
@@ -425,7 +425,7 @@
   },
   {
     "word": "lease",
-    "wordMeaning": "പാട്ടത്തിന്",
+    "wordMeaning": "പാട്ടക്കരാർ",
     "englishText": "We signed a five-year commercial lease for our new showroom.",
     "malayalamMeaning": "ഞങ്ങളുടെ പുതിയ ഷോറൂമിനായി ഞങ്ങൾ അഞ്ച് വർഷത്തെ വാണിജ്യ വാടക കരാർ ഒപ്പിട്ടു.",
     "usageExample": "Rental contract.",
@@ -433,7 +433,7 @@
   },
   {
     "word": "rent",
-    "wordMeaning": "വാടകയ്ക്ക്",
+    "wordMeaning": "വാടക",
     "englishText": "Monthly shop rent must be paid directly by the fifth day.",
     "malayalamMeaning": "പ്രതിമാസ കട വാടക അഞ്ചാം തീയതി നേരിട്ട് നൽകണം.",
     "usageExample": "Lease payment.",
@@ -441,7 +441,7 @@
   },
   {
     "word": "hire",
-    "wordMeaning": "കൂലിക്ക്",
+    "wordMeaning": "നിയമിക്കുക",
     "englishText": "The company decided to hire three regional marketing executives.",
     "malayalamMeaning": "മൂന്ന് മേഖലാ മാർക്കറ്റിംഗ് എക്സിക്യൂട്ടീവുകളെ നിയമിക്കാൻ കമ്പനി തീരുമാനിച്ചു.",
     "usageExample": "Employ staff.",
@@ -457,7 +457,7 @@
   },
   {
     "word": "sign",
-    "wordMeaning": "അടയാളം",
+    "wordMeaning": "ഒപ്പിടുക",
     "englishText": "Both company directors must sign the property purchase papers.",
     "malayalamMeaning": "കമ്പനിയുടെ രണ്ട് ഡയറക്ടർമാരും വസ്തു വാങ്ങുന്നതിനുള്ള രേഖകളിൽ ഒപ്പിടണം.",
     "usageExample": "Endorse legally.",
@@ -465,7 +465,7 @@
   },
   {
     "word": "firm",
-    "wordMeaning": "ഉറച്ച",
+    "wordMeaning": "സ്ഥാപനം",
     "englishText": "Our law firm advises tech startups on international patents.",
     "malayalamMeaning": "ഞങ്ങളുടെ നിയമസ്ഥാപനം ടെക് സ്റ്റാർട്ടപ്പുകൾക്ക് അന്താരാഷ്ട്ര പേറ്റന്റുകളുമായി ബന്ധപ്പെട്ട ഉപദേശം നൽകുന്നു.",
     "usageExample": "Business entity.",
@@ -489,7 +489,7 @@
   },
   {
     "word": "head",
-    "wordMeaning": "തല",
+    "wordMeaning": "മേധാവി",
     "englishText": "He was appointed as the head of business development in Asia.",
     "malayalamMeaning": "ഏഷ്യയിലെ ബിസിനസ് വികസന വിഭാഗത്തിന്റെ മേധാവിയായി അദ്ദേഹത്തെ നിയമിച്ചു.",
     "usageExample": "Leader.",
@@ -513,7 +513,7 @@
   },
   {
     "word": "share",
-    "wordMeaning": "പങ്കിടുക",
+    "wordMeaning": "ഓഹരി",
     "englishText": "Each founding partner owns a twenty-five percent equity share.",
     "malayalamMeaning": "ഓരോ സ്ഥാപക പങ്കാളിക്കും 25 ശതമാനം ഓഹരിയുണ്ട്.",
     "usageExample": "Ownership portion.",
@@ -529,7 +529,7 @@
   },
   {
     "word": "rise",
-    "wordMeaning": "ഉയരുക",
+    "wordMeaning": "ഉയർച്ച",
     "englishText": "A sudden rise in international crude oil prices raises shipping costs.",
     "malayalamMeaning": "അന്താരാഷ്ട്ര അസംസ്കൃത എണ്ണവില പെട്ടെന്ന് ഉയരുന്നത് ഷിപ്പിംഗ് ചെലവ് വർധിപ്പിക്കുന്നു.",
     "usageExample": "Increase.",
@@ -537,7 +537,7 @@
   },
   {
     "word": "fall",
-    "wordMeaning": "വീഴുന്നു",
+    "wordMeaning": "ഇടിവ്",
     "englishText": "A fall in raw rubber prices affected small plantation holders.",
     "malayalamMeaning": "അസംസ്കൃത റബ്ബറിന്റെ വിലയിടിവ് ചെറുകിട തോട്ടമുടമകളെ ബാധിച്ചു.",
     "usageExample": "Decline.",
@@ -553,7 +553,7 @@
   },
   {
     "word": "high",
-    "wordMeaning": "ഉയർന്നത്",
+    "wordMeaning": "ഉയർന്ന",
     "englishText": "High consumer demand led to shortages of organic pulses.",
     "malayalamMeaning": "ഉപഭോക്തൃ ആവശ്യം വർധിച്ചതിനാൽ ജൈവ പയർവർഗങ്ങൾക്ക് ക്ഷാമമുണ്ടായി.",
     "usageExample": "Elevated level.",
@@ -561,7 +561,7 @@
   },
   {
     "word": "risk",
-    "wordMeaning": "അപകടം",
+    "wordMeaning": "അപകടസാധ്യത",
     "englishText": "Starting a business involves financial risk and relentless perseverance.",
     "malayalamMeaning": "ഒരു ബിസിനസ് ആരംഭിക്കുന്നത് സാമ്പത്തിക അപകടസാധ്യതയും വിട്ടുവീഴ്ചയില്ലാത്ത സ്ഥിരോത്സാഹവും ആവശ്യപ്പെടുന്നു.",
     "usageExample": "Hazard/uncertainty.",
@@ -569,7 +569,7 @@
   },
   {
     "word": "safe",
-    "wordMeaning": "സുരക്ഷിതം",
+    "wordMeaning": "സുരക്ഷിതമായ",
     "englishText": "Invest in safe government bonds to preserve your retirement capital.",
     "malayalamMeaning": "നിങ്ങളുടെ റിട്ടയർമെൻ്റ് മൂലധനം സംരക്ഷിക്കാൻ സുരക്ഷിതമായ സർക്കാർ ബോണ്ടുകളിൽ നിക്ഷേപിക്കുക.",
     "usageExample": "Secure.",
@@ -601,7 +601,7 @@
   },
   {
     "word": "close",
-    "wordMeaning": "അടുത്ത്",
+    "wordMeaning": "അടയ്ക്കുക",
     "englishText": "The retail market closes at nine o'clock every evening.",
     "malayalamMeaning": "ചില്ലറ വിപണി എല്ലാ ദിവസവും വൈകുന്നേരം ഒമ്പത് മണിക്ക് അടയ്ക്കും.",
     "usageExample": "Cease business.",
@@ -625,7 +625,7 @@
   },
   {
     "word": "staff",
-    "wordMeaning": "സ്റ്റാഫ്",
+    "wordMeaning": "ജീവനക്കാർ",
     "englishText": "The boutique hotel staff is trained in multiple foreign languages.",
     "malayalamMeaning": "ബോട്ടിക് ഹോട്ടൽ ജീവനക്കാർ ഒന്നിലധികം വിദേശ ഭാഷകളിൽ പരിശീലനം നേടിയവരാണ്.",
     "usageExample": "Employees.",
@@ -649,7 +649,7 @@
   },
   {
     "word": "term",
-    "wordMeaning": "കാലാവധി",
+    "wordMeaning": "നിബന്ധന",
     "englishText": "We agreed on ninety-day payment terms for all wholesale deliveries.",
     "malayalamMeaning": "എല്ലാ മൊത്ത ഡെലിവറികൾക്കും തൊണ്ണൂറ് ദിവസത്തെ പേയ്‌മെൻ്റ് നിബന്ധനകൾ ഞങ്ങൾ അംഗീകരിച്ചു.",
     "usageExample": "Conditions.",
@@ -657,7 +657,7 @@
   },
   {
     "word": "agree",
-    "wordMeaning": "സമ്മതിക്കുന്നു",
+    "wordMeaning": "സമ്മതിക്കുക",
     "englishText": "Both sides agree that dispute resolution should occur via arbitration.",
     "malayalamMeaning": "തർക്കപരിഹാരം മധ്യസ്ഥതയിലൂടെ നടക്കണമെന്ന് ഇരുപക്ഷവും സമ്മതിക്കുന്നു.",
     "usageExample": "Concur.",
@@ -681,7 +681,7 @@
   },
   {
     "word": "ledger",
-    "wordMeaning": "ലെഡ്ജർ",
+    "wordMeaning": "കണക്കുപുസ്തകം",
     "englishText": "The accountant recorded every petty cash entry in the physical ledger.",
     "malayalamMeaning": "ഫിസിക്കൽ ലെഡ്ജറിൽ അക്കൗണ്ടൻ്റ് ഓരോ പെറ്റി ക്യാഷ് എൻട്രിയും രേഖപ്പെടുത്തി.",
     "usageExample": "Accounting book.",
@@ -689,7 +689,7 @@
   },
   {
     "word": "balance",
-    "wordMeaning": "ബാലൻസ്",
+    "wordMeaning": "ബാക്കി തുക",
     "englishText": "Check your monthly account balance before issuing post-dated checks.",
     "malayalamMeaning": "പോസ്റ്റ്-ഡേറ്റഡ് ചെക്കുകൾ നൽകുന്നതിന് മുമ്പ് നിങ്ങളുടെ പ്രതിമാസ അക്കൗണ്ട് ബാലൻസ് പരിശോധിക്കുക.",
     "usageExample": "Remaining funds.",
@@ -705,7 +705,7 @@
   },
   {
     "word": "credit",
-    "wordMeaning": "ക്രെഡിറ്റ്",
+    "wordMeaning": "വായ്പാ സൗകര്യം",
     "englishText": "The wholesaler extended thirty days of credit to trusted retailers.",
     "malayalamMeaning": "വിശ്വസ്തരായ ചില്ലറ വ്യാപാരികൾക്ക് മൊത്തവ്യാപാരി 30 ദിവസത്തെ വായ്പാ സൗകര്യം അനുവദിച്ചു.",
     "usageExample": "Deferred payment.",
@@ -713,7 +713,7 @@
   },
   {
     "word": "clear",
-    "wordMeaning": "വ്യക്തമായ",
+    "wordMeaning": "തീർപ്പാക്കുക",
     "englishText": "The bank took two working days to clear the outstation check.",
     "malayalamMeaning": "ഔട്ട്‌സ്റ്റേഷൻ ചെക്ക് ക്ലിയർ ചെയ്യാൻ ബാങ്ക് രണ്ട് പ്രവൃത്തി ദിവസമെടുത്തു.",
     "usageExample": "Settle transaction.",
@@ -721,7 +721,7 @@
   },
   {
     "word": "due",
-    "wordMeaning": "കാരണം",
+    "wordMeaning": "അടയ്ക്കേണ്ട",
     "englishText": "Payment for the shipment of raw timber is due next Monday.",
     "malayalamMeaning": "അസംസ്കൃത തടി കയറ്റുമതിക്കുള്ള പണം അടുത്ത തിങ്കളാഴ്ച നൽകേണ്ടതാണ്.",
     "usageExample": "Owed by date.",
@@ -729,7 +729,7 @@
   },
   {
     "word": "late",
-    "wordMeaning": "വൈകി",
+    "wordMeaning": "വൈകിയ",
     "englishText": "Avoid late payments to maintain a stellar commercial credit rating.",
     "malayalamMeaning": "മികച്ച വാണിജ്യ ക്രെഡിറ്റ് റേറ്റിംഗ് നിലനിർത്താൻ പണമടയ്ക്കുന്നതിൽ കാലതാമസം വരുത്തരുത്.",
     "usageExample": "Past due.",
@@ -769,7 +769,7 @@
   },
   {
     "word": "poor",
-    "wordMeaning": "പാവം",
+    "wordMeaning": "മോശമായ",
     "englishText": "Poor inventory tracking can easily lead to stockouts and lost revenue.",
     "malayalamMeaning": "ശരിയായ രീതിയിൽ സ്റ്റോക്ക് രേഖകൾ സൂക്ഷിക്കാത്തത് സാധനങ്ങൾ തീർന്നുപോകാനും വരുമാനം നഷ്ടപ്പെടാനും ഇടയാക്കും.",
     "usageExample": "Deficient.",
@@ -801,7 +801,7 @@
   },
   {
     "word": "launch",
-    "wordMeaning": "വിക്ഷേപണം",
+    "wordMeaning": "വിപണിയിലിറക്കുക",
     "englishText": "The enterprise will launch its new electric delivery scooter in July.",
     "malayalamMeaning": "സ്ഥാപനം ജൂലൈയിൽ പുതിയ ഇലക്ട്രിക് ഡെലിവറി സ്കൂട്ടർ വിപണിയിലിറക്കും.",
     "usageExample": "Introduce product.",
@@ -833,7 +833,7 @@
   },
   {
     "word": "trust",
-    "wordMeaning": "വിശ്വസിക്കുക",
+    "wordMeaning": "വിശ്വാസം",
     "englishText": "Customer trust is our firm's most valuable and guarded intangible asset.",
     "malayalamMeaning": "ഉപഭോക്താക്കളുടെ വിശ്വാസമാണ് ഞങ്ങളുടെ സ്ഥാപനത്തിന്റെ ഏറ്റവും വിലപ്പെട്ടതും സംരക്ഷിക്കപ്പെടേണ്ടതുമായ അദൃശ്യ ആസ്തി.",
     "usageExample": "Confidence.",
@@ -849,7 +849,7 @@
   },
   {
     "word": "test",
-    "wordMeaning": "പരീക്ഷ",
+    "wordMeaning": "പരിശോധന",
     "englishText": "Laboratory technicians test every batch of honey before packaging.",
     "malayalamMeaning": "ലബോറട്ടറി ടെക്നീഷ്യൻമാർ ഓരോ ബാച്ച് തേനും പാക്കേജിംഗിന് മുമ്പ് പരിശോധിക്കുന്നു.",
     "usageExample": "Verify standards.",
@@ -857,7 +857,7 @@
   },
   {
     "word": "standard",
-    "wordMeaning": "സ്റ്റാൻഡേർഡ്",
+    "wordMeaning": "മാനദണ്ഡം",
     "englishText": "Our cashew processing plant complies with international food standards.",
     "malayalamMeaning": "ഞങ്ങളുടെ കശുവണ്ടി സംസ്കരണ പ്ലാൻ്റ് അന്താരാഷ്ട്ര ഭക്ഷ്യ മാനദണ്ഡങ്ങൾ പാലിക്കുന്നു.",
     "usageExample": "Benchmark.",
@@ -873,7 +873,7 @@
   },
   {
     "word": "build",
-    "wordMeaning": "പണിയുക",
+    "wordMeaning": "കെട്ടിപ്പടുക്കുക",
     "englishText": "It takes relentless customer focus to build a resilient enterprise.",
     "malayalamMeaning": "സ്ഥിരതയുള്ള ഒരു എൻ്റർപ്രൈസ് കെട്ടിപ്പടുക്കുന്നതിന് നിരന്തരമായ ഉപഭോക്തൃ ശ്രദ്ധ ആവശ്യമാണ്.",
     "usageExample": "Establish.",
@@ -889,7 +889,7 @@
   },
   {
     "word": "power",
-    "wordMeaning": "ശക്തി",
+    "wordMeaning": "വൈദ്യുതി",
     "englishText": "Uninterrupted electric power is essential for continuous factory runs.",
     "malayalamMeaning": "തുടർച്ചയായി ഫാക്ടറി പ്രവർത്തിപ്പിക്കുന്നതിന് തടസ്സമില്ലാത്ത വൈദ്യുതി അത്യാവശ്യമാണ്.",
     "usageExample": "Electricity.",
@@ -929,7 +929,7 @@
   },
   {
     "word": "load",
-    "wordMeaning": "ലോഡ്",
+    "wordMeaning": "ചരക്ക് കയറ്റുക",
     "englishText": "Dockworkers used giant cranes to load the shipping containers.",
     "malayalamMeaning": "ഷിപ്പിംഗ് കണ്ടെയ്‌നറുകൾ കയറ്റാൻ ഡോക്ക് വർക്കർമാർ കൂറ്റൻ ക്രെയിനുകൾ ഉപയോഗിച്ചു.",
     "usageExample": "Pack freight.",
@@ -937,7 +937,7 @@
   },
   {
     "word": "weigh",
-    "wordMeaning": "തൂക്കം",
+    "wordMeaning": "തൂക്കുക",
     "englishText": "Weigh the loaded lorry on the electronic weighbridge at the entrance.",
     "malayalamMeaning": "പ്രവേശന കവാടത്തിലെ ഇലക്ട്രോണിക് വെയ്‌ബ്രിഡ്ജിൽ ലോഡ് കയറ്റിയ ലോറി തൂക്കുക.",
     "usageExample": "Measure mass.",
@@ -945,7 +945,7 @@
   },
   {
     "word": "bulk",
-    "wordMeaning": "ബൾക്ക്",
+    "wordMeaning": "മൊത്തമായി",
     "englishText": "Buying cardamom in bulk quantities guarantees significant cost savings.",
     "malayalamMeaning": "വലിയ അളവിൽ ഏലം വാങ്ങുന്നത് ഗണ്യമായ ചിലവ് ലാഭിക്കുന്നതിന് ഉറപ്പ് നൽകുന്നു.",
     "usageExample": "Large volume.",
@@ -969,7 +969,7 @@
   },
   {
     "word": "agent",
-    "wordMeaning": "ഏജൻ്റ്",
+    "wordMeaning": "പ്രതിനിധി",
     "englishText": "The insurance agent explained the terms of the commercial fire policy.",
     "malayalamMeaning": "വാണിജ്യ ഫയർ പോളിസിയുടെ നിബന്ധനകൾ ഇൻഷുറൻസ് ഏജൻ്റ് വിശദീകരിച്ചു.",
     "usageExample": "Representative.",
@@ -977,7 +977,7 @@
   },
   {
     "word": "dealer",
-    "wordMeaning": "ഡീലർ",
+    "wordMeaning": "വ്യാപാരി",
     "englishText": "He was appointed as the authorized tractor dealer for the northern district.",
     "malayalamMeaning": "വടക്കൻ ജില്ലയിലെ അംഗീകൃത ട്രാക്ടർ ഡീലറായി നിയമിച്ചു.",
     "usageExample": "Commercial trader.",
@@ -985,7 +985,7 @@
   },
   {
     "word": "broker",
-    "wordMeaning": "ബ്രോക്കർ",
+    "wordMeaning": "ഇടനിലക്കാരൻ",
     "englishText": "The real estate broker helped us lease our downtown office premises.",
     "malayalamMeaning": "ഞങ്ങളുടെ ഡൗണ്ടൗൺ ഓഫീസ് പരിസരം പാട്ടത്തിന് നൽകാൻ റിയൽ എസ്റ്റേറ്റ് ബ്രോക്കർ ഞങ്ങളെ സഹായിച്ചു.",
     "usageExample": "Intermediary.",
@@ -1001,7 +1001,7 @@
   },
   {
     "word": "free",
-    "wordMeaning": "സ്വതന്ത്ര",
+    "wordMeaning": "സൗജന്യ",
     "englishText": "We offer free home delivery for orders exceeding three hundred rupees.",
     "malayalamMeaning": "മുന്നൂറ് രൂപയിൽ കൂടുതലുള്ള ഓർഡറുകൾക്ക് ഞങ്ങൾ സൗജന്യ ഹോം ഡെലിവറി വാഗ്ദാനം ചെയ്യുന്നു.",
     "usageExample": "Without cost.",
@@ -1009,7 +1009,7 @@
   },
   {
     "word": "easy",
-    "wordMeaning": "എളുപ്പമാണ്",
+    "wordMeaning": "എളുപ്പമുള്ള",
     "englishText": "Our digital billing software is intuitive and remarkably easy to operate.",
     "malayalamMeaning": "ഞങ്ങളുടെ ഡിജിറ്റൽ ബില്ലിംഗ് സോഫ്റ്റ്‌വെയർ ഉപയോഗിക്കാൻ വളരെ എളുപ്പമാണ്.",
     "usageExample": "Simple.",
@@ -1017,7 +1017,7 @@
   },
   {
     "word": "fast",
-    "wordMeaning": "വേഗം",
+    "wordMeaning": "വേഗതയേറിയ",
     "englishText": "Providing fast and reliable shipping gives our web store an edge.",
     "malayalamMeaning": "വേഗതയേറിയതും വിശ്വസനീയവുമായ ഷിപ്പിംഗ് നൽകുന്നത് ഞങ്ങളുടെ വെബ് സ്റ്റോറിന് ഒരു മുൻതൂക്കം നൽകുന്നു.",
     "usageExample": "Speedy.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "quick",
-    "wordMeaning": "വേഗം",
+    "wordMeaning": "വേഗത്തിലുള്ള",
     "englishText": "A quick turnaround on customer refunds prevents negative online reviews.",
     "malayalamMeaning": "ഉപഭോക്താക്കൾക്ക് പണം വേഗത്തിൽ തിരികെ നൽകുന്നത് മോശം ഓൺലൈൻ അവലോകനങ്ങൾ ഒഴിവാക്കാൻ സഹായിക്കുന്നു.",
     "usageExample": "Rapid.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "rush",
-    "wordMeaning": "തിരക്ക്",
+    "wordMeaning": "ധൃതിപ്പെടുത്തുക",
     "englishText": "We had to rush the emergency delivery of spare tractor components.",
     "malayalamMeaning": "ട്രാക്ടറിന്റെ സ്പെയർ പാർട്സുകൾ അടിയന്തരമായി എത്തിക്കാൻ ഞങ്ങൾക്ക് വേഗത്തിൽ നടപടി സ്വീകരിക്കേണ്ടിവന്നു.",
     "usageExample": "Hurry.",
@@ -1057,7 +1057,7 @@
   },
   {
     "word": "want",
-    "wordMeaning": "ആഗ്രഹിക്കുന്നു",
+    "wordMeaning": "ആഗ്രഹിക്കുക",
     "englishText": "Customers want prompt support whenever they face payment issues.",
     "malayalamMeaning": "പണമടയ്ക്കുന്നതിൽ പ്രശ്നങ്ങൾ നേരിടുമ്പോൾ ഉപഭോക്താക്കൾക്ക് ഉടനടി സഹായം വേണം.",
     "usageExample": "Desire.",
@@ -1073,7 +1073,7 @@
   },
   {
     "word": "quote",
-    "wordMeaning": "ഉദ്ധരണി",
+    "wordMeaning": "വിലക്കുറിപ്പ്",
     "englishText": "The timber vendor provided a competitive price quote within an hour.",
     "malayalamMeaning": "തടി വിതരണക്കാരൻ ഒരു മണിക്കൂറിനുള്ളിൽ മത്സരക്ഷമമായ വിലക്കുറിപ്പ് നൽകി.",
     "usageExample": "Price estimate.",
@@ -1081,7 +1081,7 @@
   },
   {
     "word": "bid",
-    "wordMeaning": "ലേലം വിളിക്കുക",
+    "wordMeaning": "ലേല നിർദ്ദേശം",
     "englishText": "Our construction firm submitted a winning bid for the highway overpass.",
     "malayalamMeaning": "ഹൈവേ മേൽപ്പാലത്തിന്റെ കരാർ നേടുന്നതിനായി ഞങ്ങളുടെ നിർമാണ സ്ഥാപനം വിജയകരമായ ടെൻഡർ സമർപ്പിച്ചു.",
     "usageExample": "Tender offer.",
@@ -1169,7 +1169,7 @@
   },
   {
     "word": "audit",
-    "wordMeaning": "ഓഡിറ്റ്",
+    "wordMeaning": "കണക്കുപരിശോധന",
     "englishText": "External accountants conduct an annual financial audit of all branch records.",
     "malayalamMeaning": "ബാഹ്യ അക്കൗണ്ടൻ്റുമാർ എല്ലാ ബ്രാഞ്ച് രേഖകളുടെയും വാർഷിക സാമ്പത്തിക ഓഡിറ്റ് നടത്തുന്നു.",
     "usageExample": "Books verification.",
@@ -1177,7 +1177,7 @@
   },
   {
     "word": "margin",
-    "wordMeaning": "മാർജിൻ",
+    "wordMeaning": "ലാഭനിരക്ക്",
     "englishText": "Selling premium organic coconut oil yields a higher profit margin.",
     "malayalamMeaning": "പ്രീമിയം ഓർഗാനിക് വെളിച്ചെണ്ണ വിൽക്കുന്നതിലൂടെ ഉയർന്ന ലാഭം ലഭിക്കും.",
     "usageExample": "Percentage spread.",
@@ -1201,7 +1201,7 @@
   },
   {
     "word": "negotiation",
-    "wordMeaning": "ചർച്ചകൾ",
+    "wordMeaning": "ഒത്തുതീർപ്പ് ചർച്ച",
     "englishText": "Skillful negotiation between the union and management prevented a strike.",
     "malayalamMeaning": "യൂണിയനും മാനേജ്‌മെൻ്റും തമ്മിൽ നടത്തിയ സമർത്ഥമായ ചർച്ചയാണ് പണിമുടക്ക് ഒഴിവാക്കിയത്.",
     "usageExample": "Bargaining talks.",
@@ -1249,7 +1249,7 @@
   },
   {
     "word": "equity",
-    "wordMeaning": "ഇക്വിറ്റി",
+    "wordMeaning": "ഓഹരി ഉടമസ്ഥത",
     "englishText": "The venture capitalist offered three crores in exchange for ten percent equity.",
     "malayalamMeaning": "സ്വകാര്യ ഇക്വിറ്റി സ്ഥാപനങ്ങൾ വളർച്ചാസാധ്യതയുള്ള നിർമാണ സംരംഭങ്ങളിൽ ദീർഘകാല നിക്ഷേപം നടത്തുന്നു.",
     "usageExample": "Ownership stake.",
@@ -1281,7 +1281,7 @@
   },
   {
     "word": "enterprise",
-    "wordMeaning": "എൻ്റർപ്രൈസ്",
+    "wordMeaning": "സംരംഭം",
     "englishText": "Small and medium enterprises form the economic backbone of the state.",
     "malayalamMeaning": "ചെറുകിട, ഇടത്തരം വ്യവസായങ്ങൾ സംസ്ഥാനത്തിൻ്റെ സാമ്പത്തിക നട്ടെല്ലാണ്.",
     "usageExample": "Business undertaking.",
@@ -1321,7 +1321,7 @@
   },
   {
     "word": "inventory",
-    "wordMeaning": "ഇൻവെൻ്ററി",
+    "wordMeaning": "ചരക്കുശേഖരം",
     "englishText": "Automated barcodes enabled real-time tracking of warehouse inventory.",
     "malayalamMeaning": "ഓട്ടോമേറ്റഡ് ബാർകോഡുകൾ വെയർഹൗസ് ഇൻവെൻ്ററിയുടെ തത്സമയ ട്രാക്കിംഗ് പ്രവർത്തനക്ഷമമാക്കി.",
     "usageExample": "Stock of goods.",
@@ -1329,7 +1329,7 @@
   },
   {
     "word": "logistics",
-    "wordMeaning": "ലോജിസ്റ്റിക്സ്",
+    "wordMeaning": "ചരക്കുനീക്ക സംവിധാനം",
     "englishText": "Efficient logistics management guarantees on-time delivery across all states.",
     "malayalamMeaning": "കാര്യക്ഷമമായ ലോജിസ്റ്റിക് മാനേജ്‌മെൻ്റ് എല്ലാ സംസ്ഥാനങ്ങളിലും കൃത്യസമയത്ത് ഡെലിവറി ഉറപ്പ് നൽകുന്നു.",
     "usageExample": "Supply chain operations.",
@@ -1353,7 +1353,7 @@
   },
   {
     "word": "vendor",
-    "wordMeaning": "വെണ്ടർ",
+    "wordMeaning": "വിതരണക്കാരൻ",
     "englishText": "The IT vendor provided continuous technical maintenance for our web portal.",
     "malayalamMeaning": "ഐടി വെണ്ടർ ഞങ്ങളുടെ വെബ് പോർട്ടലിനായി തുടർച്ചയായ സാങ്കേതിക പരിപാലനം നൽകി.",
     "usageExample": "Contractor.",
@@ -1361,7 +1361,7 @@
   },
   {
     "word": "quotation",
-    "wordMeaning": "ഉദ്ധരണി",
+    "wordMeaning": "വിലനിർദ്ദേശം",
     "englishText": "Compare quotations from three distinct contractors before awarding the job.",
     "malayalamMeaning": "ജോലി നൽകുന്നതിന് മുമ്പ് മൂന്ന് വ്യത്യസ്ത കരാറുകാരിൽ നിന്നുള്ള ഉദ്ധരണികൾ താരതമ്യം ചെയ്യുക.",
     "usageExample": "Price tender.",
@@ -1369,7 +1369,7 @@
   },
   {
     "word": "franchise",
-    "wordMeaning": "ഫ്രാഞ്ചൈസി",
+    "wordMeaning": "അംഗീകൃത ശാഖ",
     "englishText": "He purchased the regional franchise for a renowned South Indian restaurant.",
     "malayalamMeaning": "ഒരു പ്രശസ്ത ദക്ഷിണേന്ത്യൻ റെസ്റ്റോറൻ്റിനായി അദ്ദേഹം പ്രാദേശിക ഫ്രാഞ്ചൈസി വാങ്ങി.",
     "usageExample": "Licensed branch.",
@@ -1393,7 +1393,7 @@
   },
   {
     "word": "branding",
-    "wordMeaning": "ബ്രാൻഡിംഗ്",
+    "wordMeaning": "ബ്രാൻഡ് നിർമ്മാണം",
     "englishText": "Consistent visual branding across social media boosts brand recall.",
     "malayalamMeaning": "സോഷ്യൽ മീഡിയയിലുടനീളമുള്ള സ്ഥിരമായ വിഷ്വൽ ബ്രാൻഡിംഗ് ബ്രാൻഡ് തിരിച്ചുവിളിക്കൽ വർദ്ധിപ്പിക്കുന്നു.",
     "usageExample": "Marketing identity.",
@@ -1417,7 +1417,7 @@
   },
   {
     "word": "promotion",
-    "wordMeaning": "പ്രമോഷൻ",
+    "wordMeaning": "വിൽപ്പന പ്രചാരണം",
     "englishText": "The festival promotion offered free gold coins with jewelry purchases.",
     "malayalamMeaning": "ഫെസ്റ്റിവൽ പ്രൊമോഷൻ ആഭരണങ്ങൾ വാങ്ങുന്നതിനൊപ്പം സൗജന്യ സ്വർണ്ണ നാണയങ്ങൾ വാഗ്ദാനം ചെയ്തു.",
     "usageExample": "Sales stimulation.",
@@ -1425,7 +1425,7 @@
   },
   {
     "word": "marketing",
-    "wordMeaning": "മാർക്കറ്റിംഗ്",
+    "wordMeaning": "വിപണനം",
     "englishText": "Effective marketing focuses on solving real problems for the customer.",
     "malayalamMeaning": "ഫലപ്രദമായ മാർക്കറ്റിംഗ് ഉപഭോക്താവിൻ്റെ യഥാർത്ഥ പ്രശ്നങ്ങൾ പരിഹരിക്കുന്നതിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു.",
     "usageExample": "Promoting products.",
@@ -1441,7 +1441,7 @@
   },
   {
     "word": "analytics",
-    "wordMeaning": "അനലിറ്റിക്സ്",
+    "wordMeaning": "വിവര വിശകലനം",
     "englishText": "E-commerce web analytics revealed that mobile shoppers convert faster.",
     "malayalamMeaning": "മൊബൈൽ ഷോപ്പർമാർ വേഗത്തിൽ പരിവർത്തനം ചെയ്യുന്നുവെന്ന് ഇ-കൊമേഴ്‌സ് വെബ് അനലിറ്റിക്‌സ് വെളിപ്പെടുത്തി.",
     "usageExample": "Data insights.",
@@ -1457,7 +1457,7 @@
   },
   {
     "word": "projection",
-    "wordMeaning": "പ്രൊജക്ഷൻ",
+    "wordMeaning": "ഭാവി പ്രവചനം",
     "englishText": "The financial analyst presented five-year revenue projections to investors.",
     "malayalamMeaning": "ഫിനാൻഷ്യൽ അനലിസ്റ്റ് നിക്ഷേപകർക്ക് അഞ്ച് വർഷത്തെ വരുമാന പ്രവചനങ്ങൾ അവതരിപ്പിച്ചു.",
     "usageExample": "Future forecast.",
@@ -1473,7 +1473,7 @@
   },
   {
     "word": "capitalization",
-    "wordMeaning": "വലിയക്ഷരം",
+    "wordMeaning": "മൂലധനവൽക്കരണം",
     "englishText": "The tech startup reached a market capitalization of one billion dollars.",
     "malayalamMeaning": "ടെക് സ്റ്റാർട്ടപ്പ് ഒരു ബില്യൺ ഡോളറിൻ്റെ വിപണി മൂലധനത്തിലെത്തി.",
     "usageExample": "Enterprise value.",
@@ -1481,7 +1481,7 @@
   },
   {
     "word": "solvency",
-    "wordMeaning": "സോൾവൻസി",
+    "wordMeaning": "തിരിച്ചടവ് ശേഷി",
     "englishText": "Maintaining healthy cash reserves guarantees long-term commercial solvency.",
     "malayalamMeaning": "ആരോഗ്യകരമായ ക്യാഷ് റിസർവ് നിലനിർത്തുന്നത് ദീർഘകാല വാണിജ്യ സോൾവൻസി ഉറപ്പ് നൽകുന്നു.",
     "usageExample": "Ability to pay debts.",
@@ -1497,7 +1497,7 @@
   },
   {
     "word": "liquidation",
-    "wordMeaning": "ലിക്വിഡേഷൻ",
+    "wordMeaning": "ആസ്തി വിൽപ്പന",
     "englishText": "The court ordered the liquidation of assets to settle creditor claims.",
     "malayalamMeaning": "കടക്കാരുടെ ക്ലെയിമുകൾ തീർപ്പാക്കുന്നതിന് ആസ്തികൾ ലിക്വിഡേഷൻ ചെയ്യാൻ കോടതി ഉത്തരവിട്ടു.",
     "usageExample": "Selling off assets.",
@@ -1529,7 +1529,7 @@
   },
   {
     "word": "conglomerate",
-    "wordMeaning": "ഒരു കൂട്ടം",
+    "wordMeaning": "വ്യവസായ കൂട്ടായ്മ",
     "englishText": "The industrial conglomerate operates in cement, steel, and textiles.",
     "malayalamMeaning": "സിമൻ്റ്, സ്റ്റീൽ, തുണിത്തരങ്ങൾ എന്നിവയിലാണ് വ്യാവസായിക കൂട്ടായ്മ പ്രവർത്തിക്കുന്നത്.",
     "usageExample": "Diversified firm.",
@@ -1537,7 +1537,7 @@
   },
   {
     "word": "subsidiary",
-    "wordMeaning": "സബ്സിഡിയറി",
+    "wordMeaning": "ഉപകമ്പനി",
     "englishText": "The Indian subsidiary generated forty percent of the global parent's profit.",
     "malayalamMeaning": "ആഗോള മാതൃകമ്പനിയുടെ ലാഭത്തിന്റെ നാൽപ്പത് ശതമാനം ഇന്ത്യൻ ഉപകമ്പനി നേടി.",
     "usageExample": "Owned branch.",
@@ -1545,7 +1545,7 @@
   },
   {
     "word": "affiliate",
-    "wordMeaning": "അഫിലിയേറ്റ്",
+    "wordMeaning": "അനുബന്ധ സ്ഥാപനം",
     "englishText": "Our digital marketing affiliate earns ten percent commission on every sale.",
     "malayalamMeaning": "ഞങ്ങളുടെ ഡിജിറ്റൽ മാർക്കറ്റിംഗ് അഫിലിയേറ്റ് ഓരോ വിൽപ്പനയിലും പത്ത് ശതമാനം കമ്മീഷൻ നേടുന്നു.",
     "usageExample": "Partner associate.",
@@ -1561,7 +1561,7 @@
   },
   {
     "word": "outsource",
-    "wordMeaning": "ഔട്ട്സോഴ്സ്",
+    "wordMeaning": "പുറംകരാർ നൽകുക",
     "englishText": "Many European financial institutions outsource software testing to India.",
     "malayalamMeaning": "നിരവധി യൂറോപ്യൻ ധനകാര്യ സ്ഥാപനങ്ങൾ സോഫ്റ്റ്‌വെയർ പരിശോധന ഇന്ത്യയിലെ സ്ഥാപനങ്ങൾക്ക് ഔട്ട്‌സോഴ്‌സ് ചെയ്യുന്നു.",
     "usageExample": "Subcontracting.",
@@ -1569,7 +1569,7 @@
   },
   {
     "word": "compliance",
-    "wordMeaning": "പാലിക്കൽ",
+    "wordMeaning": "നിയമപാലനം",
     "englishText": "Strict compliance with labor welfare laws prevents costly legal penalties.",
     "malayalamMeaning": "തൊഴിൽ ക്ഷേമ നിയമങ്ങൾ കർശനമായി പാലിക്കുന്നത് വിലയേറിയ നിയമപരമായ പിഴകൾ തടയുന്നു.",
     "usageExample": "Obeying laws.",
@@ -1585,7 +1585,7 @@
   },
   {
     "word": "auditing",
-    "wordMeaning": "ഓഡിറ്റിംഗ്",
+    "wordMeaning": "സാമ്പത്തിക പരിശോധന",
     "englishText": "Internal auditing ensures that all departmental expenses are documented.",
     "malayalamMeaning": "എല്ലാ വകുപ്പുതല ചെലവുകളും രേഖപ്പെടുത്തിയിട്ടുണ്ടെന്ന് ആന്തരിക ഓഡിറ്റിംഗ് ഉറപ്പാക്കുന്നു.",
     "usageExample": "Financial scrutiny.",
@@ -1593,7 +1593,7 @@
   },
   {
     "word": "taxation",
-    "wordMeaning": "നികുതി",
+    "wordMeaning": "നികുതി ചുമത്തൽ",
     "englishText": "The government simplified goods and services taxation for small firms.",
     "malayalamMeaning": "ചെറുകിട സ്ഥാപനങ്ങൾക്കുള്ള ചരക്ക് സേവന നികുതി സർക്കാർ ലളിതമാക്കി.",
     "usageExample": "Levying taxes.",
@@ -1601,7 +1601,7 @@
   },
   {
     "word": "tariff",
-    "wordMeaning": "താരിഫ്",
+    "wordMeaning": "തീരുവ",
     "englishText": "High import tariffs protect domestic coconut oil producers from cheap imports.",
     "malayalamMeaning": "ഉയർന്ന ഇറക്കുമതി തീരുവകൾ കുറഞ്ഞ വിലയിലുള്ള ഇറക്കുമതി ഉൽപ്പന്നങ്ങളിൽ നിന്ന് ആഭ്യന്തര വെളിച്ചെണ്ണ ഉൽപ്പാദകരെ സംരക്ഷിക്കുന്നു.",
     "usageExample": "Import duty.",
@@ -1609,7 +1609,7 @@
   },
   {
     "word": "subsidy",
-    "wordMeaning": "സബ്സിഡി",
+    "wordMeaning": "ധനസഹായം",
     "englishText": "Farmers receive an electricity subsidy to power irrigation water pumps.",
     "malayalamMeaning": "ജലസേചനത്തിനുള്ള പമ്പുകൾ പ്രവർത്തിപ്പിക്കാൻ കർഷകർക്ക് വൈദ്യുതി സബ്‌സിഡി ലഭിക്കുന്നു.",
     "usageExample": "State financial grant.",
@@ -1625,7 +1625,7 @@
   },
   {
     "word": "guarantee",
-    "wordMeaning": "ഗ്യാരണ്ടി",
+    "wordMeaning": "ഉറപ്പ്",
     "englishText": "We guarantee replacement of any merchandise damaged during transit.",
     "malayalamMeaning": "ഗതാഗത സമയത്ത് കേടായ ഏതെങ്കിലും ചരക്ക് മാറ്റിസ്ഥാപിക്കാൻ ഞങ്ങൾ ഉറപ്പ് നൽകുന്നു.",
     "usageExample": "Assurance.",
@@ -1665,7 +1665,7 @@
   },
   {
     "word": "overhead",
-    "wordMeaning": "ഓവർഹെഡ്",
+    "wordMeaning": "പ്രവർത്തനച്ചെലവ്",
     "englishText": "Relocating to a smaller office reduced our monthly overhead significantly.",
     "malayalamMeaning": "ചെറിയ ഓഫീസിലേക്ക് മാറിയത് ഞങ്ങളുടെ പ്രതിമാസ പൊതുപ്രവർത്തനച്ചെലവ് ഗണ്യമായി കുറച്ചു.",
     "usageExample": "Fixed costs.",
@@ -1673,7 +1673,7 @@
   },
   {
     "word": "throughput",
-    "wordMeaning": "ത്രൂപുട്ട്",
+    "wordMeaning": "ഉൽപ്പാദന നിരക്ക്",
     "englishText": "Upgrading the conveyor belts increased factory throughput by twenty percent.",
     "malayalamMeaning": "കൺവെയർ ബെൽറ്റുകൾ നവീകരിച്ചതിലൂടെ ഫാക്ടറിയുടെ ഉൽപ്പാദനശേഷി ഇരുപത് ശതമാനം വർധിച്ചു.",
     "usageExample": "Production rate.",
@@ -1681,7 +1681,7 @@
   },
   {
     "word": "consultancy",
-    "wordMeaning": "കൺസൾട്ടൻസി",
+    "wordMeaning": "ഉപദേശക സ്ഥാപനം",
     "englishText": "We hired an environmental consultancy to audit our factory's water usage.",
     "malayalamMeaning": "ഞങ്ങളുടെ ഫാക്ടറിയിലെ ജല ഉപയോഗം ഓഡിറ്റ് ചെയ്യാൻ ഞങ്ങൾ ഒരു പരിസ്ഥിതി കൺസൾട്ടൻസിയെ നിയമിച്ചു.",
     "usageExample": "Advisory firm.",
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "consortium",
-    "wordMeaning": "കൺസോർഷ്യം",
+    "wordMeaning": "കൂട്ടായ്മ",
     "englishText": "A consortium of three infrastructure firms won the port expansion tender.",
     "malayalamMeaning": "മൂന്ന് ഇൻഫ്രാസ്ട്രക്ചർ കമ്പനികളുടെ കൺസോർഷ്യമാണ് തുറമുഖ വിപുലീകരണ ടെൻഡർ നേടിയത്.",
     "usageExample": "Group of businesses.",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "proprietary",
-    "wordMeaning": "കുത്തക",
+    "wordMeaning": "കുത്തകാവകാശമുള്ള",
     "englishText": "The secret seasoning recipe is the company's closely guarded proprietary asset.",
     "malayalamMeaning": "സീക്രട്ട് സീസൺ റെസിപ്പി കമ്പനിയുടെ സൂക്ഷ്‌മമായി സംരക്ഷിച്ചിരിക്കുന്ന കുത്തക ആസ്തിയാണ്.",
     "usageExample": "Exclusive property.",
@@ -1753,7 +1753,7 @@
   },
   {
     "word": "specifications",
-    "wordMeaning": "സവിശേഷതകൾ",
+    "wordMeaning": "സാങ്കേതിക മാനദണ്ഡങ്ങൾ",
     "englishText": "Suppliers must adhere strictly to the engineering specifications provided.",
     "malayalamMeaning": "വിതരണക്കാർ നൽകിയിരിക്കുന്ന എഞ്ചിനീയറിംഗ് സ്പെസിഫിക്കേഷനുകൾ കർശനമായി പാലിക്കണം.",
     "usageExample": "Technical standards.",
@@ -1761,7 +1761,7 @@
   },
   {
     "word": "deliverables",
-    "wordMeaning": "വിതരണം ചെയ്യാവുന്നവ",
+    "wordMeaning": "കൈമാറേണ്ട ഫലങ്ങൾ",
     "englishText": "Project deliverables must be formally validated before releasing payments.",
     "malayalamMeaning": "പണം അനുവദിക്കുന്നതിന് മുമ്പ് പദ്ധതിയുടെ കൈമാറേണ്ട ഫലങ്ങൾ ഔദ്യോഗികമായി പരിശോധിച്ച് അംഗീകരിക്കണം.",
     "usageExample": "Project milestones.",
@@ -1769,7 +1769,7 @@
   },
   {
     "word": "outsourcing",
-    "wordMeaning": "ഔട്ട്സോഴ്സിംഗ്",
+    "wordMeaning": "പുറംകരാർ നൽകൽ",
     "englishText": "Outsourcing non-core tasks allows leadership to focus on product strategy.",
     "malayalamMeaning": "ഔട്ട്‌സോഴ്‌സിംഗ് നോൺ-കോർ ടാസ്‌ക്കുകൾ ഉൽപ്പന്ന തന്ത്രത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ നേതൃത്വത്തെ അനുവദിക്കുന്നു.",
     "usageExample": "Subcontracting work.",
@@ -1793,7 +1793,7 @@
   },
   {
     "word": "arbitration",
-    "wordMeaning": "വ്യവഹാരം",
+    "wordMeaning": "മധ്യസ്ഥ തീർപ്പ്",
     "englishText": "The contractual dispute was resolved swiftly through commercial arbitration.",
     "malayalamMeaning": "വാണിജ്യ മധ്യസ്ഥതയിലൂടെ കരാർ തർക്കം വേഗത്തിൽ പരിഹരിച്ചു.",
     "usageExample": "Private settlement.",
@@ -1809,7 +1809,7 @@
   },
   {
     "word": "settlement",
-    "wordMeaning": "സെറ്റിൽമെൻ്റ്",
+    "wordMeaning": "ഒത്തുതീർപ്പ്",
     "englishText": "The parties signed a confidential financial settlement out of court.",
     "malayalamMeaning": "കോടതിക്ക് പുറത്ത് രഹസ്യ സാമ്പത്തിക ഒത്തുതീർപ്പിൽ കക്ഷികൾ ഒപ്പുവച്ചു.",
     "usageExample": "Agreed payout.",
@@ -1817,7 +1817,7 @@
   },
   {
     "word": "liquidity",
-    "wordMeaning": "ദ്രവ്യത",
+    "wordMeaning": "പണലഭ്യത",
     "englishText": "The company maintains healthy liquidity to weather sudden market shocks.",
     "malayalamMeaning": "വിപണിയിലെ പെട്ടെന്നുള്ള പ്രതിസന്ധികളെ നേരിടാൻ കമ്പനി മതിയായ പണലഭ്യത നിലനിർത്തുന്നു.",
     "usageExample": "Available cash flow.",
@@ -1825,7 +1825,7 @@
   },
   {
     "word": "benchmark",
-    "wordMeaning": "ബെഞ്ച്മാർക്ക്",
+    "wordMeaning": "അളവുകോൽ",
     "englishText": "Our customer satisfaction ratings benchmark us as industry leaders.",
     "malayalamMeaning": "ഉപഭോക്തൃ സംതൃപ്തി സംബന്ധിച്ച ഞങ്ങളുടെ റേറ്റിംഗുകൾ വ്യവസായത്തിലെ മുൻനിര സ്ഥാപനങ്ങളിലൊന്നായി ഞങ്ങളെ അടയാളപ്പെടുത്തുന്നു.",
     "usageExample": "Standard.",
@@ -1833,7 +1833,7 @@
   },
   {
     "word": "optimization",
-    "wordMeaning": "ഒപ്റ്റിമൈസേഷൻ",
+    "wordMeaning": "പരമാവധിയാക്കൽ",
     "englishText": "Route optimization software reduced delivery fuel expenses by twelve percent.",
     "malayalamMeaning": "റൂട്ട് ഒപ്റ്റിമൈസേഷൻ സോഫ്റ്റ്‌വെയർ ഡെലിവറി ഇന്ധനച്ചെലവ് പന്ത്രണ്ട് ശതമാനം കുറച്ചു.",
     "usageExample": "Maximizing output.",
@@ -1841,7 +1841,7 @@
   },
   {
     "word": "streamlining",
-    "wordMeaning": "സ്ട്രീംലൈനിംഗ്",
+    "wordMeaning": "കാര്യക്ഷമമാക്കൽ",
     "englishText": "Streamlining warehouse procedures cut order packing times in half.",
     "malayalamMeaning": "വെയർഹൗസ് നടപടികൾ ലളിതമാക്കിയതിലൂടെ ഓർഡറുകൾ പായ്ക്ക് ചെയ്യാൻ വേണ്ട സമയം പകുതിയായി കുറഞ്ഞു.",
     "usageExample": "Simplifying.",
@@ -1857,7 +1857,7 @@
   },
   {
     "word": "professionalism",
-    "wordMeaning": "പ്രൊഫഷണലിസം",
+    "wordMeaning": "തൊഴിൽ മര്യാദ",
     "englishText": "Maintain high professionalism when responding to difficult customer inquiries.",
     "malayalamMeaning": "ബുദ്ധിമുട്ടുള്ള ഉപഭോക്തൃ അന്വേഷണങ്ങളോട് പ്രതികരിക്കുമ്പോൾ ഉയർന്ന പ്രൊഫഷണലിസം നിലനിർത്തുക.",
     "usageExample": "Business decorum.",
@@ -1865,7 +1865,7 @@
   },
   {
     "word": "integrity",
-    "wordMeaning": "സമഗ്രത",
+    "wordMeaning": "സത്യസന്ധത",
     "englishText": "Upholding financial integrity is non-negotiable for all company auditors.",
     "malayalamMeaning": "സാമ്പത്തിക സത്യസന്ധത ഉയർത്തിപ്പിടിക്കുന്നത് എല്ലാ കമ്പനി ഓഡിറ്റർമാർക്കും നിർബന്ധമാണ്.",
     "usageExample": "Honesty in business.",
@@ -1897,7 +1897,7 @@
   },
   {
     "word": "attrition",
-    "wordMeaning": "ശോഷണം",
+    "wordMeaning": "കൊഴിഞ്ഞുപോക്ക്",
     "englishText": "Reducing employee attrition saves millions in recruitment and onboarding costs.",
     "malayalamMeaning": "ജീവനക്കാരുടെ കൊഴിഞ്ഞുപോക്ക് കുറയ്ക്കുന്നത് നിയമനത്തിനും ജോലിയിൽ പ്രവേശിപ്പിക്കുന്നതിനുമുള്ള ചെലവുകളിൽ ദശലക്ഷക്കണക്കിന് രൂപ ലാഭിക്കുന്നു.",
     "usageExample": "Staff turnover.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "scalability",
-    "wordMeaning": "സ്കേലബിളിറ്റി",
+    "wordMeaning": "വിപുലീകരണ ശേഷി",
     "englishText": "Cloud-native infrastructure ensures seamless scalability during flash sales.",
     "malayalamMeaning": "ഫ്ലാഷ് വിൽപ്പന സമയത്ത് ക്ലൗഡ്-നേറ്റീവ് ഇൻഫ്രാസ്ട്രക്ചർ തടസ്സമില്ലാത്ത സ്കേലബിളിറ്റി ഉറപ്പാക്കുന്നു.",
     "usageExample": "Ability to expand.",
@@ -1929,7 +1929,7 @@
   },
   {
     "word": "fiduciary",
-    "wordMeaning": "വിശ്വസ്തൻ",
+    "wordMeaning": "വിശ്വാസപരമായ",
     "englishText": "Directors bear an uncompromised fiduciary duty to protect shareholder funds.",
     "malayalamMeaning": "ഓഹരിയുടമകളുടെ പണം സംരക്ഷിക്കാനുള്ള വിശ്വാസപരമായ കടമയിൽ ഡയറക്ടർമാർ വിട്ടുവീഴ്ച ചെയ്യരുത്.",
     "usageExample": "Trust-based duty.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "stewardship",
-    "wordMeaning": "കാര്യസ്ഥൻ",
+    "wordMeaning": "കാര്യനിർവഹണം",
     "englishText": "Prudent environmental stewardship is now a mandatory commercial metric.",
     "malayalamMeaning": "പരിസ്ഥിതിയെ ഉത്തരവാദിത്തത്തോടെ പരിപാലിക്കുന്നത് ഇപ്പോൾ നിർബന്ധമായ ഒരു വാണിജ്യ മാനദണ്ഡമാണ്.",
     "usageExample": "Responsible leadership.",
@@ -1953,7 +1953,7 @@
   },
   {
     "word": "moratorium",
-    "wordMeaning": "മൊറട്ടോറിയം",
+    "wordMeaning": "തിരിച്ചടവ് ഇളവ്",
     "englishText": "The central bank declared a ninety-day moratorium on small business loans.",
     "malayalamMeaning": "ചെറുകിട ബിസിനസ് വായ്പകൾക്ക് സെൻട്രൽ ബാങ്ക് തൊണ്ണൂറ് ദിവസത്തെ മൊറട്ടോറിയം പ്രഖ്യാപിച്ചു.",
     "usageExample": "Authorized pause.",
@@ -1961,7 +1961,7 @@
   },
   {
     "word": "divestment",
-    "wordMeaning": "വിഭജനം",
+    "wordMeaning": "ഓഹരി വിറ്റഴിക്കൽ",
     "englishText": "The conglomerate announced the planned divestment of its coal power plants.",
     "malayalamMeaning": "തങ്ങളുടെ കൽക്കരി വൈദ്യുത നിലയങ്ങളിലെ നിക്ഷേപം പിൻവലിക്കാനുള്ള പദ്ധതി കമ്പനി പ്രഖ്യാപിച്ചു.",
     "usageExample": "Selling off division.",
@@ -1969,7 +1969,7 @@
   },
   {
     "word": "arbitrage",
-    "wordMeaning": "മദ്ധ്യസ്ഥത",
+    "wordMeaning": "വിലവ്യത്യാസ വ്യാപാരം",
     "englishText": "Traders capitalized on the momentary price arbitrage between exchanges.",
     "malayalamMeaning": "വിവിധ എക്സ്ചേഞ്ചുകൾക്കിടയിലെ താൽക്കാലിക വിലവ്യത്യാസം വ്യാപാരികൾ മുതലെടുത്തു.",
     "usageExample": "Price gap trading.",
@@ -1977,7 +1977,7 @@
   },
   {
     "word": "derivative",
-    "wordMeaning": "ഡെറിവേറ്റീവ്",
+    "wordMeaning": "അനുബന്ധ സാമ്പത്തിക കരാർ",
     "englishText": "The multinational hedged against currency swings using financial derivatives.",
     "malayalamMeaning": "കറൻസി വിലയിലെ ചാഞ്ചാട്ടത്തിൽ നിന്നുള്ള അപകടസാധ്യത കുറയ്ക്കാൻ ബഹുരാഷ്ട്ര കമ്പനി സാമ്പത്തിക ഡെറിവേറ്റീവുകൾ ഉപയോഗിച്ചു.",
     "usageExample": "Secondary financial tool.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "prospectus",
-    "wordMeaning": "പ്രോസ്പെക്ടസ്",
+    "wordMeaning": "വിവരപത്രിക",
     "englishText": "The company filed its formal public share offering prospectus with SEBI.",
     "malayalamMeaning": "കമ്പനി അതിൻ്റെ ഔപചാരിക പബ്ലിക് ഷെയർ ഓഫറിംഗ് പ്രോസ്പെക്ടസ് സെബിയിൽ ഫയൽ ചെയ്തു.",
     "usageExample": "Investment disclosure.",
@@ -2001,7 +2001,7 @@
   },
   {
     "word": "hedging",
-    "wordMeaning": "ഹെഡ്ജിംഗ്",
+    "wordMeaning": "നഷ്ടസാധ്യത കുറയ്ക്കൽ",
     "englishText": "Airlines utilize fuel hedging contracts to insulate themselves from oil spikes.",
     "malayalamMeaning": "എണ്ണവിലയിലെ പെട്ടെന്നുള്ള വർധനവിന്റെ ആഘാതം കുറയ്ക്കാൻ വിമാനക്കമ്പനികൾ ഇന്ധനവില ഹെഡ്ജിംഗ് കരാറുകൾ ഉപയോഗിക്കുന്നു.",
     "usageExample": "Risk mitigation.",
@@ -2017,7 +2017,7 @@
   },
   {
     "word": "amortize",
-    "wordMeaning": "പണമടയ്ക്കുക",
+    "wordMeaning": "തവണകളായി വിഭജിക്കുക",
     "englishText": "We chose to amortize the software acquisition costs over five fiscal years.",
     "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ വാങ്ങിയ ചെലവ് അഞ്ച് സാമ്പത്തിക വർഷങ്ങളിലായി വിഭജിച്ച് കണക്കാക്കാൻ ഞങ്ങൾ തീരുമാനിച്ചു.",
     "usageExample": "Spread out cost.",
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "macroeconomic",
-    "wordMeaning": "മാക്രോ ഇക്കണോമിക്",
+    "wordMeaning": "സ്ഥൂല സാമ്പത്തിക",
     "englishText": "Macroeconomic stability is vital for attracting foreign direct investments.",
     "malayalamMeaning": "നേരിട്ടുള്ള വിദേശ നിക്ഷേപം ആകർഷിക്കുന്നതിന് മാക്രോ ഇക്കണോമിക് സ്ഥിരത പ്രധാനമാണ്.",
     "usageExample": "Large-scale economy.",
@@ -2041,7 +2041,7 @@
   },
   {
     "word": "cartel",
-    "wordMeaning": "കാർട്ടൽ",
+    "wordMeaning": "വ്യാപാര കൂട്ടുകെട്ട്",
     "englishText": "Regulatory authorities busted an illegal price-fixing cement cartel.",
     "malayalamMeaning": "നിയമവിരുദ്ധമായി വില നിശ്ചയിക്കുന്ന സിമൻ്റ് കാർട്ടലിനെ റെഗുലേറ്ററി അധികാരികൾ തകർത്തു.",
     "usageExample": "Collusive group.",
@@ -2049,7 +2049,7 @@
   },
   {
     "word": "oligopoly",
-    "wordMeaning": "ഒളിഗോപോളി",
+    "wordMeaning": "ചിലരുടെ കുത്തക",
     "englishText": "The commercial telecom market functions as an oligopoly dominated by three firms.",
     "malayalamMeaning": "വാണിജ്യ ടെലികോം വിപണി മൂന്ന് സ്ഥാപനങ്ങളുടെ ആധിപത്യമുള്ള ഒരു ഒളിഗോപോളിയായി പ്രവർത്തിക്കുന്നു.",
     "usageExample": "Few sellers market.",
@@ -2057,7 +2057,7 @@
   },
   {
     "word": "monopolistic",
-    "wordMeaning": "കുത്തക",
+    "wordMeaning": "കുത്തകപരമായ",
     "englishText": "Unchecked monopolistic practices stifle competition and harm retail consumers.",
     "malayalamMeaning": "അനിയന്ത്രിതമായ കുത്തക സമ്പ്രദായങ്ങൾ മത്സരം തടയുകയും ചില്ലറ ഉപഭോക്താക്കളെ ദോഷകരമായി ബാധിക്കുകയും ചെയ്യുന്നു.",
     "usageExample": "Exclusive control.",
@@ -2073,7 +2073,7 @@
   },
   {
     "word": "severance",
-    "wordMeaning": "വേർപിരിയൽ",
+    "wordMeaning": "പിരിച്ചുവിടൽ നഷ്ടപരിഹാരം",
     "englishText": "Senior executives received generous severance packages during the corporate split.",
     "malayalamMeaning": "കമ്പനി വിഭജിച്ചപ്പോൾ മുതിർന്ന എക്സിക്യൂട്ടീവുകൾക്ക് ഉദാരമായ പിരിച്ചുവിടൽ ആനുകൂല്യങ്ങൾ ലഭിച്ചു.",
     "usageExample": "Separation pay.",
@@ -2081,7 +2081,7 @@
   },
   {
     "word": "perquisite",
-    "wordMeaning": "പെർക്വിസിറ്റ്",
+    "wordMeaning": "അധിക ആനുകൂല്യം",
     "englishText": "Company-provided housing and chauffeurs were standard executive perquisites.",
     "malayalamMeaning": "കമ്പനി നൽകുന്ന താമസസൗകര്യവും ഡ്രൈവർ സേവനവും എക്സിക്യൂട്ടീവുകൾക്കുള്ള സാധാരണ ആനുകൂല്യങ്ങളായിരുന്നു.",
     "usageExample": "Executive perks.",
@@ -2089,7 +2089,7 @@
   },
   {
     "word": "whistleblower",
-    "wordMeaning": "വിസിൽബ്ലോവർ",
+    "wordMeaning": "തട്ടിപ്പ് വെളിപ്പെടുത്തുന്നയാൾ",
     "englishText": "A courageous whistleblower exposed fraudulent accounting at the corporate giant.",
     "malayalamMeaning": "ധീരനായ ഒരു വിസിൽബ്ലോവർ കോർപ്പറേറ്റ് ഭീമൻ്റെ വഞ്ചനാപരമായ അക്കൗണ്ടിംഗ് തുറന്നുകാട്ടി.",
     "usageExample": "Fraud reporter.",
@@ -2097,7 +2097,7 @@
   },
   {
     "word": "embezzlement",
-    "wordMeaning": "തട്ടിപ്പ്",
+    "wordMeaning": "ധനാപഹരണം",
     "englishText": "The internal audit team uncovered systematic embezzlement of petty cash funds.",
     "malayalamMeaning": "ചെറുകിട പണമായി സൂക്ഷിച്ചിരുന്ന ഫണ്ടുകൾ ക്രമബദ്ധമായി തട്ടിയെടുത്തതായി ആഭ്യന്തര ഓഡിറ്റ് സംഘം കണ്ടെത്തി.",
     "usageExample": "Misappropriating money.",
@@ -2105,7 +2105,7 @@
   },
   {
     "word": "expropriation",
-    "wordMeaning": "തട്ടിയെടുക്കൽ",
+    "wordMeaning": "നിർബന്ധിത ഏറ്റെടുക്കൽ",
     "englishText": "Foreign investors sought guarantees against arbitrary state expropriation of assets.",
     "malayalamMeaning": "സർക്കാർ ഏകപക്ഷീയമായി സ്വത്തുക്കൾ ഏറ്റെടുക്കുന്നതിൽ നിന്ന് സംരക്ഷണം നൽകുന്ന ഉറപ്പുകൾ വിദേശ നിക്ഷേപകർ ആവശ്യപ്പെട്ടു.",
     "usageExample": "State seizure.",
@@ -2113,7 +2113,7 @@
   },
   {
     "word": "counterparty",
-    "wordMeaning": "എതിർകക്ഷി",
+    "wordMeaning": "മറുകക്ഷി",
     "englishText": "Assess counterparty financial stability before entering into long-term contracts.",
     "malayalamMeaning": "ദീർഘകാല കരാറിൽ ഏർപ്പെടുന്നതിന് മുമ്പ് മറുകക്ഷിയുടെ സാമ്പത്തിക സ്ഥിരത വിലയിരുത്തുക.",
     "usageExample": "Trading partner.",
@@ -2121,7 +2121,7 @@
   },
   {
     "word": "securitization",
-    "wordMeaning": "സെക്യൂരിറ്റൈസേഷൻ",
+    "wordMeaning": "ആസ്തി പണമാക്കൽ",
     "englishText": "Banks bundled residential home loans together for capital market securitization.",
     "malayalamMeaning": "ക്യാപിറ്റൽ മാർക്കറ്റ് സെക്യൂരിറ്റൈസേഷനായി ബാങ്കുകൾ റെസിഡൻഷ്യൽ ഹോം ലോണുകൾ ഒരുമിച്ച് ചേർത്തു.",
     "usageExample": "Asset bundling.",
@@ -2129,7 +2129,7 @@
   },
   {
     "word": "stagflation",
-    "wordMeaning": "സ്തംഭനാവസ്ഥ",
+    "wordMeaning": "പണപ്പെരുപ്പ സ്തംഭനം",
     "englishText": "The economy suffered from painful stagflation marked by high inflation and stagnant growth.",
     "malayalamMeaning": "ഉയർന്ന പണപ്പെരുപ്പവും മന്ദഗതിയിലുള്ള വളർച്ചയും ചേർന്ന സാമ്പത്തിക സ്തംഭനാവസ്ഥ രാജ്യത്തിന്റെ സമ്പദ്‌വ്യവസ്ഥയെ ബാധിച്ചു.",
     "usageExample": "Stagnant inflation.",
@@ -2137,7 +2137,7 @@
   },
   {
     "word": "deflationary",
-    "wordMeaning": "പണപ്പെരുപ്പം",
+    "wordMeaning": "വിലയിടിവുണ്ടാക്കുന്ന",
     "englishText": "Prolonged deflationary pressures discouraged consumers from making capital purchases.",
     "malayalamMeaning": "ദീർഘകാല പണപ്പെരുപ്പ സമ്മർദ്ദങ്ങൾ മൂലധന വാങ്ങലുകൾ നടത്തുന്നതിൽ നിന്ന് ഉപഭോക്താക്കളെ നിരുത്സാഹപ്പെടുത്തി.",
     "usageExample": "Falling prices.",
@@ -2145,7 +2145,7 @@
   },
   {
     "word": "inflationary",
-    "wordMeaning": "വിലക്കയറ്റം",
+    "wordMeaning": "വിലക്കയറ്റമുണ്ടാക്കുന്ന",
     "englishText": "Rising food and fuel costs triggered strong inflationary expectations.",
     "malayalamMeaning": "വർദ്ധിച്ചുവരുന്ന ഭക്ഷണ, ഇന്ധന വിലകൾ ശക്തമായ പണപ്പെരുപ്പ പ്രതീക്ഷകൾക്ക് കാരണമായി.",
     "usageExample": "Rising prices.",
@@ -2161,7 +2161,7 @@
   },
   {
     "word": "actuarial",
-    "wordMeaning": "ആക്ച്വറിയൽ",
+    "wordMeaning": "നഷ്ടസാധ്യത കണക്കാക്കുന്ന",
     "englishText": "Actuarial science calculates life insurance premiums based on longevity data.",
     "malayalamMeaning": "ആയുർദൈർഘ്യ ഡാറ്റയെ അടിസ്ഥാനമാക്കി ആക്ച്വറിയൽ സയൻസ് ലൈഫ് ഇൻഷുറൻസ് പ്രീമിയങ്ങൾ കണക്കാക്കുന്നു.",
     "usageExample": "Risk calculation.",
@@ -2169,7 +2169,7 @@
   },
   {
     "word": "fungible",
-    "wordMeaning": "ഫംഗബിൾ",
+    "wordMeaning": "പരസ്പരം മാറ്റാവുന്ന",
     "englishText": "Refined petroleum and gold bullion are universally treated as fungible commodities.",
     "malayalamMeaning": "ശുദ്ധീകരിച്ച പെട്രോളിയവും സ്വർണക്കട്ടികളും പരസ്പരം മാറ്റിസ്ഥാപിക്കാവുന്ന ചരക്കുകളായി പൊതുവെ കണക്കാക്കപ്പെടുന്നു.",
     "usageExample": "Interchangeable.",
@@ -2177,7 +2177,7 @@
   },
   {
     "word": "promissory",
-    "wordMeaning": "വാഗ്ദാനവും",
+    "wordMeaning": "ഉറപ്പുനൽകുന്ന",
     "englishText": "The merchant signed an enforceable promissory note pledging repayment by harvest.",
     "malayalamMeaning": "വിളവെടുപ്പിന് ശേഷം പണം തിരിച്ചടയ്ക്കാമെന്ന് ഉറപ്പുനൽകുന്ന നിയമപരമായി പ്രാബല്യമുള്ള പ്രോമിസറി നോട്ടിൽ വ്യാപാരി ഒപ്പിട്ടു.",
     "usageExample": "Promise to pay.",
@@ -2217,7 +2217,7 @@
   },
   {
     "word": "prowess",
-    "wordMeaning": "പരാക്രമം",
+    "wordMeaning": "പ്രാവീണ്യം",
     "englishText": "The firm demonstrated formidable logistical prowess by fulfilling millions of holiday orders.",
     "malayalamMeaning": "ദശലക്ഷക്കണക്കിന് ഉത്സവകാല ഓർഡറുകൾ സമയത്ത് പൂർത്തിയാക്കി സ്ഥാപനം മികച്ച ലോജിസ്റ്റിക് കഴിവ് തെളിയിച്ചു.",
     "usageExample": "Exceptional skill.",
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "visionary",
-    "wordMeaning": "ദർശകൻ",
+    "wordMeaning": "ദീർഘവീക്ഷണമുള്ള",
     "englishText": "The visionary entrepreneur invested in renewable energy decades ahead of the curve.",
     "malayalamMeaning": "ദീർഘവീക്ഷണമുള്ള സംരംഭകൻ പതിറ്റാണ്ടുകൾക്ക് മുമ്പ് പുനരുപയോഗ ഊർജത്തിൽ നിക്ഷേപം നടത്തി.",
     "usageExample": "Forward-thinking.",
@@ -2273,7 +2273,7 @@
   },
   {
     "word": "perfunctory",
-    "wordMeaning": "പ്രവർത്തനക്ഷമമായ",
+    "wordMeaning": "ഉപരിപ്ലവമായ",
     "englishText": "Never deliver a perfunctory presentation to high-stakes institutional investors.",
     "malayalamMeaning": "വലിയ പ്രാധാന്യമുള്ള നിക്ഷേപകരുടെ മുന്നിൽ വെറും ഔപചാരികതയ്ക്കായി മാത്രം ഒരു അവതരണം നടത്തരുത്.",
     "usageExample": "Superficial effort.",
@@ -2305,7 +2305,7 @@
   },
   {
     "word": "diligence",
-    "wordMeaning": "ഉത്സാഹം",
+    "wordMeaning": "ജാഗ്രത",
     "englishText": "Conducting rigorous due diligence is indispensable before acquiring a competitor.",
     "malayalamMeaning": "ഒരു മത്സരാർത്ഥിയെ സ്വന്തമാക്കുന്നതിന് മുമ്പ് കർശനമായ ജാഗ്രത പുലർത്തുന്നത് അത്യന്താപേക്ഷിതമാണ്.",
     "usageExample": "Thorough research.",
@@ -2313,7 +2313,7 @@
   },
   {
     "word": "unambiguous",
-    "wordMeaning": "അവ്യക്തമായ",
+    "wordMeaning": "സംശയരഹിതമായ",
     "englishText": "The terms of commercial engagement must be drafted in clear, unambiguous words.",
     "malayalamMeaning": "വാണിജ്യപരമായ ഇടപഴകലിൻ്റെ നിബന്ധനകൾ വ്യക്തവും അവ്യക്തവുമായ വാക്കുകളിൽ രൂപപ്പെടുത്തിയിരിക്കണം.",
     "usageExample": "Leaving no doubt.",
@@ -2321,7 +2321,7 @@
   },
   {
     "word": "concomitant",
-    "wordMeaning": "അനുരൂപമായ",
+    "wordMeaning": "അനുബന്ധമായ",
     "englishText": "Global expansion brings a concomitant increase in regulatory reporting burdens.",
     "malayalamMeaning": "ആഗോളതലത്തിൽ ബിസിനസ് വികസിപ്പിക്കുമ്പോൾ നിയന്ത്രണ റിപ്പോർട്ടുകൾ സമർപ്പിക്കേണ്ട ബാധ്യതയും കൂടുന്നു.",
     "usageExample": "Accompanying factor.",
@@ -2329,7 +2329,7 @@
   },
   {
     "word": "efficacy",
-    "wordMeaning": "കാര്യക്ഷമത",
+    "wordMeaning": "ഫലപ്രാപ്തി",
     "englishText": "Market studies confirmed the commercial efficacy of targeted mobile video ads.",
     "malayalamMeaning": "ടാർഗെറ്റുചെയ്‌ത മൊബൈൽ വീഡിയോ പരസ്യങ്ങളുടെ വാണിജ്യപരമായ ഫലപ്രാപ്തി മാർക്കറ്റ് പഠനങ്ങൾ സ്ഥിരീകരിച്ചു.",
     "usageExample": "Proven effectiveness.",
@@ -2337,7 +2337,7 @@
   },
   {
     "word": "proactive",
-    "wordMeaning": "സജീവമായ",
+    "wordMeaning": "മുൻകൈയെടുക്കുന്ന",
     "englishText": "A proactive approach to customer feedback reduces churn and strengthens loyalty.",
     "malayalamMeaning": "ഉപഭോക്തൃ അഭിപ്രായങ്ങളോട് മുൻകൂട്ടി നടപടിയെടുക്കുന്ന സമീപനം ഉപഭോക്താക്കളെ നഷ്ടപ്പെടുന്നത് കുറയ്ക്കുകയും വിശ്വസ്തത വർധിപ്പിക്കുകയും ചെയ്യുന്നു.",
     "usageExample": "Forward-acting.",
@@ -2361,7 +2361,7 @@
   },
   {
     "word": "formidable",
-    "wordMeaning": "ഭീമാകാരമായ",
+    "wordMeaning": "ശക്തമായ",
     "englishText": "Our competitor built a formidable supply chain that reaches five hundred cities.",
     "malayalamMeaning": "ഞങ്ങളുടെ എതിരാളി അഞ്ഞൂറ് നഗരങ്ങളിൽ എത്തുന്ന ശക്തമായ ഒരു വിതരണ ശൃംഖല നിർമ്മിച്ചു.",
     "usageExample": "Powerful.",
@@ -2369,7 +2369,7 @@
   },
   {
     "word": "lucrativeness",
-    "wordMeaning": "ലാഭം",
+    "wordMeaning": "ലാഭക്ഷമത",
     "englishText": "The lucrativeness of maritime container shipping surged during the peak season.",
     "malayalamMeaning": "തിരക്കേറിയ സീസണിൽ കടൽമാർഗമുള്ള കണ്ടെയ്നർ ഷിപ്പിംഗ് കൂടുതൽ ലാഭകരമായി.",
     "usageExample": "Profitability.",
@@ -2377,7 +2377,7 @@
   },
   {
     "word": "monetize",
-    "wordMeaning": "ധനസമ്പാദനം",
+    "wordMeaning": "വരുമാനമാക്കുക",
     "englishText": "The media startup is exploring creative ways to monetize its podcast audience.",
     "malayalamMeaning": "തങ്ങളുടെ പോഡ്കാസ്റ്റ് ശ്രോതാക്കളിൽ നിന്ന് വരുമാനം നേടാനുള്ള പുതിയ മാർഗങ്ങൾ മാധ്യമ സ്റ്റാർട്ടപ്പ് അന്വേഷിക്കുകയാണ്.",
     "usageExample": "Convert to revenue.",
@@ -2393,7 +2393,7 @@
   },
   {
     "word": "equity",
-    "wordMeaning": "ഇക്വിറ്റി",
+    "wordMeaning": "ഓഹരി മൂലധനം",
     "englishText": "Private equity firms invest patient capital into promising manufacturing ventures.",
     "malayalamMeaning": "സ്വകാര്യ ഇക്വിറ്റി സ്ഥാപനങ്ങൾ വളർച്ചാസാധ്യതയുള്ള നിർമാണ സംരംഭങ്ങളിൽ ദീർഘകാല നിക്ഷേപം നടത്തുന്നു.",
     "usageExample": "Investment capital.",

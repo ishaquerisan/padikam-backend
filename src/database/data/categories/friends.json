@@ -25,7 +25,7 @@
   },
   {
     "word": "mate",
-    "wordMeaning": "ഇണ",
+    "wordMeaning": "കൂട്ടുകാരൻ",
     "englishText": "My college flat mate is cooking dinner tonight.",
     "malayalamMeaning": "എൻ്റെ കൂടെ ഫ്ലാറ്റിൽ താമസിക്കുന്ന കോളേജ് കൂട്ടുകാരനാണ് ഇന്ന് രാത്രി അത്താഴം ഉണ്ടാക്കുന്നത്.",
     "usageExample": "Companionship term.",
@@ -33,7 +33,7 @@
   },
   {
     "word": "hangout",
-    "wordMeaning": "ഹാംഗ്ഔട്ട്",
+    "wordMeaning": "ഒത്തുകൂടുക",
     "englishText": "Let us find a nice cafe to hangout this Saturday.",
     "malayalamMeaning": "ഈ ശനിയാഴ്ച ഒത്തുചേർന്ന് സമയം ചെലവഴിക്കാൻ നമുക്ക് നല്ലൊരു കഫേ കണ്ടെത്താം.",
     "usageExample": "Spending leisure time.",
@@ -65,7 +65,7 @@
   },
   {
     "word": "text",
-    "wordMeaning": "വാചകം",
+    "wordMeaning": "സന്ദേശം",
     "englishText": "Drop a text in our group chat once you are home.",
     "malayalamMeaning": "വീട്ടിലെത്തിയാലുടൻ നമ്മുടെ ഗ്രൂപ്പ് ചാറ്റിൽ ഒരു മെസ്സേജ് അയക്കൂ.",
     "usageExample": "Messaging.",
@@ -177,7 +177,7 @@
   },
   {
     "word": "enjoy",
-    "wordMeaning": "ആസ്വദിക്കൂ",
+    "wordMeaning": "ആസ്വദിക്കുക",
     "englishText": "I truly enjoy the hours we spend laughing together.",
     "malayalamMeaning": "ഞങ്ങൾ ഒരുമിച്ച് ചിരിച്ചുല്ലസിച്ചു ചെലവഴിക്കുന്ന നിമിഷങ്ങൾ ഞാൻ ശരിക്കും ആസ്വദിക്കുന്നു.",
     "usageExample": "Pleasure in company.",
@@ -201,7 +201,7 @@
   },
   {
     "word": "trust",
-    "wordMeaning": "വിശ്വസിക്കുക",
+    "wordMeaning": "വിശ്വാസം",
     "englishText": "Mutual trust is the bedrock of any lasting friendship.",
     "malayalamMeaning": "പരസ്പര വിശ്വാസമാണ് ഏതൊരു ദീർഘകാല സൗഹൃദത്തിൻ്റെയും അടിസ്ഥാനം.",
     "usageExample": "Reliability.",
@@ -217,7 +217,7 @@
   },
   {
     "word": "honest",
-    "wordMeaning": "സത്യസന്ധൻ",
+    "wordMeaning": "സത്യസന്ധമായ",
     "englishText": "He gave me honest advice even when it was difficult to hear.",
     "malayalamMeaning": "കേൾക്കാൻ വിഷമകരമായിരുന്നിട്ടും അവൻ എനിക്ക് സത്യസന്ധമായ ഉപദേശം നൽകി.",
     "usageExample": "Truthfulness.",
@@ -225,7 +225,7 @@
   },
   {
     "word": "true",
-    "wordMeaning": "സത്യം",
+    "wordMeaning": "യഥാർത്ഥ",
     "englishText": "True friends never judge you by your temporary failures.",
     "malayalamMeaning": "യഥാർത്ഥ സുഹൃത്തുക്കൾ ഒരിക്കലും നിങ്ങളുടെ താൽക്കാലിക പരാജയങ്ങളെ മുൻനിർത്തി നിങ്ങളെ വിലയിരുത്തില്ല.",
     "usageExample": "Authentic bond.",
@@ -249,7 +249,7 @@
   },
   {
     "word": "chat",
-    "wordMeaning": "ചാറ്റ്",
+    "wordMeaning": "സൗഹൃദ സംഭാഷണം",
     "englishText": "We had a lovely late-night chat about our future dreams.",
     "malayalamMeaning": "ഞങ്ങളുടെ ഭാവി സ്വപ്നങ്ങളെക്കുറിച്ച് രാത്രി വൈകുവോളം ഞങ്ങൾ നല്ലൊരു സംസാരത്തിൽ ഏർപ്പെട്ടു.",
     "usageExample": "Casual exchange.",
@@ -273,7 +273,7 @@
   },
   {
     "word": "cheer",
-    "wordMeaning": "സന്തോഷിപ്പിക്കുക",
+    "wordMeaning": "ആർപ്പുവിളിക്കുക",
     "englishText": "Friends gathered at the stadium to cheer for their teammate.",
     "malayalamMeaning": "തങ്ങളുടെ സഹകളിക്കാരനെ പ്രോത്സാഹിപ്പിക്കാൻ സുഹൃത്തുക്കൾ സ്റ്റേഡിയത്തിൽ ഒത്തുകൂടി.",
     "usageExample": "Encouragement.",
@@ -281,7 +281,7 @@
   },
   {
     "word": "happy",
-    "wordMeaning": "സന്തോഷം",
+    "wordMeaning": "സന്തോഷമുള്ള",
     "englishText": "Seeing my friends succeed makes me genuinely happy.",
     "malayalamMeaning": "സുഹൃത്തുക്കൾ വിജയിക്കുന്നത് കാണുമ്പോൾ എനിക്ക് ഉള്ളിൽത്തട്ടി സന്തോഷം തോന്നുന്നു.",
     "usageExample": "Shared delight.",
@@ -297,7 +297,7 @@
   },
   {
     "word": "funny",
-    "wordMeaning": "തമാശ",
+    "wordMeaning": "തമാശയുള്ള",
     "englishText": "He told a funny anecdote about his driving test.",
     "malayalamMeaning": "തൻ്റെ ഡ്രൈവിംഗ് ടെസ്റ്റിനിടയിൽ ഉണ്ടായ രസകരമായ ഒരു സംഭവം അവൻ പറഞ്ഞു.",
     "usageExample": "Humorous story.",
@@ -305,7 +305,7 @@
   },
   {
     "word": "crazy",
-    "wordMeaning": "ഭ്രാന്തൻ",
+    "wordMeaning": "ഭ്രാന്തമായ",
     "englishText": "We came up with a crazy idea to hike up the hill at night.",
     "malayalamMeaning": "രാത്രിയിൽ ആ മല കയറാൻ ഞങ്ങൾക്ക് ഒരു ഭ്രാന്തൻ ആശയം തോന്നി.",
     "usageExample": "Wild adventurous plan.",
@@ -313,7 +313,7 @@
   },
   {
     "word": "silly",
-    "wordMeaning": "വിഡ്ഢിത്തം",
+    "wordMeaning": "ബാലിശമായ",
     "englishText": "We laughed at the silly faces we made in the photo booth.",
     "malayalamMeaning": "ഫോട്ടോ ബൂത്തിൽ ഞങ്ങൾ കാണിച്ച തമാശക്കോലങ്ങൾ കണ്ട് ഞങ്ങൾ ചിരിച്ചു.",
     "usageExample": "Playful fun.",
@@ -321,7 +321,7 @@
   },
   {
     "word": "cool",
-    "wordMeaning": "തണുത്ത",
+    "wordMeaning": "അടിപൊളി",
     "englishText": "That was such a cool jacket your friend was wearing.",
     "malayalamMeaning": "നിൻ്റെ സുഹൃത്ത് ധരിച്ചിരുന്നത് അടിപൊളി ഒരു ജാക്കറ്റായിരുന്നു.",
     "usageExample": "Casual admiration.",
@@ -337,7 +337,7 @@
   },
   {
     "word": "super",
-    "wordMeaning": "സൂപ്പർ",
+    "wordMeaning": "അതിമികച്ച",
     "englishText": "We had a super time camping by the forest edge.",
     "malayalamMeaning": "കാടിന്റെ അതിർത്തിയിൽ ക്യാമ്പ് ചെയ്തത് വളരെ മികച്ചൊരു അനുഭവമായിരുന്നു.",
     "usageExample": "High enthusiasm.",
@@ -345,7 +345,7 @@
   },
   {
     "word": "great",
-    "wordMeaning": "വലിയ",
+    "wordMeaning": "വളരെ നല്ല",
     "englishText": "It is great to be reunited after such a long summer break.",
     "malayalamMeaning": "നീണ്ട വേനലവധിക്ക് ശേഷം വീണ്ടും ഒന്നിക്കാൻ കഴിഞ്ഞതിൽ വലിയ സന്തോഷം.",
     "usageExample": "Positive sentiment.",
@@ -353,7 +353,7 @@
   },
   {
     "word": "best",
-    "wordMeaning": "മികച്ചത്",
+    "wordMeaning": "ഏറ്റവും മികച്ച",
     "englishText": "She has been my best friend since kindergarten.",
     "malayalamMeaning": "കിന്റർഗാർട്ടൻ കാലം മുതൽ അവൾ എൻ്റെ ഏറ്റവും അടുത്ത കൂട്ടുകാരിയാണ്.",
     "usageExample": "Top tier friendship.",
@@ -361,7 +361,7 @@
   },
   {
     "word": "close",
-    "wordMeaning": "അടുത്ത്",
+    "wordMeaning": "ഉറ്റ",
     "englishText": "We became close friends after working on the science project.",
     "malayalamMeaning": "സയൻസ് പ്രോജക്ടിൽ ഒരുമിച്ച് പ്രവർത്തിച്ചതോടെ ഞങ്ങൾ അടുത്ത സുഹൃത്തുക്കളായി മാറി.",
     "usageExample": "Intimate connection.",
@@ -369,7 +369,7 @@
   },
   {
     "word": "group",
-    "wordMeaning": "ഗ്രൂപ്പ്",
+    "wordMeaning": "കൂട്ടം",
     "englishText": "Our friend group meets every Sunday for breakfast.",
     "malayalamMeaning": "ഞങ്ങളുടെ സൗഹൃദസംഘം എല്ലാ ഞായറാഴ്ചയും പ്രാതൽ കഴിക്കാൻ ഒത്തുകൂടാറുണ്ട്.",
     "usageExample": "Circle of friends.",
@@ -385,7 +385,7 @@
   },
   {
     "word": "crew",
-    "wordMeaning": "ക്രൂ",
+    "wordMeaning": "കൂട്ടായ്മ",
     "englishText": "Our film crew consists of enthusiastic college buddies.",
     "malayalamMeaning": "ആവേശഭരിതരായ കോളേജ് സുഹൃത്തുക്കളാണ് ഞങ്ങളുടെ സിനിമാ കൂട്ടായ്മയിലുള്ളത്.",
     "usageExample": "Team of friends.",
@@ -393,7 +393,7 @@
   },
   {
     "word": "squad",
-    "wordMeaning": "സ്ക്വാഡ്",
+    "wordMeaning": "സൗഹൃദസംഘം",
     "englishText": "My squad supported me through every semester exam.",
     "malayalamMeaning": "എല്ലാ സെമസ്റ്റർ പരീക്ഷകളിലും എൻ്റെ കൂട്ടുകാർ എനിക്ക് പൂർണ്ണ പിന്തുണ നൽകി.",
     "usageExample": "Supportive circle.",
@@ -401,7 +401,7 @@
   },
   {
     "word": "team",
-    "wordMeaning": "ടീം",
+    "wordMeaning": "സംഘം",
     "englishText": "Friends who work as a team can accomplish anything.",
     "malayalamMeaning": "ഒരുമയോടെ ഒരു ടീമായി പ്രവർത്തിക്കുന്ന സുഹൃത്തുക്കൾക്ക് എന്തും നേടിയെടുക്കാനാകും.",
     "usageExample": "Collaborative unity.",
@@ -425,7 +425,7 @@
   },
   {
     "word": "miss",
-    "wordMeaning": "മിസ്സ്",
+    "wordMeaning": "നഷ്ടബോധം തോന്നുക",
     "englishText": "I really miss the daily tea breaks we shared at college.",
     "malayalamMeaning": "കോളേജിൽ ഞങ്ങൾ ഒരുമിച്ചിരുന്നു ചായ കുടിച്ചിരുന്ന ആ ഇടവേളകൾ ഞാൻ ശരിക്കും മിസ്സ് ചെയ്യുന്നു.",
     "usageExample": "Longing for absent friends.",
@@ -441,7 +441,7 @@
   },
   {
     "word": "arrive",
-    "wordMeaning": "എത്തിച്ചേരുന്നു",
+    "wordMeaning": "എത്തിച്ചേരുക",
     "englishText": "Did everyone arrive safely at the resort?",
     "malayalamMeaning": "എല്ലാവരും സുരക്ഷിതമായി റിസോർട്ടിൽ എത്തിയോ?",
     "usageExample": "Journey check-in.",
@@ -449,7 +449,7 @@
   },
   {
     "word": "late",
-    "wordMeaning": "വൈകി",
+    "wordMeaning": "വൈകിയ",
     "englishText": "He is always five minutes late to our movie meetups.",
     "malayalamMeaning": "സിനിമയ്ക്ക് ഒത്തുകൂടുമ്പോഴെല്ലാം അവൻ സ്ഥിരമായി അഞ്ചു മിനിറ്റ് വൈകിയെത്താറുണ്ട്.",
     "usageExample": "Casual punctuality.",
@@ -505,7 +505,7 @@
   },
   {
     "word": "juice",
-    "wordMeaning": "ജ്യൂസ്",
+    "wordMeaning": "പഴച്ചാർ",
     "englishText": "A fresh mango juice is perfect after playing in the hot sun.",
     "malayalamMeaning": "കടുത്ത വെയിലത്ത് കളിച്ചു ക്ഷീണിച്ച ശേഷം കുടിക്കാൻ നല്ലൊരു മാമ്പഴ ജ്യൂസാണ് ഏറ്റവും ഉത്തമം.",
     "usageExample": "Refreshing drink.",
@@ -585,7 +585,7 @@
   },
   {
     "word": "chill",
-    "wordMeaning": "തണുപ്പിക്കുക",
+    "wordMeaning": "സ്വസ്ഥമായിരിക്കുക",
     "englishText": "Let us just sit under the trees and chill for an hour.",
     "malayalamMeaning": "നമുക്ക് ആ മരത്തണലിൽ കുറച്ചു നേരം ശാന്തമായി വിശ്രമിക്കാം.",
     "usageExample": "Relaxed socializing.",
@@ -601,7 +601,7 @@
   },
   {
     "word": "beach",
-    "wordMeaning": "ബീച്ച്",
+    "wordMeaning": "കടൽത്തീരം",
     "englishText": "The cool breeze at the beach made our evening conversation magical.",
     "malayalamMeaning": "കടൽത്തീരത്തെ കുളിർകാറ്റ് ഞങ്ങളുടെ സായാഹ്ന സംഭാഷണത്തെ കൂടുതൽ മനോഹരമാക്കി.",
     "usageExample": "Scenic hangout.",
@@ -625,7 +625,7 @@
   },
   {
     "word": "camp",
-    "wordMeaning": "ക്യാമ്പ്",
+    "wordMeaning": "ശിബിരം",
     "englishText": "Setting up a camp near the lake was an adventurous experience.",
     "malayalamMeaning": "തടാകക്കരയിൽ ഒരു ക്യാമ്പ് ഒരുക്കിയത് സാഹസികമായ ഒരു അനുഭവമായിരുന്നു.",
     "usageExample": "Camping trip.",
@@ -665,7 +665,7 @@
   },
   {
     "word": "lost",
-    "wordMeaning": "നഷ്ടപ്പെട്ടു",
+    "wordMeaning": "വഴിതെറ്റിയ",
     "englishText": "We got temporarily lost in the old town, but it was hilarious.",
     "malayalamMeaning": "ആ പഴയ നഗരത്തിൽ വെച്ച് ഞങ്ങൾക്ക് കുറച്ചുനേരം വഴി തെറ്റിയെങ്കിലും അത് നല്ലൊരു തമാശയായിരുന്നു.",
     "usageExample": "Memorable mishaps.",
@@ -681,7 +681,7 @@
   },
   {
     "word": "hungry",
-    "wordMeaning": "വിശക്കുന്നു",
+    "wordMeaning": "വിശപ്പുള്ള",
     "englishText": "Playing in the rain made everyone ravenously hungry.",
     "malayalamMeaning": "മഴയത്ത് കളിച്ചപ്പോൾ എല്ലാവർക്കും നല്ല വിശപ്പ് തോന്നി.",
     "usageExample": "Food craving.",
@@ -689,7 +689,7 @@
   },
   {
     "word": "eat",
-    "wordMeaning": "തിന്നുക",
+    "wordMeaning": "ഭക്ഷണം കഴിക്കുക",
     "englishText": "Let us eat at that popular local eatery down the lane.",
     "malayalamMeaning": "ആ ഇടവഴിയിലുള്ള പ്രശസ്തമായ നാടൻ ഹോട്ടലിൽ നിന്ന് നമുക്ക് ഭക്ഷണം കഴിക്കാം.",
     "usageExample": "Dining together.",
@@ -713,7 +713,7 @@
   },
   {
     "word": "split",
-    "wordMeaning": "പിളർന്നു",
+    "wordMeaning": "വീതിക്കുക",
     "englishText": "Let us split the restaurant bill equally among the four of us.",
     "malayalamMeaning": "റസ്റ്റോറന്റിലെ ബിൽ നമുക്ക് നാലുപേർക്കുമായി തുല്യമായി വീതിക്കാം.",
     "usageExample": "Fair cost-sharing.",
@@ -721,7 +721,7 @@
   },
   {
     "word": "treat",
-    "wordMeaning": "ചികിത്സിക്കുക",
+    "wordMeaning": "സൽക്കാരം",
     "englishText": "He gave us a grand treat to celebrate his new promotion.",
     "malayalamMeaning": "തനിക്ക് ജോലിയിൽ സ്ഥാനക്കയറ്റം കിട്ടിയതിന്റെ സന്തോഷത്തിൽ അവൻ ഞങ്ങൾക്ക് ഗംഭീര ട്രീറ്റ് തന്നു.",
     "usageExample": "Celebratory meal.",
@@ -753,7 +753,7 @@
   },
   {
     "word": "wish",
-    "wordMeaning": "ആഗ്രഹിക്കുക",
+    "wordMeaning": "ആശംസിക്കുക",
     "englishText": "We called our friend at midnight to wish him a happy birthday.",
     "malayalamMeaning": "ജന്മദിനാശംസകൾ നേരാൻ അർദ്ധരാത്രി തന്നെ ഞങ്ങൾ ഞങ്ങളുടെ സുഹൃത്തിനെ വിളിച്ചു.",
     "usageExample": "Celebration wish.",
@@ -761,7 +761,7 @@
   },
   {
     "word": "surprise",
-    "wordMeaning": "ആശ്ചര്യം",
+    "wordMeaning": "ആശ്ചര്യപ്പെടുത്തുക",
     "englishText": "We hid behind the door to surprise our friend on her return.",
     "malayalamMeaning": "തിരിച്ചുവരുന്ന കൂട്ടുകാരിയെ സർപ്രൈസ് ചെയ്യാനായി ഞങ്ങൾ വാതിലിനു പിന്നിൽ ഒളിച്ചിരുന്നു.",
     "usageExample": "Planning surprises.",
@@ -793,7 +793,7 @@
   },
   {
     "word": "wave",
-    "wordMeaning": "തരംഗം",
+    "wordMeaning": "കൈവീശൽ",
     "englishText": "He gave a cheerful wave from the departing train window.",
     "malayalamMeaning": "നീങ്ങിത്തുടങ്ങിയ ട്രെയിനിന്റെ ജനാലയിലൂടെ അവൻ സന്തോഷത്തോടെ കൈവീശിക്കാണിച്ചു.",
     "usageExample": "Friendly parting.",
@@ -825,7 +825,7 @@
   },
   {
     "word": "lose",
-    "wordMeaning": "നഷ്ടപ്പെടുക",
+    "wordMeaning": "തോൽക്കുക",
     "englishText": "Even when we lose the match, we encourage one another.",
     "malayalamMeaning": "മത്സരത്തിൽ തോറ്റാൽ പോലും ഞങ്ങൾ പരസ്പരം ആശ്വസിപ്പിക്കുകയും പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യാറുണ്ട്.",
     "usageExample": "Good sportsmanship.",
@@ -833,7 +833,7 @@
   },
   {
     "word": "shout",
-    "wordMeaning": "ആക്രോശിക്കുക",
+    "wordMeaning": "ഉറക്കെ വിളിക്കുക",
     "englishText": "We heard our friends shout with excitement from across the field.",
     "malayalamMeaning": "മൈതാനത്തിന്റെ അങ്ങേത്തലയ്ക്കൽ നിന്ന് കൂട്ടുകാർ ആവേശത്തോടെ ആർത്തുവിളിക്കുന്നത് ഞങ്ങൾ കേട്ടു.",
     "usageExample": "Energetic cheer.",
@@ -849,7 +849,7 @@
   },
   {
     "word": "loyal",
-    "wordMeaning": "വിശ്വസ്തൻ",
+    "wordMeaning": "വിശ്വസ്തതയുള്ള",
     "englishText": "He is a fiercely loyal friend who never speaks ill behind your back.",
     "malayalamMeaning": "ഒരിക്കലും പുറകിൽ നിന്ന് കുറ്റം പറയാത്ത അത്രയും വിശ്വസ്തനായ ഒരു സുഹൃത്താണ് അവൻ.",
     "usageExample": "Faithfulness.",
@@ -857,7 +857,7 @@
   },
   {
     "word": "care",
-    "wordMeaning": "പരിചരണം",
+    "wordMeaning": "കരുതൽ കാണിക്കുക",
     "englishText": "Friends care about your mental peace and happiness.",
     "malayalamMeaning": "സുഹൃത്തുക്കൾ നിങ്ങളുടെ മനസ്സമാധാനത്തെയും സന്തോഷത്തെയും പറ്റി എപ്പോഴും കരുതലോടെ ചിന്തിക്കുന്നു.",
     "usageExample": "Showing compassion.",
@@ -881,7 +881,7 @@
   },
   {
     "word": "road",
-    "wordMeaning": "റോഡ്",
+    "wordMeaning": "പാത",
     "englishText": "The long open road brought great conversations and laughter.",
     "malayalamMeaning": "നീണ്ട ആ യാത്രയിലുടനീളം ചിരിയും രസകരമായ സംഭാഷണങ്ങളും നിറഞ്ഞുനിന്നു.",
     "usageExample": "Travel talks.",
@@ -889,7 +889,7 @@
   },
   {
     "word": "drive",
-    "wordMeaning": "ഡ്രൈവ് ചെയ്യുക",
+    "wordMeaning": "വാഹനം ഓടിക്കുക",
     "englishText": "We took a leisurely night drive through the illuminated city.",
     "malayalamMeaning": "വെളിച്ചം വിതറിയ നഗരത്തിലൂടെ രാത്രി ഞങ്ങൾ ശാന്തമായി കാറോടിച്ചു നടന്നു.",
     "usageExample": "Night outings.",
@@ -993,7 +993,7 @@
   },
   {
     "word": "pack",
-    "wordMeaning": "പായ്ക്ക്",
+    "wordMeaning": "അടുക്കിവെക്കുക",
     "englishText": "Help me pack my backpack for the mountain trek tomorrow.",
     "malayalamMeaning": "നാളത്തെ ട്രെക്കിംഗിനായി ബാഗ് പാക്ക് ചെയ്യാൻ എന്നെ ഒന്ന് സഹായിക്കൂ.",
     "usageExample": "Trek prep.",
@@ -1001,7 +1001,7 @@
   },
   {
     "word": "ready",
-    "wordMeaning": "തയ്യാറാണ്",
+    "wordMeaning": "തയ്യാറായ",
     "englishText": "Are you ready to head out to the sports club now?",
     "malayalamMeaning": "സ്പോർട്സ് ക്ലബ്ബിലേക്ക് ഇറങ്ങാൻ നീ ഇപ്പോൾ തയ്യാറാണോ?",
     "usageExample": "Check readiness.",
@@ -1009,7 +1009,7 @@
   },
   {
     "word": "hurry",
-    "wordMeaning": "വേഗം",
+    "wordMeaning": "തിടുക്കം കൂട്ടുക",
     "englishText": "Hurry up or we will miss the opening scene of the movie.",
     "malayalamMeaning": "വേഗം നടക്ക്, അല്ലെങ്കിൽ സിനിമയുടെ തുടക്കം തന്നെ നമുക്ക് നഷ്ടമാകും.",
     "usageExample": "Friendly rushing.",
@@ -1017,7 +1017,7 @@
   },
   {
     "word": "fast",
-    "wordMeaning": "വേഗം",
+    "wordMeaning": "വേഗത്തിൽ",
     "englishText": "Do not walk so fast; let us stroll and enjoy the evening breeze.",
     "malayalamMeaning": "അത്ര വേഗത്തിൽ നടക്കല്ലേ; സായാഹ്നത്തിലെ കുളിർകാറ്റും കൊണ്ട് സാവധാനം നടക്കാം.",
     "usageExample": "Pacing walk.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "slow",
-    "wordMeaning": "പതുക്കെ",
+    "wordMeaning": "പതുക്കെയുള്ള",
     "englishText": "Let us take the slow scenic route through the tea estates.",
     "malayalamMeaning": "തേയിലത്തോട്ടങ്ങൾക്ക് നടുവിലൂടെയുള്ള ഭംഗിയുള്ള ആ പാതയിലൂടെ നമുക്ക് സാവധാനം പോകാം.",
     "usageExample": "Scenic route.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "hot",
-    "wordMeaning": "ചൂട്",
+    "wordMeaning": "ചൂടുള്ള",
     "englishText": "Be careful, the freshly brewed ginger tea is extremely hot.",
     "malayalamMeaning": "സൂക്ഷിക്കണം, നല്ല ചൂടുള്ള ഇഞ്ചി ചായയാണ്.",
     "usageExample": "Drink warning.",
@@ -1049,7 +1049,7 @@
   },
   {
     "word": "sweet",
-    "wordMeaning": "മധുരം",
+    "wordMeaning": "സ്നേഹം നിറഞ്ഞ",
     "englishText": "That was such a sweet surprise gift from my college friends.",
     "malayalamMeaning": "എൻ്റെ കോളേജ് സുഹൃത്തുക്കൾ തന്നത് വളരെ സ്നേഹം നിറഞ്ഞ ഒരു സർപ്രൈസ് സമ്മാനമായിരുന്നു.",
     "usageExample": "Kind appreciation.",
@@ -1057,7 +1057,7 @@
   },
   {
     "word": "busy",
-    "wordMeaning": "തിരക്കിലാണ്",
+    "wordMeaning": "തിരക്കുള്ള",
     "englishText": "I know you are busy, but let us chat for five minutes.",
     "malayalamMeaning": "നിനക്ക് തിരക്കാണെന്ന് അറിയാം, എങ്കിലും നമുക്ക് ഒരു അഞ്ചു മിനിറ്റ് സംസാരിക്കാം.",
     "usageExample": "Respecting schedule.",
@@ -1065,7 +1065,7 @@
   },
   {
     "word": "free",
-    "wordMeaning": "സ്വതന്ത്ര",
+    "wordMeaning": "ഒഴിവുള്ള",
     "englishText": "Whenever you are free this evening, give me a quick ring.",
     "malayalamMeaning": "ഇന്ന് വൈകുന്നേരം സമയം കിട്ടുമ്പോൾ എന്നെ ഒന്ന് വിളിക്കൂ.",
     "usageExample": "Checking free time.",
@@ -1105,7 +1105,7 @@
   },
   {
     "word": "bond",
-    "wordMeaning": "ബോണ്ട്",
+    "wordMeaning": "ആത്മബന്ധം",
     "englishText": "Our common love for football created an instant, unbreakable bond.",
     "malayalamMeaning": "ഫുട്ബോളിനോടുള്ള ഞങ്ങളുടെ പൊതുവായ ഇഷ്ടം ഞങ്ങൾക്കിടയിൽ പെട്ടെന്ന് തന്നെ ഉറച്ചൊരു ആത്മബന്ധം സൃഷ്ടിച്ചു.",
     "usageExample": "Common ground.",
@@ -1113,7 +1113,7 @@
   },
   {
     "word": "connection",
-    "wordMeaning": "കണക്ഷൻ",
+    "wordMeaning": "ബന്ധം",
     "englishText": "We felt an immediate personal connection from the very first conversation.",
     "malayalamMeaning": "ആദ്യ സംസാരത്തിൽ തന്നെ ഞങ്ങൾ തമ്മിൽ ഒരു പ്രത്യേക അടുപ്പം തോന്നിയിരുന്നു.",
     "usageExample": "Instant rapport.",
@@ -1137,7 +1137,7 @@
   },
   {
     "word": "solid",
-    "wordMeaning": "ഖര",
+    "wordMeaning": "ഉറച്ച",
     "englishText": "Our friendship is solid and cannot be broken by petty rumors.",
     "malayalamMeaning": "നമ്മുടെ സൗഹൃദം അത്രയ്ക്ക് ഉറച്ചതാണ്, അനാവശ്യ കിംവദന്തികൾ കൊണ്ടൊന്നും അത് തകർക്കാനാവില്ല.",
     "usageExample": "Sturdy bond.",
@@ -1177,7 +1177,7 @@
   },
   {
     "word": "camaraderie",
-    "wordMeaning": "സൗഹൃദം",
+    "wordMeaning": "ആത്മസൗഹൃദം",
     "englishText": "The long trek in the Western Ghats forged an unbreakable camaraderie.",
     "malayalamMeaning": "പശ്ചിമഘട്ടത്തിലൂടെയുള്ള നീണ്ട ട്രെക്കിംഗ് ഞങ്ങൾക്കിടയിൽ ഒരിക്കലും പിരിയാത്ത സൗഹൃദം വളർത്തി.",
     "usageExample": "Team brotherhood.",
@@ -1185,7 +1185,7 @@
   },
   {
     "word": "companionship",
-    "wordMeaning": "കൂട്ടുകെട്ട്",
+    "wordMeaning": "സഹവാസം",
     "englishText": "Good companionship makes the longest and hardest journey feel effortless.",
     "malayalamMeaning": "നല്ലൊരു കൂട്ടുണ്ടെങ്കിൽ എത്ര ദൂരമുള്ള കഠിനമായ യാത്രയും വളരെ എളുപ്പമായി തോന്നും.",
     "usageExample": "Valued company.",
@@ -1193,7 +1193,7 @@
   },
   {
     "word": "confidant",
-    "wordMeaning": "വിശ്വസ്തൻ",
+    "wordMeaning": "ആത്മമിത്രം",
     "englishText": "She has been my most trusted confidant since our teenage years.",
     "malayalamMeaning": "കൗമാരക്കാലം മുതൽ എന്റെ എല്ലാ സ്വകാര്യങ്ങളും തുറന്നുപറയാവുന്ന ഏറ്റവും അടുത്ത കൂട്ടുകാരിയാണ് അവൾ.",
     "usageExample": "Keeper of secrets.",
@@ -1201,7 +1201,7 @@
   },
   {
     "word": "bonding",
-    "wordMeaning": "ബന്ധനം",
+    "wordMeaning": "ഇണങ്ങിച്ചേരൽ",
     "englishText": "Setting up tents in the pouring rain proved to be an unforgettable bonding exercise.",
     "malayalamMeaning": "കോരിച്ചൊരിയുന്ന മഴയത്ത് ടെന്റുകൾ കെട്ടിയത് ഞങ്ങൾക്കിടയിലെ ആത്മബന്ധം കൂടുതൽ ദൃഢമാക്കിയ അവിസ്മരണീയമായ അനുഭവമായിരുന്നു.",
     "usageExample": "Deepening ties.",
@@ -1225,7 +1225,7 @@
   },
   {
     "word": "prank",
-    "wordMeaning": "തമാശ",
+    "wordMeaning": "കുസൃതിത്തരം",
     "englishText": "They played a harmless April Fools' prank on their hostel warden.",
     "malayalamMeaning": "ഏപ്രിൽ ഫൂൾ ദിനത്തിൽ അവർ തങ്ങളുടെ ഹോസ്റ്റൽ വാർഡനെ പറ്റിച്ച് ചെറിയൊരു തമാശ ഒപ്പിച്ചു.",
     "usageExample": "Playful joke.",
@@ -1233,7 +1233,7 @@
   },
   {
     "word": "gossip",
-    "wordMeaning": "ഗോസിപ്പ്",
+    "wordMeaning": "പരദൂഷണം",
     "englishText": "We spent the afternoon exchanging harmless neighborhood gossip over tea.",
     "malayalamMeaning": "ചായ കുടിച്ചുകൊണ്ട് നാട്ടിലെ കൊച്ചുകൊച്ചു വിശേഷങ്ങളും വർത്തമാനങ്ങളും പറഞ്ഞ് ഞങ്ങൾ ഉച്ചസമയം ചെലവഴിച്ചു.",
     "usageExample": "Casual chatter.",
@@ -1241,7 +1241,7 @@
   },
   {
     "word": "banter",
-    "wordMeaning": "പരിഹാസം",
+    "wordMeaning": "നർമ്മസല്ലാപം",
     "englishText": "Witty banter between the two roommates kept the apartment full of laughter.",
     "malayalamMeaning": "റൂംമേറ്റ്സ് തമ്മിലുള്ള രസകരമായ തമാശകളും കൊച്ചുവർത്തമാനങ്ങളും ആ ഫ്ലാറ്റിൽ എപ്പോഴും ചിരി പടർത്തിയിരുന്നു.",
     "usageExample": "Playful teasing.",
@@ -1289,7 +1289,7 @@
   },
   {
     "word": "confession",
-    "wordMeaning": "കുമ്പസാരം",
+    "wordMeaning": "തുറന്നുപറച്ചിൽ",
     "englishText": "Over a midnight coffee, he made an honest confession about his anxieties.",
     "malayalamMeaning": "പാതിരാത്രി കാപ്പി കുടിച്ചിരിക്കുമ്പോൾ അവൻ തന്റെ ആശങ്കകളെക്കുറിച്ച് മനസ്സുതുറന്ന് സംസാരിച്ചു.",
     "usageExample": "Open admission.",
@@ -1305,7 +1305,7 @@
   },
   {
     "word": "roadtrip",
-    "wordMeaning": "വഴിയാത്ര",
+    "wordMeaning": "വാഹനയാത്ര",
     "englishText": "Our spontaneous road trip along the coastal highway was breathtaking.",
     "malayalamMeaning": "തീരദേശ പാതയിലൂടെ മുന്നൊരുക്കങ്ങളൊന്നുമില്ലാതെ ഞങ്ങൾ നടത്തിയ ആ റോഡ് ട്രിപ്പ് അതിമനോഹരമായിരുന്നു.",
     "usageExample": "Highway journey.",
@@ -1313,7 +1313,7 @@
   },
   {
     "word": "getaway",
-    "wordMeaning": "രക്ഷപ്പെടുക",
+    "wordMeaning": "അവധിയാത്ര",
     "englishText": "We planned a quick weekend getaway to escape the noisy city traffic.",
     "malayalamMeaning": "നഗരത്തിലെ തിരക്കുകളിൽ നിന്ന് മാറിനിൽക്കാനായി ഞങ്ങൾ പെട്ടെന്ന് ഒരു വാരാന്ത്യ യാത്ര പ്ലാൻ ചെയ്തു.",
     "usageExample": "Short vacation.",
@@ -1321,7 +1321,7 @@
   },
   {
     "word": "spontaneous",
-    "wordMeaning": "സ്വതസിദ്ധമായ",
+    "wordMeaning": "ആസൂത്രണമില്ലാത്ത",
     "englishText": "A spontaneous decision to watch the sunrise made our weekend memorable.",
     "malayalamMeaning": "സൂര്യോദയം കാണാൻ പെട്ടെന്ന് എടുത്ത ആ തീരുമാനം ഞങ്ങളുടെ വാരാന്ത്യത്തെ അവിസ്മരണീയമാക്കി.",
     "usageExample": "Unplanned joy.",
@@ -1329,7 +1329,7 @@
   },
   {
     "word": "impromptu",
-    "wordMeaning": "അപ്രതീക്ഷിതമായി",
+    "wordMeaning": "മുന്നൊരുക്കമില്ലാത്ത",
     "englishText": "We had an impromptu jam session with acoustic guitars on the veranda.",
     "malayalamMeaning": "വരാന്തയിലിരുന്ന് ഗിറ്റാറുമൊക്കെയായി ഞങ്ങൾ അപ്രതീക്ഷിതമായി ഒരു പാട്ടുസദസ്സ് ഒരുക്കി.",
     "usageExample": "Unprepared performance.",
@@ -1337,7 +1337,7 @@
   },
   {
     "word": "reminisce",
-    "wordMeaning": "ഓർമ്മിപ്പിക്കുന്നു",
+    "wordMeaning": "ഓർമ്മകൾ അയവിറക്കുക",
     "englishText": "Whenever we meet, we reminisce about our funny high school teachers.",
     "malayalamMeaning": "കണ്ടുമുട്ടുമ്പോഴെല്ലാം ഞങ്ങൾ സ്കൂളിലെ പഴയ അധ്യാപകരെക്കുറിച്ചുള്ള രസകരമായ ഓർമ്മകൾ പങ്കുവെക്കാറുണ്ട്.",
     "usageExample": "Recalling the past.",
@@ -1377,7 +1377,7 @@
   },
   {
     "word": "hilarious",
-    "wordMeaning": "ഉല്ലാസകരമായ",
+    "wordMeaning": "പൊട്ടിച്ചിരിപ്പിക്കുന്ന",
     "englishText": "He told a hilarious story that had everyone gasping for breath.",
     "malayalamMeaning": "എല്ലാവരെയും ചിരിപ്പിച്ചു ചിരിപ്പിച്ചു ശ്വാസം മുട്ടിച്ച ഒരു തമാശക്കഥ അവൻ പറഞ്ഞു.",
     "usageExample": "Extremely funny.",
@@ -1385,7 +1385,7 @@
   },
   {
     "word": "witty",
-    "wordMeaning": "തമാശയുള്ള",
+    "wordMeaning": "നർമ്മബോധമുള്ള",
     "englishText": "Her witty remarks always defused tense arguments among group members.",
     "malayalamMeaning": "കൂട്ടുകാർക്കിടയിൽ അഭിപ്രായവ്യത്യാസങ്ങൾ ഉണ്ടാകുമ്പോൾ അവളുടെ രസകരമായ സംസാരം ആ അന്തരീക്ഷം ശാന്തമാക്കുമായിരുന്നു.",
     "usageExample": "Clever humor.",
@@ -1401,7 +1401,7 @@
   },
   {
     "word": "humorous",
-    "wordMeaning": "നർമ്മം",
+    "wordMeaning": "നർമ്മമുള്ള",
     "englishText": "His humorous perspective on daily mishaps helped us all stay positive.",
     "malayalamMeaning": "ചെറിയ പ്രതിസന്ധികളെപ്പോലും തമാശയോടെ കാണാനുള്ള അവൻ്റെ കഴിവ് ഞങ്ങൾക്കെല്ലാവർക്കും വലിയ ആശ്വാസമായിരുന്നു.",
     "usageExample": "Amusing outlook.",
@@ -1433,7 +1433,7 @@
   },
   {
     "word": "treasured",
-    "wordMeaning": "അമൂല്യമായി",
+    "wordMeaning": "അമൂല്യമായ",
     "englishText": "A handwritten letter from a distant friend is a treasured keepsake.",
     "malayalamMeaning": "ദൂരെ കഴിയുന്ന ഒരു സുഹൃത്ത് സ്വന്തം കൈപ്പടയിൽ എഴുതിയ കത്ത് എന്നും കാത്തുസൂക്ഷിക്കാൻ തോന്നുന്ന ഒരു അമൂല്യ നിധിയാണ്.",
     "usageExample": "Valued item.",
@@ -1449,7 +1449,7 @@
   },
   {
     "word": "bunking",
-    "wordMeaning": "ബങ്കിംഗ്",
+    "wordMeaning": "ക്ലാസ് മുടക്കൽ",
     "englishText": "Bunking college lectures to watch a matinee film was a common student prank.",
     "malayalamMeaning": "കോളേജിൽ ക്ലാസ്സ് കട്ട് ചെയ്ത് ഉച്ചപ്പടത്തിന് പോവുക എന്നത് വിദ്യാർത്ഥികൾക്കിടയിൽ പതിവുള്ള ഒന്നായിരുന്നു.",
     "usageExample": "Skipping class.",
@@ -1505,7 +1505,7 @@
   },
   {
     "word": "uplift",
-    "wordMeaning": "ഉയർത്തുക",
+    "wordMeaning": "ഉന്മേഷം പകരുക",
     "englishText": "True friends uplift your spirits rather than dragging you down with criticism.",
     "malayalamMeaning": "കുറ്റപ്പെടുത്തി തളർത്തുന്നതിനു പകരം മനസ്സിന് ഊർജ്ജം പകരുകയാണ് യഥാർത്ഥ സുഹൃത്തുക്കൾ ചെയ്യുന്നത്.",
     "usageExample": "Inspiring hope.",
@@ -1537,7 +1537,7 @@
   },
   {
     "word": "outing",
-    "wordMeaning": "ഔട്ടിംഗ്",
+    "wordMeaning": "ഉല്ലാസയാത്ര",
     "englishText": "Our annual company picnic served as a wonderful informal outing for colleagues.",
     "malayalamMeaning": "കമ്പനിയിലെ വാർഷിക പിക്‌നിക് സഹപ്രവർത്തകർ തമ്മിലുള്ള സൗഹൃദം പുതുക്കാൻ നല്ലൊരു അവസരമായി.",
     "usageExample": "Leisure excursion.",
@@ -1545,7 +1545,7 @@
   },
   {
     "word": "socialite",
-    "wordMeaning": "സാമൂഹ്യവാദി",
+    "wordMeaning": "സാമൂഹിക വ്യക്തിത്വം",
     "englishText": "She is a natural socialite who connects friends from different walks of life.",
     "malayalamMeaning": "വിവിധ തുറകളിലുള്ള ആളുകളുമായി വളരെ എളുപ്പത്തിൽ സൗഹൃദം സ്ഥാപിക്കാൻ കഴിയുന്ന പ്രകൃതമാണ് അവളുടേത്.",
     "usageExample": "Social connector.",
@@ -1561,7 +1561,7 @@
   },
   {
     "word": "introverted",
-    "wordMeaning": "അന്തർമുഖൻ",
+    "wordMeaning": "അന്തർമുഖമായ",
     "englishText": "Her introverted friend preferred quiet one-on-one chats over loud parties.",
     "malayalamMeaning": "ഒച്ചപ്പാടുള്ള പാർട്ടികളേക്കാൾ ഒറ്റയ്ക്കിരുന്ന് സംസാരിക്കാനാണ് അന്തർമുഖയായ അവളുടെ കൂട്ടുകാരിക്ക് ഇഷ്ടം.",
     "usageExample": "Quiet personality.",
@@ -1585,7 +1585,7 @@
   },
   {
     "word": "expressive",
-    "wordMeaning": "പ്രകടിപ്പിക്കുന്ന",
+    "wordMeaning": "വികാരം പ്രകടിപ്പിക്കുന്ന",
     "englishText": "She was remarkably expressive when sharing her excitement about the concert.",
     "malayalamMeaning": "കച്ചേരിയെക്കുറിച്ചുള്ള തന്റെ ആവേശം പങ്കുവെക്കുമ്പോൾ അവളുടെ മുഖത്ത് ആ സന്തോഷം വ്യക്തമായി കാണാമായിരുന്നു.",
     "usageExample": "Vivid emotion.",
@@ -1593,7 +1593,7 @@
   },
   {
     "word": "carefree",
-    "wordMeaning": "അശ്രദ്ധ",
+    "wordMeaning": "ആകുലതയില്ലാത്ത",
     "englishText": "We spent carefree summer days swimming in the village river without worries.",
     "malayalamMeaning": "ഒരു ആകുലതയുമില്ലാതെ നാട്ടിൻപുറത്തെ പുഴയിൽ നീന്തിക്കുളിച്ച് ഞങ്ങൾ ആ വേനലവധിക്കാലം അടിച്ചുപൊളിച്ചു.",
     "usageExample": "Lighthearted living.",
@@ -1617,7 +1617,7 @@
   },
   {
     "word": "dynamic",
-    "wordMeaning": "ചലനാത്മകം",
+    "wordMeaning": "ചുറുചുറുക്കുള്ള",
     "englishText": "The dynamic duo organized the entire charity sports tournament single-handedly.",
     "malayalamMeaning": "ആ മിടുക്കരായ രണ്ടു കൂട്ടുകാർ ചേർന്നാണ് ചാരിറ്റി സ്പോർട്സ് ടൂർണമെന്റ് മുഴുവൻ ഒറ്റയ്ക്ക് സംഘടിപ്പിച്ചത്.",
     "usageExample": "Active teamwork.",
@@ -1665,7 +1665,7 @@
   },
   {
     "word": "unconditional",
-    "wordMeaning": "നിരുപാധികം",
+    "wordMeaning": "നിരുപാധികമായ",
     "englishText": "A true friendship offers unconditional acceptance of your quirks and flaws.",
     "malayalamMeaning": "നമ്മുടെ കുറവുകളെയും വിചിത്ര സ്വഭാവങ്ങളെയും യാതൊരു ഉപാധികളുമില്ലാതെ ഉൾക്കൊള്ളുന്നതാണ് യഥാർത്ഥ സൗഹൃദം.",
     "usageExample": "Without reservation.",
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "attachment",
-    "wordMeaning": "അറ്റാച്ച്മെൻ്റ്",
+    "wordMeaning": "മമത",
     "englishText": "Growing up side by side created a deep emotional attachment between them.",
     "malayalamMeaning": "ഒരുമിച്ച് വളർന്നത് അവർക്കിടയിൽ ആഴത്തിലുള്ള ഒരു ആത്മബന്ധം സൃഷ്ടിച്ചു.",
     "usageExample": "Close bond.",
@@ -1705,7 +1705,7 @@
   },
   {
     "word": "authentic",
-    "wordMeaning": "ആധികാരികമായ",
+    "wordMeaning": "ആത്മാർത്ഥമായ",
     "englishText": "Her authentic demeanor makes people trust her from the very first moment.",
     "malayalamMeaning": "അവളുടെ ആത്മാർത്ഥത നിറഞ്ഞ പെരുമാറ്റം ആർക്കും ആദ്യ നിമിഷത്തിൽ തന്നെ അവളിൽ വിശ്വാസം ഉണ്ടാക്കും.",
     "usageExample": "Genuine character.",
@@ -1713,7 +1713,7 @@
   },
   {
     "word": "down-to-earth",
-    "wordMeaning": "താഴോട്ട്",
+    "wordMeaning": "എളിമയുള്ള",
     "englishText": "Despite his fame, he remains exceptionally humble and down-to-earth with pals.",
     "malayalamMeaning": "വലിയ പ്രശസ്തനായിട്ടും കൂട്ടുകാരോട് ഇടപഴകുമ്പോൾ അവൻ വളരെ വിനയാന്വിതനും ലളിതമനസ്കനുമായി തുടരുന്നു.",
     "usageExample": "Unpretentious.",
@@ -1721,7 +1721,7 @@
   },
   {
     "word": "relatable",
-    "wordMeaning": "ആപേക്ഷികമായ",
+    "wordMeaning": "അടുപ്പം തോന്നുന്ന",
     "englishText": "His self-effacing stories made him instantly relatable to everyone in the group.",
     "malayalamMeaning": "തന്റെ തന്നെ മണ്ടത്തരങ്ങൾ തുറന്നുപറഞ്ഞുകൊണ്ടുള്ള അവന്റെ സംസാരം പെട്ടെന്ന് തന്നെ എല്ലാവരിലും അടുപ്പമുണ്ടാക്കി.",
     "usageExample": "Easy to connect with.",
@@ -1729,7 +1729,7 @@
   },
   {
     "word": "receptive",
-    "wordMeaning": "സ്വീകാര്യമായ",
+    "wordMeaning": "തുറന്ന മനസ്സുള്ള",
     "englishText": "A loyal companion is always receptive to constructive feedback.",
     "malayalamMeaning": "നല്ലൊരു സുഹൃത്ത് എപ്പോഴും നമ്മൾ സ്നേഹത്തോടെ നൽകുന്ന തിരുത്തലുകളെ മനസ്സുതുറന്ന് സ്വീകരിക്കും.",
     "usageExample": "Open-minded.",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "tactful",
-    "wordMeaning": "തന്ത്രശാലിയായ",
+    "wordMeaning": "നയചാതുര്യമുള്ള",
     "englishText": "She was tactful enough to change the subject when her friend looked uncomfortable.",
     "malayalamMeaning": "കൂട്ടുകാരിക്ക് വിഷമം തോന്നുന്നുണ്ടെന്ന് മനസ്സിലായപ്പോൾ അവൾ വളരെ പക്വതയോടെ സംസാരവിഷയം മാറ്റി.",
     "usageExample": "Considerate speech.",
@@ -1745,7 +1745,7 @@
   },
   {
     "word": "thoughtfulness",
-    "wordMeaning": "ചിന്താശക്തി",
+    "wordMeaning": "കരുതൽ",
     "englishText": "Sending flowers on exam day demonstrated remarkable thoughtfulness.",
     "malayalamMeaning": "പരീക്ഷാ ദിവസം പൂക്കൾ അയച്ചുകൊടുത്തത് സുഹൃത്തിനോടുള്ള അവളുടെ വലിയ കരുതലിന്റെ തെളിവായിരുന്നു.",
     "usageExample": "Consideration.",
@@ -1769,7 +1769,7 @@
   },
   {
     "word": "unselfish",
-    "wordMeaning": "നിസ്വാർത്ഥ",
+    "wordMeaning": "നിസ്വാർത്ഥമായ",
     "englishText": "His unselfish willingness to share his notes helped the whole class pass.",
     "malayalamMeaning": "തന്റെ നോട്ട്സുകൾ മറ്റുള്ളവർക്ക് കൊടുക്കാനുള്ള അവന്റെ നിസ്വാർത്ഥമായ മനസ്സ് കാരണം ക്ലാസ്സിലെ എല്ലാവരും ജയിച്ചു.",
     "usageExample": "Generous.",
@@ -1777,7 +1777,7 @@
   },
   {
     "word": "hospitable",
-    "wordMeaning": "അതിഥിപ്രിയം",
+    "wordMeaning": "ആതിഥ്യമര്യാദയുള്ള",
     "englishText": "His parents were remarkably hospitable whenever we visited their farmhouse.",
     "malayalamMeaning": "ഞങ്ങൾ അവരുടെ തോട്ടം സന്ദർശിക്കുമ്പോഴെല്ലാം അവന്റെ മാതാപിതാക്കൾ വലിയ സ്നേഹത്തോടെ ഞങ്ങളെ സൽക്കരിച്ചു.",
     "usageExample": "Welcoming.",
@@ -1801,7 +1801,7 @@
   },
   {
     "word": "reassurance",
-    "wordMeaning": "ഉറപ്പ്",
+    "wordMeaning": "ഉറപ്പുനൽകൽ",
     "englishText": "His reassuring words gave me the confidence to step onto the debate stage.",
     "malayalamMeaning": "അവൻ നൽകിയ ധൈര്യവും ആശ്വാസ വാക്കുകളുമാണ് സംവാദവേദിയിലേക്ക് കയറാൻ എനിക്ക് കരുത്തായത്.",
     "usageExample": "Building courage.",
@@ -1825,7 +1825,7 @@
   },
   {
     "word": "enduring",
-    "wordMeaning": "സഹിച്ചുനിൽക്കുന്നു",
+    "wordMeaning": "ദീർഘകാലം നിലനിൽക്കുന്ന",
     "englishText": "An enduring friendship is not measured by daily calls, but by unwavering loyalty.",
     "malayalamMeaning": "എല്ലാ ദിവസവും ഫോൺ വിളിക്കുന്നതിലല്ല, പ്രതിസന്ധിഘട്ടങ്ങളിൽ കാണിക്കുന്ന വിശ്വസ്തതയിലാണ് സൗഹൃദത്തിന്റെ ആഴം അളക്കേണ്ടത്.",
     "usageExample": "Long-lasting.",
@@ -1833,7 +1833,7 @@
   },
   {
     "word": "lifelong",
-    "wordMeaning": "ആജീവനാന്തം",
+    "wordMeaning": "ആജീവനാന്ത",
     "englishText": "They formed a lifelong friendship on their very first day of medical school.",
     "malayalamMeaning": "മെഡിക്കൽ കോളേജിൽ ചേർന്ന ആദ്യ ദിനം തന്നെ അവർ തമ്മിൽ തുടങ്ങിയ സൗഹൃദം ജീവിതകാലം മുഴുവൻ നീണ്ടുനിന്നു.",
     "usageExample": "Permanent bond.",
@@ -1841,7 +1841,7 @@
   },
   {
     "word": "inseparable",
-    "wordMeaning": "വേർതിരിക്കാനാവാത്ത",
+    "wordMeaning": "വേർപിരിക്കാനാവാത്ത",
     "englishText": "Throughout high school, the two girls were virtually inseparable companions.",
     "malayalamMeaning": "ഹൈസ്കൂൾ കാലത്തുടനീളം ആ രണ്ട് പെൺകുട്ടികളെ ഒരിക്കലും വേർപിരിക്കാനാവാത്ത അത്രയും അടുത്ത കൂട്ടുകാരായിരുന്നു.",
     "usageExample": "Always together.",
@@ -1849,7 +1849,7 @@
   },
   {
     "word": "chum",
-    "wordMeaning": "ചും",
+    "wordMeaning": "കൂട്ടുകാരൻ",
     "englishText": "He bumped into an old school chum while waiting at the airport lounge.",
     "malayalamMeaning": "എയർപോർട്ട് ലോഞ്ചിൽ കാത്തിരിക്കുന്നതിനിടയിൽ അവൻ അപ്രതീക്ഷിതമായി പഴയ സ്കൂൾ കൂട്ടുകാരനെ കണ്ടുമുട്ടി.",
     "usageExample": "Old pal.",
@@ -1857,7 +1857,7 @@
   },
   {
     "word": "acquaintance",
-    "wordMeaning": "പരിചയം",
+    "wordMeaning": "പരിചയക്കാരൻ",
     "englishText": "He distinguishes carefully between a casual acquaintance and a proven friend.",
     "malayalamMeaning": "വെറും ഒരു പരിചയക്കാരനും ആത്മാർത്ഥ സുഹൃത്തും തമ്മിലുള്ള വ്യത്യാസം അവൻ കൃത്യമായി തിരിച്ചറിയുന്നു.",
     "usageExample": "Casual tie.",
@@ -1881,7 +1881,7 @@
   },
   {
     "word": "bonhomie",
-    "wordMeaning": "ബോൺഹോമി",
+    "wordMeaning": "സൗഹൃദോഷ്മളത",
     "englishText": "A buoyant atmosphere of warm bonhomie filled the reunion banquet hall.",
     "malayalamMeaning": "സൗഹൃദത്തിന്റെ ഊഷ്മളതയും സന്തോഷവും ആ പൂർവ്വവിദ്യാർത്ഥി സംഗമ ഹാളിലുടനീളം നിറഞ്ഞുനിന്നു.",
     "usageExample": "Hearty geniality.",
@@ -1889,7 +1889,7 @@
   },
   {
     "word": "convivial",
-    "wordMeaning": "സുഖപ്രദമായ",
+    "wordMeaning": "ഉല്ലാസഭരിതമായ",
     "englishText": "We spent a convivial evening sharing funny anecdotes over a steaming pot of soup.",
     "malayalamMeaning": "ചൂടുള്ള സൂപ്പ് കുടിച്ചുകൊണ്ട് പഴയ തമാശക്കഥകൾ പറഞ്ഞ് ഞങ്ങൾ വളരെ സന്തോഷകരമായ ഒരു സായാഹ്നം ചെലവഴിച്ചു.",
     "usageExample": "Festive sociability.",
@@ -1897,7 +1897,7 @@
   },
   {
     "word": "esprit de corps",
-    "wordMeaning": "എസ്പ്രിറ്റ് ഡി കോർപ്സ്",
+    "wordMeaning": "സംഘബോധം",
     "englishText": "The demanding trek fostered an inspiring esprit de corps among the mountaineers.",
     "malayalamMeaning": "ആ കഠിനമായ മലകയറ്റം പർവതാരോഹകർക്കിടയിൽ പരസ്പര ഐക്യവും കൂട്ടായ്മാ മനോഭാവവും വളർത്തി.",
     "usageExample": "Team spirit.",
@@ -1913,7 +1913,7 @@
   },
   {
     "word": "kindred",
-    "wordMeaning": "ബന്ധുക്കൾ",
+    "wordMeaning": "സമാനമനസ്കമായ",
     "englishText": "Meeting her was like encountering a kindred spirit who understood every unsaid word.",
     "malayalamMeaning": "പറയാത്ത വാക്കുകൾ പോലും മനസ്സിലാകുന്ന മനസ്സിന് ഇണങ്ങിയ ഒരാളെ കണ്ടുമുട്ടിയതുപോലെയായിരുന്നു അവളുമായിയുള്ള സൗഹൃദം.",
     "usageExample": "Alike in nature.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "symbiotic",
-    "wordMeaning": "സഹജീവി",
+    "wordMeaning": "പരസ്പരപൂരകമായ",
     "englishText": "The creative collaboration between the writer and illustrator was truly symbiotic.",
     "malayalamMeaning": "എഴുത്തുകാരനും ചിത്രകാരനും തമ്മിലുള്ള ആ സർഗ്ഗാത്മക കൂട്ടുകെട്ട് പരസ്പരം വളരെയധികം സഹായിക്കുന്ന ഒന്നായിരുന്നു.",
     "usageExample": "Mutually beneficial.",
@@ -1929,7 +1929,7 @@
   },
   {
     "word": "unreserved",
-    "wordMeaning": "സംവരണം ചെയ്യാത്ത",
+    "wordMeaning": "കലവറയില്ലാത്ത",
     "englishText": "She gave her unreserved loyalty to her friend during the controversial debate.",
     "malayalamMeaning": "വിവാദമായ ആ തർക്കത്തിനിടയിലും തന്റെ സുഹൃത്തിന് അവൾ പൂർണ്ണ പിന്തുണ നൽകി.",
     "usageExample": "Unqualified.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "magnanimous",
-    "wordMeaning": "മഹാമനസ്കൻ",
+    "wordMeaning": "മഹാമനസ്കമായ",
     "englishText": "In a magnanimous gesture, he dismissed the debt his broke friend owed him.",
     "malayalamMeaning": "കയ്യിൽ പണമില്ലാത്ത കൂട്ടുകാരന്റെ അവസ്ഥ കണ്ട് ഉദാരമനസ്കതയോടെ അവൻ അവന്റെ കടം എഴുതിത്തള്ളി.",
     "usageExample": "Noble generosity.",
@@ -1945,7 +1945,7 @@
   },
   {
     "word": "genial",
-    "wordMeaning": "ജീനിയൽ",
+    "wordMeaning": "സ്നേഹശീലമുള്ള",
     "englishText": "Our genial host made sure that everyone had a warm drink and a comfortable chair.",
     "malayalamMeaning": "സ്നേഹനിധിയായ ആതിഥേയൻ എല്ലാവർക്കും ചൂടുള്ള പാനീയവും ഇരിക്കാൻ നല്ല സൗകര്യവും ഉറപ്പുവരുത്തി.",
     "usageExample": "Kindly and cheerful.",
@@ -1953,7 +1953,7 @@
   },
   {
     "word": "affable",
-    "wordMeaning": "മാന്യമായ",
+    "wordMeaning": "സൗഹൃദപൂർണ്ണമായ",
     "englishText": "His affable manner made even the most reserved strangers feel welcome.",
     "malayalamMeaning": "അവന്റെ പ്രിയങ്കരമായ പെരുമാറ്റം കാരണം പ്രകൃതത്തിൽ അന്തർമുഖരായ അപരിചിതർക്കു പോലും വലിയ അടുപ്പം തോന്നി.",
     "usageExample": "Pleasant and easy.",
@@ -1977,7 +1977,7 @@
   },
   {
     "word": "facetious",
-    "wordMeaning": "മുഖഭാവമുള്ള",
+    "wordMeaning": "അനാവശ്യ തമാശയുള്ള",
     "englishText": "Please refrain from facetious remarks while our friend is sharing his pain.",
     "malayalamMeaning": "നമ്മുടെ സുഹൃത്ത് അവന്റെ സങ്കടം പങ്കുവെക്കുമ്പോൾ അനാവശ്യമായ തമാശകൾ പറയാതിരിക്കുക.",
     "usageExample": "Inappropriately flippant.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "jocose",
-    "wordMeaning": "ജോക്കോസ്",
+    "wordMeaning": "തമാശ നിറഞ്ഞ",
     "englishText": "His jocose disposition made him the undisputed favorite at every social function.",
     "malayalamMeaning": "തമാശ നിറഞ്ഞ സ്വഭാവം കാരണം എല്ലാ ഒത്തുചേരലുകളിലും അവൻ എല്ലാവരുടെയും പ്രിയങ്കരനായിരുന്നു.",
     "usageExample": "Playful and jesting.",
@@ -1993,7 +1993,7 @@
   },
   {
     "word": "fraternize",
-    "wordMeaning": "സാഹോദര്യമാക്കുക",
+    "wordMeaning": "സൗഹൃദത്തോടെ ഇടപഴകുക",
     "englishText": "During the sports meet, athletes from rival colleges fraternized cordially.",
     "malayalamMeaning": "കായികമേളയ്ക്കിടയിൽ എതിർ ടീമുകളിലെ താരങ്ങൾ പരസ്പരം സ്നേഹത്തോടും സൗഹൃദത്തോടും കൂടി പെരുമാറി.",
     "usageExample": "Associate like brothers.",
@@ -2009,7 +2009,7 @@
   },
   {
     "word": "unfeigned",
-    "wordMeaning": "വ്യാജം",
+    "wordMeaning": "കപടതയില്ലാത്ത",
     "englishText": "There was unfeigned admiration in his eyes as he watched his friend receive the medal.",
     "malayalamMeaning": "തന്റെ സുഹൃത്ത് മെഡൽ ഏറ്റുവാങ്ങുന്നത് കണ്ടപ്പോൾ അവന്റെ കണ്ണുകളിൽ ആത്മാർത്ഥമായ അഭിമാനം നിറഞ്ഞുനിന്നു.",
     "usageExample": "Genuine and real.",
@@ -2017,7 +2017,7 @@
   },
   {
     "word": "candidness",
-    "wordMeaning": "ആത്മാർത്ഥത",
+    "wordMeaning": "നിഷ്കപടത",
     "englishText": "Her candidness, though blunt at times, was always motivated by genuine concern.",
     "malayalamMeaning": "ചിലപ്പോൾ മുഖത്തടിച്ചതുപോലെ സംസാരിക്കാറുണ്ടെങ്കിലും, അവളുടെ തുറന്നുപറച്ചിലുകൾക്ക് പിന്നിൽ എപ്പോഴും യഥാർത്ഥ സ്നേഹവും കരുതലും ഉണ്ടായിരുന്നു.",
     "usageExample": "Frank openness.",
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "forthrightness",
-    "wordMeaning": "സത്യസന്ധത",
+    "wordMeaning": "തുറന്ന പ്രകൃതം",
     "englishText": "I value his forthrightness because I always know where I stand with him.",
     "malayalamMeaning": "കാര്യങ്ങൾ ഉള്ളതുപോലെ തുറന്നുപറയുന്ന അവന്റെ സ്വഭാവത്തെ ഞാൻ ഏറെ ബഹുമാനിക്കുന്നു.",
     "usageExample": "Direct honesty.",
@@ -2041,7 +2041,7 @@
   },
   {
     "word": "stalwart",
-    "wordMeaning": "ധീരൻ",
+    "wordMeaning": "കരുത്തുറ്റ",
     "englishText": "He was a stalwart companion who never flinched in the face of shared danger.",
     "malayalamMeaning": "ഒരുമിച്ച് നേരിടേണ്ടി വന്ന അപകടങ്ങൾക്ക് മുന്നിൽ ഒരിക്കലും പതറാതെ കൂടെ നിന്ന ധീരനായ ഒരു കൂട്ടുകാരനായിരുന്നു അവൻ.",
     "usageExample": "Sturdy supporter.",
@@ -2065,7 +2065,7 @@
   },
   {
     "word": "exuberance",
-    "wordMeaning": "അമിതാവേശം",
+    "wordMeaning": "അടങ്ങാത്ത ആവേശം",
     "englishText": "The youthful exuberance of the group energized the entire community festival.",
     "malayalamMeaning": "ആ കൂട്ടുകാരുടെ ചുറുചുറുക്കും ആവേശവും നാട്ടുത്സവത്തിന് മുഴുവൻ വലിയൊരു ഉണർവ്വ് പകർന്നു.",
     "usageExample": "High-spirited joy.",
@@ -2081,7 +2081,7 @@
   },
   {
     "word": "effervescence",
-    "wordMeaning": "ജ്വലനം",
+    "wordMeaning": "പ്രസരിപ്പ്",
     "englishText": "Her effervescence of spirit made her the shining star of the camping trip.",
     "malayalamMeaning": "അവളുടെ അടങ്ങാത്ത ആവേശവും സന്തോഷവും ആ ക്യാമ്പിംഗ് യാത്രയെ ഒന്നാകെ ഉന്മേഷഭരിതമാക്കി.",
     "usageExample": "Bubbly enthusiasm.",
@@ -2097,7 +2097,7 @@
   },
   {
     "word": "buoyant",
-    "wordMeaning": "പൊങ്ങിക്കിടക്കുന്ന",
+    "wordMeaning": "ഉന്മേഷഭരിതമായ",
     "englishText": "The buoyant mood of the group was not dampened even by the sudden heavy rain.",
     "malayalamMeaning": "പെട്ടെന്ന് പെയ്ത കനത്ത മഴയ്ക്ക് പോലും ആ കൂട്ടുകാരുടെ സന്തോഷവും ആവേശവും തല്ലിക്കെടുത്താൻ കഴിഞ്ഞില്ല.",
     "usageExample": "Resiliently cheerful.",
@@ -2113,7 +2113,7 @@
   },
   {
     "word": "joviality",
-    "wordMeaning": "വിനോദം",
+    "wordMeaning": "ഉല്ലാസഭാവം",
     "englishText": "The joviality of the reunion feast reminded everyone of their golden college days.",
     "malayalamMeaning": "ആ ഒത്തുചേരൽ വിരുന്നിലെ സന്തോഷവും ചിരിയും എല്ലാവർക്കും തങ്ങളുടെ സുന്ദരമായ കോളേജ് നാളുകളെ ഓർമ്മിപ്പിച്ചു.",
     "usageExample": "Hearty good cheer.",
@@ -2129,7 +2129,7 @@
   },
   {
     "word": "hilarity",
-    "wordMeaning": "ഉല്ലാസം",
+    "wordMeaning": "പൊട്ടിച്ചിരി",
     "englishText": "The absurd comedy sketch triggered roaring hilarity among the college crowd.",
     "malayalamMeaning": "ആ രസകരമായ കോമഡി സ്കിറ്റ് കോളേജ് വിദ്യാർത്ഥികളിൽ വൻ ചിരിയുടെ അലയൊലികൾ സൃഷ്ടിച്ചു.",
     "usageExample": "Boisterous laughter.",
@@ -2137,7 +2137,7 @@
   },
   {
     "word": "conviviality",
-    "wordMeaning": "സൗഹൃദം",
+    "wordMeaning": "സൗഹൃദഭാവം",
     "englishText": "The local teahouse was famous for its atmosphere of unpretentious conviviality.",
     "malayalamMeaning": "ജാഡകളൊന്നുമില്ലാത്ത ആത്മാർത്ഥ സൗഹൃദത്തിന്റെ അന്തരീക്ഷമായിരുന്നു ആ നാടൻ ചായക്കടയുടെ പ്രത്യേകത.",
     "usageExample": "Festive social warmth.",
@@ -2153,7 +2153,7 @@
   },
   {
     "word": "gregarious",
-    "wordMeaning": "കൂട്ടമായി",
+    "wordMeaning": "സൗഹൃദപ്രിയമുള്ള",
     "englishText": "Being gregarious by temperament, he gathered a diverse circle of friends.",
     "malayalamMeaning": "എല്ലാവരോടും പെട്ടെന്ന് ഇണങ്ങി സൗഹൃദം സ്ഥാപിക്കുന്ന പ്രകൃതമായതിനാൽ അവന് വലിയൊരു സുഹൃദ്‌വലയം തന്നെയുണ്ടായിരുന്നു.",
     "usageExample": "Highly sociable.",
@@ -2161,7 +2161,7 @@
   },
   {
     "word": "altruistic",
-    "wordMeaning": "പരോപകാരി",
+    "wordMeaning": "പരോപകാരപരമായ",
     "englishText": "Her altruistic acts of friendship were performed quietly without seeking praise.",
     "malayalamMeaning": "യാതൊരു അഭിനന്ദനവും ആഗ്രഹിക്കാതെ തികച്ചും നിസ്വാർത്ഥമായാണ് അവൾ സുഹൃത്തുക്കളെ സഹായിച്ചിരുന്നത്.",
     "usageExample": "Selfless care.",
@@ -2185,7 +2185,7 @@
   },
   {
     "word": "allegiance",
-    "wordMeaning": "വിധേയത്വം",
+    "wordMeaning": "കൂറ്",
     "englishText": "Their mutual allegiance was tested by adversity but emerged stronger than ever.",
     "malayalamMeaning": "പ്രതിസന്ധികൾ അവരുടെ സൗഹൃദത്തെ പരീക്ഷിച്ചെങ്കിലും, അത് മുൻപത്തേക്കാൾ കൂടുതൽ കരുത്താർജ്ജിച്ചു.",
     "usageExample": "Loyalty bond.",
@@ -2225,7 +2225,7 @@
   },
   {
     "word": "unflinching",
-    "wordMeaning": "അനിയന്ത്രിതമായ",
+    "wordMeaning": "പതറാത്ത",
     "englishText": "Her unflinching courage inspired her peers to stand up against unfair policies.",
     "malayalamMeaning": "അനീതിക്കെതിരെ ഉറച്ചുനിൽക്കാൻ അവളുടെ അചഞ്ചലമായ ധൈര്യം സഹപാഠികൾക്ക് വലിയ പ്രചോദനമായി.",
     "usageExample": "Steadfast boldness.",
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "paragon",
-    "wordMeaning": "പാരാഗൺ",
+    "wordMeaning": "ഉത്തമ മാതൃക",
     "englishText": "He was celebrated as a paragon of loyalty, integrity, and gentle humility.",
     "malayalamMeaning": "വിശ്വസ്തതയുടെയും സത്യസന്ധതയുടെയും വിനയത്തിന്റെയും ഉത്തമ മാതൃകയായി അവൻ വാഴ്ത്തപ്പെട്ടു.",
     "usageExample": "Ideal model.",
@@ -2249,7 +2249,7 @@
   },
   {
     "word": "confidante",
-    "wordMeaning": "വിശ്വസ്തൻ",
+    "wordMeaning": "ആത്മസഖി",
     "englishText": "She turned to her lifelong female confidante whenever she felt overwhelmed.",
     "malayalamMeaning": "മനസ്സിന് വല്ലാത്ത ഭാരവും വിഷമവും തോന്നുമ്പോഴെല്ലാം അവൾ തന്റെ പ്രിയപ്പെട്ട ആത്മമിത്രത്തോട് കാര്യങ്ങൾ തുറന്നുപറഞ്ഞു.",
     "usageExample": "Female trusted friend.",
@@ -2265,7 +2265,7 @@
   },
   {
     "word": "disarming",
-    "wordMeaning": "നിരായുധീകരണം",
+    "wordMeaning": "സംശയമകറ്റുന്ന",
     "englishText": "His disarming self-mockery quickly dispelled any awkwardness between them.",
     "malayalamMeaning": "സ്വയം തമാശയാക്കിക്കൊണ്ടുള്ള അവന്റെ രസകരമായ സംസാരം അവർക്കിടയിലുള്ള അപരിചിതത്വം പെട്ടെന്ന് തന്നെ മാറ്റി.",
     "usageExample": "Removing suspicion.",
@@ -2305,7 +2305,7 @@
   },
   {
     "word": "amenable",
-    "wordMeaning": "അനുകൂലമായ",
+    "wordMeaning": "സഹകരണമനോഭാവമുള്ള",
     "englishText": "He was amenable to changing his travel schedule to accommodate his sick buddy.",
     "malayalamMeaning": "സുഖമില്ലാതിരുന്ന കൂട്ടുകാരനുവേണ്ടി തന്റെ യാത്രാ തീയതി മാറ്റിവെക്കാൻ അവൻ സന്തോഷത്തോടെ തയ്യാറായി.",
     "usageExample": "Willingly cooperative.",
@@ -2321,7 +2321,7 @@
   },
   {
     "word": "circumspect",
-    "wordMeaning": "സൂക്ഷ്മത",
+    "wordMeaning": "സൂക്ഷ്മതയുള്ള",
     "englishText": "A good friend is circumspect and avoids embarrassing you in public settings.",
     "malayalamMeaning": "മറ്റുള്ളവരുടെ മുന്നിൽ വെച്ച് നിങ്ങളെ ഒരിക്കലും നാണംകെടുത്താത്ത ആളായിരിക്കും നല്ലൊരു സുഹൃത്ത്.",
     "usageExample": "Prudent discretion.",
@@ -2329,7 +2329,7 @@
   },
   {
     "word": "discreet",
-    "wordMeaning": "വിവേകി",
+    "wordMeaning": "വിവേകമുള്ള",
     "englishText": "Thank you for being completely discreet about my confidential family affairs.",
     "malayalamMeaning": "എന്റെ കുടുംബപരമായ സ്വകാര്യ കാര്യങ്ങൾ മറ്റാരോടും പറയാതെ കാത്തുസൂക്ഷിച്ചതിന് നന്ദി.",
     "usageExample": "Keeping confidences.",
@@ -2337,7 +2337,7 @@
   },
   {
     "word": "solicitous",
-    "wordMeaning": "അഭ്യർത്ഥനയുള്ള",
+    "wordMeaning": "കരുതലുള്ള",
     "englishText": "He was tenderly solicitous about his convalescing friend's comfort and diet.",
     "malayalamMeaning": "രോഗം ഭേദമായി വരുന്ന സുഹൃത്തിന്റെ വിശ്രമത്തിലും ഭക്ഷണകാര്യങ്ങളിലും അവൻ വലിയ കരുതലോടെ ശ്രദ്ധ ചെലുത്തി.",
     "usageExample": "Full of caring concern.",
@@ -2361,7 +2361,7 @@
   },
   {
     "word": "sidekick",
-    "wordMeaning": "സൈഡ്കിക്ക്",
+    "wordMeaning": "ഉറ്റ കൂട്ടാളി",
     "englishText": "His younger brother acted as his enthusiastic sidekick during neighborhood cricket matches.",
     "malayalamMeaning": "നാട്ടിലെ ക്രിക്കറ്റ് കളികളിലെല്ലാം അവന്റെ ഇളയ സഹോദരൻ അവനൊപ്പം എപ്പോഴും ആവേശത്തോടെ കൂടെ നിന്നു.",
     "usageExample": "Faithful helper.",
@@ -2369,7 +2369,7 @@
   },
   {
     "word": "chum",
-    "wordMeaning": "ചും",
+    "wordMeaning": "കൂട്ടുകാരൻ",
     "englishText": "He ran into an old school chum while waiting at the railway station.",
     "malayalamMeaning": "റെയിൽവേ സ്റ്റേഷനിൽ കാത്തിരിക്കുന്നതിനിടയിൽ അവൻ തന്റെ പഴയ സ്കൂൾ കൂട്ടുകാരനെ ആകസ്മികമായി കണ്ടുമുട്ടി.",
     "usageExample": "Close pal.",
@@ -2377,7 +2377,7 @@
   },
   {
     "word": "heart-to-heart",
-    "wordMeaning": "ഹൃദയം-ഹൃദയം",
+    "wordMeaning": "മനസ്സുതുറന്ന",
     "englishText": "We had a sincere heart-to-heart conversation on the quiet terrace.",
     "malayalamMeaning": "ടെറസിലെ ശാന്തമായ അന്തരീക്ഷത്തിൽ ഇരുന്ന് ഞങ്ങൾ മനസ്സുതുറന്ന് ഒരുപാട് സംസാരിച്ചു.",
     "usageExample": "Deep talk.",
@@ -2385,7 +2385,7 @@
   },
   {
     "word": "ally",
-    "wordMeaning": "സഖ്യകക്ഷി",
+    "wordMeaning": "മിത്രം",
     "englishText": "A dependable ally will stand beside you when others question your integrity.",
     "malayalamMeaning": "മറ്റുള്ളവർ നിങ്ങളെ സംശയത്തോടെ നോക്കുമ്പോൾ കൂടെ നിൽക്കുന്ന ആളാണ് വിശ്വസ്തനായ ഒരു സുഹൃത്ത്.",
     "usageExample": "Supporter.",
@@ -2393,7 +2393,7 @@
   },
   {
     "word": "kindred spirit",
-    "wordMeaning": "ബന്ധുവായ ആത്മാവ്",
+    "wordMeaning": "മനസ്സിനിണങ്ങിയ സുഹൃത്ത്",
     "englishText": "She discovered a true kindred spirit who shared her passion for classical painting.",
     "malayalamMeaning": "ചിത്രകലയോടുള്ള തന്റെ അതേ കമ്പം പങ്കുവെക്കുന്ന മനസ്സിനിണങ്ങിയ ഒരു കൂട്ടുകാരിയെ അവൾക്ക് ലഭിച്ചു.",
     "usageExample": "Soulmate peer.",

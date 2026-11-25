@@ -1,7 +1,7 @@
 [
   {
     "word": "feel",
-    "wordMeaning": "തോന്നുന്നു",
+    "wordMeaning": "തോന്നുക",
     "englishText": "I feel remarkably refreshed after a long walk along the sea coast.",
     "malayalamMeaning": "കടൽത്തീരത്തുകൂടിയുള്ള നീണ്ട നടത്തത്തിന് ശേഷം എനിക്ക് നല്ല ഉന്മേഷം തോന്നുന്നുണ്ട്.",
     "usageExample": "Experience sensation.",
@@ -25,7 +25,7 @@
   },
   {
     "word": "happy",
-    "wordMeaning": "സന്തോഷം",
+    "wordMeaning": "സന്തോഷമുള്ള",
     "englishText": "Seeing her little daughter laugh made the mother intensely happy.",
     "malayalamMeaning": "തന്റെ കൊച്ചുമകൾ ചിരിക്കുന്നത് കണ്ടപ്പോൾ ആ അമ്മയ്ക്ക് അളവറ്റ സന്തോഷം തോന്നി.",
     "usageExample": "Joyful.",
@@ -33,7 +33,7 @@
   },
   {
     "word": "glad",
-    "wordMeaning": "സന്തോഷം",
+    "wordMeaning": "സന്തുഷ്ടമായ",
     "englishText": "I am so glad you arrived home safely before the monsoon storm hit.",
     "malayalamMeaning": "മഴക്കാലത്തെ കൊടുങ്കാറ്റ് വീശിയടിക്കുന്നതിന് മുൻപ് നിങ്ങൾ സുരക്ഷിതമായി വീട്ടിലെത്തിയതിൽ എനിക്ക് അതിയായ സന്തോഷമുണ്ട്.",
     "usageExample": "Pleased.",
@@ -65,7 +65,7 @@
   },
   {
     "word": "cheer",
-    "wordMeaning": "സന്തോഷിപ്പിക്കുക",
+    "wordMeaning": "പ്രോത്സാഹിപ്പിക്കുക",
     "englishText": "Friends gathered at the finish line to cheer for the marathon runner.",
     "malayalamMeaning": "മാരത്തൺ ഓട്ടക്കാരനെ പ്രോത്സാഹിപ്പിക്കാനും ആർത്തുവിളിക്കാനും ഫിനിഷിങ് ലൈനിനടുത്ത് കൂട്ടുകാർ ഒത്തുകൂടി.",
     "usageExample": "Encourage.",
@@ -81,7 +81,7 @@
   },
   {
     "word": "excited",
-    "wordMeaning": "ആവേശഭരിതനായി",
+    "wordMeaning": "ആവേശഭരിതമായ",
     "englishText": "The students were excited about their upcoming field trip to the space center.",
     "malayalamMeaning": "സ്പേസ് സെന്ററിലേക്കുള്ള പഠനയാത്രയെക്കുറിച്ച് ഓർത്ത് വിദ്യാർത്ഥികൾ വലിയ ആവേശത്തിലായിരുന്നു.",
     "usageExample": "Thrilled.",
@@ -89,7 +89,7 @@
   },
   {
     "word": "proud",
-    "wordMeaning": "അഭിമാനിക്കുന്നു",
+    "wordMeaning": "അഭിമാനമുള്ള",
     "englishText": "Father was so proud when his son graduated with top academic honors.",
     "malayalamMeaning": "മകൻ മികച്ച മാർക്കോടെ ബിരുദം നേടിയപ്പോൾ അച്ഛന് വലിയ അഭിമാനം തോന്നി.",
     "usageExample": "Feeling pride.",
@@ -129,7 +129,7 @@
   },
   {
     "word": "sweet",
-    "wordMeaning": "മധുരം",
+    "wordMeaning": "ഹൃദ്യമായ",
     "englishText": "She sent a sweet handwritten letter thanking her aunt for the hospitality.",
     "malayalamMeaning": "സ്വീകരണത്തിനും സ്നേഹത്തിനും നന്ദി അറിയിച്ചുകൊണ്ട് അവൾ അമ്മായിക്ക് സ്നേഹം നിറഞ്ഞൊരു കത്തെഴുതി അയച്ചു.",
     "usageExample": "Charming/kind.",
@@ -137,7 +137,7 @@
   },
   {
     "word": "warm",
-    "wordMeaning": "ചൂട്",
+    "wordMeaning": "ഊഷ്മളമായ",
     "englishText": "They gave us a warm welcome with hot cardamom tea and homemade snacks.",
     "malayalamMeaning": "ചൂടുള്ള ഏലയ്ക്കാച്ചായയും വീട്ടിലുണ്ടാക്കിയ പലഹാരങ്ങളും നൽകി അവർ ഞങ്ങളെ സ്നേഹത്തോടെ സ്വീകരിച്ചു.",
     "usageExample": "Affectionate.",
@@ -193,7 +193,7 @@
   },
   {
     "word": "brave",
-    "wordMeaning": "ധീരൻ",
+    "wordMeaning": "ധീരമായ",
     "englishText": "The brave firefighter rushed into the burning house to rescue the trapped kitten.",
     "malayalamMeaning": "കുടുങ്ങിപ്പോയ പൂച്ചക്കുട്ടിയെ രക്ഷിക്കാൻ ധീരനായ ആ ഫയർഫോഴ്സ് ഉദ്യോഗസ്ഥൻ കത്തുന്ന വീടിനുള്ളിലേക്ക് പാഞ്ഞുചെന്നു.",
     "usageExample": "Courageous.",
@@ -209,7 +209,7 @@
   },
   {
     "word": "sad",
-    "wordMeaning": "ദുഃഖം",
+    "wordMeaning": "ദുഃഖിതമായ",
     "englishText": "It made him deeply sad to watch his childhood ancestral home get demolished.",
     "malayalamMeaning": "തന്റെ കുട്ടിക്കാലം ചിലവഴിച്ച തറവാട് പൊളിക്കുന്നത് കണ്ടപ്പോൾ അദ്ദേഹത്തിന് അതിയായ സങ്കടം തോന്നി.",
     "usageExample": "Unhappy.",
@@ -249,7 +249,7 @@
   },
   {
     "word": "hurt",
-    "wordMeaning": "വേദനിപ്പിച്ചു",
+    "wordMeaning": "വേദനിപ്പിക്കുക",
     "englishText": "Harsh, thoughtless words can hurt someone far deeper than physical blows.",
     "malayalamMeaning": "ചിന്തിക്കാതെയുള്ള പരുഷമായ വാക്കുകൾ ശാരീരിക മുറിവുകളേക്കാൾ ആഴത്തിൽ മനസ്സിനെ വേദനിപ്പിച്ചേക്കാം.",
     "usageExample": "Wound emotionally.",
@@ -265,7 +265,7 @@
   },
   {
     "word": "upset",
-    "wordMeaning": "അസ്വസ്ഥത",
+    "wordMeaning": "അസ്വസ്ഥമായ",
     "englishText": "Do not be upset over minor setbacks; focus on what you can control.",
     "malayalamMeaning": "ചെറിയ തിരിച്ചടികളിൽ മനംനൊന്ത് വിഷമിക്കരുത്; നിങ്ങൾക്ക് നിയന്ത്രിക്കാൻ കഴിയുന്ന കാര്യങ്ങളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുക.",
     "usageExample": "Disturbed.",
@@ -273,7 +273,7 @@
   },
   {
     "word": "down",
-    "wordMeaning": "താഴേക്ക്",
+    "wordMeaning": "വിഷണ്ണമായ",
     "englishText": "Whenever I feel down, listening to classical acoustic music lifts my spirits.",
     "malayalamMeaning": "എപ്പോഴെങ്കിലും മനസ്സ് മടുക്കുമ്പോൾ, ശാസ്ത്രീയ സംഗീതം കേൾക്കുന്നത് എനിക്ക് വലിയ ആശ്വാസവും ഉന്മേഷവും തരും.",
     "usageExample": "Depressed mood.",
@@ -297,7 +297,7 @@
   },
   {
     "word": "miss",
-    "wordMeaning": "മിസ്സ്",
+    "wordMeaning": "നഷ്ടബോധം തോന്നുക",
     "englishText": "I miss the sweet sound of rain falling on the clay roof tiles back home.",
     "malayalamMeaning": "നാട്ടിലെ വീടിന്റെ ഓട്ടിൻപുറത്ത് മഴത്തുള്ളികൾ വീഴുന്ന ആ മനോഹരമായ ശബ്ദം ഞാൻ വല്ലാതെ മിസ്സ് ചെയ്യുന്നു.",
     "usageExample": "Long for.",
@@ -313,7 +313,7 @@
   },
   {
     "word": "afraid",
-    "wordMeaning": "ഭയപ്പെട്ടു",
+    "wordMeaning": "ഭയമുള്ള",
     "englishText": "Do not be afraid to admit when you do not know the answer to a question.",
     "malayalamMeaning": "ഒരു ചോദ്യത്തിന്റെ ഉത്തരം അറിയില്ലെങ്കിൽ അത് തുറന്നുപറയാൻ മടിക്കേണ്ടതില്ല.",
     "usageExample": "Frightened.",
@@ -321,7 +321,7 @@
   },
   {
     "word": "scared",
-    "wordMeaning": "പേടിച്ചു",
+    "wordMeaning": "പേടിച്ച",
     "englishText": "The loud thunderclaps made the little toddler scared during the night.",
     "malayalamMeaning": "രാത്രിയിലെ കനത്ത ഇടിമുഴക്കം കേട്ട് ആ കുഞ്ഞ് പേടിച്ചുപോയി.",
     "usageExample": "Frightened.",
@@ -369,7 +369,7 @@
   },
   {
     "word": "angry",
-    "wordMeaning": "ദേഷ്യം",
+    "wordMeaning": "ദേഷ്യമുള്ള",
     "englishText": "He was angry about the delayed train, but he spoke politely to the staff.",
     "malayalamMeaning": "ട്രെയിൻ വൈകിയതിൽ അദ്ദേഹത്തിന് ദേഷ്യം വന്നെങ്കിലും ജീവനക്കാരോട് വളരെ മാന്യമായാണ് സംസാരിച്ചത്.",
     "usageExample": "Enraged.",
@@ -377,7 +377,7 @@
   },
   {
     "word": "mad",
-    "wordMeaning": "ഭ്രാന്തൻ",
+    "wordMeaning": "കോപിച്ച",
     "englishText": "Do not stay mad at your brother over a silly disagreement about video games.",
     "malayalamMeaning": "വീഡിയോ ഗെയിമിന്റെ പേരിലുള്ള നിസ്സാര തർക്കത്തിന് സഹോദരനോട് പിണങ്ങിയിരിക്കരുത്.",
     "usageExample": "Furious.",
@@ -385,7 +385,7 @@
   },
   {
     "word": "cross",
-    "wordMeaning": "കുരിശ്",
+    "wordMeaning": "നീരസമുള്ള",
     "englishText": "Grandmother looked cross when the children tracked wet garden mud inside.",
     "malayalamMeaning": "കുട്ടികൾ പൂന്തോട്ടത്തിലെ നനഞ്ഞ ചെളി ചവിട്ടി വീടിനകത്തേക്ക് കൊണ്ടുവന്നപ്പോൾ മുത്തശ്ശിക്ക് ദേഷ്യം വന്നു.",
     "usageExample": "Irritated.",
@@ -393,7 +393,7 @@
   },
   {
     "word": "annoyed",
-    "wordMeaning": "അലോസരപ്പെടുത്തി",
+    "wordMeaning": "അലോസരപ്പെട്ട",
     "englishText": "She felt annoyed by the loud motorcycle revving down the quiet street.",
     "malayalamMeaning": "ശാന്തമായ ആ വഴിയിലൂടെ വലിയ ശബ്ദമുണ്ടാക്കി ബൈക്ക് ഓടിച്ചുപോയത് അവളെ വല്ലാതെ അലോസരപ്പെടുത്തി.",
     "usageExample": "Vexed.",
@@ -401,7 +401,7 @@
   },
   {
     "word": "irritated",
-    "wordMeaning": "പ്രകോപിതനായി",
+    "wordMeaning": "പ്രകോപിതമായ",
     "englishText": "Wearing itchy woolen clothing in hot weather made the toddler irritated.",
     "malayalamMeaning": "ചൂടുള്ള കാലാവസ്ഥയിൽ ചൊറിച്ചിലുണ്ടാക്കുന്ന കമ്പിളിവസ്ത്രം ധരിച്ചത് ആ കുഞ്ഞിനെ അസ്വസ്ഥനാക്കി.",
     "usageExample": "Bothered.",
@@ -409,7 +409,7 @@
   },
   {
     "word": "hate",
-    "wordMeaning": "വെറുക്കുന്നു",
+    "wordMeaning": "വെറുക്കുക",
     "englishText": "Never allow hatred to poison your heart; choose forgiveness instead.",
     "malayalamMeaning": "വിദ്വേഷം നിങ്ങളുടെ മനസ്സിനെ വിഷലിപ്തമാക്കാൻ ഒരിക്കലും അനുവദിക്കരുത്; പകരം ക്ഷമിക്കാൻ ശീലിക്കുക.",
     "usageExample": "Intense dislike.",
@@ -441,7 +441,7 @@
   },
   {
     "word": "shy",
-    "wordMeaning": "ലജ്ജാശീലം",
+    "wordMeaning": "ലജ്ജയുള്ള",
     "englishText": "The little girl was shy at first, hiding behind her mother's saree pleats.",
     "malayalamMeaning": "ആ കൊച്ചുപെൺകുട്ടി തുടക്കത്തിൽ നാണത്തോടെ അമ്മയുടെ സാരിത്തുമ്പിൽ മറഞ്ഞുനിന്നു.",
     "usageExample": "Timid.",
@@ -449,7 +449,7 @@
   },
   {
     "word": "blush",
-    "wordMeaning": "നാണം",
+    "wordMeaning": "മുഖം തുടുക്കൽ",
     "englishText": "A delicate pink blush spread across her cheeks as the crowd applauded her.",
     "malayalamMeaning": "സദസ്സ് ഒന്നടങ്കം കയ്യടിച്ചപ്പോൾ നാണം കൊണ്ട് അവളുടെ കവിളുകൾ തുടുത്തു.",
     "usageExample": "Reddening face.",
@@ -465,7 +465,7 @@
   },
   {
     "word": "sorry",
-    "wordMeaning": "ക്ഷമിക്കണം",
+    "wordMeaning": "ഖേദമുള്ള",
     "englishText": "I am truly sorry for arriving late and keeping you waiting in the heat.",
     "malayalamMeaning": "വൈകി വന്നതിനും ഈ കൊടുംചൂടിൽ നിങ്ങളെ കാത്തുനിർത്തിയതിനും ഞാൻ ആത്മാർത്ഥമായി ക്ഷമ ചോദിക്കുന്നു.",
     "usageExample": "Apologetic.",
@@ -473,7 +473,7 @@
   },
   {
     "word": "tired",
-    "wordMeaning": "തളർന്നു",
+    "wordMeaning": "തളർന്ന",
     "englishText": "After working twelve hours in the fields, the farmer felt thoroughly tired.",
     "malayalamMeaning": "പാടത്ത് പന്ത്രണ്ട് മണിക്കൂർ പണിയെടുത്തതിനു ശേഷം കർഷകൻ വല്ലാതെ തളർന്നുപോയി.",
     "usageExample": "Fatigued.",
@@ -481,7 +481,7 @@
   },
   {
     "word": "sleepy",
-    "wordMeaning": "ഉറക്കം",
+    "wordMeaning": "ഉറക്കം തൂങ്ങുന്ന",
     "englishText": "A warm glass of milk makes the baby sleepy and ready for bed.",
     "malayalamMeaning": "ഒരു ഗ്ലാസ് ഇളംചൂടുള്ള പാല് കുടിച്ചപ്പോൾ കുഞ്ഞിന് ഉറക്കം തൂങ്ങാൻ തുടങ്ങി.",
     "usageExample": "Drowsy.",
@@ -505,7 +505,7 @@
   },
   {
     "word": "bored",
-    "wordMeaning": "വിരസത",
+    "wordMeaning": "മടുപ്പ് തോന്നുന്ന",
     "englishText": "Children get bored easily when trapped indoors on rainy afternoons.",
     "malayalamMeaning": "മഴയുള്ള ഉച്ചനേരങ്ങളിൽ വീടിനുള്ളിൽ തന്നെ ഇരിക്കേണ്ടി വരുമ്പോൾ കുട്ടികൾക്ക് പെട്ടെന്ന് മടുപ്പ് തോന്നും.",
     "usageExample": "Unstimulated.",
@@ -513,7 +513,7 @@
   },
   {
     "word": "lazy",
-    "wordMeaning": "മടിയൻ",
+    "wordMeaning": "മടിയുള്ള",
     "englishText": "A cool Sunday morning makes you want to stay in bed and be delightfully lazy.",
     "malayalamMeaning": "കുളിരുള്ള ഒരു ഞായറാഴ്ച പ്രഭാതത്തിൽ കിടക്കയിൽത്തന്നെ അലസമായി കിടക്കാൻ ആർക്കാണ് തോന്നാത്തത്!",
     "usageExample": "Sluggish.",
@@ -553,7 +553,7 @@
   },
   {
     "word": "interest",
-    "wordMeaning": "പലിശ",
+    "wordMeaning": "താല്പര്യം",
     "englishText": "She showed a keen interest in learning classical Indian vocal music.",
     "malayalamMeaning": "ശാസ്ത്രീയ സംഗീതം പഠിക്കാൻ അവൾ അതീവ താല്പര്യം പ്രകടിപ്പിച്ചു.",
     "usageExample": "Attentive focus.",
@@ -561,7 +561,7 @@
   },
   {
     "word": "eager",
-    "wordMeaning": "ആകാംക്ഷയോടെ",
+    "wordMeaning": "ആകാംക്ഷയുള്ള",
     "englishText": "The young graduates were eager to begin their first professional assignments.",
     "malayalamMeaning": "തങ്ങളുടെ ആദ്യത്തെ ജോലിയിൽ പ്രവേശിക്കാൻ ബിരുദധാരികളായ ചെറുപ്പക്കാർ വലിയ ആകാംക്ഷയോടെ കാത്തിരിക്കുകയായിരുന്നു.",
     "usageExample": "Keenly enthusiastic.",
@@ -569,7 +569,7 @@
   },
   {
     "word": "ready",
-    "wordMeaning": "തയ്യാറാണ്",
+    "wordMeaning": "തയ്യാറായ",
     "englishText": "Take a deep breath and tell yourself that you are fully ready for the exam.",
     "malayalamMeaning": "ദീർഘമായി ശ്വാസമെടുത്ത് പരീക്ഷയെഴുതാൻ പൂർണ്ണമായും തയ്യാറാണെന്ന് സ്വയം പറയുക.",
     "usageExample": "Prepared.",
@@ -577,7 +577,7 @@
   },
   {
     "word": "sure",
-    "wordMeaning": "ഉറപ്പാണ്",
+    "wordMeaning": "ഉറപ്പുള്ള",
     "englishText": "I am completely sure that things will turn out well for you in the end.",
     "malayalamMeaning": "ഒടുവിൽ എല്ലാം നല്ലതിനായി ഭവിക്കുമെന്ന് എനിക്ക് പൂർണ്ണ ഉറപ്പുണ്ട്.",
     "usageExample": "Certain.",
@@ -585,7 +585,7 @@
   },
   {
     "word": "doubtful",
-    "wordMeaning": "സംശയാസ്പദമായ",
+    "wordMeaning": "സംശയമുള്ള",
     "englishText": "He was doubtful about the weather forecast, so he packed an umbrella.",
     "malayalamMeaning": "കാലാവസ്ഥാ പ്രവചനത്തിൽ സംശയം തോന്നിയതുകൊണ്ട് അവൻ ഒരു കുട കയ്യിൽ കരുതി.",
     "usageExample": "Uncertain.",
@@ -593,7 +593,7 @@
   },
   {
     "word": "trust",
-    "wordMeaning": "വിശ്വസിക്കുക",
+    "wordMeaning": "വിശ്വാസം",
     "englishText": "It takes years to build mutual trust, but only seconds to destroy it.",
     "malayalamMeaning": "പരസ്പര വിശ്വാസം വളർത്തിയെടുക്കാൻ വർഷങ്ങളെടുക്കും, എന്നാൽ അത് തകർക്കാൻ നിമിഷങ്ങൾ മതി.",
     "usageExample": "Reliance.",
@@ -617,7 +617,7 @@
   },
   {
     "word": "believe",
-    "wordMeaning": "വിശ്വസിക്കുന്നു",
+    "wordMeaning": "വിശ്വസിക്കുക",
     "englishText": "Always believe in your inner strength and capacity to overcome hardships.",
     "malayalamMeaning": "പ്രതിസന്ധികളെ തരണം ചെയ്യാനുള്ള നിങ്ങളുടെ ഉള്ളിലെ കരുത്തിലും കഴിവിലും എപ്പോഴും വിശ്വസിക്കുക.",
     "usageExample": "Hold true.",
@@ -649,7 +649,7 @@
   },
   {
     "word": "good",
-    "wordMeaning": "നല്ലത്",
+    "wordMeaning": "നല്ല",
     "englishText": "A good laugh with childhood friends is the best medicine for a heavy heart.",
     "malayalamMeaning": "കുട്ടിക്കാലത്തെ കൂട്ടുകാരോടൊപ്പമുള്ള നല്ലൊരു പൊട്ടിച്ചിരി മനസ്സിന്റെ ഭാരം കുറയ്ക്കാനുള്ള ഏറ്റവും നല്ല ഔഷധമാണ്.",
     "usageExample": "Pleasant.",
@@ -665,7 +665,7 @@
   },
   {
     "word": "super",
-    "wordMeaning": "സൂപ്പർ",
+    "wordMeaning": "അത്യുത്തമമായ",
     "englishText": "We felt super energized after our morning yoga session on the beach.",
     "malayalamMeaning": "കടൽത്തീരത്തെ പ്രഭാത യോഗയ്ക്ക് ശേഷം ഞങ്ങൾക്ക് അപാരമായ ഉന്മേഷം തോന്നി.",
     "usageExample": "High quality.",
@@ -673,7 +673,7 @@
   },
   {
     "word": "fine",
-    "wordMeaning": "നന്നായി",
+    "wordMeaning": "കുഴപ്പമില്ലാത്ത",
     "englishText": "Despite the minor accident, everyone in the car was completely fine.",
     "malayalamMeaning": "ചെറിയൊരു അപകടം ഉണ്ടായെങ്കിലും കാറിലുണ്ടായിരുന്ന എല്ലാവർക്കും യാതൊരു കുഴപ്പവുമുണ്ടായിരുന്നില്ല.",
     "usageExample": "Satisfactory.",
@@ -697,7 +697,7 @@
   },
   {
     "word": "light",
-    "wordMeaning": "വെളിച്ചം",
+    "wordMeaning": "ലഘുവായ",
     "englishText": "Sharing your private worries with a trusted friend makes your heart feel light.",
     "malayalamMeaning": "വിശ്വസ്തനായ ഒരു സുഹൃത്തിനോട് മനസ്സിലെ സങ്കടങ്ങൾ തുറന്നുപറയുന്നത് മനസ്സിന്റെ ഭാരം കുറയ്ക്കാൻ സഹായിക്കും.",
     "usageExample": "Buoyant.",
@@ -713,7 +713,7 @@
   },
   {
     "word": "dark",
-    "wordMeaning": "ഇരുണ്ട്",
+    "wordMeaning": "ഇരുണ്ട",
     "englishText": "During dark moments of despair, look to the steadfast love of your family.",
     "malayalamMeaning": "നിരാശയുടെ ഇരുണ്ട നിമിഷങ്ങളിൽ കുടുംബത്തിന്റെ സ്നേഹവും താങ്ങുമാണ് നമുക്ക് തുണയാവുന്നത്.",
     "usageExample": "Gloomy.",
@@ -721,7 +721,7 @@
   },
   {
     "word": "true",
-    "wordMeaning": "സത്യം",
+    "wordMeaning": "സത്യമായ",
     "englishText": "True contentment comes from within, not from accumulating material luxury.",
     "malayalamMeaning": "യഥാർത്ഥ മനസ്സംതൃപ്തി വരുന്നത് ഉള്ളിൽ നിന്നാണ്, അല്ലാതെ ഭൗതിക സുഖസൗകര്യങ്ങൾ വാരിക്കൂട്ടുന്നതിലൂടെയല്ല.",
     "usageExample": "Genuine.",
@@ -785,7 +785,7 @@
   },
   {
     "word": "thought",
-    "wordMeaning": "ചിന്തിച്ചു",
+    "wordMeaning": "ചിന്ത",
     "englishText": "Banish negative thoughts and replace them with affirmations of gratitude.",
     "malayalamMeaning": "നെഗറ്റീവ് ചിന്തകളെ മനസ്സിൽ നിന്ന് അകറ്റി പകരം നന്ദിയുള്ള നല്ല ചിന്തകൾ വളർത്തിയെടുക്കുക.",
     "usageExample": "Mental idea.",
@@ -793,7 +793,7 @@
   },
   {
     "word": "sense",
-    "wordMeaning": "ഇന്ദ്രിയം",
+    "wordMeaning": "ബോധം",
     "englishText": "He had an intuitive sense that something wonderful was about to happen.",
     "malayalamMeaning": "നല്ലതെന്തോ സംഭവിക്കാൻ പോകുന്നുവെന്ന് അവന്റെ മനസ്സ് നേരത്തെ തന്നെ അവനോട് പറയുന്നുണ്ടായിരുന്നു.",
     "usageExample": "Perception.",
@@ -801,7 +801,7 @@
   },
   {
     "word": "touch",
-    "wordMeaning": "സ്പർശിക്കുക",
+    "wordMeaning": "സ്പർശനം",
     "englishText": "A gentle maternal touch can instantly comfort a crying, frightened child.",
     "malayalamMeaning": "അമ്മയുടെ വാത്സല്യം നിറഞ്ഞൊരു സ്പർശനത്തിന് കരയുന്ന കുട്ടിയെ പെട്ടെന്ന് തന്നെ സാന്ത്വനിപ്പിക്കാൻ കഴിയും.",
     "usageExample": "Physical contact.",
@@ -841,7 +841,7 @@
   },
   {
     "word": "help",
-    "wordMeaning": "സഹായിക്കുക",
+    "wordMeaning": "സഹായം",
     "englishText": "Offering timely help to those in distress brings profound personal fulfillment.",
     "malayalamMeaning": "കഷ്ടപ്പെടുന്നവർക്ക് സമയത്തിന് സഹായമെത്തിക്കുന്നത് മനസ്സിന് വലിയ ചാരിതാർത്ഥ്യം നൽകും.",
     "usageExample": "Aid.",
@@ -857,7 +857,7 @@
   },
   {
     "word": "patient",
-    "wordMeaning": "രോഗി",
+    "wordMeaning": "ക്ഷമയുള്ള",
     "englishText": "Be patient with yourself as you learn and acquire new life skills.",
     "malayalamMeaning": "പുതിയ കാര്യങ്ങൾ പഠിച്ചെടുക്കുമ്പോൾ അക്ഷമരാവാതെ സ്വയം കുറച്ച് സമയം നൽകുക.",
     "usageExample": "Tolerant.",
@@ -873,7 +873,7 @@
   },
   {
     "word": "loud",
-    "wordMeaning": "ഉച്ചത്തിൽ",
+    "wordMeaning": "ഉച്ചത്തിലുള്ള",
     "englishText": "Loud, angry shouting only escalates arguments and shuts down communication.",
     "malayalamMeaning": "ഉറക്കെ ഒച്ചവെച്ച് ദേഷ്യപ്പെടുന്നത് തർക്കങ്ങൾ വഷളാക്കാനും പരസ്പര സംഭാഷണം നിലയ്ക്കാനും മാത്രമേ ഉപകരിക്കൂ.",
     "usageExample": "High volume.",
@@ -881,7 +881,7 @@
   },
   {
     "word": "cool",
-    "wordMeaning": "തണുത്ത",
+    "wordMeaning": "സംയമനമുള്ള",
     "englishText": "Maintain a cool head and composed demeanor during heated boardroom debates.",
     "malayalamMeaning": "ചൂടേറിയ ചർച്ചകൾ നടക്കുമ്പോഴും പതറാതെ മനസ്സ് ശാന്തമായി വെക്കാൻ ശ്രദ്ധിക്കുക.",
     "usageExample": "Unflustered.",
@@ -889,7 +889,7 @@
   },
   {
     "word": "free",
-    "wordMeaning": "സ്വതന്ത്ര",
+    "wordMeaning": "സ്വതന്ത്രമായ",
     "englishText": "Walking along the vast ocean shore makes you feel limitless and free.",
     "malayalamMeaning": "വിശാലമായ കടൽത്തീരത്തുകൂടി നടക്കുമ്പോൾ മനസ്സിലെ സകല ഭാരങ്ങളും ഒഴിഞ്ഞ് സ്വതന്ത്രനായതുപോലെ തോന്നും.",
     "usageExample": "Unburdened.",
@@ -897,7 +897,7 @@
   },
   {
     "word": "trapped",
-    "wordMeaning": "കുടുങ്ങി",
+    "wordMeaning": "കുടുങ്ങിയ",
     "englishText": "She felt trapped in her unfulfilling corporate job and decided to resign.",
     "malayalamMeaning": "തീരെ സന്തോഷം തരാത്ത ആ കോർപ്പറേറ്റ് ജോലിയിൽ വീർപ്പുമുട്ടിയപ്പോൾ അവൾ രാജി വെക്കാൻ തീരുമാനിച്ചു.",
     "usageExample": "Confined.",
@@ -905,7 +905,7 @@
   },
   {
     "word": "lost",
-    "wordMeaning": "നഷ്ടപ്പെട്ടു",
+    "wordMeaning": "വഴിതെറ്റിയ",
     "englishText": "The young traveler felt momentarily lost in the sprawling unfamiliar city.",
     "malayalamMeaning": "പരിചയമില്ലാത്ത ആ വലിയ നഗരത്തിൽ എത്തിപ്പെട്ടപ്പോൾ ആ യുവസഞ്ചാരിക്ക് ഒരു നിമിഷം വഴിതെറ്റിയതുപോലെ തോന്നി.",
     "usageExample": "Disoriented.",
@@ -921,7 +921,7 @@
   },
   {
     "word": "thank",
-    "wordMeaning": "നന്ദി",
+    "wordMeaning": "നന്ദി പറയുക",
     "englishText": "I want to thank you from the bottom of my heart for your unwavering kindness.",
     "malayalamMeaning": "നിങ്ങൾ കാണിച്ച വലിയ നന്മയ്ക്കും സ്നേഹത്തിനും എന്റെ ഹൃദയത്തിന്റെ അടിത്തട്ടിൽ നിന്ന് നന്ദി പറയുന്നു.",
     "usageExample": "Express gratitude.",
@@ -937,7 +937,7 @@
   },
   {
     "word": "content",
-    "wordMeaning": "ഉള്ളടക്കം",
+    "wordMeaning": "സംതൃപ്തമായ",
     "englishText": "Living a modest, purposeful life makes a person peaceful and content.",
     "malayalamMeaning": "ലളിതവും അർത്ഥപൂർണ്ണവുമായ ഒരു ജീവിതം നയിക്കുന്നത് മനുഷ്യന് മനശ്ശാന്തിയും സംതൃപ്തിയും നൽകുന്നു.",
     "usageExample": "Satisfied.",
@@ -977,7 +977,7 @@
   },
   {
     "word": "tender",
-    "wordMeaning": "ടെൻഡർ",
+    "wordMeaning": "ആർദ്രമായ",
     "englishText": "Mother gave her sleeping newborn baby a tender kiss on the forehead.",
     "malayalamMeaning": "ഉറങ്ങിക്കിടക്കുന്ന തന്റെ ചോരക്കുഞ്ഞിന്റെ നെറ്റിയിൽ അമ്മ വാത്സല്യത്തോടെ ഒരു ഉമ്മ കൊടുത്തു.",
     "usageExample": "Gentle/loving.",
@@ -985,7 +985,7 @@
   },
   {
     "word": "gloom",
-    "wordMeaning": "ഇരുട്ട്",
+    "wordMeaning": "വിഷാദഭാവം",
     "englishText": "A pall of gloom descended over the football team after the final defeat.",
     "malayalamMeaning": "ഫൈനലിലെ തോൽവിക്ക് ശേഷം ഫുട്ബോൾ ടീമിലൊന്നാകെ കനത്ത നിരാശയും മൂകതയും പടർന്നു.",
     "usageExample": "Melancholy air.",
@@ -993,7 +993,7 @@
   },
   {
     "word": "shocked",
-    "wordMeaning": "ഞെട്ടിപ്പോയി",
+    "wordMeaning": "ഞെട്ടിയ",
     "englishText": "We were utterly shocked to hear of the sudden factory closure.",
     "malayalamMeaning": "ഫാക്ടറി പെട്ടെന്ന് അടച്ചുപൂട്ടിയെന്ന വാർത്ത കേട്ട് ഞങ്ങൾ വല്ലാതെ ഞെട്ടിപ്പോയി.",
     "usageExample": "Stunned.",
@@ -1001,7 +1001,7 @@
   },
   {
     "word": "amazed",
-    "wordMeaning": "ആശ്ചര്യപ്പെട്ടു",
+    "wordMeaning": "ആശ്ചര്യപ്പെട്ട",
     "englishText": "The scientists were amazed by the intricate intelligence of honeybees.",
     "malayalamMeaning": "തേനീച്ചകളുടെ വിസ്മയിപ്പിക്കുന്ന കാര്യശേഷി കണ്ട് ശാസ്ത്രജ്ഞർ അത്ഭുതപ്പെട്ടുപോയി.",
     "usageExample": "Filled with wonder.",
@@ -1009,7 +1009,7 @@
   },
   {
     "word": "thrilled",
-    "wordMeaning": "രോമാഞ്ചം",
+    "wordMeaning": "പുളകിതമായ",
     "englishText": "She was thrilled to receive an official invitation to the literature festival.",
     "malayalamMeaning": "സാഹിത്യോത്സവത്തിലേക്ക് ഔദ്യോഗിക ക്ഷണം ലഭിച്ചതിൽ അവൾക്ക് അടക്കാനാവാത്ത സന്തോഷമുണ്ടായിരുന്നു.",
     "usageExample": "Excited joy.",
@@ -1017,7 +1017,7 @@
   },
   {
     "word": "furious",
-    "wordMeaning": "ക്രുദ്ധനായ",
+    "wordMeaning": "ക്രുദ്ധമായ",
     "englishText": "Father was furious when he discovered that the car brakes had been tampered with.",
     "malayalamMeaning": "കാറിന്റെ ബ്രേക്കിൽ ആരോ മനപ്പൂർവ്വം കൃത്രിമം കാണിച്ചെന്ന് മനസ്സിലായപ്പോൾ അച്ഛന് വല്ലാത്ത ദേഷ്യം വന്നു.",
     "usageExample": "Extremely angry.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "delighted",
-    "wordMeaning": "സന്തോഷിച്ചു",
+    "wordMeaning": "അതീവ സന്തുഷ്ടമായ",
     "englishText": "We were delighted to welcome our childhood teacher to our home for tea.",
     "malayalamMeaning": "കുട്ടിക്കാലത്തെ അധ്യാപകനെ ചായസൽക്കാരത്തിനായി വീട്ടിലേക്ക് സ്വീകരിക്കാൻ കഴിഞ്ഞതിൽ ഞങ്ങൾക്കെല്ലാവർക്കും വലിയ സന്തോഷമായി.",
     "usageExample": "Very pleased.",
@@ -1033,7 +1033,7 @@
   },
   {
     "word": "pleased",
-    "wordMeaning": "സന്തോഷിച്ചു",
+    "wordMeaning": "സന്തുഷ്ടമായ",
     "englishText": "The professor was pleased with the thoroughness of the student's research.",
     "malayalamMeaning": "വിദ്യാർത്ഥിയുടെ ഗവേഷണത്തിന്റെ ആഴവും കൃത്യതയും കണ്ട് പ്രൊഫസർക്ക് വലിയ സംതൃപ്തി തോന്നി.",
     "usageExample": "Satisfied.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "grumpy",
-    "wordMeaning": "മുഷിഞ്ഞ",
+    "wordMeaning": "ശുണ്ഠിയുള്ള",
     "englishText": "He is always a bit grumpy and quiet until he finishes his morning coffee.",
     "malayalamMeaning": "രാവിലത്തെ കാപ്പി കുടിച്ചു തീരുന്നതുവരെ അവൻ എപ്പോഴും അല്പം ദേഷ്യത്തിലും മിണ്ടാതെയുമായിരിക്കും.",
     "usageExample": "Bad-tempered.",
@@ -1049,7 +1049,7 @@
   },
   {
     "word": "nervous",
-    "wordMeaning": "പരിഭ്രമം",
+    "wordMeaning": "പരിഭ്രമമുള്ള",
     "englishText": "It is natural to feel nervous before stepping onto the stage for a speech.",
     "malayalamMeaning": "പ്രസംഗിക്കാൻ വേദിയിലേക്ക് കയറുന്നതിന് തൊട്ടുമുമ്പ് ചെറിയൊരു നെഞ്ചിടിപ്പ് തോന്നുന്നത് തികച്ചും സ്വാഭാവികമാണ്.",
     "usageExample": "Anxious.",
@@ -1057,7 +1057,7 @@
   },
   {
     "word": "confident",
-    "wordMeaning": "ആത്മവിശ്വാസം",
+    "wordMeaning": "ആത്മവിശ്വാസമുള്ള",
     "englishText": "Thorough preparation and daily practice make you feel confident on exam day.",
     "malayalamMeaning": "നല്ല തയ്യാറെടുപ്പും ചിട്ടയായ പരിശീലനവും പരീക്ഷാദിവസം നിങ്ങളിൽ വലിയ ആത്മവിശ്വാസം നിറയ്ക്കും.",
     "usageExample": "Self-assured.",
@@ -1065,7 +1065,7 @@
   },
   {
     "word": "ashamed",
-    "wordMeaning": "ലജ്ജിച്ചു",
+    "wordMeaning": "ലജ്ജിതമായ",
     "englishText": "He felt ashamed of having spoken harshly to his aging mother.",
     "malayalamMeaning": "പ്രായം ചെന്ന അമ്മയോട് പരുഷമായി സംസാരിച്ചതിൽ അവന് വലിയ ലജ്ജയും മനസ്താപവും തോന്നി.",
     "usageExample": "Feeling guilt.",
@@ -1145,7 +1145,7 @@
   },
   {
     "word": "fond",
-    "wordMeaning": "ഇഷ്ടം",
+    "wordMeaning": "സ്നേഹമുള്ള",
     "englishText": "I retain fond childhood memories of climbing mango trees during summer.",
     "malayalamMeaning": "വേനലവധിക്ക് മാവിൽ വലിഞ്ഞുകയറിയിരുന്ന ആ നല്ല കുട്ടിക്കാല ഓർമ്മകൾ ഇന്നും എന്റെ മനസ്സിലുണ്ട്.",
     "usageExample": "Loving regard.",
@@ -1185,7 +1185,7 @@
   },
   {
     "word": "spirit",
-    "wordMeaning": "ആത്മാവ്",
+    "wordMeaning": "ആത്മവീര്യം",
     "englishText": "Her joyful, indomitable spirit inspired everyone around her during the crisis.",
     "malayalamMeaning": "പ്രതിസന്ധി ഘട്ടങ്ങളിലും പതറാത്ത അവളുടെ പോരാട്ടവീര്യവും ഉന്മേഷവും മറ്റുള്ളവർക്ക് വലിയ പ്രചോദനമായി.",
     "usageExample": "Vital energy.",
@@ -1345,7 +1345,7 @@
   },
   {
     "word": "composure",
-    "wordMeaning": "ശാന്തത",
+    "wordMeaning": "ആത്മസംയമനം",
     "englishText": "She maintained her dignified composure even when provoked by harsh criticism.",
     "malayalamMeaning": "രൂക്ഷമായ വിമർശനങ്ങൾ കേൾക്കേണ്ടി വന്നിട്ടും അവൾ ഒട്ടും പ്രകോപിതയാകാതെ തികഞ്ഞ ആത്മസംയമനം പാലിച്ചു.",
     "usageExample": "Poised calm.",
@@ -1361,7 +1361,7 @@
   },
   {
     "word": "agitation",
-    "wordMeaning": "പ്രക്ഷോഭം",
+    "wordMeaning": "വെപ്രാളം",
     "englishText": "Pacing restlessly across the hospital corridor revealed his intense agitation.",
     "malayalamMeaning": "ആശുപത്രി ഇടനാഴിയിലൂടെ അങ്ങോട്ടുമിങ്ങോട്ടും അസ്വസ്ഥനായി നടക്കുന്നത് കണ്ടപ്പോൾ തന്നെ അവന്റെ ഉള്ളിലെ വെപ്രാളം വ്യക്തമായിരുന്നു.",
     "usageExample": "Nervous turmoil.",
@@ -1369,7 +1369,7 @@
   },
   {
     "word": "nervousness",
-    "wordMeaning": "അസ്വസ്ഥത",
+    "wordMeaning": "പരിഭ്രമം",
     "englishText": "Deep diaphragmatic breathing eliminated all trace of pre-speech nervousness.",
     "malayalamMeaning": "ദീർഘമായി ശ്വാസമെടുത്ത് വിട്ടത് പ്രസംഗത്തിന് മുൻപുണ്ടായിരുന്ന ഉൾഭയവും ടെൻഷനും പൂർണ്ണമായി മാറ്റി.",
     "usageExample": "Anxious flutter.",
@@ -1377,7 +1377,7 @@
   },
   {
     "word": "apprehension",
-    "wordMeaning": "ഭയം",
+    "wordMeaning": "ആശങ്ക",
     "englishText": "She stepped into the examination hall with a slight flutter of apprehension.",
     "malayalamMeaning": "ചെറിയൊരു ഉൾഭയത്തോടെയും ആശങ്കയോടെയുമാണ് അവൾ പരീക്ഷാ ഹാളിലേക്ക് കയറിയത്.",
     "usageExample": "Fearful dread.",
@@ -1385,7 +1385,7 @@
   },
   {
     "word": "trepidation",
-    "wordMeaning": "വിറയൽ",
+    "wordMeaning": "ഭയപ്പാട്",
     "englishText": "He opened the sealed medical test envelope with understandable trepidation.",
     "malayalamMeaning": "മെഡിക്കൽ പരിശോധനാ ഫലമടങ്ങിയ കവർ അവൻ ചെറിയൊരു പേടിയോടെയും വിറയലോടെയുമാണ് തുറന്നത്.",
     "usageExample": "Fearful trembling.",
@@ -1433,7 +1433,7 @@
   },
   {
     "word": "regret",
-    "wordMeaning": "ഖേദിക്കുന്നു",
+    "wordMeaning": "ഖേദം",
     "englishText": "Live your life with integrity so you look back with pride rather than regret.",
     "malayalamMeaning": "പിന്തിരിഞ്ഞു നോക്കുമ്പോൾ കുറ്റബോധത്തിന് പകരം അഭിമാനം തോന്നുന്ന വിധത്തിൽ ആത്മാർത്ഥതയോടെ ജീവിക്കുക.",
     "usageExample": "Remorseful sorrow.",
@@ -1441,7 +1441,7 @@
   },
   {
     "word": "anguish",
-    "wordMeaning": "വേദന",
+    "wordMeaning": "മനോവേദന",
     "englishText": "The desperate mother cried out in mental anguish when her child went missing.",
     "malayalamMeaning": "കുട്ടിയെ കാണാതായപ്പോൾ ആ അമ്മ കരളുരുകി മനംനൊന്ത് നിലവിളിച്ചു.",
     "usageExample": "Severe torment.",
@@ -1449,7 +1449,7 @@
   },
   {
     "word": "exasperation",
-    "wordMeaning": "പ്രകോപനം",
+    "wordMeaning": "കടുത്ത നീരസം",
     "englishText": "He threw his hands up in exasperation after his computer froze for the third time.",
     "malayalamMeaning": "കമ്പ്യൂട്ടർ മൂന്നാമതും ഹാങ്ങായപ്പോൾ സഹികെട്ട് അവൻ കൈമലർത്തി.",
     "usageExample": "Intense irritation.",
@@ -1465,7 +1465,7 @@
   },
   {
     "word": "bitterness",
-    "wordMeaning": "കയ്പ്പ്",
+    "wordMeaning": "മനക്കയ്പ്പ്",
     "englishText": "Letting go of past family bitterness allows healing and reconciliation to bloom.",
     "malayalamMeaning": "കുടുംബത്തിലെ പഴയ കയ്പ്പേറിയ അനുഭവങ്ങൾ മറന്നുകളഞ്ഞാൽ മാത്രമേ ബന്ധങ്ങളിൽ വീണ്ടും സ്നേഹം തളിരിടൂ.",
     "usageExample": "Acrid resentment.",
@@ -1497,7 +1497,7 @@
   },
   {
     "word": "vulnerable",
-    "wordMeaning": "ദുർബലമായ",
+    "wordMeaning": "വേഗം മുറിവേൽക്കുന്ന",
     "englishText": "It takes immense emotional courage to allow yourself to be open and vulnerable.",
     "malayalamMeaning": "സ്വന്തം ബലഹീനതകളും വികാരങ്ങളും മറ്റുള്ളവരുടെ മുന്നിൽ തുറന്നുകാട്ടാൻ വലിയൊരു മാനസിക ധൈര്യം വേണം.",
     "usageExample": "Open to wounds.",
@@ -1513,7 +1513,7 @@
   },
   {
     "word": "endurance",
-    "wordMeaning": "സഹിഷ്ണുത",
+    "wordMeaning": "സഹനശക്തി",
     "englishText": "Running a desert ultra-marathon tests human physical and mental endurance to the limit.",
     "malayalamMeaning": "മരുഭൂമിയിലൂടെയുള്ള അൾട്രാ മാരത്തൺ ഓട്ടം മനുഷ്യന്റെ കായികവും മാനസികവുമായ സഹനശക്തിയുടെ കടുത്ത പരീക്ഷണമാണ്.",
     "usageExample": "Staying power.",
@@ -1521,7 +1521,7 @@
   },
   {
     "word": "fortitude",
-    "wordMeaning": "ധൈര്യം",
+    "wordMeaning": "മനക്കരുത്ത്",
     "englishText": "She faced her chemotherapy treatments with inspiring courage and moral fortitude.",
     "malayalamMeaning": "കീമോതെറാപ്പി ചികിത്സകളെ അവൾ അതിശയിപ്പിക്കുന്ന ആത്മധൈര്യത്തോടും മനക്കരുത്തോടും കൂടിയാണ് നേരിട്ടത്.",
     "usageExample": "Courage in pain.",
@@ -1617,7 +1617,7 @@
   },
   {
     "word": "cynicism",
-    "wordMeaning": "സിനിസിസം",
+    "wordMeaning": "നിഷേധാത്മക മനോഭാവം",
     "englishText": "Do not let youthful idealism get corroded by worldly, unproductive cynicism.",
     "malayalamMeaning": "യൗവനത്തിലെ നല്ല ആദർശങ്ങളെ ലോകത്തിന്റെ നിഷേധാത്മക ചിന്തകളും അവിശ്വാസവും കൊണ്ട് ഇല്ലാതാക്കാൻ അനുവദിക്കരുത്.",
     "usageExample": "Distrustful scorn.",
@@ -1649,7 +1649,7 @@
   },
   {
     "word": "authentic",
-    "wordMeaning": "ആധികാരികമായ",
+    "wordMeaning": "ആത്മാർത്ഥമായ",
     "englishText": "Her authentic warmth made everyone around her feel valued and respected.",
     "malayalamMeaning": "അവളുടെ ആത്മാർത്ഥമായ സ്നേഹവും പെരുമാറ്റവും ചുറ്റുമുള്ളവർക്കെല്ലാം വലിയൊരു മതിപ്പും ആദരവും ഉണ്ടാക്കി.",
     "usageExample": "Genuine nature.",
@@ -1657,7 +1657,7 @@
   },
   {
     "word": "downcast",
-    "wordMeaning": "താഴ്ച്ച",
+    "wordMeaning": "വിഷാദഭാവമുള്ള",
     "englishText": "The boy sat with downcast eyes after losing the inter-school debate final.",
     "malayalamMeaning": "സ്കൂൾതല സംവാദ മത്സരത്തിന്റെ ഫൈനലിൽ തോറ്റപ്പോൾ ആ കുട്ടി സങ്കടത്തോടെ തലതാഴ്ത്തിയിരുന്നു.",
     "usageExample": "Dejected looking.",
@@ -1665,7 +1665,7 @@
   },
   {
     "word": "dispirited",
-    "wordMeaning": "നിരാശപ്പെടുത്തി",
+    "wordMeaning": "നിരാശപ്പെട്ട",
     "englishText": "The team was dispirited by the early goal but fought back with fierce grit.",
     "malayalamMeaning": "തുടക്കത്തിൽ തന്നെ ഗോൾ വഴങ്ങിയത് ടീമിന്റെ ആത്മവീര്യം കെടുത്തിയെങ്കിലും അവർ പതറാതെ ശക്തമായി തിരിച്ചടിച്ചു.",
     "usageExample": "Discouraged.",
@@ -1673,7 +1673,7 @@
   },
   {
     "word": "crestfallen",
-    "wordMeaning": "കൊഴിഞ്ഞുവീണു",
+    "wordMeaning": "നിരാശയിലാണ്ട",
     "englishText": "He looked thoroughly crestfallen when his dream job application was rejected.",
     "malayalamMeaning": "കൊതിച്ച ജോലിക്കായുള്ള അപേക്ഷ നിരസിക്കപ്പെട്ടപ്പോൾ അവൻ പൂർണ്ണമായും നിരാശനായിപ്പോയി.",
     "usageExample": "Disappointed.",
@@ -1681,7 +1681,7 @@
   },
   {
     "word": "exhilarated",
-    "wordMeaning": "ആഹ്ലാദഭരിതനായി",
+    "wordMeaning": "ഉന്മേഷഭരിതമായ",
     "englishText": "Standing at the summit of the high mountain made the climbers feel exhilarated.",
     "malayalamMeaning": "ആ ഉയർന്ന മലമുകളിലെ കൊടുമുടിയിൽ എത്തിയപ്പോൾ പർവ്വതാരോഹകർക്ക് പറഞ്ഞറിയിക്കാനാവാത്ത ആവേശവും ഉന്മേഷവും തോന്നി.",
     "usageExample": "Electrified with joy.",
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "overjoyed",
-    "wordMeaning": "ആഹ്ലാദഭരിതനായി",
+    "wordMeaning": "ആഹ്ലാദഭരിതമായ",
     "englishText": "The grandparents were overjoyed to hold their newborn twin grandchildren.",
     "malayalamMeaning": "പുതുതായി ജനിച്ച ഇരട്ടപ്പേരക്കുട്ടികളെ കയ്യിലെടുത്തപ്പോൾ മുത്തശ്ശനും മുത്തശ്ശിക്കും അളവറ്റ ആഹ്ലാദമുണ്ടായി.",
     "usageExample": "Ecstatic.",
@@ -1697,7 +1697,7 @@
   },
   {
     "word": "triumphant",
-    "wordMeaning": "വിജയം",
+    "wordMeaning": "വിജയാഹ്ലാദമുള്ള",
     "englishText": "The young athlete raised her arms in a triumphant gesture as she broke the tape.",
     "malayalamMeaning": "ഫിനിഷിങ് ലൈൻ മുറിച്ചുകടന്നപ്പോൾ ആ യുവ അത്‌ലറ്റ് വിജയശ്രീലാളിതയായി കൈകൾ വായുവിൽ ഉയർത്തി.",
     "usageExample": "Victorious.",
@@ -1705,7 +1705,7 @@
   },
   {
     "word": "buoyant",
-    "wordMeaning": "പൊങ്ങിക്കിടക്കുന്ന",
+    "wordMeaning": "ഉന്മേഷമുള്ള",
     "englishText": "His naturally buoyant disposition helped the crew stay cheerful through storms.",
     "malayalamMeaning": "അവന്റെ പ്രകൃത്യാലുള്ള ഉത്സാഹവും ഉന്മേഷവും കൊടുങ്കാറ്റിലും സംഘാംഗങ്ങളുടെ ആത്മവിശ്വാസം കെടാതെ കാത്തു.",
     "usageExample": "Cheerfully resilient.",
@@ -1721,7 +1721,7 @@
   },
   {
     "word": "solemn",
-    "wordMeaning": "ഗംഭീരം",
+    "wordMeaning": "ഗൗരവമേറിയ",
     "englishText": "The memorial service was conducted in an atmosphere of solemn, quiet dignity.",
     "malayalamMeaning": "അനുസ്മരണ ചടങ്ങ് തികഞ്ഞ ഗൗരവത്തോടും ശാന്തമായ ആദരവോടും കൂടിയാണ് നടന്നത്.",
     "usageExample": "Grave and earnest.",
@@ -1729,7 +1729,7 @@
   },
   {
     "word": "somber",
-    "wordMeaning": "ശാന്തമായ",
+    "wordMeaning": "വിഷാദമൂകമായ",
     "englishText": "A somber mood settled over the village as news of the flood arrived.",
     "malayalamMeaning": "പ്രളയവാർത്ത എത്തിയതോടെ ആ ഗ്രാമത്തിലാകെ കനത്ത ദുഃഖവും മൂകതയും പടർന്നു.",
     "usageExample": "Dark and gloomy.",
@@ -1737,7 +1737,7 @@
   },
   {
     "word": "wistful",
-    "wordMeaning": "കൊതിപ്പിക്കുന്ന",
+    "wordMeaning": "നൊമ്പരമാർന്ന",
     "englishText": "She cast a wistful glance at her childhood bedroom before locking the door.",
     "malayalamMeaning": "വാതിലടയ്ക്കുന്നതിന് തൊട്ടുമുമ്പ് തന്റെ കുട്ടിക്കാലത്തെ മുറിയിലേക്ക് അവൾ സങ്കടവും ഗൃഹാതുരത്വവും നിറഞ്ഞൊരു നോട്ടം എറിഞ്ഞു.",
     "usageExample": "Yearningly sad.",
@@ -1745,7 +1745,7 @@
   },
   {
     "word": "yearning",
-    "wordMeaning": "കൊതിക്കുന്നു",
+    "wordMeaning": "തീവ്രമായ കൊതി",
     "englishText": "The immigrant felt an intense yearning for the green hills and rains of home.",
     "malayalamMeaning": "സ്വന്തം നാടിന്റെ പച്ചപ്പും കുളിർമഴയും ഓർത്ത് ആ പ്രവാസിക്ക് വല്ലാത്തൊരു ഗൃഹാതുരത്വവും കൊതിയും തോന്നി.",
     "usageExample": "Deep longing.",
@@ -1753,7 +1753,7 @@
   },
   {
     "word": "longing",
-    "wordMeaning": "കൊതിക്കുന്നു",
+    "wordMeaning": "തീവ്രമായ ആഗ്രഹം",
     "englishText": "A deep longing for inner peace drove him to seek a life of quiet reflection.",
     "malayalamMeaning": "മനസ്സമാധാനത്തിനായുള്ള അടങ്ങാത്ത ദാഹമാണ് ശാന്തമായൊരു ഏകാന്തജീവിതം തെരഞ്ഞെടുക്കാൻ അവനെ പ്രേരിപ്പിച്ചത്.",
     "usageExample": "Earnest craving.",
@@ -1801,7 +1801,7 @@
   },
   {
     "word": "unselfish",
-    "wordMeaning": "നിസ്വാർത്ഥ",
+    "wordMeaning": "നിസ്വാർത്ഥമായ",
     "englishText": "Her unselfish devotion to nursing her bedridden grandmother was inspiring.",
     "malayalamMeaning": "കിടപ്പിലായ മുത്തശ്ശിയെ ശുശ്രൂഷിക്കുന്നതിൽ അവൾ കാട്ടിയ നിസ്വാർത്ഥമായ സ്നേഹം ഏവർക്കും പ്രചോദനമായിരുന്നു.",
     "usageExample": "Altruistic.",
@@ -1809,7 +1809,7 @@
   },
   {
     "word": "altruistic",
-    "wordMeaning": "പരോപകാരി",
+    "wordMeaning": "പരോപകാരപരമായ",
     "englishText": "He engaged in countless altruistic acts without ever seeking public fame.",
     "malayalamMeaning": "യാതൊരു പ്രശസ്തിയും ആഗ്രഹിക്കാതെ അവൻ നിരവധി പരോപകാരപ്രവർത്തനങ്ങളിൽ ഏർപ്പെട്ടു.",
     "usageExample": "Selfless care.",
@@ -1817,7 +1817,7 @@
   },
   {
     "word": "magnanimous",
-    "wordMeaning": "മഹാമനസ്കൻ",
+    "wordMeaning": "മഹാമനസ്കമായ",
     "englishText": "In victory, the champion showed a magnanimous respect toward his defeated opponent.",
     "malayalamMeaning": "വിജയത്തിലും പരാജയപ്പെട്ട എതിരാളിയോട് ആ ചാമ്പ്യൻ വലിയ മാന്യതയും ഉദാരമനസ്കതയും കാട്ടി.",
     "usageExample": "Nobly generous.",
@@ -1825,7 +1825,7 @@
   },
   {
     "word": "solicitous",
-    "wordMeaning": "അഭ്യർത്ഥനയുള്ള",
+    "wordMeaning": "കരുതലുള്ള",
     "englishText": "The nurse was tenderly solicitous about the elderly patient's warmth and comfort.",
     "malayalamMeaning": "പ്രായമായ ആ രോഗിയുടെ സുഖവിവരങ്ങളും സൗകര്യങ്ങളും ശ്രദ്ധിക്കുന്നതിൽ നേഴ്സ് അതീവ ശ്രദ്ധയും വാത്സല്യവും പുലർത്തി.",
     "usageExample": "Attentively caring.",
@@ -1833,7 +1833,7 @@
   },
   {
     "word": "benevolent",
-    "wordMeaning": "പരോപകാരി",
+    "wordMeaning": "ദയാലുവായ",
     "englishText": "The benevolent teacher used his own savings to buy schoolbooks for poor kids.",
     "malayalamMeaning": "ദയാലുവായ ആ അധ്യാപകൻ തന്റെ സ്വന്തം സമ്പാദ്യത്തിൽ നിന്നാണ് പാവപ്പെട്ട കുട്ടികൾക്ക് പുസ്തകങ്ങൾ വാങ്ങിക്കൊടുത്തത്.",
     "usageExample": "Kind and giving.",
@@ -1841,7 +1841,7 @@
   },
   {
     "word": "unflappable",
-    "wordMeaning": "പൊള്ളാത്ത",
+    "wordMeaning": "പതറാത്ത",
     "englishText": "The flight captain remained totally unflappable during the violent turbulence.",
     "malayalamMeaning": "വിമാനം കടുത്ത കുലുക്കത്തിൽപ്പെട്ടപ്പോഴും പൈലറ്റ് തെല്ലും പതറാതെ ശാന്തനായി വിമാനം നിയന്ത്രിച്ചു.",
     "usageExample": "Imperturbably calm.",
@@ -1849,7 +1849,7 @@
   },
   {
     "word": "stoic",
-    "wordMeaning": "സ്റ്റോയിക്ക്",
+    "wordMeaning": "സഹനശീലമുള്ള",
     "englishText": "He bore his chronic physical ailments with dignified, silent stoic endurance.",
     "malayalamMeaning": "തന്റെ മാറാരോഗങ്ങളെയും ശാരീരിക വേദനകളെയും യാതൊരു പരാതിയുമില്ലാതെ അവൻ ധീരമായി സഹിച്ചു.",
     "usageExample": "Indifferent to pain.",
@@ -1857,7 +1857,7 @@
   },
   {
     "word": "stoicism",
-    "wordMeaning": "സ്റ്റോയിസിസം",
+    "wordMeaning": "സമചിത്തതാ തത്ത്വം",
     "englishText": "Ancient philosophical stoicism teaches us to master our emotional reactions.",
     "malayalamMeaning": "വികാരവിക്ഷോഭങ്ങളെ നിയന്ത്രിക്കാനും പ്രതിസന്ധികളിൽ സമചിത്തത പാലിക്കാനുമാണ് പ്രാചീന സ്റ്റോയിക് തത്ത്വചിന്ത നമ്മെ പഠിപ്പിക്കുന്നത്.",
     "usageExample": "Philosophy of calm.",
@@ -1881,7 +1881,7 @@
   },
   {
     "word": "sangfroid",
-    "wordMeaning": "സാങ്ഫ്രോയിഡ്",
+    "wordMeaning": "മനസ്സാന്നിധ്യം",
     "englishText": "The surgeon displayed remarkable sangfroid during the sudden operative bleeding.",
     "malayalamMeaning": "ശസ്ത്രക്രിയയ്ക്കിടെ പെട്ടെന്ന് രക്തസ്രാവമുണ്ടായപ്പോഴും സർജൻ അസാധാരണമായ ആത്മനിയന്ത്രണവും മനസ്സാന്നിധ്യവും പ്രകടിപ്പിച്ചു.",
     "usageExample": "Cold composure.",
@@ -1889,7 +1889,7 @@
   },
   {
     "word": "vicarious",
-    "wordMeaning": "വികാരിയായ",
+    "wordMeaning": "മറ്റുള്ളവരിലൂടെ അനുഭവിക്കുന്ന",
     "englishText": "Parents often experience profound vicarious joy through their children's achievements.",
     "malayalamMeaning": "മക്കളുടെ നേട്ടങ്ങൾ കാണുമ്പോൾ മാതാപിതാക്കൾക്ക് ലഭിക്കുന്നത് സ്വന്തം നേട്ടം പോലെയുള്ള വലിയൊരു ആനന്ദമാണ്.",
     "usageExample": "Felt through another.",
@@ -1897,7 +1897,7 @@
   },
   {
     "word": "visceral",
-    "wordMeaning": "വിസെറൽ",
+    "wordMeaning": "ഉള്ളുലയ്ക്കുന്ന",
     "englishText": "Watching the horror film evoked a visceral, heart-pounding physical reaction.",
     "malayalamMeaning": "ആ ഹൊറർ സിനിമ കണ്ടപ്പോൾ നെഞ്ചിടിപ്പേറ്റുന്ന തരത്തിലുള്ള ഉള്ളുലയ്ക്കുന്നൊരു ഭയമാണ് തോന്നിയത്.",
     "usageExample": "Deep gut feeling.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "ennui",
-    "wordMeaning": "ennui",
+    "wordMeaning": "ജീവിതമടുപ്പ്",
     "englishText": "Despite his vast inherited wealth, he suffered from a paralyzing sense of spiritual ennui.",
     "malayalamMeaning": "പാരമ്പര്യമായി കിട്ടിയ വലിയ സമ്പത്തുണ്ടായിരുന്നിട്ടും, ജീവിതത്തിൽ അർത്ഥമില്ലായ്മയും കടുത്ത മടുപ്പും അവനെ അലട്ടിയിരുന്നു.",
     "usageExample": "Existential boredom.",
@@ -1929,7 +1929,7 @@
   },
   {
     "word": "catharsis",
-    "wordMeaning": "കാതർസിസ്",
+    "wordMeaning": "വികാരശുദ്ധീകരണം",
     "englishText": "Weeping during the final act of the tragic play provided a healing emotional catharsis.",
     "malayalamMeaning": "ദുരന്ത നാടകത്തിന്റെ അവസാനരംഗത്ത് പൊഴിച്ച കണ്ണീർ ഉള്ളിലെ സങ്കടങ്ങളെല്ലാം കഴുകിക്കളഞ്ഞ് മനസ്സിന് വലിയൊരു ആശ്വാസം നൽകി.",
     "usageExample": "Emotional purging.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "hubris",
-    "wordMeaning": "ഹബ്രിസ്",
+    "wordMeaning": "അമിതാഹങ്കാരം",
     "englishText": "Ancient Greek mythology warns that arrogant hubris invites inevitable divine retribution.",
     "malayalamMeaning": "അതിരുകടന്ന അഹങ്കാരവും ധാർഷ്ട്യവും അനിവാര്യമായ പതനത്തെയാണ് ക്ഷണിച്ചുവരുത്തുന്നതെന്ന് പുരാണങ്ങൾ മുന്നറിയിപ്പ് നൽകുന്നു.",
     "usageExample": "Excessive pride.",
@@ -1953,7 +1953,7 @@
   },
   {
     "word": "ambivalence",
-    "wordMeaning": "അവ്യക്തത",
+    "wordMeaning": "ഇരട്ടമനസ്സ്",
     "englishText": "He felt acute ambivalence about moving abroad, torn between career and family.",
     "malayalamMeaning": "കരിയറിനും കുടുംബത്തിനും ഇടയിൽപ്പെട്ട് വിദേശത്തേക്ക് പോകുന്ന കാര്യത്തിൽ അവന് കടുത്ത ആശയക്കുഴപ്പവും ഇരട്ടമനസ്സുമായിരുന്നു.",
     "usageExample": "Conflicted feelings.",
@@ -1977,7 +1977,7 @@
   },
   {
     "word": "abjection",
-    "wordMeaning": "നിന്ദ",
+    "wordMeaning": "ദയനീയാവസ്ഥ",
     "englishText": "Living in abjection and poverty did not crush her fierce inner self-respect.",
     "malayalamMeaning": "കടുത്ത ദുരിതത്തിലും ദാരിദ്ര്യത്തിലും ജീവിച്ചിട്ടും അവളുടെ ഉള്ളിലെ ആത്മാഭിമാനം തെല്ലും തകർക്കാൻ അതിനായില്ല.",
     "usageExample": "Degraded misery.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "petulance",
-    "wordMeaning": "പെറ്റുലൻസ്",
+    "wordMeaning": "ശുണ്ഠി",
     "englishText": "The spoiled heir reacted with childish petulance when his demands were refused.",
     "malayalamMeaning": "ആവശ്യങ്ങൾ നിരസിക്കപ്പെട്ടപ്പോൾ വഷളായി വളർന്ന ആ പണക്കാരൻ ഒരു കൊച്ചുകുട്ടിയെപ്പോലെ വാശിപിടിച്ച് ശുണ്ഠിയെടുത്തു.",
     "usageExample": "Peevish ill-temper.",
@@ -2017,7 +2017,7 @@
   },
   {
     "word": "malevolence",
-    "wordMeaning": "ദ്രോഹം",
+    "wordMeaning": "ദ്രോഹബുദ്ധി",
     "englishText": "His cold, calculating gaze seemed to harbor an unmistakable aura of malevolence.",
     "malayalamMeaning": "അവന്റെ നിർവികാരവും കൗശലപൂർണ്ണവുമായ നോട്ടത്തിൽ പ്രകടമായൊരു ദുഷ്ടത നിഴലിച്ചിരുന്നു.",
     "usageExample": "Desire to cause harm.",
@@ -2041,7 +2041,7 @@
   },
   {
     "word": "solicitude",
-    "wordMeaning": "അഭ്യർത്ഥന",
+    "wordMeaning": "കരുതൽ",
     "englishText": "Her deep maternal solicitude ensured that all five children flourished in life.",
     "malayalamMeaning": "ആ അമ്മയുടെ കരുതലും സ്നേഹനിർഭരമായ ശുശ്രൂഷയുമാണ് അഞ്ച് മക്കളെയും ജീവിതത്തിൽ ഉന്നതിയിലെത്തിച്ചത്.",
     "usageExample": "Attentive care.",
@@ -2049,7 +2049,7 @@
   },
   {
     "word": "compunction",
-    "wordMeaning": "കോമ്പക്ഷൻ",
+    "wordMeaning": "മനസ്സാക്ഷിക്കുത്ത്",
     "englishText": "The dishonest merchant felt not the slightest compunction about overcharging tourists.",
     "malayalamMeaning": "വിനോദസഞ്ചാരികളിൽ നിന്ന് അമിതവില ഈടാക്കുന്നതിൽ ആ സത്യസന്ധനല്ലാത്ത വ്യാപാരിക്ക് തെല്ലും മനസ്സാക്ഷിക്കുത്തുണ്ടായിരുന്നില്ല.",
     "usageExample": "Qualm of conscience.",
@@ -2097,7 +2097,7 @@
   },
   {
     "word": "foreboding",
-    "wordMeaning": "പ്രവചനം",
+    "wordMeaning": "ദുസ്സൂചന",
     "englishText": "The eerie silence of the birds filled the villagers with a dark sense of foreboding.",
     "malayalamMeaning": "പക്ഷികളുടെ ഭീതിദമായ നിശ്ശബ്ദത നാട്ടുകാരുടെ മനസ്സിൽ ഏതോ വലിയ വിപത്തിന്റെ അപായസൂചന നിറച്ചു.",
     "usageExample": "Premonition of evil.",
@@ -2113,7 +2113,7 @@
   },
   {
     "word": "rhapsody",
-    "wordMeaning": "റാപ്സോഡി",
+    "wordMeaning": "ആവേശകരമായ പ്രശംസ",
     "englishText": "The poet composed an ecstatic rhapsody celebrating the majesty of the Western Ghats.",
     "malayalamMeaning": "പശ്ചിമഘട്ടത്തിന്റെ ഗാംഭീര്യത്തെയും മനോഹാരിതയെയും വാഴ്ത്തിക്കൊണ്ട് ആ കവി ആവേശഭരിതമായൊരു കാവ്യം രചിച്ചു.",
     "usageExample": "Effusive praise.",
@@ -2137,7 +2137,7 @@
   },
   {
     "word": "effervescence",
-    "wordMeaning": "ജ്വലനം",
+    "wordMeaning": "പ്രസരിപ്പ്",
     "englishText": "Her sparkling effervescence made her the beloved center of every cultural gathering.",
     "malayalamMeaning": "അവളുടെ പ്രസരിപ്പും തുളുമ്പിനിൽക്കുന്ന ചുറുചുറുക്കും ഏത് സാംസ്കാരിക കൂട്ടായ്മകളിലും അവളെ എല്ലാവർക്കും പ്രിയപ്പെട്ടവളാക്കി.",
     "usageExample": "Bubbly zest.",
@@ -2145,7 +2145,7 @@
   },
   {
     "word": "exuberance",
-    "wordMeaning": "അമിതാവേശം",
+    "wordMeaning": "അതിയായ ഉത്സാഹം",
     "englishText": "The festive harvest celebration was marked by uninhibited music and youthful exuberance.",
     "malayalamMeaning": "ഇമ്പമാർന്ന സംഗീതവും യുവത്വത്തിന്റെ ആവേശവും ആ വിളവെടുപ്പുത്സവത്തിന് കൊഴുപ്പേകി.",
     "usageExample": "Abundant spirits.",
@@ -2153,7 +2153,7 @@
   },
   {
     "word": "buoyancy",
-    "wordMeaning": "ജ്വലനം",
+    "wordMeaning": "തളരാത്ത ഉന്മേഷം",
     "englishText": "His mental buoyancy allowed him to bounce back rapidly after financial setbacks.",
     "malayalamMeaning": "മാനസികമായ കരുത്തും തളരാത്ത മനോഭാവവുമാണ് സാമ്പത്തിക തകർച്ചകളിൽ നിന്ന് വേഗത്തിൽ കരകയറാൻ അവനെ സഹായിച്ചത്.",
     "usageExample": "Resilient cheer.",
@@ -2161,7 +2161,7 @@
   },
   {
     "word": "imperturbability",
-    "wordMeaning": "തടസ്സമില്ലാത്തത്",
+    "wordMeaning": "അചഞ്ചലമായ ശാന്തത",
     "englishText": "His legendary imperturbability under intense media cross-examination was astonishing.",
     "malayalamMeaning": "മാധ്യമങ്ങളുടെ കടുത്ത ചോദ്യംചെയ്യലുകൾക്ക് മുന്നിലും അദ്ദേഹം പുലർത്തിയ ആത്മനിയന്ത്രണവും അചഞ്ചലമായ ശാന്തതയും അത്ഭുതപ്പെടുത്തുന്നതായിരുന്നു.",
     "usageExample": "Inability to be rattled.",
@@ -2177,7 +2177,7 @@
   },
   {
     "word": "vicariousness",
-    "wordMeaning": "വികാരിത്വം",
+    "wordMeaning": "മറ്റുള്ളവരിലൂടെയുള്ള അനുഭവം",
     "englishText": "The vicariousness of reading allows us to experience a thousand lives in a single lifetime.",
     "malayalamMeaning": "വായനയിലൂടെ മറ്റുള്ളവരുടെ ജീവിതാനുഭവങ്ങൾ സ്വയം അനുഭവിച്ചറിയാൻ കഴിയുന്നത് ഒറ്റ ജീവിതത്തിൽ തന്നെ ആയിരം ജീവിതങ്ങൾ ജീവിക്കുന്നതിന് തുല്യമാണ്.",
     "usageExample": "Experiencing through other.",
@@ -2185,7 +2185,7 @@
   },
   {
     "word": "viscerality",
-    "wordMeaning": "വിസെറലിറ്റി",
+    "wordMeaning": "ഉള്ളുലയ്ക്കുന്ന തീവ്രത",
     "englishText": "The raw viscerality of the dramatic stage performance left the audience spellbound.",
     "malayalamMeaning": "നാടകവേദിയിലെ തീവ്രവും ജീവസ്സുറ്റതുമായ ആ അഭിനയം കാണികളെ ഒന്നടങ്കം വിസ്മയിപ്പിച്ചു.",
     "usageExample": "Gut-level power.",
@@ -2201,7 +2201,7 @@
   },
   {
     "word": "inscrutable",
-    "wordMeaning": "അവ്യക്തമായ",
+    "wordMeaning": "നിഗൂഢമായ",
     "englishText": "The seasoned diplomat maintained an inscrutable countenance that revealed nothing.",
     "malayalamMeaning": "മനസ്സിലുള്ളതൊന്നും പുറത്തുകാണിക്കാത്ത നിർവികാരമായൊരു മുഖഭാവമാണ് ആ പരിചയസമ്പന്നനായ നയതന്ത്രജ്ഞൻ കാത്തുസൂക്ഷിച്ചത്.",
     "usageExample": "Impossible to read.",
@@ -2209,7 +2209,7 @@
   },
   {
     "word": "unflinching",
-    "wordMeaning": "അനിയന്ത്രിതമായ",
+    "wordMeaning": "പതറാത്ത",
     "englishText": "Her unflinching moral courage inspired thousands of citizens to protest injustice.",
     "malayalamMeaning": "അനീതിക്കെതിരെ പ്രതികരിക്കാൻ ആയിരക്കണക്കിന് ജനങ്ങൾക്ക് പ്രേരണയായത് അവളുടെ പതറാത്ത ധീരതയായിരുന്നു.",
     "usageExample": "Steadfast boldness.",
@@ -2225,7 +2225,7 @@
   },
   {
     "word": "paragon",
-    "wordMeaning": "പാരാഗൺ",
+    "wordMeaning": "ഉത്തമ മാതൃക",
     "englishText": "He was revered as an exemplary paragon of compassion, humility, and moral integrity.",
     "malayalamMeaning": "കാരുണ്യത്തിന്റെയും വിനയത്തിന്റെയും ധാർമ്മികമൂല്യങ്ങളുടെയും ഉത്തമ മാതൃകയായാണ് അദ്ദേഹം ആദരിക്കപ്പെട്ടത്.",
     "usageExample": "Model ideal.",
@@ -2233,7 +2233,7 @@
   },
   {
     "word": "disarming",
-    "wordMeaning": "നിരായുധീകരണം",
+    "wordMeaning": "ശത്രുത അകറ്റുന്ന",
     "englishText": "Her disarming modesty quickly dissolved the initial hostility of the interview panel.",
     "malayalamMeaning": "അവളുടെ വിനയവും ലളിതമായ പെരുമാറ്റവും ഇന്റർവ്യൂ ബോർഡിന്റെ മുൻവിധികളെ പെട്ടെന്നുതന്നെ ഇല്ലാതാക്കി.",
     "usageExample": "Disarming enmity.",
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "felicitous",
-    "wordMeaning": "സന്തോഷകരമായ",
+    "wordMeaning": "സന്ദർഭോചിതമായ",
     "englishText": "His felicitous remarks struck the perfect balance between gentle humor and deep reverence.",
     "malayalamMeaning": "ഫലിതവും ആദരവും ഒത്തുചേർന്ന അദ്ദേഹത്തിന്റെ സന്ദർഭോചിതമായ വാക്കുകൾ സദസ്സിന് ഏറെ ഇമ്പമായി തോന്നി.",
     "usageExample": "Aptly suited.",
@@ -2281,7 +2281,7 @@
   },
   {
     "word": "circumspect",
-    "wordMeaning": "സൂക്ഷ്മത",
+    "wordMeaning": "ജാഗ്രതയുള്ള",
     "englishText": "A wise judge is circumspect and avoids forming premature opinions before hearing evidence.",
     "malayalamMeaning": "തെളിവുകൾ കേൾക്കുന്നതിന് മുൻപ് മുൻവിധികളിലെത്താതെ വിവേകത്തോടെയും ജാഗ്രതയോടെയും കാര്യങ്ങൾ നീക്കുന്നയാളാണ് നല്ലൊരു ജഡ്ജി.",
     "usageExample": "Prudently careful.",
@@ -2289,7 +2289,7 @@
   },
   {
     "word": "discreet",
-    "wordMeaning": "വിവേകി",
+    "wordMeaning": "വിവേകമുള്ള",
     "englishText": "Thank you for being discreet and guarding the confidentiality of our private talk.",
     "malayalamMeaning": "നമ്മുടെ സ്വകാര്യ സംഭാഷണത്തിന്റെ രഹസ്യസ്വഭാവം സൂക്ഷിച്ചതിനും പക്വത കാട്ടിയതിനും നന്ദി.",
     "usageExample": "Guarding secrets.",
@@ -2313,7 +2313,7 @@
   },
   {
     "word": "munificent",
-    "wordMeaning": "സമൃദ്ധമായ",
+    "wordMeaning": "അതീവ ഉദാരമായ",
     "englishText": "The philanthropist made a munificent endowment to build a free cancer treatment center.",
     "malayalamMeaning": "സൗജന്യ കാൻസർ ചികിത്സാ കേന്ദ്രം നിർമ്മിക്കുന്നതിനായി ആ മനുഷ്യസ്നേഹി ഉദാരമായ വലിയൊരു തുക സംഭാവന നൽകി.",
     "usageExample": "Extremely generous.",
@@ -2337,7 +2337,7 @@
   },
   {
     "word": "yearning",
-    "wordMeaning": "കൊതിക്കുന്നു",
+    "wordMeaning": "തീവ്രമായ കൊതി",
     "englishText": "The homesick student felt an intense yearning for his mother's home cooking.",
     "malayalamMeaning": "വീട്ടിലെ ഓർമ്മകൾ വേട്ടയാടിയ ആ വിദ്യാർത്ഥി അമ്മയുണ്ടാക്കുന്ന നാടൻ ഭക്ഷണത്തിനായി വല്ലാതെ കൊതിച്ചു.",
     "usageExample": "Deep longing.",
@@ -2353,7 +2353,7 @@
   },
   {
     "word": "wistful",
-    "wordMeaning": "കൊതിപ്പിക്കുന്ന",
+    "wordMeaning": "നൊമ്പരമാർന്ന",
     "englishText": "She cast a wistful backward glance at the family home before driving away.",
     "malayalamMeaning": "വണ്ടിയോടിച്ചു പോകുന്നതിനു മുൻപ് തന്റെ കുടുംബവീട്ടിലേക്ക് അവൾ നൊമ്പരത്തോടെ തിരിഞ്ഞുനോക്കി.",
     "usageExample": "Yearningly pensive.",
@@ -2377,7 +2377,7 @@
   },
   {
     "word": "solicitude",
-    "wordMeaning": "അഭ്യർത്ഥന",
+    "wordMeaning": "കരുതൽ",
     "englishText": "Her tender maternal solicitude was evident in every warm sweater she knitted.",
     "malayalamMeaning": "അവൾ നെയ്തുണ്ടാക്കിയ ഓരോ സ്വെറ്ററിലും ആ അമ്മയുടെ സ്നേഹവും കരുതലും പ്രകടമായിരുന്നു.",
     "usageExample": "Caring concern.",
@@ -2393,7 +2393,7 @@
   },
   {
     "word": "unflappable",
-    "wordMeaning": "പൊള്ളാത്ത",
+    "wordMeaning": "പതറാത്ത",
     "englishText": "The captain remained completely unflappable as the storm battered the vessel.",
     "malayalamMeaning": "കൊടുങ്കാറ്റ് ആഞ്ഞടിച്ചപ്പോഴും കപ്പലിന്റെ ക്യാപ്റ്റൻ തെല്ലും പതറാതെ തികഞ്ഞ ശാന്തതയോടെ കാര്യങ്ങൾ നിയന്ത്രിച്ചു.",
     "usageExample": "Imperturbable.",

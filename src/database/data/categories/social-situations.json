@@ -1,7 +1,7 @@
 [
   {
     "word": "party",
-    "wordMeaning": "പാർട്ടി",
+    "wordMeaning": "സൽക്കാരം",
     "englishText": "We were invited to a lively rooftop birthday party this Saturday.",
     "malayalamMeaning": "ഈ ശനിയാഴ്ച ടെറസിൽ നടക്കുന്ന പിറന്നാൾ ആഘോഷത്തിലേക്ക് ഞങ്ങൾക്ക് ക്ഷണമുണ്ട്.",
     "usageExample": "Social festivity.",
@@ -9,7 +9,7 @@
   },
   {
     "word": "event",
-    "wordMeaning": "സംഭവം",
+    "wordMeaning": "പരിപാടി",
     "englishText": "The annual community cultural event showcased traditional percussion music.",
     "malayalamMeaning": "നാട്ടിലെ വാർഷിക സാംസ്കാരിക പരിപാടിയിൽ പരമ്പരാഗത മേളപ്പെരുക്കം അരങ്ങേറി.",
     "usageExample": "Gathering.",
@@ -33,7 +33,7 @@
   },
   {
     "word": "feast",
-    "wordMeaning": "വിരുന്നു",
+    "wordMeaning": "വിരുന്ന്",
     "englishText": "The church festival concluded with a grand community feast for all devotees.",
     "malayalamMeaning": "എല്ലാ വിശ്വാസികൾക്കുമുള്ള വലിയ സ്നേഹവിരുന്നോടെ പള്ളിപ്പെരുന്നാൾ സമാപിച്ചു.",
     "usageExample": "Grand banquet.",
@@ -97,7 +97,7 @@
   },
   {
     "word": "host",
-    "wordMeaning": "ഹോസ്റ്റ്",
+    "wordMeaning": "ആതിഥേയൻ",
     "englishText": "Our gracious hosts prepared a delicious spread of traditional homemade dishes.",
     "malayalamMeaning": "സ്നേഹനിധികളായ ആതിഥേയർ രുചികരമായ നാടൻ വിഭവങ്ങൾ ഒരുക്കി ഞങ്ങളെ സൽക്കരിച്ചു.",
     "usageExample": "Entertaining person.",
@@ -105,7 +105,7 @@
   },
   {
     "word": "welcome",
-    "wordMeaning": "സ്വാഗതം",
+    "wordMeaning": "സ്വാഗതം ചെയ്യുക",
     "englishText": "Always welcome arriving visitors at the doorway with folded hands and a smile.",
     "malayalamMeaning": "വീട്ടിലെത്തുന്ന അതിഥികളെ പുഞ്ചിരിയോടെ കൈകൂപ്പി സ്വീകരിക്കുക.",
     "usageExample": "Receive warmly.",
@@ -209,7 +209,7 @@
   },
   {
     "word": "clap",
-    "wordMeaning": "കൈയടി",
+    "wordMeaning": "കൈയടിക്കുക",
     "englishText": "The appreciative audience began clapping enthusiastically after the performance.",
     "malayalamMeaning": "പരിപാടി കഴിഞ്ഞയുടൻ സദസ്സിലുള്ളവർ നിറഞ്ഞ കയ്യടികളോടെ അവരെ അഭിനന്ദിച്ചു.",
     "usageExample": "Applaud.",
@@ -217,7 +217,7 @@
   },
   {
     "word": "cheer",
-    "wordMeaning": "സന്തോഷിപ്പിക്കുക",
+    "wordMeaning": "ആർപ്പുവിളി",
     "englishText": "Loud cheers echoed across the hall as the bride and groom stepped onto the stage.",
     "malayalamMeaning": "വധൂവരന്മാർ വേദിയിലേക്ക് കയറിയപ്പോൾ സദസ്സിൽ നിന്ന് വലിയ കരഘോഷം ഉയർന്നു.",
     "usageExample": "Shout joy.",
@@ -297,7 +297,7 @@
   },
   {
     "word": "present",
-    "wordMeaning": "ഹാജർ",
+    "wordMeaning": "സമ്മാനം",
     "englishText": "She wrapped the anniversary present in shimmering silk fabric.",
     "malayalamMeaning": "വിവാഹവാർഷിക സമ്മാനം അവൾ തിളങ്ങുന്ന പട്ടുതുണിയിൽ പൊതിഞ്ഞു.",
     "usageExample": "Gift item.",
@@ -337,7 +337,7 @@
   },
   {
     "word": "thank",
-    "wordMeaning": "നന്ദി",
+    "wordMeaning": "നന്ദി പറയുക",
     "englishText": "I want to thank our hosts for the remarkable hospitality shown to us.",
     "malayalamMeaning": "ഞങ്ങളെ സ്നേഹത്തോടെ സൽക്കരിച്ച ആതിഥേയർക്ക് എന്റെ ഹൃദയം നിറഞ്ഞ നന്ദി അറിയിക്കുന്നു.",
     "usageExample": "Express thanks.",
@@ -353,7 +353,7 @@
   },
   {
     "word": "wish",
-    "wordMeaning": "ആഗ്രഹിക്കുക",
+    "wordMeaning": "ആശംസിക്കുക",
     "englishText": "We wish the newlyweds a lifetime of love, laughter, and mutual respect.",
     "malayalamMeaning": "നവദമ്പതികൾക്ക് ആയുരാരോഗ്യസൗഖ്യവും ആയുഷ്കാല സ്നേഹവും ആശംസിക്കുന്നു.",
     "usageExample": "Good desire.",
@@ -361,7 +361,7 @@
   },
   {
     "word": "blessed",
-    "wordMeaning": "അനുഗ്രഹിക്കപ്പെട്ടു",
+    "wordMeaning": "അനുഗ്രഹീതമായ",
     "englishText": "May your new family home be blessed with health, peace, and abundance.",
     "malayalamMeaning": "നിങ്ങളുടെ പുതിയ വീട്ടിൽ ആരോഗ്യവും സമാധാനവും ഐശ്വര്യവും എപ്പോഴും നിറഞ്ഞുനിൽക്കട്ടെ.",
     "usageExample": "Divinely favored.",
@@ -393,7 +393,7 @@
   },
   {
     "word": "garland",
-    "wordMeaning": "മാല",
+    "wordMeaning": "പൂമാല",
     "englishText": "The bride and groom exchanged fragrant floral garlands during the ritual.",
     "malayalamMeaning": "വിവാഹച്ചടങ്ങിൽ വധൂവരന്മാർ പരസ്പരം പൂമാല ചാർത്തി.",
     "usageExample": "Flower wreath.",
@@ -457,7 +457,7 @@
   },
   {
     "word": "eat",
-    "wordMeaning": "തിന്നുക",
+    "wordMeaning": "ഭക്ഷിക്കുക",
     "englishText": "It is polite to wait until the elders begin before you start to eat.",
     "malayalamMeaning": "മുതിർന്നവർ ഭക്ഷണം കഴിച്ചു തുടങ്ങിയ ശേഷം മാത്രം നമ്മൾ കഴിച്ചു തുടങ്ങുന്നതാണ് മര്യാദ.",
     "usageExample": "Dine.",
@@ -497,7 +497,7 @@
   },
   {
     "word": "chat",
-    "wordMeaning": "ചാറ്റ്",
+    "wordMeaning": "സൗഹൃദ സംഭാഷണം",
     "englishText": "We had a lively chat on the veranda while enjoying evening hot tea.",
     "malayalamMeaning": "വൈകുന്നേരം ചൂടുചായ കുടിച്ചുകൊണ്ട് ഞങ്ങൾ വരാന്തയിലിരുന്ന് സന്തോഷത്തോടെ സംസാരിച്ചു.",
     "usageExample": "Casual converse.",
@@ -505,7 +505,7 @@
   },
   {
     "word": "greet",
-    "wordMeaning": "വന്ദനം",
+    "wordMeaning": "അഭിവാദ്യം ചെയ്യുക",
     "englishText": "Always greet every visitor with respectful eye contact and warm words.",
     "malayalamMeaning": "വീട്ടിലേക്ക് വരുന്ന ഓരോ സന്ദർശകരെയും ആദരവോടെയും സ്നേഹം നിറഞ്ഞ വാക്കുകളോടെയും സ്വാഗതം ചെയ്യുക.",
     "usageExample": "Welcome.",
@@ -529,7 +529,7 @@
   },
   {
     "word": "wave",
-    "wordMeaning": "തരംഗം",
+    "wordMeaning": "കൈവീശൽ",
     "englishText": "She gave an affectionate wave from the carriage as the procession moved on.",
     "malayalamMeaning": "ഘോഷയാത്ര മുന്നോട്ട് നീങ്ങിയപ്പോൾ അവൾ വാഹനത്തിൽ നിന്ന് സ്നേഹത്തോടെ കൈവീശി കാണിച്ചു.",
     "usageExample": "Hand gesture.",
@@ -601,7 +601,7 @@
   },
   {
     "word": "old",
-    "wordMeaning": "പഴയത്",
+    "wordMeaning": "പ്രായമായ",
     "englishText": "Make sure the old grandparents have comfortable seating near the front row.",
     "malayalamMeaning": "പ്രായമായ മുത്തശ്ശനും മുത്തശ്ശിക്കും മുൻനിരയിൽ തന്നെ സുഖപ്രദമായ ഇരിപ്പിടങ്ങൾ ഉണ്ടെന്ന് ഉറപ്പാക്കുക.",
     "usageExample": "Elderly.",
@@ -609,7 +609,7 @@
   },
   {
     "word": "young",
-    "wordMeaning": "ചെറുപ്പക്കാർ",
+    "wordMeaning": "പ്രായം കുറഞ്ഞ",
     "englishText": "The young volunteers served the traditional feast with energetic enthusiasm.",
     "malayalamMeaning": "ചെറുപ്പക്കാരായ വളണ്ടിയർമാർ വളരെ ആവേശത്തോടെയും ചുറുചുറുക്കോടെയും സദ്യ വിളമ്പി.",
     "usageExample": "Youthful.",
@@ -625,7 +625,7 @@
   },
   {
     "word": "group",
-    "wordMeaning": "ഗ്രൂപ്പ്",
+    "wordMeaning": "സംഘം",
     "englishText": "We took a group photograph with the chief guest and college faculty.",
     "malayalamMeaning": "മുഖ്യാതിഥിക്കും കോളേജിലെ അധ്യാപകർക്കുമൊപ്പം ഞങ്ങൾ ഒരു ഗ്രൂപ്പ് ഫോട്ടോ എടുത്തു.",
     "usageExample": "Cluster of people.",
@@ -665,7 +665,7 @@
   },
   {
     "word": "toast",
-    "wordMeaning": "ടോസ്റ്റ്",
+    "wordMeaning": "ആശംസ നേരുക",
     "englishText": "Raise your glasses in a cheerful toast to health, prosperity, and love.",
     "malayalamMeaning": "ആരോഗ്യവും ഐശ്വര്യവും സ്നേഹവും നേർന്നുകൊണ്ട് സന്തോഷത്തോടെ നമുക്ക് ആശംസകൾ നേരുകയും ഗ്ലാസുകൾ ഉയർത്തുകയും ചെയ്യാം.",
     "usageExample": "Drinking salute.",
@@ -673,7 +673,7 @@
   },
   {
     "word": "honor",
-    "wordMeaning": "ബഹുമാനം",
+    "wordMeaning": "ആദരിക്കുക",
     "englishText": "We gathered to honor a lifelong teacher who dedicated forty years to the village.",
     "malayalamMeaning": "ഗ്രാമത്തിലെ കുട്ടികൾക്കായി നാൽപ്പതു വർഷം ജീവിതം ഉഴിഞ്ഞുവെച്ച ഒരു അധ്യാപകനെ ആദരിക്കാനാണ് ഞങ്ങൾ ഒത്തുകൂടിയത്.",
     "usageExample": "Show respect.",
@@ -681,7 +681,7 @@
   },
   {
     "word": "award",
-    "wordMeaning": "അവാർഡ്",
+    "wordMeaning": "പുരസ്കാരം",
     "englishText": "She was presented with the community leadership award at the annual gala.",
     "malayalamMeaning": "വാർഷിക സമ്മേളനത്തിൽ വെച്ച് മികച്ച സാമൂഹിക സേവനത്തിനുള്ള അവാർഡ് നൽകി അവരെ ആദരിച്ചു.",
     "usageExample": "Recognition prize.",
@@ -689,7 +689,7 @@
   },
   {
     "word": "stage",
-    "wordMeaning": "സ്റ്റേജ്",
+    "wordMeaning": "വേദി",
     "englishText": "The beautifully decorated stage featured a floral backdrop of white orchids.",
     "malayalamMeaning": "മനോഹരമായി അലങ്കരിച്ച വേദിയിൽ വെളുത്ത ഓർക്കിഡ് പൂക്കൾ കൊണ്ടുള്ള പശ്ചാത്തലം ഒരുക്കിയിരുന്നു.",
     "usageExample": "Raised platform.",
@@ -753,7 +753,7 @@
   },
   {
     "word": "rule",
-    "wordMeaning": "ഭരണം",
+    "wordMeaning": "ചട്ടം",
     "englishText": "One important social rule is to RSVP promptly when invited to a formal banquet.",
     "malayalamMeaning": "ഒരു സൽക്കാരത്തിലേക്ക് ക്ഷണം ലഭിച്ചാൽ പങ്കെടുക്കുമോ ഇല്ലയോ എന്ന് മുൻകൂട്ടി അറിയിക്കുക എന്നത് പ്രധാനപ്പെട്ട ഒരു മര്യാദയാണ്.",
     "usageExample": "Social norm.",
@@ -769,7 +769,7 @@
   },
   {
     "word": "serve",
-    "wordMeaning": "സേവിക്കുക",
+    "wordMeaning": "വിളമ്പുക",
     "englishText": "Youth volunteers took immense pride in serving hot curries to seated guests.",
     "malayalamMeaning": "പന്തിയിലിരുന്ന അതിഥികൾക്ക് ചൂടൻ കറികൾ വിളമ്പുന്നതിൽ ചെറുപ്പക്കാർ വലിയ ആവേശം കാണിച്ചു.",
     "usageExample": "Dish out food.",
@@ -777,7 +777,7 @@
   },
   {
     "word": "clean",
-    "wordMeaning": "ശുദ്ധമായ",
+    "wordMeaning": "വൃത്തിയാക്കുക",
     "englishText": "The committee stayed behind to clean and restore the community hall after the event.",
     "malayalamMeaning": "പരിപാടി കഴിഞ്ഞതിന് ശേഷം കമ്മ്യൂണിറ്റി ഹാൾ വൃത്തിയാക്കി കൊടുക്കാനായി കമ്മിറ്റി അംഗങ്ങൾ അവിടെത്തന്നെ നിന്നു.",
     "usageExample": "Tidy up.",
@@ -785,7 +785,7 @@
   },
   {
     "word": "leave",
-    "wordMeaning": "വിടുക",
+    "wordMeaning": "വിട്ടുപോകുക",
     "englishText": "Say goodbye and thank your hosts warmly before you leave the party.",
     "malayalamMeaning": "വിരുന്നിനു ശേഷം മടങ്ങുന്നതിന് മുൻപായി ആതിഥേയർക്ക് സ്നേഹത്തോടെ നന്ദി പറയുകയും യാത്ര ചോദിക്കുകയും ചെയ്യുക.",
     "usageExample": "Depart.",
@@ -833,7 +833,7 @@
   },
   {
     "word": "enjoy",
-    "wordMeaning": "ആസ്വദിക്കൂ",
+    "wordMeaning": "ആസ്വദിക്കുക",
     "englishText": "Sit back, mingle with new friends, and enjoy the evening's festivities.",
     "malayalamMeaning": "വിശ്രമമായി ഇരിക്കൂ, പുതിയ കൂട്ടുകാരെ പരിചയപ്പെടൂ, ഈ സായാഹ്നത്തിലെ ആഘോഷങ്ങൾ ആസ്വദിക്കൂ.",
     "usageExample": "Take pleasure.",
@@ -841,7 +841,7 @@
   },
   {
     "word": "mingle",
-    "wordMeaning": "കൂടിച്ചേരുക",
+    "wordMeaning": "ഇടപഴകുക",
     "englishText": "The cocktail reception gave professionals a chance to mingle and network.",
     "malayalamMeaning": "വൈകുന്നേരത്തെ സൽക്കാരം പ്രൊഫഷണലുകൾക്ക് പരസ്പരം പരിചയപ്പെടാനും സൗഹൃദങ്ങൾ വളർത്താനുമുള്ള നല്ലൊരു അവസരമായി.",
     "usageExample": "Mix socially.",
@@ -849,7 +849,7 @@
   },
   {
     "word": "celebrant",
-    "wordMeaning": "ആഘോഷിക്കുന്ന",
+    "wordMeaning": "ആഘോഷിക്കപ്പെടുന്നയാൾ",
     "englishText": "The birthday celebrant blew out the candles amidst cheering and clapping.",
     "malayalamMeaning": "എല്ലാവരുടെയും കൈയടികൾക്കും സന്തോഷാരവങ്ങൾക്കുമിടയിൽ പിറന്നാളുകാരൻ മെഴുകുതിരികൾ ഊതിക്കെടുത്തി.",
     "usageExample": "Person celebrated.",
@@ -873,7 +873,7 @@
   },
   {
     "word": "parade",
-    "wordMeaning": "പരേഡ്",
+    "wordMeaning": "ഘോഷയാത്ര",
     "englishText": "Decorated elephants and percussion artists marched in the magnificent festival parade.",
     "malayalamMeaning": "നെറ്റിപ്പട്ടം കെട്ടിയ ഗജവീരന്മാരും മേളക്കാരും അണിനിരന്നതോടെ ഉത്സവഘോഷയാത്ര അതിഗംഭീരമായി.",
     "usageExample": "Procession.",
@@ -881,7 +881,7 @@
   },
   {
     "word": "carnival",
-    "wordMeaning": "കാർണിവൽ",
+    "wordMeaning": "ഉത്സവമേള",
     "englishText": "The parish carnival featured games, street food stalls, and carousel rides.",
     "malayalamMeaning": "ഇടവക തിരുനാൾ മേളയിൽ വിവിധ കളികളും ഭക്ഷണശാലകളും കുട്ടികൾക്കുള്ള റൈഡുകളും ഉണ്ടായിരുന്നു.",
     "usageExample": "Public festival.",
@@ -897,7 +897,7 @@
   },
   {
     "word": "fair",
-    "wordMeaning": "ന്യായമായ",
+    "wordMeaning": "മേള",
     "englishText": "Children were thrilled to ride the giant Ferris wheel at the village temple fair.",
     "malayalamMeaning": "നാട്ടിലെ ഉത്സവപ്പറമ്പിലെ വലിയ ജയന്റ് വീലിൽ കയറാൻ കുട്ടികൾ വലിയ ഉത്സാഹം കാണിച്ചു.",
     "usageExample": "Amusement fair.",
@@ -921,7 +921,7 @@
   },
   {
     "word": "potluck",
-    "wordMeaning": "potluck",
+    "wordMeaning": "കൂട്ടുവിരുന്ന്",
     "englishText": "Neighbors organized a weekend potluck dinner where everyone brought a dish.",
     "malayalamMeaning": "ഓരോരുത്തരും ഓരോ വിഭവങ്ങൾ വീട്ടിൽ നിന്ന് ഉണ്ടാക്കിക്കൊണ്ടുവന്ന് കഴിക്കുന്ന ഒരു വിരുന്ന് അയൽക്കാർ വാരാന്ത്യത്തിൽ സംഘടിപ്പിച്ചു.",
     "usageExample": "Shared food party.",
@@ -929,7 +929,7 @@
   },
   {
     "word": "picnic",
-    "wordMeaning": "പിക്നിക്",
+    "wordMeaning": "ഉല്ലാസയാത്ര",
     "englishText": "The family packed sandwiches and iced tea for a sunny lakeside picnic.",
     "malayalamMeaning": "തടാകക്കരയിലുള്ള ഉല്ലാസയാത്രയ്ക്കായി വീട്ടുകാർ സാൻഡ്‌വിച്ചുകളും തണുത്ത ചായയും കരുതിയിരുന്നു.",
     "usageExample": "Outdoor meal.",
@@ -961,7 +961,7 @@
   },
   {
     "word": "toastmaster",
-    "wordMeaning": "ടോസ്റ്റ്മാസ്റ്റർ",
+    "wordMeaning": "അവതാരകൻ",
     "englishText": "The witty toastmaster kept the wedding reception audience laughing throughout.",
     "malayalamMeaning": "സരസമായി സംസാരിച്ച അവതാരകൻ വിവാഹസൽക്കാരത്തിലുടനീളം സദസ്യരെ ചിരിപ്പിച്ചു.",
     "usageExample": "Master of ceremonies.",
@@ -969,7 +969,7 @@
   },
   {
     "word": "master",
-    "wordMeaning": "മാസ്റ്റർ",
+    "wordMeaning": "ചടങ്ങ് അവതാരകൻ",
     "englishText": "The master of ceremonies introduced each musical performer with grace.",
     "malayalamMeaning": "അവതാരകൻ വളരെ മനോഹരമായി ഓരോ സംഗീതജ്ഞരെയും സദസിന് പരിചയപ്പെടുത്തി.",
     "usageExample": "MC.",
@@ -1001,7 +1001,7 @@
   },
   {
     "word": "performer",
-    "wordMeaning": "അവതാരകൻ",
+    "wordMeaning": "കലാവതാരകൻ",
     "englishText": "Each classical dance performer demonstrated extraordinary emotional expressiveness.",
     "malayalamMeaning": "ക്ലാസിക്കൽ നർത്തകിമാർ തങ്ങളുടെ പ്രകടനത്തിലൂടെ ഭാവങ്ങൾ അത്യധികം മനോഹരമായി ആവിഷ്കരിച്ചു.",
     "usageExample": "Stage artist.",
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "sponsor",
-    "wordMeaning": "സ്പോൺസർ",
+    "wordMeaning": "പ്രായോജകൻ",
     "englishText": "Corporate sponsors provided funding for the inter-school athletics tournament.",
     "malayalamMeaning": "സ്കൂളുകൾ തമ്മിലുള്ള കായികമേളയ്ക്ക് കമ്പനികൾ സ്പോൺസർഷിപ്പ് നൽകി സഹായിച്ചു.",
     "usageExample": "Financial backer.",
@@ -1041,7 +1041,7 @@
   },
   {
     "word": "lighting",
-    "wordMeaning": "ലൈറ്റിംഗ്",
+    "wordMeaning": "ദീപാലങ്കാരം",
     "englishText": "Subtle fairy lights strung through the trees created a magical evening ambiance.",
     "malayalamMeaning": "മരങ്ങളിൽ തൂക്കിയിട്ട ചെറിയ അലങ്കാരദീപങ്ങൾ സായാഹ്നത്തിന് മാന്ത്രികമായ ഒരു ഭംഗി പകർന്നു.",
     "usageExample": "Illumination.",
@@ -1145,7 +1145,7 @@
   },
   {
     "word": "festive",
-    "wordMeaning": "ഉത്സവം",
+    "wordMeaning": "ഉത്സവഭരിതമായ",
     "englishText": "The bustling streets wore a vibrant, festive look on the eve of the festival.",
     "malayalamMeaning": "പെരുന്നാളിൻ്റെ തലേന്ന് തിരക്കേറിയ തെരുവുകൾ മുഴുവൻ ഉത്സവപ്രതീതിയിലായിരുന്നു.",
     "usageExample": "Celebratory.",
@@ -1153,7 +1153,7 @@
   },
   {
     "word": "felicitation",
-    "wordMeaning": "അഭിനന്ദനം",
+    "wordMeaning": "അനുമോദനം",
     "englishText": "The cultural society organized a public felicitation honoring the veteran poet.",
     "malayalamMeaning": "മുതിർന്ന കവിയെ ആദരിക്കുന്നതിനായി സാംസ്കാരിക സമിതി ഒരു അനുമോദന യോഗം സംഘടിപ്പിച്ചു.",
     "usageExample": "Ceremonial praise.",
@@ -1169,7 +1169,7 @@
   },
   {
     "word": "decorum",
-    "wordMeaning": "അലങ്കാരം",
+    "wordMeaning": "മാന്യത",
     "englishText": "Attendees are expected to observe strict decorum during solemn religious ceremonies.",
     "malayalamMeaning": "ഗൗരവമേറിയ മതച്ചടങ്ങുകൾ നടക്കുമ്പോൾ പങ്കെടുത്തവരെല്ലാം തികഞ്ഞ അച്ചടക്കവും മര്യാദയും പാലിക്കേണ്ടതാണ്.",
     "usageExample": "Proper behavior.",
@@ -1185,7 +1185,7 @@
   },
   {
     "word": "networking",
-    "wordMeaning": "നെറ്റ്‌വർക്കിംഗ്",
+    "wordMeaning": "ബന്ധങ്ങൾ സ്ഥാപിക്കൽ",
     "englishText": "The annual industry conference provided valuable opportunities for professional networking.",
     "malayalamMeaning": "തൊഴിൽരംഗത്തെ പരസ്പരബന്ധങ്ങൾ വിപുലീകരിക്കാൻ വാർഷിക സമ്മേളനം മികച്ചൊരു വേദിയായി.",
     "usageExample": "Building contacts.",
@@ -1193,7 +1193,7 @@
   },
   {
     "word": "socialite",
-    "wordMeaning": "സാമൂഹ്യവാദി",
+    "wordMeaning": "സാമൂഹിക പ്രമുഖൻ",
     "englishText": "She was a prominent socialite renowned for hosting charitable society galas.",
     "malayalamMeaning": "ജീവകാരുണ്യ പ്രവർത്തനങ്ങൾക്കായി വലിയ സൽക്കാരങ്ങൾ സംഘടിപ്പിക്കുന്നതിൽ മുൻപന്തിയിലുള്ള ഒരു പ്രമുഖ വ്യക്തിത്വമായിരുന്നു അവർ.",
     "usageExample": "Prominent socialite.",
@@ -1209,7 +1209,7 @@
   },
   {
     "word": "convention",
-    "wordMeaning": "കൺവെൻഷൻ",
+    "wordMeaning": "സമ്മേളനം",
     "englishText": "Over five thousand delegates attended the national medical practitioners convention.",
     "malayalamMeaning": "ദേശീയ മെഡിക്കൽ സമ്മേളനത്തിൽ അയ്യായിരത്തിലധികം ഡോക്ടർമാരും പ്രതിനിധികളും പങ്കെടുത്തു.",
     "usageExample": "Professional meet.",
@@ -1249,7 +1249,7 @@
   },
   {
     "word": "pageant",
-    "wordMeaning": "മത്സരം",
+    "wordMeaning": "വർണ്ണാഭമായ പ്രദർശനം",
     "englishText": "The historical pageant reenacted the arrival of ancient maritime spice traders.",
     "malayalamMeaning": "പുരാതന കാലത്ത് സുഗന്ധവ്യഞ്ജന വ്യാപാരത്തിനായി കപ്പലുകളിലെത്തിയ വിദേശ വ്യാപാരികളുടെ ചരിത്രം നാടകീയമായി പുനരാവിഷ്കരിക്കപ്പെട്ടു.",
     "usageExample": "Costumed spectacle.",
@@ -1257,7 +1257,7 @@
   },
   {
     "word": "extravaganza",
-    "wordMeaning": "അതിഗംഭീരം",
+    "wordMeaning": "ആഘോഷവിരുന്ന്",
     "englishText": "The annual youth cultural festival was a three-day musical extravaganza.",
     "malayalamMeaning": "മൂന്നു ദിവസം നീണ്ടുനിന്ന വാർഷിക യുവജനോത്സവം സംഗീതത്തിന്റെയും കലകളുടെയും ഒരു വസന്തമായിരുന്നു.",
     "usageExample": "Lavish show.",
@@ -1265,7 +1265,7 @@
   },
   {
     "word": "maestro",
-    "wordMeaning": "മാസ്ട്രോ",
+    "wordMeaning": "സംഗീതാചാര്യൻ",
     "englishText": "The percussion maestro led ninety drummers in an electrifying temple symphony.",
     "malayalamMeaning": "തൊണ്ണൂറോളം വാദ്യകലാകാരന്മാരെ അണിനിരത്തി മേളപ്രമാണി നയിച്ച പഞ്ചാരിമേളം സദസ്യരെ ആവേശഭരിതരാക്കി.",
     "usageExample": "Master musician.",
@@ -1273,7 +1273,7 @@
   },
   {
     "word": "recital",
-    "wordMeaning": "പാരായണം",
+    "wordMeaning": "സംഗീതക്കച്ചേരി",
     "englishText": "She gave a breathtaking solo vocal recital of classical Carnatic ragas.",
     "malayalamMeaning": "കർണ്ണാടക സംഗീത രാഗങ്ങൾ കോർത്തിണക്കിക്കൊണ്ട് അവർ അതിമനോഹരമായ ഒരു കച്ചേരി അവതരിപ്പിച്ചു.",
     "usageExample": "Musical concert.",
@@ -1281,7 +1281,7 @@
   },
   {
     "word": "tribute",
-    "wordMeaning": "ആദരാഞ്ജലി",
+    "wordMeaning": "ആദരവ്",
     "englishText": "The documentary film was a moving tribute to the unsung heroes of flood rescue.",
     "malayalamMeaning": "പ്രളയ രക്ഷാപ്രവർത്തനത്തിൽ നിർണ്ണായക പങ്കുവഹിച്ച അജ്ഞാതരായ പോരാളികൾക്കുള്ള ആദരവായിരുന്നു ആ ഡോക്യുമെന്ററി.",
     "usageExample": "Honoring piece.",
@@ -1321,7 +1321,7 @@
   },
   {
     "word": "emcee",
-    "wordMeaning": "എംസി",
+    "wordMeaning": "അവതാരകൻ",
     "englishText": "The charismatic emcee kept the award ceremony engaging and running on schedule.",
     "malayalamMeaning": "വാക്ചാതുരിയുള്ള അവതാരകൻ അവാർഡ് ദാന ചടങ്ങിനെ സമയബന്ധിതവും രസകരവുമായി മുന്നോട്ട് കൊണ്ടുപോയി.",
     "usageExample": "MC presenter.",
@@ -1433,7 +1433,7 @@
   },
   {
     "word": "homecoming",
-    "wordMeaning": "ഗൃഹപ്രവേശം",
+    "wordMeaning": "മടങ്ങിവരവ്",
     "englishText": "The festival marked a joyful homecoming for thousands of expatriates returning home.",
     "malayalamMeaning": "ഈ ഉത്സവം നാട്ടിലെത്താൻ കാത്തിരുന്ന ആയിരക്കണക്കിന് പ്രവാസികൾക്ക് ആഹ്ലാദകരമായ ഒരു തിരിച്ചുവരവായി മാറി.",
     "usageExample": "Return of citizens.",
@@ -1441,7 +1441,7 @@
   },
   {
     "word": "valediction",
-    "wordMeaning": "മൂല്യനിർണ്ണയം",
+    "wordMeaning": "വിടവാങ്ങൽ പ്രസംഗം",
     "englishText": "Her moving valediction brought tears to the eyes of her graduating classmates.",
     "malayalamMeaning": "യാത്രയയപ്പ് വേളയിലെ അവളുടെ വികാരനിർഭരമായ വിടവാങ്ങൽ പ്രസംഗം സഹപാഠികളുടെ കണ്ണുനിറച്ചു.",
     "usageExample": "Farewell speech.",
@@ -1457,7 +1457,7 @@
   },
   {
     "word": "convivial",
-    "wordMeaning": "സുഖപ്രദമായ",
+    "wordMeaning": "സൗഹൃദപൂർണ്ണമായ",
     "englishText": "We spent a convivial evening sharing stories around the glowing garden hearth.",
     "malayalamMeaning": "പൂന്തോട്ടത്തിൽ തീ കായുന്നതിനിടയിൽ പഴയ കഥകൾ പങ്കുവെച്ച് ഞങ്ങൾ ആ സായാഹ്നം സൗഹൃദത്തോടെ ചിലവഴിച്ചു.",
     "usageExample": "Festively social.",
@@ -1465,7 +1465,7 @@
   },
   {
     "word": "bonhomie",
-    "wordMeaning": "ബോൺഹോമി",
+    "wordMeaning": "ഊഷ്മള സൗഹൃദം",
     "englishText": "A buoyant atmosphere of warm bonhomie permeated the university batch reunion.",
     "malayalamMeaning": "സർവ്വകലാശാലാ പൂർവ്വവിദ്യാർത്ഥി സംഗമത്തിൽ ഊഷ്മളമായ സൗഹൃദത്തിന്റെയും സ്നേഹത്തിന്റെയും സന്തോഷകരമായ അന്തരീക്ഷം നിറഞ്ഞുനിന്നു.",
     "usageExample": "Genial warmth.",
@@ -1473,7 +1473,7 @@
   },
   {
     "word": "hospitable",
-    "wordMeaning": "അതിഥിപ്രിയം",
+    "wordMeaning": "ആതിഥ്യമര്യാദയുള്ള",
     "englishText": "The mountain villagers were incredibly hospitable, opening their homes to travelers.",
     "malayalamMeaning": "മലയോര ഗ്രാമവാസികൾ യാത്രക്കാരെ ഹൃദയപൂർവ്വം സ്വാഗതം ചെയ്യുകയും വീടുകളിൽ വിരുന്നൂട്ടുകയും ചെയ്തു.",
     "usageExample": "Welcoming.",
@@ -1481,7 +1481,7 @@
   },
   {
     "word": "affable",
-    "wordMeaning": "മാന്യമായ",
+    "wordMeaning": "സൗഹൃദപരമായ",
     "englishText": "His affable disposition made him the undisputed favorite host at every dinner.",
     "malayalamMeaning": "അദ്ദേഹത്തിന്റെ സൗമ്യമായ പെരുമാറ്റവും മാന്യതയും കാരണം ഏവർക്കും പ്രിയപ്പെട്ട ഒരു ആതിഥേയനായി അദ്ദേഹം മാറി.",
     "usageExample": "Easy to approach.",
@@ -1489,7 +1489,7 @@
   },
   {
     "word": "gregarious",
-    "wordMeaning": "കൂട്ടമായി",
+    "wordMeaning": "ഇണങ്ങിപ്പഴകുന്ന",
     "englishText": "Being naturally gregarious, he effortlessly assembled a vibrant circle of friends.",
     "malayalamMeaning": "എല്ലാവരോടും വേഗത്തിൽ ഇണങ്ങിപ്പഴകുന്ന പ്രകൃതക്കാരനായതുകൊണ്ട് അയാൾക്ക് ചുറ്റും എപ്പോഴും നല്ലൊരു സുഹൃദ്‌വലയം ഉണ്ടായിരുന്നു.",
     "usageExample": "Highly sociable.",
@@ -1497,7 +1497,7 @@
   },
   {
     "word": "urbanity",
-    "wordMeaning": "നാഗരികത",
+    "wordMeaning": "പരിഷ്കൃത മര്യാദ",
     "englishText": "The diplomat's polished urbanity and charm smoothed over contentious debates.",
     "malayalamMeaning": "നയതന്ത്രജ്ഞന്റെ പക്വതയാർന്ന സംസാരവും മര്യാദയും ചൂടേറിയ തർക്കങ്ങളെ ശാന്തമാക്കി.",
     "usageExample": "Refined elegance.",
@@ -1505,7 +1505,7 @@
   },
   {
     "word": "poise",
-    "wordMeaning": "സമനില",
+    "wordMeaning": "സംയമനം",
     "englishText": "She carried herself with regal poise and gentle humility throughout the gala.",
     "malayalamMeaning": "ചടങ്ങിലുടനീളം രാജകീയമായ പ്രൗഢിയോടൊപ്പം തികഞ്ഞ വിനയവും കാത്തുസൂക്ഷിക്കാൻ അവൾക്ക് കഴിഞ്ഞു.",
     "usageExample": "Graceful balance.",
@@ -1513,7 +1513,7 @@
   },
   {
     "word": "decorous",
-    "wordMeaning": "അലങ്കാരമായ",
+    "wordMeaning": "മാന്യമായ",
     "englishText": "Guests observed decorous behavior, speaking in hushed tones during the ceremony.",
     "malayalamMeaning": "ചടങ്ങ് നടന്നപ്പോൾ അതിഥികൾ അച്ചടക്കം പാലിക്കുകയും പതുക്കെ സംസാരിക്കുകയും ചെയ്തു.",
     "usageExample": "Properly behaved.",
@@ -1521,7 +1521,7 @@
   },
   {
     "word": "punctilious",
-    "wordMeaning": "കൃത്യനിഷ്ഠയുള്ള",
+    "wordMeaning": "സൂക്ഷ്മനിഷ്ഠയുള്ള",
     "englishText": "He is punctilious about replying promptly to every personal wedding invitation.",
     "malayalamMeaning": "ലഭിക്കുന്ന ഓരോ വിവാഹക്ഷണത്തിനും കൃത്യമായി മറുപടി നൽകുന്നതിൽ അദ്ദേഹം വളരെ ശ്രദ്ധ പുലർത്തുന്നു.",
     "usageExample": "Meticulously polite.",
@@ -1529,7 +1529,7 @@
   },
   {
     "word": "conclave",
-    "wordMeaning": "സമ്മേളനം",
+    "wordMeaning": "രഹസ്യസമ്മേളനം",
     "englishText": "Cardinals from across the globe assembled in solemn conclave to elect the new pope.",
     "malayalamMeaning": "പുതിയ മാർപാപ്പയെ തെരഞ്ഞെടുക്കുന്നതിനായി ലോകമെമ്പാടുമുള്ള കർദ്ദിനാൾമാർ അതീവ രഹസ്യവും ഗൗരവമേറിയതുമായ കോൺക്ലേവിൽ ഒത്തുകൂടി.",
     "usageExample": "Secret assembly.",
@@ -1537,7 +1537,7 @@
   },
   {
     "word": "symposium",
-    "wordMeaning": "സിമ്പോസിയം",
+    "wordMeaning": "പണ്ഡിതസമ്മേളനം",
     "englishText": "The international literary symposium brought together renowned novelists and poets.",
     "malayalamMeaning": "അന്താരാഷ്ട്ര സാഹിത്യ സെമിനാർ ലോകപ്രശസ്തരായ നോവലിസ്റ്റുകളെയും കവികളെയും ഒരൊറ്റ വേദിയിൽ എത്തിച്ചു.",
     "usageExample": "Scholarly meet.",
@@ -1545,7 +1545,7 @@
   },
   {
     "word": "colloquium",
-    "wordMeaning": "colloquium",
+    "wordMeaning": "പണ്ഡിതചർച്ച",
     "englishText": "Scholars participated in an interdisciplinary colloquium on sustainable tourism.",
     "malayalamMeaning": "സുസ്ഥിര വിനോദസഞ്ചാരത്തെക്കുറിച്ചുള്ള പ്രത്യേക പണ്ഡിത ചർച്ചയിൽ വിവിധ വിഷയങ്ങളിലെ വിദഗ്ദ്ധർ പങ്കെടുത്തു.",
     "usageExample": "Academic seminar.",
@@ -1553,7 +1553,7 @@
   },
   {
     "word": "soiree",
-    "wordMeaning": "സോയറി",
+    "wordMeaning": "സായാഹ്ന വിരുന്ന്",
     "englishText": "The ambassador hosted an elegant musical soiree at his private residence.",
     "malayalamMeaning": "അംബാസഡർ തന്റെ ഔദ്യോഗിക വസതിയിൽ മനോഹരമായ ഒരു സായാഹ്ന സംഗീതസദസ്സ് സംഘടിപ്പിച്ചു.",
     "usageExample": "Evening party.",
@@ -1577,7 +1577,7 @@
   },
   {
     "word": "promenade",
-    "wordMeaning": "പ്രൊമെനഡ്",
+    "wordMeaning": "നടപ്പാത",
     "englishText": "Couples strolled in the cool evening along the seaside stone promenade.",
     "malayalamMeaning": "കുളിർകാറ്റുള്ള സായാഹ്നത്തിൽ ദമ്പതികൾ കടൽത്തീരത്തെ നടപ്പാതയിലൂടെ ഉലാത്തി.",
     "usageExample": "Walking walkway.",
@@ -1601,7 +1601,7 @@
   },
   {
     "word": "munificence",
-    "wordMeaning": "മുനിഫിഷ്യൻസ്",
+    "wordMeaning": "ഉദാരമനസ്കത",
     "englishText": "The museum's rare manuscript wing was built through the munificence of an alumnus.",
     "malayalamMeaning": "മ്യൂസിയത്തിലെ അപൂർവ്വ താളിയോല വിഭാഗം നിർമ്മിച്ചത് ആ സ്ഥാപനത്തിലെ ഒരു പൂർവ്വവിദ്യാർത്ഥിയുടെ വലിയ സാമ്പത്തിക സഹായത്തോടെയാണ്.",
     "usageExample": "Bountiful giving.",
@@ -1609,7 +1609,7 @@
   },
   {
     "word": "largesse",
-    "wordMeaning": "വലിയ",
+    "wordMeaning": "ഉദാരദാനം",
     "englishText": "The festival committee distributed royal largesse of food and clothes to the poor.",
     "malayalamMeaning": "ഉത്സവക്കമ്മിറ്റി പാവപ്പെട്ടവർക്ക് ഭക്ഷണവും വസ്ത്രങ്ങളും ഉദാരമായി വിതരണം ചെയ്തു.",
     "usageExample": "Generous gift.",
@@ -1633,7 +1633,7 @@
   },
   {
     "word": "celebratory",
-    "wordMeaning": "ആഘോഷം",
+    "wordMeaning": "ആഘോഷപരമായ",
     "englishText": "A celebratory banquet was held to commemorate the centenary of the university.",
     "malayalamMeaning": "സർവ്വകലാശാലയുടെ ശതാബ്ദി ആഘോഷങ്ങളുടെ ഭാഗമായി ഒരു വലിയ വിരുന്ന് സംഘടിപ്പിച്ചു.",
     "usageExample": "Festive honor.",
@@ -1641,7 +1641,7 @@
   },
   {
     "word": "bounteous",
-    "wordMeaning": "ഔദാര്യമുള്ള",
+    "wordMeaning": "സമൃദ്ധമായ",
     "englishText": "The autumn harvest was bounteous, ensuring full granaries for the coming winter.",
     "malayalamMeaning": "വിളവെടുപ്പ് വളരെ സമൃദ്ധമായിരുന്നതിനാൽ വരുംമാസങ്ങളിലേക്ക് ആവശ്യമായ ധാന്യങ്ങൾ പത്തായങ്ങളിൽ നിറഞ്ഞു.",
     "usageExample": "Generously rich.",
@@ -1697,7 +1697,7 @@
   },
   {
     "word": "opulent",
-    "wordMeaning": "സമൃദ്ധമായ",
+    "wordMeaning": "ആഡംബരമുള്ള",
     "englishText": "The ballroom was opulent, decorated with crystal chandeliers and gilded mirrors.",
     "malayalamMeaning": "ക്രിസ്റ്റൽ വിളക്കുകളും സ്വർണ്ണക്കണ്ണാടികളും കൊണ്ട് സൽക്കാരഹാൾ ആഡംബരപൂർണ്ണമായി അലങ്കരിച്ചിരുന്നു.",
     "usageExample": "Luxuriously rich.",
@@ -1777,7 +1777,7 @@
   },
   {
     "word": "affability",
-    "wordMeaning": "സൗഹൃദം",
+    "wordMeaning": "സൗഹൃദഭാവം",
     "englishText": "Her natural affability made her the most popular teacher on the entire campus.",
     "malayalamMeaning": "എല്ലാവരോടും സ്നേഹത്തോടെയും തുറന്ന മനസ്സോടെയും പെരുമാറുന്ന ശീലം അവളെ ക്യാമ്പസിലെ ഏറ്റവും പ്രിയപ്പെട്ട അധ്യാപികയാക്കി മാറ്റി.",
     "usageExample": "Warm openness.",
@@ -1785,7 +1785,7 @@
   },
   {
     "word": "geniality",
-    "wordMeaning": "പ്രതിഭ",
+    "wordMeaning": "സൗഹാർദ്ദത",
     "englishText": "The host's geniality dissolved all awkwardness among the newly introduced guests.",
     "malayalamMeaning": "ആതിഥേയന്റെ സ്നേഹപൂർണ്ണമായ പെരുമാറ്റം പുതുതായി പരിചയപ്പെട്ട അതിഥികൾ തമ്മിലുള്ള അകൽച്ച പെട്ടെന്നുതന്നെ ഇല്ലാതാക്കി.",
     "usageExample": "Kind warmth.",
@@ -1809,7 +1809,7 @@
   },
   {
     "word": "approachability",
-    "wordMeaning": "സമീപനക്ഷമത",
+    "wordMeaning": "സൗഹൃദസമീപനം",
     "englishText": "The university dean's approachability encouraged students to seek his advice.",
     "malayalamMeaning": "യൂണിവേഴ്സിറ്റി ഡീനിന്റെ സൗഹൃദപരമായ സമീപനം അദ്ദേഹത്തോട് ഉപദേശം തേടാൻ വിദ്യാർത്ഥികൾക്ക് ധൈര്യം നൽകി.",
     "usageExample": "Accessibility.",
@@ -1825,7 +1825,7 @@
   },
   {
     "word": "solicitude",
-    "wordMeaning": "അഭ്യർത്ഥന",
+    "wordMeaning": "കരുതൽ",
     "englishText": "Her tender solicitude for her sick neighbor was evident in every prepared meal.",
     "malayalamMeaning": "അസുഖബാധിതനായ അയൽക്കാരന് അവൾ സ്നേഹത്തോടെ പാകം ചെയ്തു നൽകിയ ഓരോ ഭക്ഷണത്തിലും അവളുടെ കരുതൽ പ്രകടമായിരുന്നു.",
     "usageExample": "Attentive care.",
@@ -1849,7 +1849,7 @@
   },
   {
     "word": "panegyric",
-    "wordMeaning": "പനേജിറിക്",
+    "wordMeaning": "പ്രശംസാപ്രസംഗം",
     "englishText": "The orator delivered a soaring panegyric honoring the fallen soldiers' sacrifice.",
     "malayalamMeaning": "ധീരജവാന്മാരുടെ ആത്മത്യാഗത്തെ പ്രകീർത്തിച്ചുകൊണ്ട് പ്രസംഗകൻ ഗംഭീരമായ ഒരു അനുസ്മരണ പ്രഭാഷണം നടത്തി.",
     "usageExample": "Formal praise.",
@@ -1857,7 +1857,7 @@
   },
   {
     "word": "eulogy",
-    "wordMeaning": "സ്തോത്രം",
+    "wordMeaning": "അനുസ്മരണ പ്രസംഗം",
     "englishText": "The faculty gathered in solemn assembly to deliver a moving eulogy for the dean.",
     "malayalamMeaning": "അന്തരിച്ച ഡീനിന്റെ സ്മരണയ്ക്ക് മുന്നിൽ അധ്യാപകർ ഒത്തുകൂടി വികാരനിർഭരമായ അനുശോചനം രേഖപ്പെടുത്തി.",
     "usageExample": "Funeral tribute.",
@@ -1865,7 +1865,7 @@
   },
   {
     "word": "convocation",
-    "wordMeaning": "സമ്മേളനം",
+    "wordMeaning": "ബിരുദദാന ചടങ്ങ്",
     "englishText": "The university convocation conferred degrees upon twelve hundred young scholars.",
     "malayalamMeaning": "സർവ്വകലാശാലാ ബിരുദദാന ചടങ്ങിൽ ആയിരത്തി ഇരുനൂറോളം വിദ്യാർത്ഥികൾക്ക് ബിരുദങ്ങൾ സമ്മാനിച്ചു.",
     "usageExample": "Academic assembly.",
@@ -1881,7 +1881,7 @@
   },
   {
     "word": "esprit de corps",
-    "wordMeaning": "എസ്പ്രിറ്റ് ഡി കോർപ്സ്",
+    "wordMeaning": "സംഘബോധം",
     "englishText": "The demanding disaster rescue mission forged a heroic esprit de corps among volunteers.",
     "malayalamMeaning": "ദുരന്തമുഖത്തെ കഠിനമായ രക്ഷാപ്രവർത്തനം സന്നദ്ധപ്രവർത്തകർക്കിടയിൽ വീരോചിതമായ കൂട്ടായ്മയും ഒത്തൊരുമയും സൃഷ്ടിച്ചു.",
     "usageExample": "Shared team spirit.",
@@ -1905,7 +1905,7 @@
   },
   {
     "word": "veneration",
-    "wordMeaning": "ആരാധന",
+    "wordMeaning": "അതീവ ആദരവ്",
     "englishText": "Elders who embody moral integrity naturally command the loving veneration of youth.",
     "malayalamMeaning": "ഉന്നത മൂല്യങ്ങൾ ജീവിതത്തിൽ പുലർത്തുന്ന മുതിർന്നവരോട് ചെറുപ്പക്കാർക്ക് സ്വാഭാവികമായും വലിയ ആദരവും ബഹുമാനവും തോന്നും.",
     "usageExample": "Reverent respect.",
@@ -1913,7 +1913,7 @@
   },
   {
     "word": "hallowed",
-    "wordMeaning": "വിശുദ്ധീകരിച്ചു",
+    "wordMeaning": "പവിത്രമായ",
     "englishText": "We stepped with hushed reverence through the hallowed portals of the ancient shrine.",
     "malayalamMeaning": "തികഞ്ഞ ഭക്തിയോടും ആദരവോടും കൂടിയാണ് ഞങ്ങൾ ആ പുരാതന തീർത്ഥാടന കേന്ദ്രത്തിന്റെ കവാടത്തിലേക്ക് പ്രവേശിച്ചത്.",
     "usageExample": "Consecrated/holy.",
@@ -1921,7 +1921,7 @@
   },
   {
     "word": "pageantry",
-    "wordMeaning": "പ്രദർശനം",
+    "wordMeaning": "ആഡംബരപ്രദർശനം",
     "englishText": "The Republic Day parade is a dazzling national showcase of military pageantry.",
     "malayalamMeaning": "റിപ്പബ്ലിക് ദിന പരേഡ് നമ്മുടെ രാജ്യത്തിന്റെ സൈനിക ശക്തിയുടെയും പ്രൗഢിയുടെയും വിസ്മയിപ്പിക്കുന്ന ഒരു കാഴ്ചയാണ്.",
     "usageExample": "Elaborate display.",
@@ -1937,7 +1937,7 @@
   },
   {
     "word": "gala",
-    "wordMeaning": "ഗാല",
+    "wordMeaning": "ആഘോഷവിരുന്ന്",
     "englishText": "The charity gala raised ten million rupees for pediatric cancer research.",
     "malayalamMeaning": "കുട്ടികളിലെ കാൻസർ രോഗ ഗവേഷണത്തിനായി ആ ചാരിറ്റി വിരുന്നിലൂടെ ഒരുകോടി രൂപ സമാഹരിച്ചു.",
     "usageExample": "Festive social event.",
@@ -1945,7 +1945,7 @@
   },
   {
     "word": "gregariousness",
-    "wordMeaning": "സംഘടിതത",
+    "wordMeaning": "സൗഹൃദപ്രിയം",
     "englishText": "His gregariousness ensured that his home was always filled with cheerful company.",
     "malayalamMeaning": "ആളുകളുമായി സൗഹൃദം സ്ഥാപിക്കാനുള്ള അദ്ദേഹത്തിന്റെ ഇഷ്ടം കാരണം വീട്ടിൽ എപ്പോഴും നല്ല സുഹൃത്തുക്കളുടെ സജീവ സാന്നിധ്യമുണ്ടായിരുന്നു.",
     "usageExample": "Sociability.",
@@ -1961,7 +1961,7 @@
   },
   {
     "word": "opulence",
-    "wordMeaning": "സമൃദ്ധി",
+    "wordMeaning": "ആഡംബരസമൃദ്ധി",
     "englishText": "The royal palace displayed an unmatched opulence of marble fountains and silk tapestries.",
     "malayalamMeaning": "വെണ്ണക്കൽ ജലധാരകളും പട്ടുവിരികളും കൊണ്ട് അലംകൃതമായ ആ കൊട്ടാരം സമാനതകളില്ലാത്ത ആഡംബരത്തിന്റെ പ്രതീകമായിരുന്നു.",
     "usageExample": "Wealthy luxury.",
@@ -1977,7 +1977,7 @@
   },
   {
     "word": "unflappable",
-    "wordMeaning": "പൊള്ളാത്ത",
+    "wordMeaning": "പതറാത്ത",
     "englishText": "The master of ceremonies remained unflappable when the sound system temporarily failed.",
     "malayalamMeaning": "മൈക്ക് അനൗൺസ്‌മെന്റിൽ ചെറിയ തകരാറുണ്ടായപ്പോഴും അവതാരകൻ തെല്ലും പതറാതെ സദസ്സ് നിയന്ത്രിച്ചു.",
     "usageExample": "Imperturbably cool.",
@@ -1985,7 +1985,7 @@
   },
   {
     "word": "paragon",
-    "wordMeaning": "പാരാഗൺ",
+    "wordMeaning": "ഉത്തമമാതൃക",
     "englishText": "He was universally revered as a paragon of civic virtue, honesty, and gentle grace.",
     "malayalamMeaning": "സത്യസന്ധതയുടെയും സദാചാരബോധത്തിന്റെയും സൗമ്യതയുടെയും മകുടോദാഹരണമായി അദ്ദേഹം ഏവരാലും ആദരിക്കപ്പെട്ടു.",
     "usageExample": "Ideal model.",
@@ -1993,7 +1993,7 @@
   },
   {
     "word": "disarming",
-    "wordMeaning": "നിരായുധീകരണം",
+    "wordMeaning": "അകൽച്ച മാറ്റുന്ന",
     "englishText": "Her disarming self-deprecating wit immediately broke the ice among the strangers.",
     "malayalamMeaning": "തന്നെത്തന്നെ സരസമായി കളിയാക്കിക്കൊണ്ടുള്ള അവളുടെ തമാശകൾ അപരിചിതർക്കിടയിലെ മടിയും അപരിചിതത്വവും നിമിഷനേരം കൊണ്ട് ഇല്ലാതാക്കി.",
     "usageExample": "Removing tension.",
@@ -2001,7 +2001,7 @@
   },
   {
     "word": "felicitous",
-    "wordMeaning": "സന്തോഷകരമായ",
+    "wordMeaning": "ഉചിതവും ഹൃദ്യവുമായ",
     "englishText": "His felicitous toast captured the nostalgic spirit of the reunion with great poetry.",
     "malayalamMeaning": "ആ സംഗമത്തിന്റെ ഗൃഹാതുരത്വമുണർത്തുന്ന ഓർമ്മകളെ മനോഹരമായ കാവ്യഭംഗിയോടെ അദ്ദേഹത്തിന്റെ ആശംസാപ്രസംഗം പ്രതിഫലിപ്പിച്ചു.",
     "usageExample": "Aptly delightful.",
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "circumspect",
-    "wordMeaning": "സൂക്ഷ്മത",
+    "wordMeaning": "ജാഗ്രതയുള്ള",
     "englishText": "A diplomat must remain circumspect when speaking in informal social gatherings.",
     "malayalamMeaning": "അനൗപചാരിക സൗഹൃദക്കൂട്ടായ്മകളിൽ സംസാരിക്കുമ്പോൾ പോലും ഒരു നയതന്ത്രജ്ഞൻ അതീവ ജാഗ്രത പുലർത്തേണ്ടതുണ്ട്.",
     "usageExample": "Prudently careful.",
@@ -2033,7 +2033,7 @@
   },
   {
     "word": "discretion",
-    "wordMeaning": "വിവേചനാധികാരം",
+    "wordMeaning": "വിവേകം",
     "englishText": "She handled the confidential family matter with impeccable professional discretion.",
     "malayalamMeaning": "ആ രഹസ്യ കുടുംബകാര്യം തികഞ്ഞ പക്വതയോടും രഹസ്യസ്വഭാവം കാത്തുസൂക്ഷിച്ചും അവൾ കൈകാര്യം ചെയ്തു.",
     "usageExample": "Guarded prudence.",
@@ -2049,7 +2049,7 @@
   },
   {
     "word": "mellifluous",
-    "wordMeaning": "മൃദുലമായ",
+    "wordMeaning": "ശ്രുതിമധുരമായ",
     "englishText": "The vocalist's mellifluous rendition of the ragam enchanted the temple audience.",
     "malayalamMeaning": "ഗായികയുടെ മധുരമായ രാഗാലാപനം ക്ഷേത്രമുറ്റത്തെ സദസ്യരെയാകെ മനംമയക്കി.",
     "usageExample": "Honeyed and smooth.",
@@ -2057,7 +2057,7 @@
   },
   {
     "word": "inscrutable",
-    "wordMeaning": "അവ്യക്തമായ",
+    "wordMeaning": "മനസ്സിലാക്കാനാവാത്ത",
     "englishText": "The chief judge listened with an inscrutable countenance that revealed no bias.",
     "malayalamMeaning": "യാതൊരു പക്ഷപാതവും പ്രകടമാക്കാത്ത നിർവികാരമായ മുഖഭാവത്തോടെയാണ് ചീഫ് ജഡ്ജ് വാദങ്ങൾ കേട്ടത്.",
     "usageExample": "Unreadable.",
@@ -2073,7 +2073,7 @@
   },
   {
     "word": "sangfroid",
-    "wordMeaning": "സാങ്ഫ്രോയിഡ്",
+    "wordMeaning": "ആത്മസംയമനം",
     "englishText": "The stage performer recovered from the unexpected prop malfunction with utter sangfroid.",
     "malayalamMeaning": "നാടകത്തിനിടെ വേദിയിലെ ഉപകരണങ്ങൾക്ക് പെട്ടെന്ന് തകരാറുണ്ടായപ്പോഴും നടൻ തെല്ലും പതറാതെ സമചിത്തതയോടെ അഭിനയം തുടർന്നു.",
     "usageExample": "Cool composure.",
@@ -2161,7 +2161,7 @@
   },
   {
     "word": "reception",
-    "wordMeaning": "സ്വീകരണം",
+    "wordMeaning": "സ്വീകരണ സൽക്കാരം",
     "englishText": "The wedding reception featured live classical violin music and a multi-course dinner.",
     "malayalamMeaning": "വയലിൻ കച്ചേരിയും വിഭവസമൃദ്ധമായ വിരുന്നും ആ വിവാഹസൽക്കാരത്തിന്റെ മാറ്റുകൂട്ടി.",
     "usageExample": "Social party.",
@@ -2217,7 +2217,7 @@
   },
   {
     "word": "homecoming",
-    "wordMeaning": "ഗൃഹപ്രവേശം",
+    "wordMeaning": "മടങ്ങിവരവ്",
     "englishText": "The annual festival serves as a joyous homecoming for thousands working in the Gulf.",
     "malayalamMeaning": "ഗൾഫിൽ ജോലി ചെയ്യുന്ന ആയിരക്കണക്കിന് പ്രവാസികൾക്ക് ഈ വാർഷിക ഉത്സവം നാട്ടിലേക്കുള്ള സന്തോഷകരമായ ഒരു മടങ്ങിപ്പോക്കാണ്.",
     "usageExample": "Returning home.",
@@ -2249,7 +2249,7 @@
   },
   {
     "word": "felicitation",
-    "wordMeaning": "അഭിനന്ദനം",
+    "wordMeaning": "അനുമോദനം",
     "englishText": "The cultural council held a public felicitation honoring thirty distinguished veteran teachers.",
     "malayalamMeaning": "മുപ്പതോളം പ്രഗത്ഭരായ മുതിർന്ന അധ്യാപകരെ ആദരിച്ചുകൊണ്ട് സാംസ്കാരിക സമിതി ഒരു അനുമോദന യോഗം സംഘടിപ്പിച്ചു.",
     "usageExample": "Public praise.",
@@ -2273,7 +2273,7 @@
   },
   {
     "word": "extravaganza",
-    "wordMeaning": "അതിഗംഭീരം",
+    "wordMeaning": "ആഘോഷവിരുന്ന്",
     "englishText": "The annual youth arts festival was a dazzling three-day musical and theatrical extravaganza.",
     "malayalamMeaning": "മൂന്നു ദിവസം നീണ്ടുനിന്ന വാർഷിക യുവജനോത്സവം സംഗീതത്തിന്റെയും നാടകങ്ങളുടെയും വർണ്ണശബളമായ ഒരു വിരുന്നായിരുന്നു.",
     "usageExample": "Spectacular show.",
@@ -2281,7 +2281,7 @@
   },
   {
     "word": "recital",
-    "wordMeaning": "പാരായണം",
+    "wordMeaning": "സംഗീതക്കച്ചേരി",
     "englishText": "She gave a mesmerizing solo vocal recital of classical devotional melodies in the shrine.",
     "malayalamMeaning": "ക്ഷേത്രമുറ്റത്ത് ഭക്തിസാന്ദ്രമായ കീർത്തനങ്ങൾ ആലപിച്ച് അവൾ മനോഹരമായ ഒരു സംഗീതക്കച്ചേരി അവതരിപ്പിച്ചു.",
     "usageExample": "Solo concert.",
@@ -2305,7 +2305,7 @@
   },
   {
     "word": "toastmaster",
-    "wordMeaning": "ടോസ്റ്റ്മാസ്റ്റർ",
+    "wordMeaning": "അവതാരകൻ",
     "englishText": "The witty toastmaster kept the wedding banquet audience chuckling with humorous anecdotes.",
     "malayalamMeaning": "രസകരമായ തമാശകൾ പറഞ്ഞുകൊണ്ട് അവതാരകൻ വിവാഹസൽക്കാര വേളയിലുടനീളം സദസ്യരെ ചിരിപ്പിച്ചു.",
     "usageExample": "MC host.",
@@ -2321,7 +2321,7 @@
   },
   {
     "word": "decorum",
-    "wordMeaning": "അലങ്കാരം",
+    "wordMeaning": "മാന്യത",
     "englishText": "All assembly members are expected to uphold the historical decorum of the legislative hall.",
     "malayalamMeaning": "നിയമസഭയുടെ ചരിത്രപരമായ അന്തസ്സും അച്ചടക്കവും എല്ലാ അംഗങ്ങളും കാത്തുസൂക്ഷിക്കേണ്ടതാണ്.",
     "usageExample": "Proper conduct.",
@@ -2329,7 +2329,7 @@
   },
   {
     "word": "urbanity",
-    "wordMeaning": "നാഗരികത",
+    "wordMeaning": "പരിഷ്കൃത മര്യാദ",
     "englishText": "The ambassador's cosmopolitan urbanity and diplomatic charm won over every table guest.",
     "malayalamMeaning": "അംബാസഡറുടെ ഉയർന്ന നയതന്ത്രജ്ഞതയും മാന്യമായ സംഭാഷണരീതിയും വിരുന്നിലെത്തിയ എല്ലാ അതിഥികളുടെയും മനം കവർന്നു.",
     "usageExample": "Refined poise.",
@@ -2337,7 +2337,7 @@
   },
   {
     "word": "punctilious",
-    "wordMeaning": "കൃത്യനിഷ്ഠയുള്ള",
+    "wordMeaning": "സൂക്ഷ്മനിഷ്ഠയുള്ള",
     "englishText": "She was punctilious about mailing handwritten thank-you notes within forty-eight hours.",
     "malayalamMeaning": "നാൽപ്പത്തിയെട്ട് മണിക്കൂറിനുള്ളിൽ കൈപ്പടയിലെഴുതിയ നന്ദി അറിയിപ്പ് കത്തുകൾ അയക്കുന്നതിൽ അവൾ അതീവ നിഷ്ഠ പുലർത്തിയിരുന്നു.",
     "usageExample": "Meticulously polite.",
@@ -2345,7 +2345,7 @@
   },
   {
     "word": "convivial",
-    "wordMeaning": "സുഖപ്രദമായ",
+    "wordMeaning": "സൗഹൃദപൂർണ്ണമായ",
     "englishText": "We spent a deeply convivial evening sharing stories around the glowing garden fireplace.",
     "malayalamMeaning": "പൂന്തോട്ടത്തിലെ തീക്കനലുകൾക്ക് ചുറ്റുമിരുന്ന് പഴയ കഥകൾ പറഞ്ഞുകൊണ്ട് ഞങ്ങൾ ആ സായാഹ്നം സ്നേഹത്തോടെയും സൗഹൃദത്തോടെയും ചിലവഴിച്ചു.",
     "usageExample": "Festively social.",
@@ -2353,7 +2353,7 @@
   },
   {
     "word": "bonhomie",
-    "wordMeaning": "ബോൺഹോമി",
+    "wordMeaning": "ഊഷ്മള സൗഹൃദം",
     "englishText": "A buoyant atmosphere of warm bonhomie permeated the festival gathering as comrades embraced.",
     "malayalamMeaning": "കൂട്ടുകാർ പരസ്പരം ആലിംഗനം ചെയ്തപ്പോൾ ആ ഉത്സവക്കൂട്ടായ്മയിൽ സ്നേഹത്തിന്റെയും സൗഹൃദത്തിന്റെയും ആഹ്ലാദകരമായ അന്തരീക്ഷം അലയടിച്ചു.",
     "usageExample": "Genial heartiness.",
@@ -2369,7 +2369,7 @@
   },
   {
     "word": "munificence",
-    "wordMeaning": "മുനിഫിഷ്യൻസ്",
+    "wordMeaning": "ഉദാരമനസ്കത",
     "englishText": "The new community hospital wing was constructed through the munificence of an overseas alumnus.",
     "malayalamMeaning": "കമ്മ്യൂണിറ്റി ആശുപത്രിയുടെ പുതിയ ബ്ലോക്ക് നിർമ്മിച്ചത് വിദേശത്തുള്ള ഒരു പൂർവ്വവിദ്യാർത്ഥിയുടെ ഉദാരമായ സംഭാവന കൊണ്ടാണ്.",
     "usageExample": "Splendid giving.",
@@ -2377,7 +2377,7 @@
   },
   {
     "word": "panegyric",
-    "wordMeaning": "പനേജിറിക്",
+    "wordMeaning": "പ്രശംസാപ്രസംഗം",
     "englishText": "The orator delivered a soaring panegyric celebrating the selfless lives of primary school teachers.",
     "malayalamMeaning": "പ്രൈമറി സ്കൂൾ അധ്യാപകരുടെ നിസ്വാർത്ഥ സേവനങ്ങളെ മുക്തകണ്ഠം പ്രകീർത്തിച്ചുകൊണ്ട് പ്രസംഗകൻ ഗംഭീരമായ ഒരു പ്രഭാഷണം നടത്തി.",
     "usageExample": "Laudatory speech.",
@@ -2385,7 +2385,7 @@
   },
   {
     "word": "eulogy",
-    "wordMeaning": "സ്തോത്രം",
+    "wordMeaning": "അനുസ്മരണ പ്രസംഗം",
     "englishText": "The community assembled in silent reverent mourning to deliver a moving eulogy for their elder.",
     "malayalamMeaning": "തങ്ങളുടെ പ്രിയപ്പെട്ട കാരണവരെ അനുസ്മരിച്ചുകൊണ്ട് അനുശോചനം രേഖപ്പെടുത്താൻ നാട്ടുകാരെല്ലാം അതീവ ദുഃഖത്തോടെ ഒത്തുകൂടി.",
     "usageExample": "Funeral tribute.",
@@ -2393,7 +2393,7 @@
   },
   {
     "word": "esprit de corps",
-    "wordMeaning": "എസ്പ്രിറ്റ് ഡി കോർപ്സ്",
+    "wordMeaning": "സംഘബോധം",
     "englishText": "The demanding disaster relief effort forged a legendary esprit de corps among the fishermen.",
     "malayalamMeaning": "പ്രതികൂല സാഹചര്യങ്ങളിലെ ദുരിതാശ്വാസ പ്രവർത്തനങ്ങൾ ആ മത്സ്യത്തൊഴിലാളികൾക്കിടയിൽ ഇതിഹാസതുല്യമായ ഒരു പരസ്പര കൂട്ടായ്മയും ഒത്തൊരുമയും സൃഷ്ടിച്ചു.",
     "usageExample": "United spirit.",
