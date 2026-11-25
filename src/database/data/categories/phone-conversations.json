@@ -19,7 +19,7 @@
     "word": "ring",
     "wordMeaning": "മണി അടിക്കുക",
     "englishText": "Did you hear the telephone ring three times just now?",
-    "malayalamMeaning": "ടെലിഫോൺ മൂന്നുതവണ ബെല്ലടിച്ചത് നിങ്ങൾ കേട്ടോ?",
+    "malayalamMeaning": "ടെലിഫോൺ ഇപ്പോൾ മൂന്നുതവണ മണിയടിച്ചത് നിങ്ങൾ കേട്ടോ?",
     "usageExample": "Chime sound.",
     "difficulty": "BEGINNER"
   },
@@ -27,7 +27,7 @@
     "word": "dial",
     "wordMeaning": "നമ്പർ അമർത്തുക",
     "englishText": "Dial the emergency helpline number 112 for immediate police assistance.",
-    "malayalamMeaning": "പോലീസിന്റെ അടിയന്തര സഹായത്തിനായി 112 എന്ന ഹെൽപ്പ്‌ലൈൻ നമ്പറിലേക്ക് വിളിക്കുക.",
+    "malayalamMeaning": "പോലീസിന്റെ ഉടനടി സഹായത്തിനായി 112 എന്ന അടിയന്തര ഹെൽപ്പ്‌ലൈൻ നമ്പർ അമർത്തുക.",
     "usageExample": "Key in number.",
     "difficulty": "BEGINNER"
   },
@@ -35,7 +35,7 @@
     "word": "answer",
     "wordMeaning": "കോൾ എടുക്കുക",
     "englishText": "Please answer the phone; it might be an urgent delivery call.",
-    "malayalamMeaning": "ഫോണൊന്ന് എടുക്കൂ, ഡെലിവറി ബോയ് വിളിക്കുന്നതായിരിക്കും.",
+    "malayalamMeaning": "ദയവായി ഫോൺ എടുക്കൂ; അതൊരു അടിയന്തര ഡെലിവറി കോളായിരിക്കാം.",
     "usageExample": "Pick up call.",
     "difficulty": "BEGINNER"
   },
@@ -43,7 +43,7 @@
     "word": "speak",
     "wordMeaning": "സംസാരിക്കുക",
     "englishText": "Could you speak a little louder because the line is faint?",
-    "malayalamMeaning": "ശബ്ദം വളരെ കുറവാണ്, അല്പം ഉറക്കെ സംസാരിക്കാമോ?",
+    "malayalamMeaning": "ലൈനിൽ ശബ്ദം നേർത്തതായതിനാൽ നിങ്ങൾക്ക് അല്പം കൂടി ഉറക്കെ സംസാരിക്കാമോ?",
     "usageExample": "Talk verbally.",
     "difficulty": "BEGINNER"
   },
@@ -51,7 +51,7 @@
     "word": "talk",
     "wordMeaning": "സംസാരിക്കുക",
     "englishText": "I need to talk to you about the weekend travel arrangements.",
-    "malayalamMeaning": "വാരാന്ത്യത്തിലെ യാത്രയെക്കുറിച്ച് എനിക്ക് നിന്നോട് സംസാരിക്കാനുണ്ട്.",
+    "malayalamMeaning": "വാരാന്ത്യത്തിലെ യാത്രാ ക്രമീകരണങ്ങളെക്കുറിച്ച് എനിക്ക് നിന്നോട് സംസാരിക്കാനുണ്ട്.",
     "usageExample": "Communicate.",
     "difficulty": "BEGINNER"
   },
@@ -59,7 +59,7 @@
     "word": "voice",
     "wordMeaning": "ശബ്ദം",
     "englishText": "Her voice sounded remarkably clear over the fiber broadband connection.",
-    "malayalamMeaning": "ഫൈബർ ബ്രോഡ്ബാൻഡ് കണക്ഷൻ ആയതുകൊണ്ട് അവളുടെ ശബ്ദം വളരെ വ്യക്തമായി കേൾക്കാമായിരുന്നു.",
+    "malayalamMeaning": "ഫൈബർ ബ്രോഡ്ബാൻഡ് കണക്ഷനിലൂടെ അവളുടെ ശബ്ദം അതിശയകരമാംവിധം വ്യക്തമായി കേൾക്കാമായിരുന്നു.",
     "usageExample": "Speech sound.",
     "difficulty": "BEGINNER"
   },
@@ -67,7 +67,7 @@
     "word": "hear",
     "wordMeaning": "കേൾക്കുക",
     "englishText": "Can you hear me clearly, or is there too much background traffic noise?",
-    "malayalamMeaning": "ഞാൻ പറയുന്നത് വ്യക്തമായി കേൾക്കുന്നുണ്ടോ, അതോ വണ്ടികളുടെ ശബ്ദം കാരണം ബുദ്ധിമുട്ടുണ്ടോ?",
+    "malayalamMeaning": "ഞാൻ പറയുന്നത് വ്യക്തമായി കേൾക്കാമോ, അതോ പശ്ചാത്തലത്തിൽ വാഹനങ്ങളുടെ ബഹളം വളരെ കൂടുതലാണോ?",
     "usageExample": "Audio perception.",
     "difficulty": "BEGINNER"
   },
@@ -75,7 +75,7 @@
     "word": "listen",
     "wordMeaning": "ശ്രദ്ധിച്ചു കേൾക്കുക",
     "englishText": "Listen carefully to the automated menu instructions before pressing a button.",
-    "malayalamMeaning": "കമ്പ്യൂട്ടർ നിർദ്ദേശങ്ങൾ ശ്രദ്ധിച്ചു കേട്ടതിനു ശേഷം മാത്രം ബട്ടൺ അമർത്തുക.",
+    "malayalamMeaning": "ഒരു ബട്ടൺ അമർത്തുന്നതിന് മുൻപ് ഓട്ടോമേറ്റഡ് മെനു നിർദ്ദേശങ്ങൾ ശ്രദ്ധിച്ചു കേൾക്കുക.",
     "usageExample": "Pay attention.",
     "difficulty": "BEGINNER"
   },
@@ -91,7 +91,7 @@
     "word": "tell",
     "wordMeaning": "പറയുക",
     "englishText": "Please tell him that John called regarding the signed lease papers.",
-    "malayalamMeaning": "കരാർ പത്രങ്ങൾ ഒപ്പിട്ടതുമായി ബന്ധപ്പെട്ട് ജോൺ വിളിച്ചിരുന്നു എന്ന് അയാളോട് പറയുക.",
+    "malayalamMeaning": "ഒപ്പിട്ട പാട്ടക്കരാർ രേഖകളുമായി ബന്ധപ്പെട്ട് ജോൺ വിളിച്ചിരുന്നു എന്ന് ദയവായി അയാളോട് പറയുക.",
     "usageExample": "Relate message.",
     "difficulty": "BEGINNER"
   },
@@ -99,7 +99,7 @@
     "word": "ask",
     "wordMeaning": "ചോദിക്കുക",
     "englishText": "Ask her if she is free for a short telephone consultation at four.",
-    "malayalamMeaning": "നാലുമണിക്ക് ഫോണിൽ സംസാരിക്കാൻ അവൾക്ക് സമയമുണ്ടോ എന്ന് ചോദിക്കുക.",
+    "malayalamMeaning": "നാലുമണിക്ക് ഒരു ഹ്രസ്വ ഫോൺ കൂടിയാലോചനയ്ക്കായി അവൾ ഒഴിവുണ്ടോ എന്ന് ചോദിക്കുക.",
     "usageExample": "Inquire.",
     "difficulty": "BEGINNER"
   },
@@ -107,7 +107,7 @@
     "word": "repeat",
     "wordMeaning": "ആവർത്തിക്കുക",
     "englishText": "Could you please repeat that mobile number once more slowly?",
-    "malayalamMeaning": "ആ മൊബൈൽ നമ്പർ ഒന്നുകൂടി സാവധാനം പറയാമോ?",
+    "malayalamMeaning": "ദയവായി ആ മൊബൈൽ നമ്പർ ഒരിക്കൽ കൂടി സാവധാനം ആവർത്തിക്കാമോ?",
     "usageExample": "State again.",
     "difficulty": "BEGINNER"
   },
@@ -115,7 +115,7 @@
     "word": "loud",
     "wordMeaning": "ഉച്ചത്തിലുള്ള",
     "englishText": "The ringtone was too loud, so I set the phone to gentle vibrate.",
-    "malayalamMeaning": "റിംഗ് ടോണിന്റെ ശബ്ദം വളരെ കൂടുതലായതുകൊണ്ട് ഞാൻ ഫോൺ വൈബ്രേഷനിലാക്കി.",
+    "malayalamMeaning": "റിംഗ്ടോൺ വളരെ ഉച്ചത്തിലായിരുന്നതിനാൽ, ഞാൻ ഫോൺ നേരിയ വൈബ്രേഷനിലേക്ക് മാറ്റി.",
     "usageExample": "High volume.",
     "difficulty": "BEGINNER"
   },
@@ -123,7 +123,7 @@
     "word": "clear",
     "wordMeaning": "വ്യക്തമായ",
     "englishText": "The voice connection is crystal clear on this new 5G network.",
-    "malayalamMeaning": "പുതിയ 5G നെറ്റ്‌വർക്കിൽ സംസാരം വളരെ വ്യക്തമായി കേൾക്കാം.",
+    "malayalamMeaning": "ഈ പുതിയ 5G നെറ്റ്‌വർക്കിൽ ശബ്ദ കണക്ഷൻ സ്ഫടികം പോലെ വ്യക്തമാണ്.",
     "usageExample": "Unobstructed audio.",
     "difficulty": "BEGINNER"
   },
@@ -131,7 +131,7 @@
     "word": "low",
     "wordMeaning": "താഴ്ന്ന",
     "englishText": "The earpiece volume is too low; press the side button to turn it up.",
-    "malayalamMeaning": "ഫോണിൽ ശബ്ദം വളരെ കുറവാണ്; കൂട്ടാൻ വശത്തുള്ള ബട്ടൺ അമർത്തുക.",
+    "malayalamMeaning": "ഇയർപീസിലെ ശബ്ദം വളരെ താഴ്ന്നതാണ്; അത് കൂട്ടാൻ വശത്തുള്ള ബട്ടൺ അമർത്തുക.",
     "usageExample": "Soft volume.",
     "difficulty": "BEGINNER"
   },
@@ -139,7 +139,7 @@
     "word": "noise",
     "wordMeaning": "ബഹളം",
     "englishText": "There is heavy construction noise on the street making it hard to talk.",
-    "malayalamMeaning": "റോഡിലെ പണിയുടെ ബഹളം കാരണം സംസാരിക്കുന്നത് വ്യക്തമാകുന്നില്ല.",
+    "malayalamMeaning": "റോഡിൽ നിർമ്മാണ പ്രവർത്തനങ്ങളുടെ കനത്ത ബഹളമുള്ളതിനാൽ സംസാരിക്കാൻ ബുദ്ധിമുട്ടാണ്.",
     "usageExample": "Audio disturbance.",
     "difficulty": "BEGINNER"
   },
@@ -147,7 +147,7 @@
     "word": "sound",
     "wordMeaning": "ശബ്ദം",
     "englishText": "The sound of rain was audible in the background of our phone call.",
-    "malayalamMeaning": "ഞങ്ങൾ സംസാരിക്കുമ്പോൾ ഫോണിന്റെ പിന്നണിയിൽ മഴയുടെ ശബ്ദം കേൾക്കാമായിരുന്നു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഫോൺ കോളിന്റെ പശ്ചാത്തലത്തിൽ മഴയുടെ ശബ്ദം കേൾക്കാമായിരുന്നു.",
     "usageExample": "Audio acoustic.",
     "difficulty": "BEGINNER"
   },
@@ -155,7 +155,7 @@
     "word": "message",
     "wordMeaning": "സന്ദേശം",
     "englishText": "Leave a brief text message if I am unable to answer your phone call.",
-    "malayalamMeaning": "എനിക്ക് കോൾ എടുക്കാൻ പറ്റിയില്ലെങ്കിൽ ഒരു മെസ്സേജ് അയച്ചു വെക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഫോൺ കോൾ എടുക്കാൻ എനിക്ക് കഴിഞ്ഞില്ലെങ്കിൽ ഒരു ഹ്രസ്വ ടെക്സ്റ്റ് സന്ദേശം അയച്ചുവെക്കുക.",
     "usageExample": "Written memo.",
     "difficulty": "BEGINNER"
   },
@@ -163,15 +163,15 @@
     "word": "text",
     "wordMeaning": "സന്ദേശം അയയ്ക്കുക",
     "englishText": "Text me the clinic's street address so I can enter it into my map.",
-    "malayalamMeaning": "മാപ്പിൽ തിരയാൻ ക്ലിനിക്കിന്റെ വിലാസം എനിക്കൊന്ന് മെസ്സേജ് അയക്കൂ.",
+    "malayalamMeaning": "എന്റെ മാപ്പിൽ ചേർക്കാനായി ക്ലിനിക്കിന്റെ തെരുവ് വിലാസം എനിക്ക് സന്ദേശമായി അയയ്ക്കുക.",
     "usageExample": "SMS communication.",
     "difficulty": "BEGINNER"
   },
   {
     "word": "send",
     "wordMeaning": "അയയ്ക്കുക",
-    "englishText": "I will send you a photos of the apartment via the messaging app.",
-    "malayalamMeaning": "ഫ്ലാറ്റിന്റെ ഫോട്ടോകൾ ഞാൻ വാട്സാപ്പിൽ അയച്ചുതരാം.",
+    "englishText": "I will send you photos of the apartment via the messaging app.",
+    "malayalamMeaning": "മെസ്സേജിംഗ് ആപ്പ് വഴി ഞാൻ നിങ്ങൾക്ക് അപ്പാർട്ട്മെന്റിന്റെ ഫോട്ടോകൾ അയച്ചുതരാം.",
     "usageExample": "Dispatch digital file.",
     "difficulty": "BEGINNER"
   },
@@ -179,7 +179,7 @@
     "word": "receive",
     "wordMeaning": "സ്വീകരിക്കുക",
     "englishText": "Did you receive my SMS confirmation regarding tomorrow's appointment?",
-    "malayalamMeaning": "നാളത്തെ അപ്പോയിന്റ്മെന്റ് സ്ഥിരീകരിച്ചുകൊണ്ടുള്ള എന്റെ മെസ്സേജ് കിട്ടിയോ?",
+    "malayalamMeaning": "നാളത്തെ അപ്പോയിന്റ്മെന്റ് സ്ഥിരീകരിച്ചുകൊണ്ടുള്ള എന്റെ എസ്.എം.എസ് സന്ദേശം നിങ്ങൾക്ക് ലഭിച്ചോ?",
     "usageExample": "Get incoming data.",
     "difficulty": "BEGINNER"
   },
@@ -187,7 +187,7 @@
     "word": "reply",
     "wordMeaning": "മറുപടി നൽകുക",
     "englishText": "I will reply to your WhatsApp message once I reach the office.",
-    "malayalamMeaning": "ഓഫീസിൽ എത്തിയ ഉടൻ ഞാൻ വാട്സാപ്പ് മെസ്സേജിന് മറുപടി തരാം.",
+    "malayalamMeaning": "ഓഫീസിൽ എത്തിയ ഉടൻ ഞാൻ നിങ്ങളുടെ വാട്സാപ്പ് സന്ദേശത്തിന് മറുപടി നൽകാം.",
     "usageExample": "Answer back.",
     "difficulty": "BEGINNER"
   },
@@ -195,7 +195,7 @@
     "word": "chat",
     "wordMeaning": "സൗഹൃദ സംഭാഷണം",
     "englishText": "We had a lovely half-hour chat catching up on family news.",
-    "malayalamMeaning": "കുടുംബ വിശേഷങ്ങൾ പങ്കുവെച്ച് ഞങ്ങൾ അരമണിക്കൂറോളം സംസാരിച്ചു.",
+    "malayalamMeaning": "കുടുംബ വിശേഷങ്ങൾ പങ്കുവെച്ച് ഞങ്ങൾ അരമണിക്കൂർ നേരം മനോഹരമായ ഒരു സൗഹൃദ സംഭാഷണം നടത്തി.",
     "usageExample": "Casual phone talk.",
     "difficulty": "BEGINNER"
   },
@@ -203,7 +203,7 @@
     "word": "screen",
     "wordMeaning": "സ്ക്രീൻ",
     "englishText": "Wipe the smartphone touch screen with a clean microfiber cloth.",
-    "malayalamMeaning": "വൃത്തിയുള്ള തുണികൊണ്ട് സ്മാർട്ട്ഫോണിന്റെ സ്ക്രീൻ തുടയ്ക്കുക.",
+    "malayalamMeaning": "വൃത്തിയുള്ള മൈക്രോഫൈബർ തുണികൊണ്ട് സ്മാർട്ട്ഫോണിന്റെ ടച്ച് സ്ക്രീൻ തുടയ്ക്കുക.",
     "usageExample": "Display glass.",
     "difficulty": "BEGINNER"
   },
@@ -211,7 +211,7 @@
     "word": "button",
     "wordMeaning": "ബട്ടൺ",
     "englishText": "Press the green button on the screen to answer incoming calls.",
-    "malayalamMeaning": "കോൾ എടുക്കാൻ സ്ക്രീനിലെ പച്ച ബട്ടൺ അമർത്തുക.",
+    "malayalamMeaning": "വരുന്ന കോളുകൾ എടുക്കാൻ സ്ക്രീനിലെ പച്ച ബട്ടൺ അമർത്തുക.",
     "usageExample": "Switch control.",
     "difficulty": "BEGINNER"
   },
@@ -219,7 +219,7 @@
     "word": "number",
     "wordMeaning": "നമ്പർ",
     "englishText": "Save this emergency customer care number in your phone contacts.",
-    "malayalamMeaning": "കസ്റ്റമർ കെയറിന്റെ ഈ നമ്പർ ഫോണിൽ സേവ് ചെയ്തു വെക്കുക.",
+    "malayalamMeaning": "ഈ അടിയന്തര കസ്റ്റമർ കെയർ നമ്പർ നിങ്ങളുടെ ഫോൺ കോൺടാക്റ്റുകളിൽ സേവ് ചെയ്തുവെക്കുക.",
     "usageExample": "Digits.",
     "difficulty": "BEGINNER"
   },
@@ -227,7 +227,7 @@
     "word": "contact",
     "wordMeaning": "ബന്ധപ്പെടേണ്ട നമ്പർ",
     "englishText": "Look up Dr. Nair's clinic contact in your address book.",
-    "malayalamMeaning": "ഫോൺ ബുക്കിൽ ഡോക്ടർ നായരുടെ ക്ലിനിക്കിലെ നമ്പർ ഉണ്ടോയെന്ന് നോക്കൂ.",
+    "malayalamMeaning": "നിങ്ങളുടെ അഡ്രസ് ബുക്കിൽ ഡോക്ടർ നായരുടെ ക്ലിനിക്കുമായി ബന്ധപ്പെടേണ്ട നമ്പർ തിരഞ്ഞുനോക്കൂ.",
     "usageExample": "Saved person.",
     "difficulty": "BEGINNER"
   },
@@ -235,7 +235,7 @@
     "word": "save",
     "wordMeaning": "സൂക്ഷിച്ചുവയ്ക്കുക",
     "englishText": "Save the incoming caller's number under 'Delivery Agent'.",
-    "malayalamMeaning": "വിളിച്ച ആളുടെ നമ്പർ 'ഡെലിവറി ഏജന്റ്' എന്ന പേരിൽ സേവ് ചെയ്യുക.",
+    "malayalamMeaning": "വിളിക്കുന്നയാളുടെ നമ്പർ 'ഡെലിവറി ഏജന്റ്' എന്ന പേരിൽ സൂക്ഷിച്ചുവയ്ക്കുക.",
     "usageExample": "Store data.",
     "difficulty": "BEGINNER"
   },
@@ -243,7 +243,7 @@
     "word": "mobile",
     "wordMeaning": "മൊബൈൽ",
     "englishText": "Keep your mobile phone fully charged when traveling on long journeys.",
-    "malayalamMeaning": "ദൂരയാത്രകൾ പോകുമ്പോൾ മൊബൈൽ ഫോൺ ഫുൾ ചാർജ് ചെയ്തു വെക്കുക.",
+    "malayalamMeaning": "ദൂരയാത്രകൾ പോകുമ്പോൾ നിങ്ങളുടെ മൊബൈൽ ഫോൺ പൂർണ്ണമായി ചാർജ് ചെയ്തുവയ്ക്കുക.",
     "usageExample": "Cellular handset.",
     "difficulty": "BEGINNER"
   },
@@ -251,7 +251,7 @@
     "word": "cell",
     "wordMeaning": "മൊബൈൽ ഫോൺ",
     "englishText": "Cell phone radiation standards are strictly regulated by the government.",
-    "malayalamMeaning": "മൊബൈൽ ഫോൺ വികിരണത്തിന്റെ തോത് സർക്കാർ കർശനമായി നിയന്ത്രിക്കുന്നുണ്ട്.",
+    "malayalamMeaning": "മൊബൈൽ ഫോൺ വികിരണ മാനദണ്ഡങ്ങൾ സർക്കാർ കർശനമായി നിയന്ത്രിക്കുന്നുണ്ട്.",
     "usageExample": "Cellular phone.",
     "difficulty": "BEGINNER"
   },
@@ -259,7 +259,7 @@
     "word": "charge",
     "wordMeaning": "ചാർജ് ചെയ്യുക",
     "englishText": "Plug your phone into the wall charger before going to sleep.",
-    "malayalamMeaning": "കിടക്കുന്നതിന് മുൻപ് ഫോൺ ചാർജിലിടുക.",
+    "malayalamMeaning": "ഉറങ്ങാൻ പോകുന്നതിന് മുൻപ് നിങ്ങളുടെ ഫോൺ വാൾ ചാർജറിൽ കുത്തി ചാർജ് ചെയ്യുക.",
     "usageExample": "Replenish power.",
     "difficulty": "BEGINNER"
   },
@@ -267,7 +267,7 @@
     "word": "battery",
     "wordMeaning": "ബാറ്ററി",
     "englishText": "My phone battery is down to five percent, so I must hang up quickly.",
-    "malayalamMeaning": "ഫോൺ ബാറ്ററി അഞ്ചു ശതമാനമേ ഉള്ളൂ, ഞാൻ പെട്ടെന്ന് കോൾ വെക്കുകയാണ്.",
+    "malayalamMeaning": "എന്റെ ഫോൺ ബാറ്ററി അഞ്ചു ശതമാനമായി കുറഞ്ഞു, അതിനാൽ എനിക്ക് വേഗത്തിൽ ഫോൺ വെക്കേണ്ടതുണ്ട്.",
     "usageExample": "Power cell.",
     "difficulty": "BEGINNER"
   },
@@ -275,7 +275,7 @@
     "word": "power",
     "wordMeaning": "വൈദ്യുതി",
     "englishText": "Long-press the side power button to restart your frozen smartphone.",
-    "malayalamMeaning": "ഹാങ്ങായ ഫോൺ റീസ്റ്റാർട്ട് ചെയ്യാൻ പവർ ബട്ടൺ കുറച്ചുനേരം അമർത്തിപ്പിടിക്കുക.",
+    "malayalamMeaning": "നിശ്ചലമായ നിങ്ങളുടെ സ്മാർട്ട്ഫോൺ റീസ്റ്റാർട്ട് ചെയ്യാൻ വശത്തുള്ള പവർ ബട്ടൺ കുറച്ചുനേരം അമർത്തിപ്പിടിക്കുക.",
     "usageExample": "Electricity energy.",
     "difficulty": "BEGINNER"
   },
@@ -283,7 +283,7 @@
     "word": "dead",
     "wordMeaning": "ചാർജ് തീർന്ന",
     "englishText": "My phone went dead because the battery ran out completely.",
-    "malayalamMeaning": "ചാർജ്ജ് തീർന്നതുകൊണ്ട് എന്റെ ഫോൺ സ്വിച്ച് ഓഫായി.",
+    "malayalamMeaning": "ബാറ്ററി പൂർണ്ണമായും തീർന്നതിനാൽ എന്റെ ഫോൺ ചാർജ് തീർന്ന് ഓഫായി.",
     "usageExample": "Without charge.",
     "difficulty": "BEGINNER"
   },
@@ -291,7 +291,7 @@
     "word": "off",
     "wordMeaning": "പ്രവർത്തനരഹിതമായ",
     "englishText": "Turn off your mobile phones during the theatrical performance.",
-    "malayalamMeaning": "നാടകം നടക്കുന്ന സമയത്ത് മൊബൈൽ ഫോണുകൾ സ്വിച്ച് ഓഫ് ചെയ്യുക.",
+    "malayalamMeaning": "നാടകാവതരണ സമയത്ത് നിങ്ങളുടെ മൊബൈൽ ഫോണുകൾ സ്വിച്ച് ഓഫ് ചെയ്യുക.",
     "usageExample": "Deactivate.",
     "difficulty": "BEGINNER"
   },
@@ -299,7 +299,7 @@
     "word": "on",
     "wordMeaning": "പ്രവർത്തിക്കുന്ന",
     "englishText": "Switch on your location GPS to help the taxi driver locate your gate.",
-    "malayalamMeaning": "ടാക്സി ഡ്രൈവർക്ക് വീട് കണ്ടെത്താൻ ലൊക്കേഷൻ ഓൺ ചെയ്തു നൽകുക.",
+    "malayalamMeaning": "ടാക്സി ഡ്രൈവർക്ക് നിങ്ങളുടെ ഗേറ്റ് കണ്ടെത്താൻ സഹായിക്കുന്നതിനായി നിങ്ങളുടെ ജി.പി.എസ് ലൊക്കേഷൻ ഓൺ ചെയ്യുക.",
     "usageExample": "Activate.",
     "difficulty": "BEGINNER"
   },
@@ -307,7 +307,7 @@
     "word": "switch",
     "wordMeaning": "മാറ്റുക",
     "englishText": "Switch your smartphone to silent mode while attending church services.",
-    "malayalamMeaning": "പ്രാർത്ഥനയിൽ പങ്കെടുക്കുമ്പോൾ ഫോൺ സൈലന്റ് മോഡിലാക്കുക.",
+    "malayalamMeaning": "പള്ളിയിലെ പ്രാർത്ഥനാ ശുശ്രൂഷകളിൽ പങ്കെടുക്കുമ്പോൾ നിങ്ങളുടെ സ്മാർട്ട്ഫോൺ സൈലന്റ് മോഡിലേക്ക് മാറ്റുക.",
     "usageExample": "Toggle setting.",
     "difficulty": "BEGINNER"
   },
@@ -315,7 +315,7 @@
     "word": "silent",
     "wordMeaning": "നിശബ്ദമായ",
     "englishText": "I kept my phone on silent mode during the executive board meeting.",
-    "malayalamMeaning": "മീറ്റിംഗ് നടക്കുന്ന സമയത്ത് ഞാൻ ഫോൺ സൈലന്റിൽ വെച്ചിരിക്കുകയായിരുന്നു.",
+    "malayalamMeaning": "എക്സിക്യൂട്ടീവ് ബോർഡ് മീറ്റിംഗ് നടക്കുന്ന സമയത്ത് ഞാൻ എന്റെ ഫോൺ സൈലന്റ് മോഡിൽ വെച്ചിരിക്കുകയായിരുന്നു.",
     "usageExample": "Muted ringtone.",
     "difficulty": "BEGINNER"
   },
@@ -331,7 +331,7 @@
     "word": "ringtone",
     "wordMeaning": "റിംഗ്ടോൺ",
     "englishText": "She set a melodious flute tune as her default incoming ringtone.",
-    "malayalamMeaning": "മനോഹരമായ ഒരു പുല്ലാങ്കുഴൽ നാദമാണ് അവൾ റിംഗ് ടോണായി വെച്ചിരിക്കുന്നത്.",
+    "malayalamMeaning": "മധുരമായ ഒരു പുല്ലാങ്കുഴൽ നാദമാണ് അവൾ തന്റെ സാധാരണ ഇൻകമിംഗ് റിംഗ്ടോണായി സെറ്റ് ചെയ്തിരിക്കുന്നത്.",
     "usageExample": "Call chime.",
     "difficulty": "BEGINNER"
   },
@@ -339,7 +339,7 @@
     "word": "tone",
     "wordMeaning": "നാദം",
     "englishText": "You will hear a steady dial tone when the landline is working properly.",
-    "malayalamMeaning": "ലാൻഡ്‌ലൈൻ ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടെങ്കിൽ ഡയൽ ടോൺ കേൾക്കാം.",
+    "malayalamMeaning": "ലാൻഡ്‌ലൈൻ ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടെങ്കിൽ നിങ്ങൾക്ക് തുടർച്ചയായ ഒരു ഡയൽ ടോൺ കേൾക്കാം.",
     "usageExample": "Audio frequency.",
     "difficulty": "BEGINNER"
   },
@@ -347,7 +347,7 @@
     "word": "volume",
     "wordMeaning": "ശബ്ദനില",
     "englishText": "Lower the media volume before playing audio messages in public places.",
-    "malayalamMeaning": "പൊതുസ്ഥലങ്ങളിൽ വെച്ച് വോയ്‌സ് മെസ്സേജുകൾ കേൾക്കുമ്പോൾ ശബ്ദം കുറച്ചുവെക്കുക.",
+    "malayalamMeaning": "പൊതുസ്ഥലങ്ങളിൽ ഓഡിയോ സന്ദേശങ്ങൾ പ്ലേ ചെയ്യുന്നതിന് മുൻപ് മീഡിയ ശബ്ദനില കുറയ്ക്കുക.",
     "usageExample": "Audio loudness.",
     "difficulty": "BEGINNER"
   },
@@ -355,7 +355,7 @@
     "word": "mute",
     "wordMeaning": "നിശബ്ദമാക്കുക",
     "englishText": "Press the mute button when you are not speaking on conference calls.",
-    "malayalamMeaning": "ഓൺലൈൻ മീറ്റിംഗുകളിൽ സംസാരിക്കാത്തപ്പോൾ മൈക്ക് മ്യൂട്ട് ചെയ്തു വെക്കുക.",
+    "malayalamMeaning": "കോൺഫറൻസ് കോളുകളിൽ നിങ്ങൾ സംസാരിക്കാത്തപ്പോൾ മ്യൂട്ട് ബട്ടൺ അമർത്തുക.",
     "usageExample": "Silence mic.",
     "difficulty": "BEGINNER"
   },
@@ -363,7 +363,7 @@
     "word": "hold",
     "wordMeaning": "ലൈനിൽ കാത്തിരിക്കുക",
     "englishText": "Please hold the line for a moment while I transfer you to accounts.",
-    "malayalamMeaning": "ഞാൻ അക്കൗണ്ട്സ് വിഭാഗത്തിലേക്ക് കണക്ട് ചെയ്യാം, ദയവായി ലൈനിൽ തുടരുക.",
+    "malayalamMeaning": "ഞാൻ നിങ്ങളെ അക്കൗണ്ട്സ് വിഭാഗത്തിലേക്ക് ട്രാൻസ്ഫർ ചെയ്യുമ്പോൾ ദയവായി ഒരു നിമിഷം ലൈനിൽ കാത്തിരിക്കുക.",
     "usageExample": "Keep waiting.",
     "difficulty": "BEGINNER"
   },
@@ -371,7 +371,7 @@
     "word": "wait",
     "wordMeaning": "കാത്തിരിക്കുക",
     "englishText": "Wait on the phone while I look up your booking reference number.",
-    "malayalamMeaning": "ബുക്കിംഗ് നമ്പർ നോക്കുന്നതുവരെ ഫോൺ കട്ട് ചെയ്യാതെ ലൈനിൽ നിൽക്കുക.",
+    "malayalamMeaning": "ഞാൻ നിങ്ങളുടെ ബുക്കിംഗ് റഫറൻസ് നമ്പർ പരിശോധിക്കുന്നതുവരെ ഫോണിൽ കാത്തിരിക്കുക.",
     "usageExample": "Pause temporarily.",
     "difficulty": "BEGINNER"
   },
@@ -379,7 +379,7 @@
     "word": "line",
     "wordMeaning": "ഫോൺ ലൈൻ",
     "englishText": "The international telephone line was noisy and prone to dropping.",
-    "malayalamMeaning": "ഇന്റർനാഷണൽ കോളിൽ ഇരമ്പലും കോൾ ഇടയ്ക്കിടെ കട്ടാവുന്ന പ്രശ്നവും ഉണ്ടായിരുന്നു.",
+    "malayalamMeaning": "അന്താരാഷ്ട്ര ഫോൺ ലൈനിൽ ബഹളവും ഇടയ്ക്കിടെ കോൾ മുറിയാനുള്ള സാധ്യതയും ഉണ്ടായിരുന്നു.",
     "usageExample": "Communication wire.",
     "difficulty": "BEGINNER"
   },
@@ -387,7 +387,7 @@
     "word": "busy",
     "wordMeaning": "ലൈൻ തിരക്കുള്ള",
     "englishText": "Her phone number was busy, so I decided to send an urgent text message.",
-    "malayalamMeaning": "അവളുടെ ഫോൺ ബിസിയായതുകൊണ്ട് ഞാൻ അത്യാവശ്യമായി ഒരു മെസ്സേജ് അയച്ചു.",
+    "malayalamMeaning": "അവളുടെ ഫോൺ നമ്പർ തിരക്കിലായിരുന്നതിനാൽ, അടിയന്തരമായി ഒരു ടെക്സ്റ്റ് സന്ദേശം അയയ്ക്കാൻ ഞാൻ തീരുമാനിച്ചു.",
     "usageExample": "Engaged state.",
     "difficulty": "BEGINNER"
   },
@@ -395,7 +395,7 @@
     "word": "engaged",
     "wordMeaning": "ഉപയോഗത്തിലുള്ള",
     "englishText": "The landline was engaged continuously for thirty minutes.",
-    "malayalamMeaning": "അരമണിക്കൂറോളമായി ലാൻഡ്‌ലൈൻ തുടർച്ചയായി ബിസിയാണ്.",
+    "malayalamMeaning": "ലാൻഡ്‌ലൈൻ മുപ്പത് മിനിറ്റ് തുടർച്ചയായി ഉപയോഗത്തിലായിരുന്നു.",
     "usageExample": "In use.",
     "difficulty": "BEGINNER"
   },
@@ -403,7 +403,7 @@
     "word": "free",
     "wordMeaning": "ഒഴിവുള്ള",
     "englishText": "Give me a phone call whenever you are free this evening.",
-    "malayalamMeaning": "ഇന്ന് വൈകുന്നേരം സമയം കിട്ടുമ്പോൾ എന്നെ ഒന്ന് ഫോൺ ചെയ്യൂ.",
+    "malayalamMeaning": "ഇന്ന് വൈകുന്നേരം നിങ്ങൾ ഒഴിവുള്ള എപ്പോൾ വേണമെങ്കിലും എന്നെ ഫോൺ വിളിക്കൂ.",
     "usageExample": "Available.",
     "difficulty": "BEGINNER"
   },
@@ -411,7 +411,7 @@
     "word": "connect",
     "wordMeaning": "ബന്ധിപ്പിക്കുക",
     "englishText": "The automated operator will connect your call to the technical department.",
-    "malayalamMeaning": "ഓപ്പറേറ്റർ നിങ്ങളുടെ കോൾ ടെക്നിക്കൽ വിഭാഗത്തിലേക്ക് കണക്ട് ചെയ്യുന്നതാണ്.",
+    "malayalamMeaning": "ഓട്ടോമേറ്റഡ് ഓപ്പറേറ്റർ നിങ്ങളുടെ കോൾ സാങ്കേതിക വിഭാഗത്തിലേക്ക് ബന്ധിപ്പിക്കും.",
     "usageExample": "Link lines.",
     "difficulty": "BEGINNER"
   },
@@ -419,7 +419,7 @@
     "word": "disconnect",
     "wordMeaning": "വിച്ഛേദിക്കുക",
     "englishText": "If the call disconnects due to tunnel signal loss, I will ring you back.",
-    "malayalamMeaning": "ടണലിൽ വെച്ച് റേഞ്ച് പോയി കോൾ കട്ടായാൽ ഞാൻ തിരിച്ചുവിളിക്കാം.",
+    "malayalamMeaning": "തുരങ്കത്തിലെ സിഗ്നൽ നഷ്ടം കാരണം കോൾ വിച്ഛേദിക്കപ്പെട്ടാൽ ഞാൻ നിങ്ങളെ തിരിച്ചുവിളിക്കാം.",
     "usageExample": "Sever connection.",
     "difficulty": "BEGINNER"
   },
@@ -427,7 +427,7 @@
     "word": "cut",
     "wordMeaning": "ബന്ധം മുറിയുക",
     "englishText": "Our telephone conversation suddenly got cut off when the train entered a tunnel.",
-    "malayalamMeaning": "ട്രെയിൻ തുരങ്കത്തിലേക്ക് കയറിയപ്പോൾ ഫോൺ കോൾ പെട്ടെന്ന് കട്ടായിപ്പോയി.",
+    "malayalamMeaning": "ട്രെയിൻ ഒരു തുരങ്കത്തിലേക്ക് കയറിയപ്പോൾ ഞങ്ങളുടെ ഫോൺ സംഭാഷണം പെട്ടെന്ന് ബന്ധം മുറിഞ്ഞുപോയി.",
     "usageExample": "Interrupted.",
     "difficulty": "BEGINNER"
   },
@@ -435,7 +435,7 @@
     "word": "drop",
     "wordMeaning": "കോൾ മുറിയുക",
     "englishText": "Weak mobile signals can cause calls to drop unexpectedly in the hills.",
-    "malayalamMeaning": "മലയോര മേഖലകളിൽ റേഞ്ച് കുറവായതിനാൽ കോളുകൾ പെട്ടെന്ന് കട്ടാവാൻ സാധ്യതയുണ്ട്.",
+    "malayalamMeaning": "മലയോര പ്രദേശങ്ങളിൽ ദുർബലമായ മൊബൈൽ സിഗ്നലുകൾ കാരണം കോളുകൾ അപ്രതീക്ഷിതമായി മുറിയാൻ ഇടയുണ്ട്.",
     "usageExample": "Lost connection.",
     "difficulty": "BEGINNER"
   },
@@ -443,7 +443,7 @@
     "word": "signal",
     "wordMeaning": "സിഗ്നൽ",
     "englishText": "I have only one bar of cellular signal inside this basement parking lot.",
-    "malayalamMeaning": "ഈ അണ്ടർഗ്രൗണ്ട് പാർക്കിംഗിൽ ഒരു പോയിന്റ് റേഞ്ച് മാത്രമേയുള്ളൂ.",
+    "malayalamMeaning": "ഈ ബേസ്മെന്റ് പാർക്കിംഗിനുള്ളിൽ എനിക്ക് ഒരു ബാർ സെല്ലുലാർ സിഗ്നൽ മാത്രമേയുള്ളൂ.",
     "usageExample": "Radio reception.",
     "difficulty": "BEGINNER"
   },
@@ -459,7 +459,7 @@
     "word": "bar",
     "wordMeaning": "സിഗ്നൽ സൂചകം",
     "englishText": "Check how many network signal bars are displaying on the top of your screen.",
-    "malayalamMeaning": "സ്ക്രീനിന്റെ മുകളിൽ എത്ര റേഞ്ച് കാണിക്കുന്നുണ്ടെന്ന് നോക്കൂ.",
+    "malayalamMeaning": "നിങ്ങളുടെ സ്ക്രീനിന്റെ മുകളിൽ എത്ര നെറ്റ്‌വർക്ക് സിഗ്നൽ സൂചകങ്ങൾ കാണിക്കുന്നുണ്ടെന്ന് പരിശോധിക്കുക.",
     "usageExample": "Signal indicator.",
     "difficulty": "BEGINNER"
   },
@@ -467,7 +467,7 @@
     "word": "tower",
     "wordMeaning": "മൊബൈൽ ടവർ",
     "englishText": "A new cellular mobile tower was erected on the hill to boost connectivity.",
-    "malayalamMeaning": "റേഞ്ച് കൂട്ടാനായി കുന്നിൻമുകളിൽ പുതിയ മൊബൈൽ ടവർ സ്ഥാപിച്ചു.",
+    "malayalamMeaning": "കണക്റ്റിവിറ്റി വർദ്ധിപ്പിക്കാനായി കുന്നിൻമുകളിൽ പുതിയൊരു സെല്ലുലാർ മൊബൈൽ ടവർ സ്ഥാപിച്ചു.",
     "usageExample": "Antenna mast.",
     "difficulty": "BEGINNER"
   },
@@ -483,7 +483,7 @@
     "word": "data",
     "wordMeaning": "ഡാറ്റ",
     "englishText": "Turn off cellular mobile data while connected to the high-speed home Wi-Fi.",
-    "malayalamMeaning": "വൈഫൈ കണക്ട് ചെയ്യുമ്പോൾ മൊബൈൽ ഡാറ്റ ഓഫ് ചെയ്യുക.",
+    "malayalamMeaning": "വീട്ടിലെ അതിവേഗ Wi-Fi-യുമായി ബന്ധിപ്പിച്ചിരിക്കുമ്പോൾ സെല്ലുലാർ മൊബൈൽ ഡാറ്റ ഓഫ് ചെയ്തുവയ്ക്കുക.",
     "usageExample": "Internet packets.",
     "difficulty": "BEGINNER"
   },
@@ -491,7 +491,7 @@
     "word": "internet",
     "wordMeaning": "ഇൻ്റർനെറ്റ്",
     "englishText": "You need a stable internet connection to make high-definition video calls.",
-    "malayalamMeaning": "വ്യക്തതയുള്ള വീഡിയോ കോളിനായി തടസ്സമില്ലാത്ത ഇന്റർനെറ്റ് കണക്ഷൻ ആവശ്യമാണ്.",
+    "malayalamMeaning": "ഹൈ-ഡെഫനിഷൻ വീഡിയോ കോളുകൾ ചെയ്യാൻ നിങ്ങൾക്ക് സ്ഥിരതയുള്ള ഒരു ഇന്റർനെറ്റ് കണക്ഷൻ ആവശ്യമാണ്.",
     "usageExample": "Global web.",
     "difficulty": "BEGINNER"
   },
@@ -499,7 +499,7 @@
     "word": "wifi",
     "wordMeaning": "വൈഫൈ",
     "englishText": "Ask the cafe cashier for the public Wi-Fi password.",
-    "malayalamMeaning": "കഫേയിലെ കൗണ്ടറിൽ ചോദിച്ച് വൈഫൈ പാസ്‌വേഡ് വാങ്ങുക.",
+    "malayalamMeaning": "കഫേയിലെ കാഷ്യറോട് പബ്ലിക് Wi-Fi പാസ്‌വേഡ് ചോദിക്കുക.",
     "usageExample": "Wireless internet.",
     "difficulty": "BEGINNER"
   },
@@ -507,7 +507,7 @@
     "word": "link",
     "wordMeaning": "ലിങ്ക്",
     "englishText": "Tap the meeting link sent to your email to join the virtual call.",
-    "malayalamMeaning": "ഓൺലൈൻ മീറ്റിംഗിൽ പങ്കെടുക്കാൻ ഇമെയിലിൽ വന്ന ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുക.",
+    "malayalamMeaning": "വെർച്വൽ കോളിൽ ചേരാൻ നിങ്ങളുടെ ഇമെയിലിലേക്ക് അയച്ച മീറ്റിംഗ് ലിങ്കിൽ തൊടുക.",
     "usageExample": "URL address.",
     "difficulty": "BEGINNER"
   },
@@ -515,7 +515,7 @@
     "word": "app",
     "wordMeaning": "മൊബൈൽ ആപ്പ്",
     "englishText": "Download the mobile banking app to check your account balance on the go.",
-    "malayalamMeaning": "അക്കൗണ്ട് ബാലൻസ് എളുപ്പത്തിൽ അറിയാൻ ബാങ്കിന്റെ മൊബൈൽ ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക.",
+    "malayalamMeaning": "എവിടെനിന്നും നിങ്ങളുടെ അക്കൗണ്ട് ബാലൻസ് പരിശോധിക്കാൻ മൊബൈൽ ബാങ്കിംഗ് ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക.",
     "usageExample": "Application software.",
     "difficulty": "BEGINNER"
   },
@@ -523,7 +523,7 @@
     "word": "icon",
     "wordMeaning": "സ്ക്രീൻ ചിഹ്നം",
     "englishText": "Tap the green telephone icon on your home screen to open the dialer.",
-    "malayalamMeaning": "ഡയൽ പാഡ് തുറക്കാൻ സ്ക്രീനിലെ പച്ച ഫോൺ ഐക്കണിൽ തൊടുക.",
+    "malayalamMeaning": "ഡയലർ തുറക്കാൻ നിങ്ങളുടെ ഹോം സ്ക്രീനിലെ പച്ച ടെലിഫോൺ ചിഹ്നത്തിൽ തൊടുക.",
     "usageExample": "Screen symbol.",
     "difficulty": "BEGINNER"
   },
@@ -531,7 +531,7 @@
     "word": "tap",
     "wordMeaning": "മെല്ലെ തൊടുക",
     "englishText": "Tap the screen once to wake your phone up from sleep mode.",
-    "malayalamMeaning": "ഫോൺ ഓണാക്കാൻ സ്ക്രീനിൽ ഒരിക്കൽ തൊടുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഫോൺ സ്ലീപ്പ് മോഡിൽ നിന്ന് ഉണർത്താൻ സ്ക്രീനിൽ ഒരിക്കൽ മെല്ലെ തൊടുക.",
     "usageExample": "Light touch.",
     "difficulty": "BEGINNER"
   },
@@ -539,7 +539,7 @@
     "word": "swipe",
     "wordMeaning": "വിരൽ നീക്കുക",
     "englishText": "Swipe up on the lock screen to enter your four-digit passcode.",
-    "malayalamMeaning": "പാസ്‌വേഡ് നൽകാനായി സ്ക്രീൻ മുകളിലേക്ക് സ്വൈപ്പ് ചെയ്യുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ നാലക്ക പാസ്‌കോഡ് നൽകാനായി ലോക്ക് സ്ക്രീനിൽ മുകളിലേക്ക് വിരൽ നീക്കുക.",
     "usageExample": "Slide finger.",
     "difficulty": "BEGINNER"
   },
@@ -547,7 +547,7 @@
     "word": "touch",
     "wordMeaning": "സ്പർശിക്കുക",
     "englishText": "Modern capacitive touch screens respond instantly to gentle finger taps.",
-    "malayalamMeaning": "ആധുനിക ടച്ച് സ്ക്രീനുകളിൽ വിരൽ കൊണ്ട് ചെറുതായി തൊട്ടാൽത്തന്നെ പ്രവർത്തിക്കും.",
+    "malayalamMeaning": "ആധുനിക കപ്പാസിറ്റീവ് ടച്ച് സ്ക്രീനുകൾ വിരൽകൊണ്ടുള്ള നേരിയ സ്പർശനത്തോട് തൽക്ഷണം പ്രതികരിക്കുന്നു.",
     "usageExample": "Tactile contact.",
     "difficulty": "BEGINNER"
   },
@@ -563,7 +563,7 @@
     "word": "unlock",
     "wordMeaning": "പൂട്ട് തുറക്കുക",
     "englishText": "Unlock your phone using the biometric fingerprint sensor on the power key.",
-    "malayalamMeaning": "പവർ ബട്ടണിലെ ഫിംഗർപ്രിന്റ് സെൻസർ ഉപയോഗിച്ച് ഫോൺ അൺലോക്ക് ചെയ്യുക.",
+    "malayalamMeaning": "പവർ ബട്ടണിലെ ബയോമെട്രിക് ഫിംഗർപ്രിന്റ് സെൻസർ ഉപയോഗിച്ച് നിങ്ങളുടെ ഫോൺ അൺലോക്ക് ചെയ്യുക.",
     "usageExample": "Open access.",
     "difficulty": "BEGINNER"
   },
@@ -571,7 +571,7 @@
     "word": "code",
     "wordMeaning": "രഹസ്യ സംഖ്യ",
     "englishText": "Enter the six-digit verification code sent to your registered mobile number.",
-    "malayalamMeaning": "രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പറിലേക്ക് വന്ന ആറക്ക ഒ.ടി.പി നമ്പർ നൽകുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പറിലേക്ക് അയച്ച ആറക്ക സ്ഥിരീകരണ സംഖ്യ നൽകുക.",
     "usageExample": "Security digits.",
     "difficulty": "BEGINNER"
   },
@@ -579,7 +579,7 @@
     "word": "password",
     "wordMeaning": "രഹസ്യവാക്ക്",
     "englishText": "Choose a strong, unique alphanumeric password for your voicemail box.",
-    "malayalamMeaning": "വോയ്‌സ്‌മെയിലിനായി അക്ഷരങ്ങളും അക്കങ്ങളും ചേർത്തുള്ള ശക്തമായ പാസ്‌വേഡ് തിരഞ്ഞെടുക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ വോയ്‌സ്‌മെയിൽ ബോക്സിനായി അക്ഷരങ്ങളും അക്കങ്ങളും ചേർന്ന ശക്തവും തനതുമായ ഒരു പാസ്‌വേഡ് തിരഞ്ഞെടുക്കുക.",
     "usageExample": "Secret phrase.",
     "difficulty": "BEGINNER"
   },
@@ -587,7 +587,7 @@
     "word": "pin",
     "wordMeaning": "പിൻ നമ്പർ",
     "englishText": "Never disclose your four-digit ATM PIN or mobile wallet code to anyone.",
-    "malayalamMeaning": "നിങ്ങളുടെ എ.ടി.എം പിന്നോ മൊബൈൽ വാലറ്റ് ഒ.ടി.പിയോ ആരോടും പറയരുത്.",
+    "malayalamMeaning": "നിങ്ങളുടെ നാലക്ക എ.ടി.എം പിൻ നമ്പറോ മൊബൈൽ വാലറ്റ് കോഡോ ഒരിക്കലും ആരോടും വെളിപ്പെടുത്തരുത്.",
     "usageExample": "Personal number.",
     "difficulty": "BEGINNER"
   },
@@ -595,7 +595,7 @@
     "word": "caller",
     "wordMeaning": "വിളിക്കുന്നയാൾ",
     "englishText": "The caller introduced himself as an authorized bank representative.",
-    "malayalamMeaning": "ബാങ്ക് ഉദ്യോഗസ്ഥനാണെന്ന് പറഞ്ഞാണ് അയാൾ വിളിച്ചത്.",
+    "malayalamMeaning": "വിളിച്ചയാൾ തന്നെ ഒരു അംഗീകൃത ബാങ്ക് പ്രതിനിധിയായി പരിചയപ്പെടുത്തി.",
     "usageExample": "Person calling.",
     "difficulty": "BEGINNER"
   },
@@ -611,7 +611,7 @@
     "word": "hello",
     "wordMeaning": "ഹലോ",
     "englishText": "Hello, may I speak to Mr. Thomas in the sales department, please?",
-    "malayalamMeaning": "ഹലോ, സെയിൽസ് വിഭാഗത്തിലെ തോമസിനോട് ഒന്ന് സംസാരിക്കാൻ പറ്റുമോ?",
+    "malayalamMeaning": "ഹലോ, ദയവായി സെയിൽസ് വിഭാഗത്തിലെ മിസ്റ്റർ തോമസിനോട് ഒന്ന് സംസാരിക്കാമോ?",
     "usageExample": "Standard call greeting.",
     "difficulty": "BEGINNER"
   },
@@ -619,7 +619,7 @@
     "word": "hi",
     "wordMeaning": "ഹായ്",
     "englishText": "Hi Priya, it is George here; are you free for a quick two-minute talk?",
-    "malayalamMeaning": "ഹായ് പ്രിയാ, ഇത് ജോർജ്ജാണ്; സംസാരിക്കാൻ രണ്ട് മിനിറ്റ് സമയമുണ്ടോ?",
+    "malayalamMeaning": "ഹായ് പ്രിയാ, ഇത് ജോർജ്ജാണ്; പെട്ടെന്നൊരു രണ്ട് മിനിറ്റ് സംസാരിക്കാൻ നിനക്ക് ഒഴിവുണ്ടോ?",
     "usageExample": "Casual greeting.",
     "difficulty": "BEGINNER"
   },
@@ -627,7 +627,7 @@
     "word": "bye",
     "wordMeaning": "വിട",
     "englishText": "All right, I have to board the train now, so bye and take care.",
-    "malayalamMeaning": "ശരി, എനിക്ക് ട്രെയിൻ കയറാനായി; പിന്നെ വിളിക്കാം, ശ്രദ്ധിക്കണേ.",
+    "malayalamMeaning": "ശരി, എനിക്ക് ഇപ്പോൾ ട്രെയിനിൽ കയറേണ്ടതുണ്ട്, അതുകൊണ്ട് വിട, സ്വയം ശ്രദ്ധിക്കണേ.",
     "usageExample": "Farewell.",
     "difficulty": "BEGINNER"
   },
@@ -635,7 +635,7 @@
     "word": "goodbye",
     "wordMeaning": "വിട",
     "englishText": "She said a polite goodbye and gently hung up the telephone.",
-    "malayalamMeaning": "യാത്രപറഞ്ഞ് അവൾ ഫോൺ വെച്ചു.",
+    "malayalamMeaning": "അവൾ മാന്യമായി വിട പറയുകയും സൗമ്യമായി ടെലിഫോൺ താഴെ വെക്കുകയും ചെയ്തു.",
     "usageExample": "Formal farewell.",
     "difficulty": "BEGINNER"
   },
@@ -643,7 +643,7 @@
     "word": "urgent",
     "wordMeaning": "അടിയന്തരമായ",
     "englishText": "Please mark this as urgent: call your mother as soon as you land.",
-    "malayalamMeaning": "ഇതൊരു അത്യാവശ്യ കാര്യമാണ്: ഫ്ലൈറ്റ് ഇറങ്ങിയ ഉടൻ അമ്മയെ വിളിക്കണം.",
+    "malayalamMeaning": "ദയവായി ഇത് അടിയന്തരമായി അടയാളപ്പെടുത്തുക: വിമാനം ഇറങ്ങിയ ഉടൻ അമ്മയെ വിളിക്കുക.",
     "usageExample": "High priority.",
     "difficulty": "BEGINNER"
   },
@@ -651,7 +651,7 @@
     "word": "quick",
     "wordMeaning": "വേഗത്തിലുള്ള",
     "englishText": "Let us have a quick phone check-in before the presentation begins.",
-    "malayalamMeaning": "പ്രസന്റേഷൻ തുടങ്ങുന്നതിന് മുൻപ് നമുക്ക് ഫോണിൽ ഒന്ന് സംസാരിക്കാം.",
+    "malayalamMeaning": "പ്രസന്റേഷൻ തുടങ്ങുന്നതിന് മുൻപ് നമുക്ക് ഫോണിൽ വേഗത്തിലുള്ള ഒരു ചെക്ക്-ഇൻ നടത്താം.",
     "usageExample": "Short time.",
     "difficulty": "BEGINNER"
   },
@@ -659,7 +659,7 @@
     "word": "later",
     "wordMeaning": "പിന്നീട്",
     "englishText": "I am currently driving, so I will ring you back later tonight.",
-    "malayalamMeaning": "ഞാൻ വണ്ടി ഓടിക്കുകയാണ്, രാത്രി അല്പം കഴിഞ്ഞ് വിളിക്കാം.",
+    "malayalamMeaning": "ഞാൻ ഇപ്പോൾ വാഹനം ഓടിക്കുകയാണ്, അതിനാൽ ഇന്ന് രാത്രി പിന്നീട് നിങ്ങളെ തിരിച്ചുവിളിക്കാം.",
     "usageExample": "Future time.",
     "difficulty": "BEGINNER"
   },
@@ -667,7 +667,7 @@
     "word": "soon",
     "wordMeaning": "ഉടൻ",
     "englishText": "I hope to talk to you again very soon over a video call.",
-    "malayalamMeaning": "വീഡിയോ കോളിലൂടെ ഉടൻതന്നെ വീണ്ടും സംസാരിക്കാമെന്ന് കരുതുന്നു.",
+    "malayalamMeaning": "ഒരു വീഡിയോ കോളിലൂടെ വളരെ ഉടൻതന്നെ നിങ്ങളോട് വീണ്ടും സംസാരിക്കാൻ കഴിയുമെന്ന് ഞാൻ പ്രതീക്ഷിക്കുന്നു.",
     "usageExample": "In near time.",
     "difficulty": "BEGINNER"
   },
@@ -675,7 +675,7 @@
     "word": "audio",
     "wordMeaning": "ഓഡിയോ",
     "englishText": "The audio clarity during our voice call was remarkably sharp.",
-    "malayalamMeaning": "ഫോൺ കോളിൽ ശബ്ദം വളരെ വ്യക്തമായിരുന്നു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വോയ്‌സ് കോളിനിടയിലെ ഓഡിയോ വ്യക്തത അതിശയകരമാംവിധം തെളിമയുള്ളതായിരുന്നു.",
     "usageExample": "Sound transmission.",
     "difficulty": "BEGINNER"
   },
@@ -683,7 +683,7 @@
     "word": "speaker",
     "wordMeaning": "സ്പീക്കർ",
     "englishText": "Switch on the phone speaker so everyone in the room can hear the news.",
-    "malayalamMeaning": "മുറിയിലുള്ള എല്ലാവർക്കും കേൾക്കാൻ വേണ്ടി ഫോൺ സ്പീക്കറിലിടുക.",
+    "malayalamMeaning": "മുറിയിലുള്ള എല്ലാവർക്കും വാർത്ത കേൾക്കാൻ കഴിയുന്ന തരത്തിൽ ഫോൺ സ്പീക്കർ ഓൺ ചെയ്യുക.",
     "usageExample": "Loudspeaker.",
     "difficulty": "BEGINNER"
   },
@@ -691,7 +691,7 @@
     "word": "earphone",
     "wordMeaning": "ഇയർഫോൺ",
     "englishText": "Plug in your earphones so you can listen to voice notes privately.",
-    "malayalamMeaning": "വോയ്‌സ് മെസ്സേജുകൾ മറ്റുള്ളവർ കേൾക്കാതിരിക്കാൻ ഇയർഫോൺ ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "വോയ്‌സ് നോട്ടുകൾ സ്വകാര്യമായി കേൾക്കുന്നതിനായി നിങ്ങളുടെ ഇയർഫോണുകൾ ഘടിപ്പിക്കുക.",
     "usageExample": "In-ear speaker.",
     "difficulty": "BEGINNER"
   },
@@ -699,7 +699,7 @@
     "word": "headphone",
     "wordMeaning": "ഹെഡ്ഫോൺ",
     "englishText": "Noise-cancelling headphones block out the roar of airplane jet engines.",
-    "malayalamMeaning": "വിമാനത്തിന്റെ ഇരമ്പൽ ശബ്ദം കേൾക്കാതിരിക്കാൻ നോയിസ് ക്യാൻസലിംഗ് ഹെഡ്ഫോണുകൾ സഹായിക്കും.",
+    "malayalamMeaning": "വിമാനത്തിലെ ജെറ്റ് എഞ്ചിനുകളുടെ ഇരമ്പൽ ശബ്ദം നോയിസ് ക്യാൻസലിംഗ് ഹെഡ്ഫോണുകൾ തടയുന്നു.",
     "usageExample": "Headset.",
     "difficulty": "BEGINNER"
   },
@@ -707,7 +707,7 @@
     "word": "bluetooth",
     "wordMeaning": "ബ്ലൂടൂത്ത്",
     "englishText": "Connect your mobile phone to the car's Bluetooth audio system.",
-    "malayalamMeaning": "കാറിലെ ബ്ലൂടൂത്തുമായി മൊബൈൽ ഫോൺ കണക്ട് ചെയ്യുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ മൊബൈൽ ഫോൺ കാറിന്റെ ബ്ലൂടൂത്ത് ഓഡിയോ സിസ്റ്റവുമായി ബന്ധിപ്പിക്കുക.",
     "usageExample": "Wireless protocol.",
     "difficulty": "BEGINNER"
   },
@@ -715,7 +715,7 @@
     "word": "wireless",
     "wordMeaning": "വയറില്ലാത്ത",
     "englishText": "Wireless charging pads charge your phone without messy tangled cables.",
-    "malayalamMeaning": "വയറുകൾ കൊണ്ടുള്ള ശല്യമില്ലാതെ ഫോൺ ചാർജ് ചെയ്യാൻ വയർലെസ് ചാർജറുകൾ സഹായിക്കും.",
+    "malayalamMeaning": "കുരുക്കിക്കിടക്കുന്ന കേബിളുകളുടെ ശല്യമില്ലാതെ വയർലെസ് ചാർജിംഗ് പാഡുകൾ നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുന്നു.",
     "usageExample": "Cord-free.",
     "difficulty": "BEGINNER"
   },
@@ -723,7 +723,7 @@
     "word": "cord",
     "wordMeaning": "വൈദ്യുത വയർ",
     "englishText": "Untangle the power cord before plugging the landline phone in.",
-    "malayalamMeaning": "വയറിലെ കുരുക്കഴിച്ചതിനു ശേഷം ലാൻഡ്‌ലൈൻ പ്ലഗ് ചെയ്യുക.",
+    "malayalamMeaning": "ലാൻഡ്‌ലൈൻ ഫോൺ പ്ലഗ് ചെയ്യുന്നതിന് മുൻപ് വൈദ്യുത വയറിലെ കുരുക്ക് അഴിക്കുക.",
     "usageExample": "Flexible wire.",
     "difficulty": "BEGINNER"
   },
@@ -731,7 +731,7 @@
     "word": "cable",
     "wordMeaning": "കേബിൾ",
     "englishText": "Use a certified USB-C cable for high-speed phone battery charging.",
-    "malayalamMeaning": "വേഗത്തിൽ ചാർജ് ചെയ്യാൻ നല്ല കമ്പനിയുടെ സി-ടൈപ്പ് കേബിൾ ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "ഫോൺ ബാറ്ററി അതിവേഗം ചാർജ് ചെയ്യുന്നതിനായി അംഗീകൃത USB-C കേബിൾ ഉപയോഗിക്കുക.",
     "usageExample": "Electric cable.",
     "difficulty": "BEGINNER"
   },
@@ -739,7 +739,7 @@
     "word": "adapter",
     "wordMeaning": "അഡാപ്റ്റർ",
     "englishText": "Pack an international power adapter when traveling overseas.",
-    "malayalamMeaning": "വിദേശത്തേക്ക് യാത്ര ചെയ്യുമ്പോൾ ഇന്റർനാഷണൽ അഡാപ്റ്റർ കൂടെ കരുതുക.",
+    "malayalamMeaning": "വിദേശത്തേക്ക് യാത്ര ചെയ്യുമ്പോൾ ഒരു ഇന്റർനാഷണൽ പവർ അഡാപ്റ്റർ കൂടെ കരുതുക.",
     "usageExample": "Plug converter.",
     "difficulty": "BEGINNER"
   },
@@ -747,7 +747,7 @@
     "word": "socket",
     "wordMeaning": "സോക്കറ്റ്",
     "englishText": "Plug the charger directly into the three-pin wall electrical socket.",
-    "malayalamMeaning": "ചാർജർ നേരിട്ട് സ്വിച്ച് ബോർഡിലെ സോക്കറ്റിൽ കുത്തുക.",
+    "malayalamMeaning": "ചാർജർ നേരിട്ട് ഭിത്തിയിലെ ത്രീ-പിൻ ഇലക്ട്രിക്കൽ സോക്കറ്റിൽ കുത്തുക.",
     "usageExample": "Wall outlet.",
     "difficulty": "BEGINNER"
   },
@@ -755,7 +755,7 @@
     "word": "hang up",
     "wordMeaning": "ഫോൺ വെക്കുക",
     "englishText": "Wait until the other person finishes speaking before you hang up the call.",
-    "malayalamMeaning": "മറുഭാഗത്തുള്ള ആൾ സംസാരിച്ചു തീരുന്നതുവരെ ഫോൺ കട്ട് ചെയ്യാതെ കാത്തിരിക്കുക.",
+    "malayalamMeaning": "ഫോൺ വെക്കുന്നതിന് മുൻപ് മറുഭാഗത്തുള്ള ആൾ സംസാരിച്ചു തീരുന്നതുവരെ കാത്തിരിക്കുക.",
     "usageExample": "End phone call.",
     "difficulty": "BEGINNER"
   },
@@ -771,7 +771,7 @@
     "word": "missed",
     "wordMeaning": "എടുക്കാതെ പോയ",
     "englishText": "I had three missed calls from an unknown international telephone number.",
-    "malayalamMeaning": "ഒരു വിദേശ നമ്പറിൽ നിന്ന് എനിക്ക് മൂന്ന് മിസ്ഡ് കോളുകൾ വന്നിട്ടുണ്ട്.",
+    "malayalamMeaning": "അജ്ഞാതമായ ഒരു അന്താരാഷ്ട്ര ഫോൺ നമ്പറിൽ നിന്ന് എനിക്ക് മൂന്ന് മിസ്ഡ് കോളുകൾ വന്നിരുന്നു.",
     "usageExample": "Unanswered call.",
     "difficulty": "BEGINNER"
   },
@@ -779,7 +779,7 @@
     "word": "voicemail",
     "wordMeaning": "വോയ്സ്മെയിൽ",
     "englishText": "He left a detailed voicemail explaining the changes to the contract.",
-    "malayalamMeaning": "കരാറിലെ മാറ്റങ്ങൾ വിശദീകരിച്ചുകൊണ്ട് അയാൾ ഒരു വോയ്‌സ് മെസ്സേജ് അയച്ചിട്ടുണ്ട്.",
+    "malayalamMeaning": "കരാറിലെ മാറ്റങ്ങൾ വിശദീകരിച്ചുകൊണ്ട് അയാൾ വിശദമായ ഒരു വോയ്‌സ്‌മെയിൽ വിട്ടിട്ടുണ്ട്.",
     "usageExample": "Recorded message.",
     "difficulty": "BEGINNER"
   },
@@ -787,7 +787,7 @@
     "word": "record",
     "wordMeaning": "ശബ്ദം പകർത്തുക",
     "englishText": "Ask for legal consent before you record any professional telephone interview.",
-    "malayalamMeaning": "ഫോൺ സംഭാഷണം റെക്കോർഡ് ചെയ്യുന്നതിന് മുൻപ് അവരുടെ അനുവാദം ചോദിക്കുക.",
+    "malayalamMeaning": "ഏതൊരു പ്രൊഫഷണൽ ഫോൺ അഭിമുഖവും റെക്കോർഡ് ചെയ്യുന്നതിന് മുൻപ് നിയമപരമായ സമ്മതം ചോദിക്കുക.",
     "usageExample": "Capture audio.",
     "difficulty": "BEGINNER"
   },
@@ -795,7 +795,7 @@
     "word": "delete",
     "wordMeaning": "ഇല്ലാതാക്കുക",
     "englishText": "Delete promotional spam messages from your inbox to free up phone storage.",
-    "malayalamMeaning": "ഫോൺ മെമ്മറി ലാഭിക്കാൻ ആവശ്യമില്ലാത്ത സ്പാം മെസ്സേജുകൾ ഡിലീറ്റ് ചെയ്യുക.",
+    "malayalamMeaning": "ഫോൺ സ്റ്റോറേജ് ഒഴിവാക്കുന്നതിനായി നിങ്ങളുടെ ഇൻബോക്സിൽ നിന്നുള്ള പരസ്യ സ്പാം സന്ദേശങ്ങൾ ഇല്ലാതാക്കുക.",
     "usageExample": "Remove file.",
     "difficulty": "BEGINNER"
   },
@@ -803,7 +803,7 @@
     "word": "block",
     "wordMeaning": "തടയുക",
     "englishText": "Block annoying automated telemarketing spam numbers on your handset.",
-    "malayalamMeaning": "ശല്യപ്പെടുത്തുന്ന ടെലിമാർക്കറ്റിംഗ് സ്പാം നമ്പറുകൾ ഫോണിൽ ബ്ലോക്ക് ചെയ്യുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഹാൻഡ്‌സെറ്റിൽ ശല്യപ്പെടുത്തുന്ന ഓട്ടോമേറ്റഡ് ടെലിമാർക്കറ്റിംഗ് സ്പാം നമ്പറുകൾ ബ്ലോക്ക് ചെയ്യുക.",
     "usageExample": "Bar caller.",
     "difficulty": "BEGINNER"
   },
@@ -811,7 +811,7 @@
     "word": "spam",
     "wordMeaning": "അനാവശ്യ കോൾ",
     "englishText": "Modern smartphones automatically flag suspected fraud and spam calls.",
-    "malayalamMeaning": "തട്ടിപ്പ് കോളുകളും സ്പാം കോളുകളും ആധുനിക സ്മാർട്ട്ഫോണുകൾ സ്വയം മുന്നറിയിപ്പ് നൽകുന്നു.",
+    "malayalamMeaning": "സംശയാസ്പദമായ തട്ടിപ്പ് കോളുകളെയും അനാവശ്യ സ്പാം കോളുകളെയും ആധുനിക സ്മാർട്ട്ഫോണുകൾ സ്വയം അടയാളപ്പെടുത്തുന്നു.",
     "usageExample": "Junk call.",
     "difficulty": "BEGINNER"
   },
@@ -819,7 +819,7 @@
     "word": "scam",
     "wordMeaning": "തട്ടിപ്പ്",
     "englishText": "Beware of telephone scam callers claiming that your bank account is blocked.",
-    "malayalamMeaning": "ബാങ്ക് അക്കൗണ്ട് ബ്ലോക്കായെന്ന് പറഞ്ഞുവിളിക്കുന്ന തട്ടിപ്പുകാരെ സൂക്ഷിക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ബാങ്ക് അക്കൗണ്ട് ബ്ലോക്കായെന്ന് അവകാശപ്പെട്ട് വിളിക്കുന്ന ഫോൺ തട്ടിപ്പുകാരെ സൂക്ഷിക്കുക.",
     "usageExample": "Fraudulent call.",
     "difficulty": "BEGINNER"
   },
@@ -827,7 +827,7 @@
     "word": "fake",
     "wordMeaning": "വ്യാജമായ",
     "englishText": "Never share personal one-time passwords with fake telephone callers.",
-    "malayalamMeaning": "ഫോണിൽ വിളിക്കുന്ന അപരിചിതരുമായി ഒ.ടി.പി നമ്പറുകൾ ഒരിക്കലും പങ്കുവെക്കരുത്.",
+    "malayalamMeaning": "വ്യാജ ഫോൺ കോളർമാരുമായി വ്യക്തിഗത ഒറ്റത്തവണ പാസ്‌വേഡുകൾ ഒരിക്കലും പങ്കുവെക്കരുത്.",
     "usageExample": "Fraudulent.",
     "difficulty": "BEGINNER"
   },
@@ -835,7 +835,7 @@
     "word": "true",
     "wordMeaning": "യഥാർത്ഥമായ",
     "englishText": "True caller ID apps help identify unknown incoming caller identities.",
-    "malayalamMeaning": "അപരിചിതമായ നമ്പറുകളിൽ നിന്ന് വിളിക്കുന്നത് ആരാണെന്ന് തിരിച്ചറിയാൻ കോളർ ഐഡി ആപ്പുകൾ സഹായിക്കും.",
+    "malayalamMeaning": "യഥാർത്ഥ കോളർ ഐഡി ആപ്പുകൾ അജ്ഞാതമായ ഇൻകമിംഗ് കോളർമാരെ തിരിച്ചറിയാൻ സഹായിക്കുന്നു.",
     "usageExample": "Accurate.",
     "difficulty": "BEGINNER"
   },
@@ -843,7 +843,7 @@
     "word": "unknown",
     "wordMeaning": "അജ്ഞാതമായ",
     "englishText": "I usually do not answer calls coming from unknown numbers without caller ID.",
-    "malayalamMeaning": "പരിചയമില്ലാത്ത നമ്പറുകളിൽ നിന്ന് വരുന്ന കോളുകൾ ഞാൻ സാധാരണയായി എടുക്കാറില്ല.",
+    "malayalamMeaning": "കോളർ ഐഡി ഇല്ലാത്ത അജ്ഞാത നമ്പറുകളിൽ നിന്ന് വരുന്ന കോളുകൾ ഞാൻ സാധാരണയായി എടുക്കാറില്ല.",
     "usageExample": "Unidentified.",
     "difficulty": "BEGINNER"
   },
@@ -851,7 +851,7 @@
     "word": "wrong",
     "wordMeaning": "തെറ്റായ",
     "englishText": "I am sorry, but you have dialed the wrong telephone number.",
-    "malayalamMeaning": "ക്ഷമിക്കണം, നിങ്ങൾക്ക് നമ്പർ തെറ്റിയതാണ്.",
+    "malayalamMeaning": "ക്ഷമിക്കണം, നിങ്ങൾ തെറ്റായ ടെലിഫോൺ നമ്പറാണ് ഡയൽ ചെയ്തിരിക്കുന്നത്.",
     "usageExample": "Incorrect dial.",
     "difficulty": "BEGINNER"
   },
@@ -859,7 +859,7 @@
     "word": "right",
     "wordMeaning": "ശരിയായ",
     "englishText": "Yes, this is the right extension for the customer support helpdesk.",
-    "malayalamMeaning": "അതെ, കസ്റ്റമർ സപ്പോർട്ട് ഹെൽപ്പ്‌ഡെസ്കിലേക്ക് തന്നെയാണ് കണക്ട് ചെയ്തിരിക്കുന്നത്.",
+    "malayalamMeaning": "അതെ, കസ്റ്റമർ സപ്പോർട്ട് ഹെൽപ്പ്‌ഡെസ്കിലേക്കുള്ള ശരിയായ എക്സ്റ്റൻഷൻ ഇതുതന്നെയാണ്.",
     "usageExample": "Correct line.",
     "difficulty": "BEGINNER"
   },
@@ -867,7 +867,7 @@
     "word": "help",
     "wordMeaning": "സഹായം",
     "englishText": "Call our 24/7 technical help line if you experience broadband outages.",
-    "malayalamMeaning": "ഇന്റർനെറ്റ് തടസ്സപ്പെടുകയാണെങ്കിൽ ഞങ്ങളുടെ 24 മണിക്കൂറും പ്രവർത്തിക്കുന്ന ഹെൽപ്പ്‌ലൈനിൽ വിളിക്കുക.",
+    "malayalamMeaning": "നിങ്ങൾക്ക് ബ്രോഡ്ബാൻഡ് തടസ്സങ്ങൾ അനുഭവപ്പെടുകയാണെങ്കിൽ ഞങ്ങളുടെ 24x7 സാങ്കേതിക സഹായ ലൈനിൽ വിളിക്കുക.",
     "usageExample": "Support assistance.",
     "difficulty": "BEGINNER"
   },
@@ -875,7 +875,7 @@
     "word": "operator",
     "wordMeaning": "ഓപ്പറേറ്റർ",
     "englishText": "The switchboard operator routed our call to the managing director's room.",
-    "malayalamMeaning": "ഓപ്പറേറ്റർ ഞങ്ങളുടെ കോൾ മാനേജിംഗ് ഡയറക്ടറുടെ ഫോണിലേക്ക് കണക്ട് ചെയ്തു.",
+    "malayalamMeaning": "സ്വിച്ച്ബോർഡ് ഓപ്പറേറ്റർ ഞങ്ങളുടെ കോൾ മാനേജിംഗ് ഡയറക്ടറുടെ മുറിയിലേക്ക് ബന്ധിപ്പിച്ചു.",
     "usageExample": "Telephonist.",
     "difficulty": "BEGINNER"
   },
@@ -891,7 +891,7 @@
     "word": "incoming",
     "wordMeaning": "വരുന്ന",
     "englishText": "Silence the incoming phone call by pressing the volume down key.",
-    "malayalamMeaning": "കോൾ വരുമ്പോൾ വോളിയം കുറയ്ക്കുന്ന ബട്ടൺ അമർത്തിയാൽ ഫോൺ സൈലന്റാക്കാം.",
+    "malayalamMeaning": "വോളിയം കുറയ്ക്കുന്ന ബട്ടൺ അമർത്തി വരുന്ന ഫോൺ കോൾ നിശബ്ദമാക്കുക.",
     "usageExample": "Incoming call.",
     "difficulty": "BEGINNER"
   },
@@ -899,7 +899,7 @@
     "word": "outgoing",
     "wordMeaning": "പുറത്തേക്കുള്ള",
     "englishText": "All outgoing international telephone calls require dialing country codes.",
-    "malayalamMeaning": "വിദേശത്തേക്ക് വിളിക്കുമ്പോൾ കൺട്രി കോഡ് കൂടി ചേർത്ത് ഡയൽ ചെയ്യണം.",
+    "malayalamMeaning": "പുറത്തേക്കുള്ള എല്ലാ അന്താരാഷ്ട്ര ഫോൺ കോളുകൾക്കും കൺട്രി കോഡുകൾ ഡയൽ ചെയ്യേണ്ടതുണ്ട്.",
     "usageExample": "Outbound call.",
     "difficulty": "BEGINNER"
   },
@@ -907,7 +907,7 @@
     "word": "abroad",
     "wordMeaning": "വിദേശത്ത്",
     "englishText": "Call your relatives living abroad using low-cost internet audio apps.",
-    "malayalamMeaning": "ഇന്റർനെറ്റ് കോളിംഗ് ആപ്പുകൾ വഴി വിദേശത്തുള്ള ബന്ധുക്കളോട് കുറഞ്ഞ ചെലവിൽ സംസാരിക്കാം.",
+    "malayalamMeaning": "കുറഞ്ഞ ചെലവിലുള്ള ഇന്റർനെറ്റ് ഓഡിയോ ആപ്പുകൾ ഉപയോഗിച്ച് വിദേശത്ത് താമസിക്കുന്ന നിങ്ങളുടെ ബന്ധുക്കളെ വിളിക്കുക.",
     "usageExample": "Foreign countries.",
     "difficulty": "BEGINNER"
   },
@@ -915,7 +915,7 @@
     "word": "country",
     "wordMeaning": "രാജ്യം",
     "englishText": "Remember to add India's country code plus ninety-one before the number.",
-    "malayalamMeaning": "ഫോൺ നമ്പറിന് മുന്നിൽ ഇന്ത്യയുടെ കോഡായ +91 ചേർക്കാൻ മറക്കരുത്.",
+    "malayalamMeaning": "നമ്പറിന് മുൻപ് ഇന്ത്യയുടെ രാജ്യ കോഡായ +91 ചേർക്കാൻ ഓർക്കുക.",
     "usageExample": "National prefix.",
     "difficulty": "BEGINNER"
   },
@@ -923,7 +923,7 @@
     "word": "prefix",
     "wordMeaning": "മുൻകോഡ്",
     "englishText": "Dial the correct area telephone prefix when calling traditional landlines.",
-    "malayalamMeaning": "ലാൻഡ്‌ലൈനിലേക്ക് വിളിക്കുമ്പോൾ ശരിയായ എസ്.ടി.ഡി കോഡ് ഡയൽ ചെയ്യുക.",
+    "malayalamMeaning": "പരമ്പരാഗത ലാൻഡ്‌ലൈനുകളിലേക്ക് വിളിക്കുമ്പോൾ ശരിയായ ഏരിയ ടെലിഫോൺ മുൻകോഡ് ഡയൽ ചെയ്യുക.",
     "usageExample": "Area code.",
     "difficulty": "BEGINNER"
   },
@@ -931,7 +931,7 @@
     "word": "international",
     "wordMeaning": "അന്താരാഷ്ട്ര",
     "englishText": "International roaming packs prevent exorbitant mobile charges when abroad.",
-    "malayalamMeaning": "വിദേശത്തായിരിക്കുമ്പോൾ അധിക ചാർജ്ജ് വരാതിരിക്കാൻ ഇന്റർനാഷണൽ റോമിംഗ് പായ്ക്കുകൾ എടുക്കുക.",
+    "malayalamMeaning": "വിദേശത്തായിരിക്കുമ്പോൾ അമിതമായ മൊബൈൽ നിരക്കുകൾ ഒഴിവാക്കാൻ അന്താരാഷ്ട്ര റോമിംഗ് പായ്ക്കുകൾ സഹായിക്കുന്നു.",
     "usageExample": "Cross-border.",
     "difficulty": "BEGINNER"
   },
@@ -939,7 +939,7 @@
     "word": "roaming",
     "wordMeaning": "റോമിംഗ്",
     "englishText": "Turn on data roaming only after purchasing an international travel pack.",
-    "malayalamMeaning": "റോമിംഗ് പ്ലാൻ എടുത്തതിനു ശേഷം മാത്രം ഡാറ്റാ റോമിംഗ് ഓൺ ചെയ്യുക.",
+    "malayalamMeaning": "ഒരു അന്താരാഷ്ട്ര യാത്രാ പായ്ക്ക് വാങ്ങിയതിനു ശേഷം മാത്രം ഡാറ്റാ റോമിംഗ് ഓൺ ചെയ്യുക.",
     "usageExample": "Cross-network.",
     "difficulty": "BEGINNER"
   },
@@ -947,7 +947,7 @@
     "word": "recharge",
     "wordMeaning": "റീചാർജ് ചെയ്യുക",
     "englishText": "Recharge your prepaid mobile phone plan before the validity expires.",
-    "malayalamMeaning": "വാലിഡിറ്റി തീരുന്നതിന് മുൻപ് പ്രീപെയ്ഡ് പ്ലാൻ റീചാർജ്ജ് ചെയ്യുക.",
+    "malayalamMeaning": "വാലിഡിറ്റി അവസാനിക്കുന്നതിന് മുൻപ് നിങ്ങളുടെ പ്രീപെയ്ഡ് മൊബൈൽ ഫോൺ പ്ലാൻ റീചാർജ് ചെയ്യുക.",
     "usageExample": "Top up credit.",
     "difficulty": "BEGINNER"
   },
@@ -971,7 +971,7 @@
     "word": "postpaid",
     "wordMeaning": "പോസ്റ്റ്പെയ്ഡ്",
     "englishText": "Postpaid mobile subscribers receive a consolidated monthly tax invoice.",
-    "malayalamMeaning": "പോസ്റ്റ്‌പെയ്ഡ് വരിക്കാർക്ക് എല്ലാ മാസവും ബില്ല് ലഭിക്കും.",
+    "malayalamMeaning": "പോസ്റ്റ്‌പെയ്ഡ് മൊബൈൽ വരിക്കാർക്ക് പ്രതിമാസം ഏകീകൃത നികുതി ബിൽ ലഭിക്കും.",
     "usageExample": "Pay after use.",
     "difficulty": "BEGINNER"
   },
@@ -979,7 +979,7 @@
     "word": "unlimited",
     "wordMeaning": "പരിധിയില്ലാത്ത",
     "englishText": "Our broadband internet plan features unlimited downloads with no data cap.",
-    "malayalamMeaning": "ഞങ്ങളുടെ ബ്രോഡ്ബാൻഡ് പ്ലാനിൽ ഡാറ്റാ പരിധിയില്ലാതെ അൺലിമിറ്റഡായി ഉപയോഗിക്കാം.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ബ്രോഡ്ബാൻഡ് ഇന്റർനെറ്റ് പ്ലാനിൽ ഡാറ്റാ നിയന്ത്രണമില്ലാതെ പരിധിയില്ലാത്ത ഡൗൺലോഡുകൾ ലഭ്യമാണ്.",
     "usageExample": "Without limits.",
     "difficulty": "BEGINNER"
   },
@@ -987,7 +987,7 @@
     "word": "speed",
     "wordMeaning": "വേഗത",
     "englishText": "Test your broadband internet download speed using a free web speed test.",
-    "malayalamMeaning": "ഇന്റർനെറ്റ് സ്പീഡ് എത്രയുണ്ടെന്ന് സ്പീഡ് ടെസ്റ്റ് വഴി പരിശോധിക്കുക.",
+    "malayalamMeaning": "സൗജന്യ വെബ് സ്പീഡ് ടെസ്റ്റ് ഉപയോഗിച്ച് നിങ്ങളുടെ ബ്രോഡ്ബാൻഡ് ഇന്റർനെറ്റ് ഡൗൺലോഡ് വേഗത പരിശോധിക്കുക.",
     "usageExample": "Data rate.",
     "difficulty": "BEGINNER"
   },
@@ -995,7 +995,7 @@
     "word": "fast",
     "wordMeaning": "വേഗതയേറിയ",
     "englishText": "The 5G cellular network provides fast download speeds for video streaming.",
-    "malayalamMeaning": "5G നെറ്റ്‌വർക്ക് വേഗത്തിൽ വീഡിയോകൾ കാണാനും ഡൗൺലോഡ് ചെയ്യാനും സഹായിക്കുന്നു.",
+    "malayalamMeaning": "വീഡിയോ സ്ട്രീമിംഗിനായി 5G സെല്ലുലാർ നെറ്റ്‌വർക്ക് വേഗതയേറിയ ഡൗൺലോഡ് വേഗത നൽകുന്നു.",
     "usageExample": "High speed.",
     "difficulty": "BEGINNER"
   },
@@ -1003,7 +1003,7 @@
     "word": "slow",
     "wordMeaning": "വേഗത കുറഞ്ഞ",
     "englishText": "The video call started buffering because the internet speed was too slow.",
-    "malayalamMeaning": "ഇന്റർനെറ്റ് സ്പീഡ് കുറവായതിനാൽ വീഡിയോ കോൾ തടസ്സപ്പെട്ടു തുടങ്ങി.",
+    "malayalamMeaning": "ഇന്റർനെറ്റ് വേഗത വളരെ കുറവായിരുന്നതിനാൽ വീഡിയോ കോൾ ബഫർ ചെയ്യാൻ തുടങ്ങി.",
     "usageExample": "Low data rate.",
     "difficulty": "BEGINNER"
   },
@@ -1011,7 +1011,7 @@
     "word": "buffer",
     "wordMeaning": "മുൻകൂട്ടി ശേഖരിക്കുക",
     "englishText": "Allow the video to buffer for a few seconds if your cellular signal is weak.",
-    "malayalamMeaning": "റേഞ്ച് കുറവാണെങ്കിൽ വീഡിയോ ലോഡാവാൻ അല്പം സമയം നൽകുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ സെല്ലുലാർ സിഗ്നൽ ദുർബലമാണെങ്കിൽ വീഡിയോ ബഫർ ചെയ്യാൻ കുറച്ച് സെക്കൻഡ് സമയം നൽകുക.",
     "usageExample": "Preload data.",
     "difficulty": "BEGINNER"
   },
@@ -1019,7 +1019,7 @@
     "word": "freeze",
     "wordMeaning": "നിശ്ചലമാകുക",
     "englishText": "The screen began to freeze whenever our mobile Wi-Fi signal dipped.",
-    "malayalamMeaning": "വൈഫൈ റേഞ്ച് കുറയുമ്പോൾ സ്ക്രീൻ നിശ്ചലമായിപ്പോകുന്നു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ മൊബൈൽ Wi-Fi സിഗ്നൽ കുറയുമ്പോഴെല്ലാം സ്ക്രീൻ നിശ്ചലമാകാൻ തുടങ്ങി.",
     "usageExample": "Halt display.",
     "difficulty": "BEGINNER"
   },
@@ -1027,7 +1027,7 @@
     "word": "lag",
     "wordMeaning": "കാലതാമസം",
     "englishText": "There was a noticeable audio lag of two seconds during the satellite call.",
-    "malayalamMeaning": "സാറ്റലൈറ്റ് കോളിൽ സംസാരിക്കുമ്പോൾ രണ്ട് സെക്കൻഡിന്റെ കാലതാമസം ഉണ്ടായിരുന്നു.",
+    "malayalamMeaning": "സാറ്റലൈറ്റ് കോളിനിടയിൽ രണ്ട് സെക്കൻഡിന്റെ ശ്രദ്ധേയമായ ശബ്ദ കാലതാമസം ഉണ്ടായിരുന്നു.",
     "usageExample": "Delay in audio.",
     "difficulty": "BEGINNER"
   },
@@ -1035,7 +1035,7 @@
     "word": "echo",
     "wordMeaning": "പ്രതിധ്വനി",
     "englishText": "I am hearing a loud echo of my own voice; please plug in your earphones.",
-    "malayalamMeaning": "എന്റെ ശബ്ദം എനിക്ക് വീണ്ടും പ്രതിധ്വനിച്ചു കേൾക്കുന്നു; ദയവായി ഇയർഫോൺ ഉപയോഗിക്കാമോ?",
+    "malayalamMeaning": "എന്റെ സ്വന്തം ശബ്ദത്തിന്റെ ഉച്ചത്തിലുള്ള പ്രതിധ്വനി എനിക്ക് കേൾക്കുന്നുണ്ട്; ദയവായി നിങ്ങളുടെ ഇയർഫോൺ ഘടിപ്പിക്കുക.",
     "usageExample": "Reflected sound.",
     "difficulty": "BEGINNER"
   },
@@ -1043,7 +1043,7 @@
     "word": "faint",
     "wordMeaning": "നേർത്ത",
     "englishText": "His voice sounded faint, as if he were speaking from across a large room.",
-    "malayalamMeaning": "അയാളുടെ ശബ്ദം വളരെ കുറഞ്ഞാണ് കേട്ടിരുന്നത്.",
+    "malayalamMeaning": "ഒരു വലിയ മുറിയുടെ അങ്ങേയറ്റത്തുനിന്ന് സംസാരിക്കുന്നതുപോലെ അയാളുടെ ശബ്ദം നേർത്തതായി കേട്ടു.",
     "usageExample": "Quiet/distant.",
     "difficulty": "BEGINNER"
   },
@@ -1051,7 +1051,7 @@
     "word": "noisy",
     "wordMeaning": "ശബ്ദായമാനമായ",
     "englishText": "The bustling fish market was too noisy for an important business phone call.",
-    "malayalamMeaning": "മത്സ്യമാർക്കറ്റിലെ ബഹളം കാരണം പ്രധാനപ്പെട്ട ബിസിനസ്സ് കോൾ സംസാരിക്കാൻ കഴിഞ്ഞില്ല.",
+    "malayalamMeaning": "തിരക്കേറിയ മത്സ്യമാർക്കറ്റ് പ്രധാനപ്പെട്ട ഒരു ബിസിനസ്സ് ഫോൺ കോളിന് പറ്റാത്തത്ര ശബ്ദായമാനമായിരുന്നു.",
     "usageExample": "Loud background.",
     "difficulty": "BEGINNER"
   },
@@ -1059,7 +1059,7 @@
     "word": "quiet",
     "wordMeaning": "ബഹളമില്ലാത്ത",
     "englishText": "Let me step into a quiet corner so I can hear your instructions properly.",
-    "malayalamMeaning": "നിങ്ങൾ പറയുന്നത് വ്യക്തമായി കേൾക്കാൻ ഞാൻ ബഹളമില്ലാത്ത ഒരിടത്തേക്ക് മാറാം.",
+    "malayalamMeaning": "നിങ്ങളുടെ നിർദ്ദേശങ്ങൾ കൃത്യമായി കേൾക്കാനായി ഞാൻ ബഹളമില്ലാത്ത ഒരു മൂലയിലേക്ക് മാറിനിൽക്കാം.",
     "usageExample": "Silent space.",
     "difficulty": "BEGINNER"
   },
@@ -1067,7 +1067,7 @@
     "word": "private",
     "wordMeaning": "സ്വകാര്യമായ",
     "englishText": "He stepped into the conference booth to take a private family phone call.",
-    "malayalamMeaning": "വീട്ടിൽ നിന്നുള്ള കോൾ സംസാരിക്കാൻ അയാൾ മുറിക്ക് പുറത്തേക്ക് മാറിനിന്നു.",
+    "malayalamMeaning": "സ്വകാര്യമായ ഒരു കുടുംബ ഫോൺ കോൾ എടുക്കാനായി അയാൾ കോൺഫറൻസ് ബൂത്തിലേക്ക് കയറി.",
     "usageExample": "Confidential.",
     "difficulty": "BEGINNER"
   },
@@ -1075,7 +1075,7 @@
     "word": "important",
     "wordMeaning": "പ്രധാനപ്പെട്ട",
     "englishText": "This is an important call from the hospital regarding your test results.",
-    "malayalamMeaning": "പരിശോധനാ ഫലത്തെക്കുറിച്ച് അറിയിക്കാൻ ആശുപത്രിയിൽ നിന്ന് വിളിക്കുന്ന പ്രധാനപ്പെട്ട കോളാണിത്.",
+    "malayalamMeaning": "നിങ്ങളുടെ പരിശോധനാ ഫലങ്ങളെക്കുറിച്ച് ആശുപത്രിയിൽ നിന്നുള്ള പ്രധാനപ്പെട്ട ഒരു കോളാണിത്.",
     "usageExample": "Significant.",
     "difficulty": "BEGINNER"
   },
@@ -1083,7 +1083,7 @@
     "word": "casual",
     "wordMeaning": "അനൗപചാരികമായ",
     "englishText": "We enjoyed a casual Sunday evening phone chat with our old college friends.",
-    "malayalamMeaning": "ഞായറാഴ്ച വൈകുന്നേരം കോളേജ് സുഹൃത്തുക്കളുമായി ഫോണിൽ സംസാരിച്ച് സമയം ചെലവഴിച്ചു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പഴയ കോളേജ് സുഹൃത്തുക്കളുമായി ഞായറാഴ്ച വൈകുന്നേരം അനൗപചാരികമായ ഒരു ഫോൺ സംഭാഷണം ഞങ്ങൾ ആസ്വദിച്ചു.",
     "usageExample": "Informal talk.",
     "difficulty": "BEGINNER"
   },
@@ -1091,7 +1091,7 @@
     "word": "business",
     "wordMeaning": "വ്യാപാരം",
     "englishText": "Keep your professional business phone calls structured, polite, and concise.",
-    "malayalamMeaning": "ഔദ്യോഗിക ഫോൺ സംഭാഷണങ്ങൾ മാന്യവും ചുരുങ്ങിയതുമായിരിക്കാൻ ശ്രദ്ധിക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ പ്രൊഫഷണൽ ബിസിനസ്സ് ഫോൺ കോളുകൾ ചിട്ടയായതും മാന്യവും സംക്ഷിപ്തവുമായി സൂക്ഷിക്കുക.",
     "usageExample": "Commercial call.",
     "difficulty": "BEGINNER"
   },
@@ -1099,7 +1099,7 @@
     "word": "personal",
     "wordMeaning": "വ്യക്തിപരമായ",
     "englishText": "Company rules prohibit using official desk phones for personal calls.",
-    "malayalamMeaning": "ഓഫീസ് ഫോണിൽ നിന്ന് വ്യക്തിപരമായ ആവശ്യങ്ങൾക്ക് വിളിക്കുന്നത് കമ്പനി വിലക്കിയിട്ടുണ്ട്.",
+    "malayalamMeaning": "വ്യക്തിപരമായ കോളുകൾക്കായി ഔദ്യോഗിക ഡെസ്ക് ഫോണുകൾ ഉപയോഗിക്കുന്നത് കമ്പനി നിയമങ്ങൾ വിലക്കുന്നു.",
     "usageExample": "Private matter.",
     "difficulty": "BEGINNER"
   },
@@ -1107,7 +1107,7 @@
     "word": "polite",
     "wordMeaning": "മര്യാദയുള്ള",
     "englishText": "Always maintain a polite, respectful, and helpful telephone etiquette.",
-    "malayalamMeaning": "ഫോണിൽ സംസാരിക്കുമ്പോൾ എപ്പോഴും മാന്യതയും വിനയവും പുലർത്തുക.",
+    "malayalamMeaning": "എപ്പോഴും മര്യാദയുള്ളതും ആദരവുള്ളതും സഹായകരവുമായ ഫോൺ പെരുമാറ്റരീതി പുലർത്തുക.",
     "usageExample": "Courteous.",
     "difficulty": "BEGINNER"
   },
@@ -1115,7 +1115,7 @@
     "word": "kind",
     "wordMeaning": "ദയയുള്ള",
     "englishText": "The customer care agent was exceptionally kind and resolved my issue fast.",
-    "malayalamMeaning": "കസ്റ്റമർ കെയർ ഉദ്യോഗസ്ഥൻ വളരെ മാന്യമായി സംസാരിക്കുകയും എന്റെ പ്രശ്നം വേഗത്തിൽ പരിഹരിക്കുകയും ചെയ്തു.",
+    "malayalamMeaning": "കസ്റ്റമർ കെയർ ഏജന്റ് അസാധാരണമാംവിധം ദയയുള്ളയാളായിരുന്നു, എന്റെ പ്രശ്നം വേഗത്തിൽ പരിഹരിക്കുകയും ചെയ്തു.",
     "usageExample": "Helpful manner.",
     "difficulty": "BEGINNER"
   },
@@ -1123,7 +1123,7 @@
     "word": "rude",
     "wordMeaning": "പരുഷമായ",
     "englishText": "Never speak in a rude or dismissive tone to customer service representatives.",
-    "malayalamMeaning": "കസ്റ്റമർ കെയർ ജീവനക്കാരോട് ഒരിക്കലും ദേഷ്യത്തോടെയോ അപമര്യാദയായോ സംസാരിക്കരുത്.",
+    "malayalamMeaning": "കസ്റ്റമർ സർവീസ് പ്രതിനിധികളോട് ഒരിക്കലും പരുഷമായതോ അവഗണന നിറഞ്ഞതോ ആയ സ്വരത്തിൽ സംസാരിക്കരുത്.",
     "usageExample": "Impolite tone.",
     "difficulty": "BEGINNER"
   },
@@ -1131,7 +1131,7 @@
     "word": "patient",
     "wordMeaning": "ക്ഷമയുള്ള",
     "englishText": "Be patient when explaining technical smartphone issues to elderly parents.",
-    "malayalamMeaning": "മുതിർന്ന മാതാപിതാക്കൾക്ക് ഫോണിന്റെ കാര്യങ്ങൾ പറഞ്ഞുകൊടുക്കുമ്പോൾ ക്ഷമയോടെ ഇരിക്കുക.",
+    "malayalamMeaning": "മുതിർന്ന മാതാപിതാക്കൾക്ക് സ്മാർട്ട്ഫോണിലെ സാങ്കേതിക പ്രശ്നങ്ങൾ വിശദീകരിച്ചുകൊടുക്കുമ്പോൾ ക്ഷമയുള്ളവരായിരിക്കുക.",
     "usageExample": "Enduring calmly.",
     "difficulty": "BEGINNER"
   },
@@ -1139,7 +1139,7 @@
     "word": "hurry",
     "wordMeaning": "തിടുക്കം",
     "englishText": "I am in a bit of a hurry, so please give me the summary in one sentence.",
-    "malayalamMeaning": "ഞാൻ അല്പം തിരക്കിലാണ്, കാര്യം എന്താണെന്ന് ഒറ്റവാക്കിൽ പറയാമോ?",
+    "malayalamMeaning": "ഞാൻ അല്പം തിടുക്കത്തിലാണ്, അതിനാൽ ദയവായി സംഗ്രഹം ഒറ്റ വാക്യത്തിൽ പറഞ്ഞുതരിക.",
     "usageExample": "Rushed.",
     "difficulty": "BEGINNER"
   },
@@ -1147,7 +1147,7 @@
     "word": "brief",
     "wordMeaning": "ഹ്രസ്വമായ",
     "englishText": "Let us keep this morning update call very brief so everyone can start work.",
-    "malayalamMeaning": "എല്ലാവർക്കും ജോലി തുടങ്ങേണ്ടതുകൊണ്ട് രാവിലത്തെ കോൾ നമുക്ക് പെട്ടെന്ന് അവസാനിപ്പിക്കാം.",
+    "malayalamMeaning": "എല്ലാവർക്കും ജോലി തുടങ്ങാൻ കഴിയുന്ന തരത്തിൽ രാവിലത്തെ ഈ അപ്ഡേറ്റ് കോൾ നമുക്ക് വളരെ ഹ്രസ്വമായി നിർത്താം.",
     "usageExample": "Short duration.",
     "difficulty": "BEGINNER"
   },
@@ -1163,7 +1163,7 @@
     "word": "sweet",
     "wordMeaning": "ഹൃദ്യമായ",
     "englishText": "She left a sweet voice message wishing her brother luck on his exam.",
-    "malayalamMeaning": "സഹോദരന് പരീക്ഷാ ആശംസകൾ നേർന്ന് അവൾ സ്നേഹത്തോടെ ഒരു വോയ്‌സ് മെസ്സേജ് അയച്ചു.",
+    "malayalamMeaning": "സഹോദരന് പരീക്ഷയിൽ വിജയാശംസകൾ നേർന്നുകൊണ്ട് അവൾ ഹൃദ്യമായ ഒരു ശബ്ദസന്ദേശം അയച്ചു.",
     "usageExample": "Pleasant/caring.",
     "difficulty": "BEGINNER"
   },
@@ -1171,7 +1171,7 @@
     "word": "warm",
     "wordMeaning": "ഊഷ്മളമായ",
     "englishText": "His warm telephone greeting instantly put the nervous client at ease.",
-    "malayalamMeaning": "അയാളുടെ ഊഷ്മളമായ പെരുമാറ്റം പരിഭ്രാന്തനായ ഇടപാടുകാരന് വലിയ ആശ്വാസമായി.",
+    "malayalamMeaning": "അയാളുടെ ഊഷ്മളമായ ഫോൺ അഭിവാദ്യം പരിഭ്രാന്തനായ ഇടപാടുകാരന് തൽക്ഷണം ആശ്വാസം നൽകി.",
     "usageExample": "Friendly tone.",
     "difficulty": "BEGINNER"
   },
@@ -1179,7 +1179,7 @@
     "word": "teleconference",
     "wordMeaning": "ഫോൺ സമ്മേളനം",
     "englishText": "The regional managers assembled for their monthly morning teleconference.",
-    "malayalamMeaning": "പ്രതിമാസ കോൺഫറൻസ് കോളിനായി റീജിയണൽ മാനേജർമാർ ഒത്തുകൂടി.",
+    "malayalamMeaning": "റീജിയണൽ മാനേജർമാർ അവരുടെ പ്രതിമാസ പ്രഭാത ഫോൺ സമ്മേളനത്തിനായി ഒത്തുകൂടി.",
     "usageExample": "Group call.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1187,7 +1187,7 @@
     "word": "notification",
     "wordMeaning": "അറിയിപ്പ്",
     "englishText": "Disable non-essential app notifications to avoid constant distractions during study.",
-    "malayalamMeaning": "പഠനത്തിൽ ശ്രദ്ധ കിട്ടാൻ അനാവശ്യ ആപ്പ് നോട്ടിഫിക്കേഷനുകൾ ഓഫാക്കുക.",
+    "malayalamMeaning": "പഠനസമയത്ത് നിരന്തരമായ ശ്രദ്ധാഭംഗം ഒഴിവാക്കാൻ അത്യാവശ്യമല്ലാത്ത ആപ്പ് അറിയിപ്പുകൾ ഓഫ് ചെയ്യുക.",
     "usageExample": "Screen alert.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1195,7 +1195,7 @@
     "word": "subscriber",
     "wordMeaning": "വരിക്കാരൻ",
     "englishText": "The cellular telecom operator reached fifty million active subscribers nationwide.",
-    "malayalamMeaning": "ആ ടെലികോം കമ്പനിക്ക് രാജ്യവ്യാപകമായി അഞ്ചുകോടി വരിക്കാരുണ്ട്.",
+    "malayalamMeaning": "ആ സെല്ലുലാർ ടെലികോം ഓപ്പറേറ്റർ രാജ്യവ്യാപകമായി അഞ്ചുകോടി സജീവ വരിക്കാരിലേക്ക് എത്തിച്ചേർന്നു.",
     "usageExample": "Paying customer.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1203,7 +1203,7 @@
     "word": "bandwidth",
     "wordMeaning": "ഡാറ്റാ ശേഷി",
     "englishText": "High-definition multi-party video conferencing consumes substantial bandwidth.",
-    "malayalamMeaning": "കൂടുതൽ ആളുകൾ പങ്കെടുക്കുന്ന ഹൈ-ക്വാളിറ്റി വീഡിയോ കോളിംഗിന് വലിയ തോതിൽ ഇന്റർനെറ്റ് ഡാറ്റ ആവശ്യമാണ്.",
+    "malayalamMeaning": "ഹൈ-ഡെഫനിഷൻ മൾട്ടി-പാർട്ടി വീഡിയോ കോൺഫറൻസിംഗ് വലിയ തോതിലുള്ള ഡാറ്റാ ശേഷി ഉപയോഗിക്കുന്നു.",
     "usageExample": "Data capacity.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1211,7 +1211,7 @@
     "word": "cellular",
     "wordMeaning": "മൊബൈൽ സംബന്ധമായ",
     "englishText": "The remote hill valley now enjoys reliable high-speed cellular coverage.",
-    "malayalamMeaning": "ഉൾനാടൻ മലയോര ഗ്രാമങ്ങളിലും ഇപ്പോൾ മികച്ച മൊബൈൽ റേഞ്ച് ലഭ്യമാണ്.",
+    "malayalamMeaning": "വിദൂരമായ ആ മലയോര താഴ്‌വരയിൽ ഇപ്പോൾ വിശ്വസനീയവും അതിവേഗവുമായ മൊബൈൽ കവറേജ് ലഭ്യമാണ്.",
     "usageExample": "Mobile wireless.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1219,7 +1219,7 @@
     "word": "telecom",
     "wordMeaning": "വാർത്താവിനിമയ മേഖല",
     "englishText": "The telecom regulatory authority mandated strict penalties for unsolicited spam calls.",
-    "malayalamMeaning": "ശല്യപ്പെടുത്തുന്ന സ്പാം കോളുകൾ തടയാൻ ടെലികോം അതോറിറ്റി കർശന പിഴ ഏർപ്പെടുത്തി.",
+    "malayalamMeaning": "ആവശ്യപ്പെടാത്ത സ്പാം കോളുകൾക്ക് വാർത്താവിനിമയ നിയന്ത്രണ അതോറിറ്റി കർശനമായ പിഴകൾ നിർബന്ധമാക്കി.",
     "usageExample": "Communications field.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1227,7 +1227,7 @@
     "word": "automated",
     "wordMeaning": "സ്വയംപ്രവർത്തിതമായ",
     "englishText": "An automated voice prompt guided the caller to select their preferred language.",
-    "malayalamMeaning": "ഇഷ്ടമുള്ള ഭാഷ തിരഞ്ഞെടുക്കാൻ കമ്പ്യൂട്ടർ നിർദ്ദേശം കോളറെ സഹായിച്ചു.",
+    "malayalamMeaning": "വിളിച്ചയാൾക്ക് താൻ ഇഷ്ടപ്പെടുന്ന ഭാഷ തിരഞ്ഞെടുക്കാൻ സ്വയംപ്രവർത്തിതമായ ഒരു ശബ്ദനിർദ്ദേശം വഴികാട്ടി.",
     "usageExample": "Machine handled.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1235,7 +1235,7 @@
     "word": "directory",
     "wordMeaning": "വിവരപ്പട്ടിക",
     "englishText": "Look up the government department extension number in the official telephone directory.",
-    "malayalamMeaning": "സർക്കാർ ഓഫീസിലെ ഫോൺ നമ്പർ ഡയറക്ടറിയിൽ നോക്കി കണ്ടുപിടിക്കുക.",
+    "malayalamMeaning": "ഔദ്യോഗിക ടെലിഫോൺ വിവരപ്പട്ടികയിൽ സർക്കാർ വകുപ്പിന്റെ എക്സ്റ്റൻഷൻ നമ്പർ തിരഞ്ഞുനോക്കൂ.",
     "usageExample": "Contact list.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1243,7 +1243,7 @@
     "word": "extension",
     "wordMeaning": "ഓഫീസ് ഉപലൈൻ",
     "englishText": "Dial extension four zero two to reach the customer grievance officer directly.",
-    "malayalamMeaning": "പരാതിപരിഹാര ഉദ്യോഗസ്ഥനെ നേരിട്ട് വിളിക്കാൻ എക്സ്റ്റൻഷൻ നമ്പർ 402 ഡയൽ ചെയ്യുക.",
+    "malayalamMeaning": "ഉപഭോക്തൃ പരാതിപരിഹാര ഉദ്യോഗസ്ഥനെ നേരിട്ട് ബന്ധപ്പെടാൻ 402 എന്ന ഓഫീസ് ഉപലൈൻ ഡയൽ ചെയ്യുക.",
     "usageExample": "Internal phone line.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1251,7 +1251,7 @@
     "word": "reception",
     "wordMeaning": "സിഗ്നൽ ലഭ്യത",
     "englishText": "Cellular reception is remarkably poor inside concrete underground basements.",
-    "malayalamMeaning": "കോൺക്രീറ്റ് ബേസ്‌മെന്റുകളിൽ സാധാരണയായി മൊബൈൽ റേഞ്ച് വളരെ കുറവായിരിക്കും.",
+    "malayalamMeaning": "ഭൂഗർഭ കോൺക്രീറ്റ് ബേസ്‌മെന്റുകൾക്കുള്ളിൽ മൊബൈൽ സിഗ്നൽ ലഭ്യത അതിശയകരമാംവിധം മോശമാണ്.",
     "usageExample": "Signal quality.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1259,7 +1259,7 @@
     "word": "static",
     "wordMeaning": "ഇരമ്പൽ ശബ്ദം",
     "englishText": "The landline connection crackled with loud electrical static during the thunderstorm.",
-    "malayalamMeaning": "ഇടിമിന്നലുണ്ടായപ്പോൾ ലാൻഡ്‌ലൈൻ ഫോണിൽ കഠിനമായ ഇരമ്പലും തടസ്സവും അനുഭവപ്പെട്ടു.",
+    "malayalamMeaning": "ഇടിമിന്നലുണ്ടായ സമയത്ത് ലാൻഡ്‌ലൈൻ കണക്ഷനിൽ ഉച്ചത്തിലുള്ള വൈദ്യുത ഇരമ്പൽ ശബ്ദം കേട്ടിരുന്നു.",
     "usageExample": "Audio noise.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1267,7 +1267,7 @@
     "word": "interference",
     "wordMeaning": "സിഗ്നൽ തടസ്സം",
     "englishText": "Heavy power transformers nearby caused electromagnetic interference on the radio link.",
-    "malayalamMeaning": "അടുത്തുള്ള വലിയ ട്രാൻസ്ഫോർമറുകൾ കാരണം നെറ്റ്‌വർക്ക് സിഗ്നലിൽ തടസ്സമുണ്ടായി.",
+    "malayalamMeaning": "സമീപത്തുള്ള വലിയ പവർ ട്രാൻസ്ഫോർമറുകൾ റേഡിയോ ലിങ്കിൽ വൈദ്യുതകാന്തിക സിഗ്നൽ തടസ്സത്തിന് കാരണമായി.",
     "usageExample": "Signal disturbance.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1275,7 +1275,7 @@
     "word": "distortion",
     "wordMeaning": "ശബ്ദവൈകൃതം",
     "englishText": "A faulty microphone cable caused unpleasant audio distortion on the conference call.",
-    "malayalamMeaning": "മൈക്കിന്റെ കേബിളിന് തകരാർ ഉണ്ടായിരുന്നതിനാൽ മീറ്റിംഗിൽ ശബ്ദം വികൃതമായി കേട്ടു.",
+    "malayalamMeaning": "തകരാറുള്ള ഒരു മൈക്രോഫോൺ കേബിൾ കോൺഫറൻസ് കോളിൽ അരോചകമായ ശബ്ദവൈകൃതത്തിന് കാരണമായി.",
     "usageExample": "Deformed sound.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1283,7 +1283,7 @@
     "word": "muffled",
     "wordMeaning": "അടഞ്ഞ ശബ്ദമുള്ള",
     "englishText": "His voice sounded muffled because his hand was accidentally covering the microphone.",
-    "malayalamMeaning": "മൈക്ക് കൈകൊണ്ട് പൊത്തിപ്പിടിച്ചതുകൊണ്ട് അയാളുടെ ശബ്ദം വ്യക്തമല്ലായിരുന്നു.",
+    "malayalamMeaning": "അയാളുടെ കൈ അറിയാതെ മൈക്രോഫോൺ മറച്ചിരുന്നതിനാൽ അയാളുടെ ശബ്ദം അടഞ്ഞതായി കേട്ടു.",
     "usageExample": "Dull/unclear sound.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1291,7 +1291,7 @@
     "word": "clarity",
     "wordMeaning": "വ്യക്തത",
     "englishText": "Modern VoLTE digital technology dramatically enhances vocal clarity on mobile networks.",
-    "malayalamMeaning": "ആധുനിക VoLTE സാങ്കേതികവിദ്യ മൊബൈൽ കോളുകളിൽ ശബ്ദ വ്യക്തത ഗണ്യമായി വർദ്ധിപ്പിക്കുന്നു.",
+    "malayalamMeaning": "ആധുനിക VoLTE ഡിജിറ്റൽ സാങ്കേതികവിദ്യ മൊബൈൽ നെറ്റ്‌വർക്കുകളിൽ ശബ്ദ വ്യക്തത ഗണ്യമായി വർദ്ധിപ്പിക്കുന്നു.",
     "usageExample": "Clearness of tone.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1299,7 +1299,7 @@
     "word": "break up",
     "wordMeaning": "ശബ്ദം മുറിയുക",
     "englishText": "Your voice is beginning to break up; please move towards an open window.",
-    "malayalamMeaning": "നിങ്ങളുടെ ശബ്ദം മുറിഞ്ഞു മുറിഞ്ഞാണ് കേൾക്കുന്നത്; ജനലിനടുത്തേക്ക് മാറി നിൽക്കാമോ?",
+    "malayalamMeaning": "നിങ്ങളുടെ ശബ്ദം മുറിയാൻ തുടങ്ങിയിരിക്കുന്നു; ദയവായി തുറന്ന ഒരു ജനലിനടുത്തേക്ക് മാറി നിൽക്കുക.",
     "usageExample": "Intermittent audio.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1307,7 +1307,7 @@
     "word": "cut off",
     "wordMeaning": "ബന്ധം വിച്ഛേദിക്കപ്പെടുക",
     "englishText": "Our call got cut off abruptly when the ferry passed behind the rocky headland.",
-    "malayalamMeaning": "ബോട്ട് പാറക്കൂട്ടങ്ങൾക്ക് പിന്നിലൂടെ പോയപ്പോൾ ഞങ്ങളുടെ കോൾ പെട്ടെന്ന് കട്ടായിപ്പോയി.",
+    "malayalamMeaning": "ഫെറി പാറക്കെട്ടുകൾ നിറഞ്ഞ മുനമ്പിന് പിന്നിലൂടെ കടന്നുപോയപ്പോൾ ഞങ്ങളുടെ കോൾ പെട്ടെന്ന് ബന്ധം വിച്ഛേദിക്കപ്പെട്ടു.",
     "usageExample": "Disconnected.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1315,7 +1315,7 @@
     "word": "transfer",
     "wordMeaning": "കോൾ കൈമാറുക",
     "englishText": "The front-desk receptionist will transfer your call to the billing department.",
-    "malayalamMeaning": "റിസപ്ഷനിസ്റ്റ് നിങ്ങളുടെ കോൾ ബില്ലിംഗ് വിഭാഗത്തിലേക്ക് ട്രാൻസ്ഫർ ചെയ്യും.",
+    "malayalamMeaning": "ഫ്രണ്ട്-ഡെസ്ക് റിസപ്ഷനിസ്റ്റ് നിങ്ങളുടെ കോൾ ബില്ലിംഗ് വിഭാഗത്തിലേക്ക് കൈമാറും.",
     "usageExample": "Pass on call.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1323,7 +1323,7 @@
     "word": "forward",
     "wordMeaning": "തിരിച്ചുവിടുക",
     "englishText": "Configure call forwarding to redirect calls to your mobile when away from your desk.",
-    "malayalamMeaning": "സീറ്റിൽ ഇല്ലാത്ത സമയത്ത് വരുന്ന കോളുകൾ മൊബൈലിലേക്ക് വരാൻ കോൾ ഫോർവേഡിംഗ് ഓപ്ഷൻ വെക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഡെസ്കിൽ ഇല്ലാത്ത സമയത്ത് കോളുകൾ മൊബൈലിലേക്ക് തിരിച്ചുവിടാൻ കോൾ ഫോർവേഡിംഗ് ക്രമീകരിക്കുക.",
     "usageExample": "Reroute call.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1331,7 +1331,7 @@
     "word": "dispatch",
     "wordMeaning": "അയക്കുക",
     "englishText": "The emergency services operator will dispatch an ambulance to your location immediately.",
-    "malayalamMeaning": "കൺട്രോൾ റൂമിൽ നിന്ന് നിങ്ങളുടെ അടുത്തേക്ക് ഉടൻതന്നെ ആംബുലൻസ് അയക്കുന്നതാണ്.",
+    "malayalamMeaning": "എമർജൻസി സർവീസ് ഓപ്പറേറ്റർ ഉടൻതന്നെ നിങ്ങളുടെ ലൊക്കേഷനിലേക്ക് ഒരു ആംബുലൻസ് അയക്കുന്നതാണ്.",
     "usageExample": "Send out.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1339,7 +1339,7 @@
     "word": "hands-free",
     "wordMeaning": "കൈ ഉപയോഗിക്കാതെയുള്ള",
     "englishText": "Using a hands-free Bluetooth car kit allows you to drive safely while taking calls.",
-    "malayalamMeaning": "ബ്ലൂടൂത്ത് ഉപയോഗിക്കുന്നത് ഡ്രൈവിംഗിനിടയിലും സുരക്ഷിതമായി സംസാരിക്കാൻ സഹായിക്കും.",
+    "malayalamMeaning": "കൈ ഉപയോഗിക്കാതെയുള്ള ബ്ലൂടൂത്ത് കാർ കിറ്റ് ഉപയോഗിക്കുന്നത് കോളുകൾ എടുത്തുകൊണ്ട് സുരക്ഷിതമായി വാഹനം ഓടിക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നു.",
     "usageExample": "Device without hands.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1347,7 +1347,7 @@
     "word": "loudspeaker",
     "wordMeaning": "ഉച്ചഭാഷിണി",
     "englishText": "Put the mobile phone on loudspeaker so everyone around the table can participate.",
-    "malayalamMeaning": "എല്ലാവർക്കും കേൾക്കാനായി ഫോൺ സ്പീക്കറിലിടുക.",
+    "malayalamMeaning": "മേശയ്ക്ക് ചുറ്റുമുള്ള എല്ലാവർക്കും പങ്കെടുക്കാനായി മൊബൈൽ ഫോൺ ഉച്ചഭാഷിണിയിലിടുക.",
     "usageExample": "Room speaker.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1355,7 +1355,7 @@
     "word": "caller ID",
     "wordMeaning": "കോളർ ഐഡി",
     "englishText": "Caller ID displayed the verified corporate name of the incoming courier company.",
-    "malayalamMeaning": "വിളിക്കുന്നത് കൊറിയർ കമ്പനിയാണെന്ന് ഫോൺ സ്ക്രീനിൽ വ്യക്തമായി കാണിച്ചിരുന്നു.",
+    "malayalamMeaning": "വിളിക്കുന്ന കൊറിയർ കമ്പനിയുടെ സ്ഥിരീകരിച്ച കോർപ്പറേറ്റ് പേര് കോളർ ഐഡി കാണിച്ചു.",
     "usageExample": "Number display.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1363,7 +1363,7 @@
     "word": "speed dial",
     "wordMeaning": "സ്പീഡ് ഡയൽ",
     "englishText": "Program emergency contact numbers like family and doctor into speed dial.",
-    "malayalamMeaning": "അടിയന്തര ഘട്ടങ്ങളിൽ വിളിക്കാൻ ഡോക്ടറുടെയും വീട്ടുകാരുടെയും നമ്പറുകൾ സ്പീഡ് ഡയലിൽ സേവ് ചെയ്യുക.",
+    "malayalamMeaning": "കുടുംബം, ഡോക്ടർ തുടങ്ങിയ അടിയന്തര കോൺടാക്റ്റ് നമ്പറുകൾ സ്പീഡ് ഡയലിൽ ക്രമീകരിക്കുക.",
     "usageExample": "Quick calling.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1371,7 +1371,7 @@
     "word": "telemarketer",
     "wordMeaning": "ഫോൺ വിപണനക്കാരൻ",
     "englishText": "Register your mobile number on the 'Do Not Disturb' registry to block telemarketers.",
-    "malayalamMeaning": "പരസ്യകോളുകൾ ഒഴിവാക്കാൻ ഡി.എൻ.ഡി (DND) സൗകര്യം പ്രയോജനപ്പെടുത്തുക.",
+    "malayalamMeaning": "ഫോൺ വിപണനക്കാരെ തടയുന്നതിനായി നിങ്ങളുടെ മൊബൈൽ നമ്പർ 'ഡു നോട്ട് ഡിസ്റ്റർബ്' രജിസ്ട്രിയിൽ രജിസ്റ്റർ ചെയ്യുക.",
     "usageExample": "Sales caller.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1379,7 +1379,7 @@
     "word": "phishing",
     "wordMeaning": "ഓൺലൈൻ തട്ടിപ്പ്",
     "englishText": "Never click on suspicious links sent via SMS text to avoid bank phishing traps.",
-    "malayalamMeaning": "ബാങ്ക് തട്ടിപ്പുകളിൽ പെടാതിരിക്കാൻ എസ്.എം.എസുകളിൽ വരുന്ന അജ്ഞാത ലിങ്കുകളിൽ ക്ലിക്ക് ചെയ്യരുത്.",
+    "malayalamMeaning": "ബാങ്ക് ഓൺലൈൻ തട്ടിപ്പ് കെണികൾ ഒഴിവാക്കാൻ എസ്.എം.എസ് സന്ദേശങ്ങൾ വഴി വരുന്ന സംശയാസ്പദമായ ലിങ്കുകളിൽ ഒരിക്കലും ക്ലിക്ക് ചെയ്യരുത്.",
     "usageExample": "Online scam.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1387,7 +1387,7 @@
     "word": "blacklist",
     "wordMeaning": "കരിമ്പട്ടിക",
     "englishText": "Add harassing and unknown robotic callers to your personal mobile blacklist.",
-    "malayalamMeaning": "ശല്യപ്പെടുത്തുന്ന നമ്പറുകൾ ഫോണിൽത്തന്നെ ബ്ലോക്ക് ലിസ്റ്റിൽ ചേർക്കുക.",
+    "malayalamMeaning": "ശല്യപ്പെടുത്തുന്നതും അജ്ഞാതവുമായ റോബോട്ടിക് കോളർമാരെ നിങ്ങളുടെ സ്വകാര്യ മൊബൈൽ കരിമ്പട്ടികയിൽ ചേർക്കുക.",
     "usageExample": "Blocked list.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1395,7 +1395,7 @@
     "word": "whitelist",
     "wordMeaning": "അനുവദിച്ച പട്ടിക",
     "englishText": "Configure your phone's 'Do Not Disturb' mode to whitelist calls from family.",
-    "malayalamMeaning": "ഡി.എൻ.ഡി മോഡിലാണെങ്കിലും വീട്ടുകാരുടെ കോളുകൾ മാത്രം വരാൻ ഫോൺ സെറ്റ് ചെയ്യുക.",
+    "malayalamMeaning": "കുടുംബാംഗങ്ങളിൽ നിന്നുള്ള കോളുകൾ അനുവദിച്ച പട്ടികയിൽ ഉൾപ്പെടുത്തുന്നതിനായി നിങ്ങളുടെ ഫോണിന്റെ 'ഡു നോട്ട് ഡിസ്റ്റർബ്' മോഡ് ക്രമീകരിക്കുക.",
     "usageExample": "Permitted list.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1403,7 +1403,7 @@
     "word": "verification",
     "wordMeaning": "സ്ഥിരീകരണം",
     "englishText": "Enter the one-time verification passcode to authenticate your online credit transaction.",
-    "malayalamMeaning": "ഓൺലൈൻ ഇടപാട് പൂർത്തിയാക്കാൻ മൊബൈലിൽ വന്ന ഒ.ടി.പി നൽകുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ഓൺലൈൻ ക്രെഡിറ്റ് ഇടപാട് പ്രാമാണീകരിക്കുന്നതിനായി ഒറ്റത്തവണ സ്ഥിരീകരണ പാസ്‌കോഡ് നൽകുക.",
     "usageExample": "Confirmation step.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1411,7 +1411,7 @@
     "word": "two-factor",
     "wordMeaning": "രണ്ടുഘട്ട സുരക്ഷയുള്ള",
     "englishText": "Enable two-factor authentication on all your email and financial mobile apps.",
-    "malayalamMeaning": "സുരക്ഷയ്ക്കായി ബാങ്കിംഗ് ആപ്പുകളിൽ ടു-ഫാക്ടർ ഓതന്റിക്കേഷൻ ഓൺ ചെയ്തു വെക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ എല്ലാ ഇമെയിൽ, സാമ്പത്തിക മൊബൈൽ ആപ്പുകളിലും രണ്ടുഘട്ട സുരക്ഷയുള്ള പ്രാമാണീകരണം സജീവമാക്കുക.",
     "usageExample": "Double security.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1419,7 +1419,7 @@
     "word": "authenticate",
     "wordMeaning": "ആധികാരികമാക്കുക",
     "englishText": "The banking application uses facial recognition to authenticate the account holder.",
-    "malayalamMeaning": "ഉപഭോക്താവിനെ തിരിച്ചറിയാൻ ബാങ്കിംഗ് ആപ്പിൽ ഫേസ് റെക്കഗ്നിഷൻ സംവിധാനം ഉപയോഗിക്കുന്നു.",
+    "malayalamMeaning": "അക്കൗണ്ട് ഉടമയുടെ വ്യക്തിത്വം ആധികാരികമാക്കുന്നതിന് ബാങ്കിംഗ് ആപ്ലിക്കേഷൻ മുഖം തിരിച്ചറിയൽ സംവിധാനം ഉപയോഗിക്കുന്നു.",
     "usageExample": "Verify identity.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1427,7 +1427,7 @@
     "word": "connectivity",
     "wordMeaning": "ശൃംഖലാ ബന്ധം",
     "englishText": "Rural connectivity projects laid fiber-optic cables to over a thousand village schools.",
-    "malayalamMeaning": "ഗ്രാമീണ വികസന പദ്ധതിയുടെ ഭാഗമായി ആയിരത്തിലധികം സ്കൂളുകളിൽ ഇന്റർനെറ്റ് കേബിളുകൾ എത്തിച്ചു.",
+    "malayalamMeaning": "ഗ്രാമീണ ശൃംഖലാ ബന്ധ പദ്ധതികൾ ആയിരത്തിലധികം ഗ്രാമീണ സ്കൂളുകളിലേക്ക് ഫൈബർ-ഒപ്റ്റിക് കേബിളുകൾ സ്ഥാപിച്ചു.",
     "usageExample": "Being connected.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1435,7 +1435,7 @@
     "word": "transmission",
     "wordMeaning": "സംപ്രേക്ഷണം",
     "englishText": "Satellite radio transmission ensures voice contact even in remote ocean waters.",
-    "malayalamMeaning": "നടുക്കടലിലും ആശയവിനിമയം നടത്താൻ സാറ്റലൈറ്റ് സംവിധാനം സഹായിക്കുന്നു.",
+    "malayalamMeaning": "സാറ്റലൈറ്റ് റേഡിയോ സംപ്രേക്ഷണം വിദൂര സമുദ്രമേഖലകളിൽ പോലും ശബ്ദബന്ധം ഉറപ്പാക്കുന്നു.",
     "usageExample": "Broadcasting data.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1443,7 +1443,7 @@
     "word": "satellite",
     "wordMeaning": "ഉപഗ്രഹം",
     "englishText": "The ship captain used a handheld satellite phone to report the cyclone coordinates.",
-    "malayalamMeaning": "ചുഴലിക്കാറ്റിന്റെ വിവരങ്ങൾ അറിയിക്കാൻ കപ്പലിലെ ക്യാപ്റ്റൻ സാറ്റലൈറ്റ് ഫോൺ ഉപയോഗിച്ചു.",
+    "malayalamMeaning": "ചുഴലിക്കാറ്റിന്റെ നിർദ്ദേശാങ്കങ്ങൾ അറിയിക്കാൻ കപ്പൽ ക്യാപ്റ്റൻ കൈയിൽ പിടിക്കാവുന്ന ഒരു ഉപഗ്രഹ ഫോൺ ഉപയോഗിച്ചു.",
     "usageExample": "Orbital communicator.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1451,7 +1451,7 @@
     "word": "coverage",
     "wordMeaning": "സിഗ്നൽ പരിധി",
     "englishText": "The telecom provider built fifty new microwave towers to expand rural 4G coverage.",
-    "malayalamMeaning": "ഗ്രാമങ്ങളിൽ 4G റേഞ്ച് ഉറപ്പാക്കാൻ ടെലികോം കമ്പനി അമ്പതോളം പുതിയ ടവറുകൾ നിർമ്മിച്ചു.",
+    "malayalamMeaning": "ഗ്രാമീണ 4G സിഗ്നൽ പരിധി വ്യാപിപ്പിക്കുന്നതിനായി ടെലികോം സേവനദാതാവ് അമ്പത് പുതിയ മൈക്രോവേവ് ടവറുകൾ നിർമ്മിച്ചു.",
     "usageExample": "Signal reach.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1459,7 +1459,7 @@
     "word": "broadband",
     "wordMeaning": "ബ്രോഡ്ബാൻഡ്",
     "englishText": "High-speed fiber broadband empowers professionals to work remotely from village homes.",
-    "malayalamMeaning": "വേഗതയേറിയ ഫൈബർ ഇന്റർനെറ്റ് ഉള്ളതിനാൽ നാട്ടിലിരുന്ന് ജോലി ചെയ്യാൻ സാധിക്കുന്നു.",
+    "malayalamMeaning": "അതിവേഗ ഫൈബർ ബ്രോഡ്ബാൻഡ് പ്രൊഫഷണലുകളെ ഗ്രാമങ്ങളിലെ വീടുകളിൽ ഇരുന്ന് വിദൂരമായി ജോലി ചെയ്യാൻ പ്രാപ്തരാക്കുന്നു.",
     "usageExample": "Fast internet.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1467,7 +1467,7 @@
     "word": "hotspot",
     "wordMeaning": "ഹോട്ട്സ്പോട്ട്",
     "englishText": "Turn on your smartphone's Wi-Fi hotspot to share your internet with your laptop.",
-    "malayalamMeaning": "ലാപ്‌ടോപ്പിൽ ഇന്റർനെറ്റ് ഉപയോഗിക്കാൻ മൊബൈലിലെ ഹോട്ട്‌സ്‌പോട്ട് ഓൺ ചെയ്യുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ലാപ്‌ടോപ്പുമായി ഇന്റർനെറ്റ് പങ്കിടാൻ നിങ്ങളുടെ സ്മാർട്ട്ഫോണിലെ Wi-Fi ഹോട്ട്‌സ്‌പോട്ട് ഓൺ ചെയ്യുക.",
     "usageExample": "Wireless hub.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1475,7 +1475,7 @@
     "word": "tethering",
     "wordMeaning": "ഇന്റർനെറ്റ് പങ്കിടൽ",
     "englishText": "USB tethering provides a stable, wired internet connection from your mobile phone.",
-    "malayalamMeaning": "യു.എസ്.ബി ടെതറിംഗ് വഴി ഫോണിലെ ഇന്റർനെറ്റ് കമ്പ്യൂട്ടറിലേക്ക് നേരിട്ട് കണക്ട് ചെയ്യാം.",
+    "malayalamMeaning": "യു.എസ്.ബി വഴിയുള്ള ഇന്റർനെറ്റ് പങ്കിടൽ നിങ്ങളുടെ മൊബൈൽ ഫോണിൽ നിന്ന് സ്ഥിരതയുള്ള, വയർഡ് ഇന്റർനെറ്റ് കണക്ഷൻ നൽകുന്നു.",
     "usageExample": "Sharing data wire.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1483,7 +1483,7 @@
     "word": "airplane mode",
     "wordMeaning": "വിമാന മോഡ്",
     "englishText": "Switch your smartphone to airplane mode before the aircraft begins its taxi run.",
-    "malayalamMeaning": "വിമാനം പറന്നുയരാൻ തയ്യാറെടുക്കുന്നതിന് മുൻപ് ഫോൺ എയർപ്ലെയിൻ മോഡിലാക്കുക.",
+    "malayalamMeaning": "വിമാനം റൺവേയിലേക്ക് നീങ്ങിത്തുടങ്ങുന്നതിന് മുൻപ് നിങ്ങളുടെ സ്മാർട്ട്ഫോൺ വിമാന മോഡിലേക്ക് മാറ്റുക.",
     "usageExample": "Flight mode.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1491,7 +1491,7 @@
     "word": "reboot",
     "wordMeaning": "പുനരാരംഭിക്കുക",
     "englishText": "A quick reboot of your Wi-Fi router often clears up minor connection glitches.",
-    "malayalamMeaning": "വൈഫൈ റൂട്ടർ ഒന്നുകൂടി ഓഫ് ചെയ്തു ഓണാക്കിയാൽ ചെറിയ നെറ്റ്‌വർക്ക് പ്രശ്നങ്ങൾ മാറും.",
+    "malayalamMeaning": "നിങ്ങളുടെ Wi-Fi റൂട്ടർ വേഗത്തിൽ പുനരാരംഭിക്കുന്നത് പലപ്പോഴും ചെറിയ കണക്ഷൻ തകരാറുകൾ പരിഹരിക്കുന്നു.",
     "usageExample": "Restart system.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1499,7 +1499,7 @@
     "word": "firmware",
     "wordMeaning": "ഉപകരണ സോഫ്റ്റ്‌വെയർ",
     "englishText": "Install the latest operating system firmware update to patch security flaws.",
-    "malayalamMeaning": "സുരക്ഷ ഉറപ്പാക്കാൻ ഫോണിന്റെ സോഫ്റ്റ്‌വെയർ അപ്ഡേറ്റ് യഥാസമയം ചെയ്യുക.",
+    "malayalamMeaning": "സുരക്ഷാ പിഴവുകൾ പരിഹരിക്കാൻ ഏറ്റവും പുതിയ ഓപ്പറേറ്റിംഗ് സിസ്റ്റം ഉപകരണ സോഫ്റ്റ്‌വെയർ അപ്ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുക.",
     "usageExample": "Device software.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1507,7 +1507,7 @@
     "word": "synchronization",
     "wordMeaning": "സമന്വയം",
     "englishText": "Cloud synchronization backs up your photos, contacts, and calendar automatically.",
-    "malayalamMeaning": "ക്ലൗഡ് ബാക്കപ്പ് വഴി ഫോട്ടോകളും ഫോൺ നമ്പറുകളും സുരക്ഷിതമായി സൂക്ഷിക്കാം.",
+    "malayalamMeaning": "ക്ലൗഡ് സമന്വയം നിങ്ങളുടെ ഫോട്ടോകളും കോൺടാക്റ്റുകളും കലണ്ടറും സ്വയം ബാക്കപ്പ് ചെയ്യുന്നു.",
     "usageExample": "Data syncing.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1515,7 +1515,7 @@
     "word": "storage",
     "wordMeaning": "സംഭരണം",
     "englishText": "Delete cached video files to free up internal phone storage for photos.",
-    "malayalamMeaning": "ഫോൺ മെമ്മറിയിൽ കൂടുതൽ സ്ഥലം കിട്ടാൻ ആവശ്യമില്ലാത്ത ഫയലുകൾ ഡിലീറ്റ് ചെയ്യുക.",
+    "malayalamMeaning": "ഫോട്ടോകൾക്കായി ഫോണിന്റെ ആന്തരിക സംഭരണശേഷി ഒഴിവാക്കാൻ കാഷ് ചെയ്ത വീഡിയോ ഫയലുകൾ ഇല്ലാതാക്കുക.",
     "usageExample": "Memory capacity.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1523,7 +1523,7 @@
     "word": "restore",
     "wordMeaning": "പുനഃസ്ഥാപിക്കുക",
     "englishText": "You can restore all your contacts and messages from the encrypted cloud backup.",
-    "malayalamMeaning": "ബാക്കപ്പിൽ നിന്ന് നിങ്ങളുടെ പഴയ ഫോൺ നമ്പറുകളും മെസ്സേജുകളും വീണ്ടെടുക്കാൻ കഴിയും.",
+    "malayalamMeaning": "എൻക്രിപ്റ്റ് ചെയ്ത ക്ലൗഡ് ബാക്കപ്പിൽ നിന്ന് നിങ്ങളുടെ എല്ലാ കോൺടാക്റ്റുകളും സന്ദേശങ്ങളും പുനഃസ്ഥാപിക്കാൻ കഴിയും.",
     "usageExample": "Bring back data.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1531,7 +1531,7 @@
     "word": "cordless",
     "wordMeaning": "കമ്പിയില്ലാത്ത",
     "englishText": "The office cordless landline phone allows receptionists to move freely around the hall.",
-    "malayalamMeaning": "വയർലെസ് ലാൻഡ്‌ലൈൻ ഫോൺ ഉള്ളതുകൊണ്ട് ഓഫീസിൽ നടന്നു സംസാരിക്കാൻ സാധിക്കുന്നു.",
+    "malayalamMeaning": "ഓഫീസിലെ കമ്പിയില്ലാത്ത ലാൻഡ്‌ലൈൻ ഫോൺ റിസപ്ഷനിസ്റ്റുകൾക്ക് ഹാളിൽ ഉടനീളം സ്വതന്ത്രമായി സഞ്ചരിക്കാൻ സൗകര്യമൊരുക്കുന്നു.",
     "usageExample": "Wireless handset.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1539,7 +1539,7 @@
     "word": "landline",
     "wordMeaning": "ലാൻഡ്ലൈൻ",
     "englishText": "Traditional copper wire landline telephones continue to operate even during power blackouts.",
-    "malayalamMeaning": "വൈദ്യുതി പോയാലും പ്രവർത്തിക്കുന്നവയാണ് പഴയ ചെമ്പുകമ്പി ലാൻഡ്‌ലൈൻ ഫോണുകൾ.",
+    "malayalamMeaning": "വൈദ്യുതി തടസ്സപ്പെടുമ്പോൾ പോലും പരമ്പരാഗത ചെമ്പുകമ്പി ലാൻഡ്‌ലൈൻ ഫോണുകൾ പ്രവർത്തിക്കുന്നത് തുടരുന്നു.",
     "usageExample": "Wired telephone.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1547,7 +1547,7 @@
     "word": "handset",
     "wordMeaning": "ഹാൻഡ്സെറ്റ്",
     "englishText": "Sanitize the plastic telephone handset periodically with an alcohol wipe.",
-    "malayalamMeaning": "ഓഫീസ് ഫോൺ ഇടയ്ക്കിടെ അണുനാശിനി ലായനി ഉപയോഗിച്ച് തുടച്ച് വൃത്തിയാക്കുക.",
+    "malayalamMeaning": "പ്ലാസ്റ്റിക് ടെലിഫോൺ ഹാൻഡ്സെറ്റ് ഇടയ്ക്കിടെ ആൽക്കഹോൾ വൈപ്പ് ഉപയോഗിച്ച് അണുവിമുക്തമാക്കുക.",
     "usageExample": "Phone body.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1555,7 +1555,7 @@
     "word": "telephonic",
     "wordMeaning": "ഫോൺ വഴിയുള്ള",
     "englishText": "The two prime ministers held a cordial telephonic discussion regarding border trade.",
-    "malayalamMeaning": "അതിർത്തി വ്യാപാരം സംബന്ധിച്ച് ഇരു പ്രധാനമന്ത്രിമാരും ഫോണിൽ സൗഹൃദ സംഭാഷണം നടത്തി.",
+    "malayalamMeaning": "അതിർത്തി വ്യാപാരത്തെക്കുറിച്ച് ഇരു പ്രധാനമന്ത്രിമാരും ഫോൺ വഴിയുള്ള സൗഹാർദ്ദപരമായ ചർച്ച നടത്തി.",
     "usageExample": "Relating to phone.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1563,7 +1563,7 @@
     "word": "etiquette",
     "wordMeaning": "മര്യാദകൾ",
     "englishText": "Professional telephone etiquette requires answering within three rings and identifying yourself.",
-    "malayalamMeaning": "ഓഫീസ് ഫോൺ മൂന്ന് ബെല്ലടിക്കുന്നതിന് മുൻപ് എടുത്ത് പേരുപറഞ്ഞ് സംസാരിക്കുന്നതാണ് ഔദ്യോഗിക മര്യാദ.",
+    "malayalamMeaning": "മൂന്ന് മണിയടികൾക്കുള്ളിൽ കോൾ എടുത്ത് സ്വയം പരിചയപ്പെടുത്തുന്നത് പ്രൊഫഷണൽ ടെലിഫോൺ മര്യാദകളുടെ ഭാഗമാണ്.",
     "usageExample": "Polite phone norms.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1571,7 +1571,7 @@
     "word": "interruption",
     "wordMeaning": "തടസ്സം",
     "englishText": "Apologize politely if you must interrupt someone during a group conference call.",
-    "malayalamMeaning": "മീറ്റിംഗിൽ സംസാരിക്കുന്നതിനിടയിൽ മറ്റൊരാളെ തടസ്സപ്പെടുത്തേണ്ടി വന്നാൽ ക്ഷമ ചോദിക്കുക.",
+    "malayalamMeaning": "ഒരു ഗ്രൂപ്പ് കോൺഫറൻസ് കോളിനിടയിൽ മറ്റൊരാൾക്ക് തടസ്സം സൃഷ്ടിക്കേണ്ടി വന്നാൽ മാന്യമായി ക്ഷമ ചോദിക്കുക.",
     "usageExample": "Breaking in.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1579,7 +1579,7 @@
     "word": "paraphrase",
     "wordMeaning": "ലളിതമായി മാറ്റിപ്പറയുക",
     "englishText": "Paraphrase the client's complex requirements to ensure mutual understanding.",
-    "malayalamMeaning": "ക്ലയന്റ് പറഞ്ഞ കാര്യങ്ങൾ ശരിയായി മനസ്സിലായെന്ന് ഉറപ്പുവരുത്താൻ അത് ചുരുക്കി പറഞ്ഞു കേൾപ്പിക്കുക.",
+    "malayalamMeaning": "പരസ്പര ധാരണ ഉറപ്പാക്കാൻ ക്ലയന്റിന്റെ സങ്കീർണ്ണമായ ആവശ്യകതകൾ ലളിതമായി മാറ്റിപ്പറയുക.",
     "usageExample": "Restate simply.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1587,7 +1587,7 @@
     "word": "clarify",
     "wordMeaning": "വ്യക്തമാക്കുക",
     "englishText": "Could you clarify the delivery date mentioned in your earlier email memo?",
-    "malayalamMeaning": "ഇമെയിലിൽ പറഞ്ഞ ഡെലിവറി തീയതി ഒന്ന് വ്യക്തമാക്കാമോ?",
+    "malayalamMeaning": "നിങ്ങളുടെ മുൻ ഇമെയിൽ മെമ്മോയിൽ പരാമർശിച്ച ഡെലിവറി തീയതി ഒന്ന് വ്യക്തമാക്കാമോ?",
     "usageExample": "Make clear.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1595,7 +1595,7 @@
     "word": "articulate",
     "wordMeaning": "വ്യക്തമായി ഉച്ചരിക്കുക",
     "englishText": "Speak slowly and articulate each word clearly when giving technical phone support.",
-    "malayalamMeaning": "സാങ്കേതിക സഹായം നൽകുമ്പോൾ സാവധാനത്തിലും വ്യക്തമായും സംസാരിക്കുക.",
+    "malayalamMeaning": "ഫോൺ വഴി സാങ്കേതിക സഹായം നൽകുമ്പോൾ സാവധാനം സംസാരിക്കുകയും ഓരോ വാക്കും വ്യക്തമായി ഉച്ചരിക്കുകയും ചെയ്യുക.",
     "usageExample": "Pronounce distinctly.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1603,7 +1603,7 @@
     "word": "audible",
     "wordMeaning": "കേൾക്കാവുന്ന",
     "englishText": "Your voice is barely audible; please check whether your headset microphone is muted.",
-    "malayalamMeaning": "നിങ്ങളുടെ ശബ്ദം തീരെ കേൾക്കുന്നില്ല; മൈക്ക് മ്യൂട്ടാണോ എന്ന് പരിശോധിക്കാമോ?",
+    "malayalamMeaning": "നിങ്ങളുടെ ശബ്ദം കഷ്ടിച്ച് മാത്രമേ കേൾക്കാനാകുന്നുള്ളൂ; നിങ്ങളുടെ ഹെഡ്സെറ്റ് മൈക്രോഫോൺ മ്യൂട്ട് ചെയ്തിട്ടുണ്ടോ എന്ന് ദയവായി പരിശോധിക്കുക.",
     "usageExample": "Can be heard.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1611,7 +1611,7 @@
     "word": "inaudible",
     "wordMeaning": "കേൾക്കാനാകാത്ത",
     "englishText": "The distant speaker's comments were completely inaudible to those on the conference call.",
-    "malayalamMeaning": "അകലെയിരുന്ന് സംസാരിച്ച ആളുടെ വാക്കുകൾ കോൾ മീറ്റിംഗിൽ ഉള്ളവർക്ക് ഒട്ടും കേൾക്കാൻ കഴിഞ്ഞില്ല.",
+    "malayalamMeaning": "കോൺഫറൻസ് കോളിലുള്ളവർക്ക് അകലെയുള്ള പ്രഭാഷകന്റെ അഭിപ്രായങ്ങൾ പൂർണ്ണമായും കേൾക്കാനാകാത്തതായിരുന്നു.",
     "usageExample": "Cannot be heard.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1619,7 +1619,7 @@
     "word": "confidentiality",
     "wordMeaning": "രഹസ്യാത്മകത",
     "englishText": "Lawyers must maintain strict client confidentiality during all telephone discussions.",
-    "malayalamMeaning": "ഫോൺ സംഭാഷണങ്ങളിൽ കക്ഷികളുടെ വിവരങ്ങളുടെ രഹസ്യസ്വഭാവം കാത്തുസൂക്ഷിക്കാൻ വക്കീലന്മാർ ബാധ്യസ്ഥരാണ്.",
+    "malayalamMeaning": "എല്ലാ ഫോൺ ചർച്ചകളിലും അഭിഭാഷകർ കക്ഷികളുടെ കർശനമായ രഹസ്യാത്മകത കാത്തുസൂക്ഷിക്കണം.",
     "usageExample": "Guarding secrets.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1627,7 +1627,7 @@
     "word": "eavesdrop",
     "wordMeaning": "ഒളിഞ്ഞു കേൾക്കുക",
     "englishText": "Never eavesdrop on someone else's private conversation in public transit.",
-    "malayalamMeaning": "യാത്രയ്ക്കിടയിൽ മറ്റുള്ളവരുടെ സ്വകാര്യ ഫോൺ സംഭാഷണങ്ങൾ ഒളിഞ്ഞു കേൾക്കരുത്.",
+    "malayalamMeaning": "പൊതുഗതാഗതത്തിൽ വെച്ച് മറ്റൊരാളുടെ സ്വകാര്യ സംഭാഷണം ഒരിക്കലും ഒളിഞ്ഞു കേൾക്കരുത്.",
     "usageExample": "Listening secretly.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1635,7 +1635,7 @@
     "word": "discretion",
     "wordMeaning": "വിവേകപൂർവ്വമായ ജാഗ്രത",
     "englishText": "Exercise professional discretion when discussing sensitive financial deals over the phone.",
-    "malayalamMeaning": "സാമ്പത്തിക ഇടപാടുകളെക്കുറിച്ച് ഫോണിൽ സംസാരിക്കുമ്പോൾ അതീവ ജാഗ്രത പുലർത്തുക.",
+    "malayalamMeaning": "സൂക്ഷ്മതയേറിയ സാമ്പത്തിക ഇടപാടുകൾ ഫോണിലൂടെ ചർച്ച ചെയ്യുമ്പോൾ ഔദ്യോഗികവും വിവേകപൂർവ്വവുമായ ജാഗ്രത പുലർത്തുക.",
     "usageExample": "Prudent secrecy.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1643,7 +1643,7 @@
     "word": "diplomacy",
     "wordMeaning": "നയചാതുര്യം",
     "englishText": "Handling angry callers requires remarkable emotional composure and tactful diplomacy.",
-    "malayalamMeaning": "ദേഷ്യപ്പെട്ട് വിളിക്കുന്നവരോട് സംസാരിക്കുമ്പോൾ നല്ല ക്ഷമയും പക്വതയും ആവശ്യമാണ്.",
+    "malayalamMeaning": "കോപാകുലരായി വിളിക്കുന്നവരെ കൈകാര്യം ചെയ്യുന്നതിന് അസാധാരണമായ വൈകാരിക സംയമനവും തന്ത്രപരമായ നയചാതുര്യവും ആവശ്യമാണ്.",
     "usageExample": "Tactful speech.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1651,7 +1651,7 @@
     "word": "reassurance",
     "wordMeaning": "ഉറപ്പുനൽകൽ",
     "englishText": "Her calm telephone demeanor provided reassuring comfort to the stranded passengers.",
-    "malayalamMeaning": "അവളുടെ ശാന്തമായ സംസാരം വഴിയിൽ കുടുങ്ങിയ യാത്രക്കാർക്ക് വലിയ ആശ്വാസമായി.",
+    "malayalamMeaning": "അവളുടെ ശാന്തമായ ഫോൺ പെരുമാറ്റം വഴിയിൽ കുടുങ്ങിയ യാത്രക്കാർക്ക് ഉറപ്പുനൽകുന്ന ആശ്വാസം പകർന്നു.",
     "usageExample": "Calming comfort.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1659,7 +1659,7 @@
     "word": "sympathetic",
     "wordMeaning": "സഹതാപമുള്ള",
     "englishText": "The customer support lead offered a sympathetic ear to the distressed customer.",
-    "malayalamMeaning": "കസ്റ്റമർ കെയർ പ്രതിനിധി വിഷമിച്ചുവിളിച്ച ഉപഭോക്താവിനെ സാന്ത്വനിപ്പിക്കുകയും കാര്യങ്ങൾ ക്ഷമയോടെ കേൾക്കുകയും ചെയ്തു.",
+    "malayalamMeaning": "വിഷമത്തിലായിരുന്ന ഉപഭോക്താവിന്റെ വാക്കുകൾ കസ്റ്റമർ സപ്പോർട്ട് മേധാവി സഹതാപമുള്ള മനസ്സോടെ കേട്ടു.",
     "usageExample": "Compassionate.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1667,7 +1667,7 @@
     "word": "concise",
     "wordMeaning": "സംക്ഷിപ്തമായ",
     "englishText": "Keep your status updates concise and focused strictly on deliverables during daily stand-ups.",
-    "malayalamMeaning": "ദിവസവുമുള്ള മീറ്റിംഗുകളിൽ കാര്യങ്ങൾ ചുരുക്കി വ്യക്തമായി അവതരിപ്പിക്കുക.",
+    "malayalamMeaning": "പ്രതിദിന സ്റ്റാൻഡ്-അപ്പ് മീറ്റിംഗുകളിൽ നിങ്ങളുടെ സ്റ്റാറ്റസ് അപ്ഡേറ്റുകൾ സംക്ഷിപ്തവും കൈമാറേണ്ട ഫലങ്ങളിൽ മാത്രം കേന്ദ്രീകരിച്ചതുമായി സൂക്ഷിക്കുക.",
     "usageExample": "Brief and clear.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1675,7 +1675,7 @@
     "word": "punctuality",
     "wordMeaning": "സമയനിഷ്ഠ",
     "englishText": "Punctuality in dialing into scheduled conference calls shows respect for peers' time.",
-    "malayalamMeaning": "നിശ്ചയിച്ച സമയത്തുതന്നെ മീറ്റിംഗ് കോളുകളിൽ ജോയിൻ ചെയ്യുന്നത് മറ്റുള്ളവരുടെ സമയത്തോടുള്ള ബഹുമാനമാണ്.",
+    "malayalamMeaning": "നിശ്ചയിച്ച കോൺഫറൻസ് കോളുകളിൽ വിളിച്ചുചേരുന്നതിലെ സമയനിഷ്ഠ സഹപ്രവർത്തകരുടെ സമയത്തോടുള്ള ബഹുമാനം കാണിക്കുന്നു.",
     "usageExample": "Being on time.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1683,7 +1683,7 @@
     "word": "transcription",
     "wordMeaning": "പകർത്തിയെഴുത്ത്",
     "englishText": "Speech-to-text software generated an accurate real-time transcription of the phone meeting.",
-    "malayalamMeaning": "ഫോൺ സംഭാഷണം അപ്പപ്പോൾത്തന്നെ എഴുതി തയ്യാറാക്കാൻ സ്പീച്ച്-ടു-ടെക്സ്റ്റ് സോഫ്റ്റ്‌വെയർ സഹായിച്ചു.",
+    "malayalamMeaning": "സ്പീച്ച്-ടു-ടെക്സ്റ്റ് സോഫ്റ്റ്‌വെയർ ഫോൺ മീറ്റിംഗിന്റെ കൃത്യമായ തത്സമയ പകർത്തിയെഴുത്ത് തയ്യാറാക്കി.",
     "usageExample": "Written speech.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1691,7 +1691,7 @@
     "word": "translation",
     "wordMeaning": "പരിഭാഷ",
     "englishText": "Real-time AI voice translation enables callers speaking different languages to converse smoothly.",
-    "malayalamMeaning": "തത്സമയ വിവർത്തന സംവിധാനം വ്യത്യസ്ത ഭാഷകൾ സംസാരിക്കുന്നവർക്ക് ഫോണിലൂടെ എളുപ്പത്തിൽ ആശയവിനിമയം നടത്താൻ സഹായിക്കുന്നു.",
+    "malayalamMeaning": "തത്സമയ AI ശബ്ദ പരിഭാഷ വ്യത്യസ്ത ഭാഷകൾ സംസാരിക്കുന്ന കോളർമാർക്ക് സുഗമമായി സംസാരിക്കാൻ സൗകര്യമൊരുക്കുന്നു.",
     "usageExample": "Language swap.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1699,7 +1699,7 @@
     "word": "multilingual",
     "wordMeaning": "പല ഭാഷകളറിയുന്ന",
     "englishText": "The global customer support center employs multilingual agents speaking twelve languages.",
-    "malayalamMeaning": "പന്ത്രണ്ടോളം ഭാഷകൾ കൈകാര്യം ചെയ്യാൻ അറിയാവുന്ന ജീവനക്കാരാണ് കസ്റ്റമർ കെയർ സെന്ററിലുള്ളത്.",
+    "malayalamMeaning": "ആഗോള കസ്റ്റമർ സപ്പോർട്ട് സെന്റർ പന്ത്രണ്ട് ഭാഷകൾ സംസാരിക്കുന്ന, പല ഭാഷകളറിയുന്ന ഏജന്റുമാരെ നിയമിക്കുന്നു.",
     "usageExample": "Multiple tongues.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1707,7 +1707,7 @@
     "word": "courteous",
     "wordMeaning": "മര്യാദയുള്ള",
     "englishText": "A courteous opening greeting sets an immediate positive tone for any customer call.",
-    "malayalamMeaning": "വിളിക്കുന്നവരോട് തുടക്കത്തിൽത്തന്നെ വിനയത്തോടെ സംസാരിക്കുന്നത് നല്ലൊരു മതിപ്പുണ്ടാക്കും.",
+    "malayalamMeaning": "മര്യാദയുള്ള ഒരു തുടക്ക അഭിവാദ്യം ഏതൊരു ഉപഭോക്തൃ കോളിനും ഉടനടി അനുകൂലമായ ഒരു അന്തരീക്ഷം സൃഷ്ടിക്കുന്നു.",
     "usageExample": "Polite and kind.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1715,7 +1715,7 @@
     "word": "responsive",
     "wordMeaning": "പ്രതികരിക്കുന്ന",
     "englishText": "Our IT emergency helpdesk is famously responsive, answering all calls within thirty seconds.",
-    "malayalamMeaning": "ഞങ്ങളുടെ ഐടി ഹെൽപ്പ്ഡെസ്ക് മുപ്പത് സെക്കൻഡിനുള്ളിൽ കോളുകൾക്ക് മറുപടി നൽകി മികച്ച സേവനം ഉറപ്പുവരുത്തുന്നു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഐ.ടി അടിയന്തര ഹെൽപ്പ്ഡെസ്ക് വേഗത്തിൽ പ്രതികരിക്കുന്ന കാര്യത്തിൽ പ്രശസ്തമാണ്, എല്ലാ കോളുകൾക്കും മുപ്പത് സെക്കൻഡിനുള്ളിൽ മറുപടി നൽകുന്നു.",
     "usageExample": "Quick to react.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1723,7 +1723,7 @@
     "word": "unattended",
     "wordMeaning": "ശ്രദ്ധിക്കപ്പെടാത്ത",
     "englishText": "Never leave your ringing desk phone unattended when you step out for tea.",
-    "malayalamMeaning": "ചായ കുടിക്കാൻ പോകുമ്പോൾ ഫോൺ നിർത്താതെ ബെല്ലടിക്കാൻ ഇടയാക്കരുത്.",
+    "malayalamMeaning": "ചായ കുടിക്കാൻ പുറത്തേക്ക് പോകുമ്പോൾ മണിയടിക്കുന്ന നിങ്ങളുടെ ഡെസ്ക് ഫോൺ ഒരിക്കലും ശ്രദ്ധിക്കപ്പെടാതെ വിട്ടുപോകരുത്.",
     "usageExample": "Unanswered.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1731,7 +1731,7 @@
     "word": "collaborative",
     "wordMeaning": "സഹകരിച്ചുള്ള",
     "englishText": "Conference calling tools foster productive collaborative brainstorming among remote teams.",
-    "malayalamMeaning": "ഗ്രൂപ്പ് കോളുകൾ സഹപ്രവർത്തകർ തമ്മിലുള്ള പുതിയ ആശയരൂപീകരണത്തിന് ഏറെ സഹായകമാണ്.",
+    "malayalamMeaning": "വിദൂര ടീമുകൾക്കിടയിൽ ഫലപ്രദവും സഹകരിച്ചുള്ളതുമായ ആശയരൂപീകരണം വളർത്താൻ കോൺഫറൻസ് കോളിംഗ് ഉപകരണങ്ങൾ സഹായിക്കുന്നു.",
     "usageExample": "Working together.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1739,7 +1739,7 @@
     "word": "virtual",
     "wordMeaning": "ഓൺലൈൻ വഴിയുള്ള",
     "englishText": "The international team gathered for a virtual coffee meetup to celebrate project launch.",
-    "malayalamMeaning": "പ്രൊജക്റ്റ് വിജയകരമായി പൂർത്തിയായത് ആഘോഷിക്കാൻ എല്ലാവരും ഓൺലൈൻ മീറ്റിംഗിൽ ഒത്തുകൂടി.",
+    "malayalamMeaning": "പ്രൊജക്റ്റ് ലോഞ്ച് ആഘോഷിക്കാനായി അന്താരാഷ്ട്ര ടീം ഓൺലൈൻ വഴിയുള്ള ഒരു കോഫി സംഗമത്തിനായി ഒത്തുകൂടി.",
     "usageExample": "Online computer-based.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1747,7 +1747,7 @@
     "word": "webinar",
     "wordMeaning": "ഓൺലൈൻ സെമിനാർ",
     "englishText": "Over three hundred engineers dialed in to participate in the interactive software webinar.",
-    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ വെബിനാറിൽ പങ്കെടുക്കാൻ മുന്നൂറിലധികം എൻജിനീയർമാർ ഓൺലൈനായി എത്തി.",
+    "malayalamMeaning": "സംവേദനാത്മകമായ ആ സോഫ്റ്റ്‌വെയർ ഓൺലൈൻ സെമിനാറിൽ പങ്കെടുക്കാൻ മുന്നൂറിലധികം എൻജിനീയർമാർ ഡയൽ ചെയ്തു ചേർന്നു.",
     "usageExample": "Online seminar.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1755,7 +1755,7 @@
     "word": "moderator",
     "wordMeaning": "ചർച്ചാ നിയന്താവ്",
     "englishText": "The conference call moderator politely muted background audio lines to eliminate static.",
-    "malayalamMeaning": "ബഹളം ഒഴിവാക്കാനായി മോഡറേറ്റർ മറ്റുള്ളവരുടെ മൈക്കുകൾ മ്യൂട്ട് ചെയ്തു.",
+    "malayalamMeaning": "ഇരമ്പൽ ശബ്ദം ഒഴിവാക്കുന്നതിനായി കോൺഫറൻസ് കോൾ ചർച്ചാ നിയന്താവ് പശ്ചാത്തല ഓഡിയോ ലൈനുകൾ മാന്യമായി മ്യൂട്ട് ചെയ്തു.",
     "usageExample": "Meeting chair.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1763,7 +1763,7 @@
     "word": "facilitate",
     "wordMeaning": "സുഗമമാക്കുക",
     "englishText": "A structured meeting agenda helps facilitate fruitful, unhurried telephonic discussions.",
-    "malayalamMeaning": "കൃത്യമായ അജണ്ടയുള്ളത് ചർച്ചകൾ കാര്യക്ഷമമായി നടത്താൻ സഹായിക്കും.",
+    "malayalamMeaning": "ചിട്ടയായ ഒരു മീറ്റിംഗ് അജണ്ട ഫലപ്രദവും തിടുക്കമില്ലാത്തതുമായ ഫോൺ ചർച്ചകൾ സുഗമമാക്കാൻ സഹായിക്കുന്നു.",
     "usageExample": "Make easier.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1771,7 +1771,7 @@
     "word": "consensus",
     "wordMeaning": "സമവായം",
     "englishText": "After discussing alternatives on the call, the board reached an amicable consensus.",
-    "malayalamMeaning": "ഫോൺ ചർച്ചകൾക്ക് ഒടുവിൽ ഭരണസമിതി സൗഹാർദ്ദപരമായ ഒരു തീരുമാനത്തിലെത്തി.",
+    "malayalamMeaning": "കോളിൽ ബദൽ മാർഗ്ഗങ്ങൾ ചർച്ച ചെയ്തതിനു ശേഷം ഭരണസമിതി സൗഹാർദ്ദപരമായ ഒരു സമവായത്തിലെത്തി.",
     "usageExample": "General agreement.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1779,7 +1779,7 @@
     "word": "clarification",
     "wordMeaning": "വ്യക്തീകരണം",
     "englishText": "I called to seek clarification regarding paragraph four of the employment contract.",
-    "malayalamMeaning": "തൊഴിൽക്കരാറിലെ ചില വ്യവസ്ഥകളെക്കുറിച്ച് വ്യക്തത തേടാനാണ് ഞാൻ വിളിച്ചത്.",
+    "malayalamMeaning": "തൊഴിൽക്കരാറിലെ നാലാം ഖണ്ഡികയെക്കുറിച്ച് വ്യക്തീകരണം തേടാനാണ് ഞാൻ വിളിച്ചത്.",
     "usageExample": "Clearing doubt.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1787,7 +1787,7 @@
     "word": "reconciliation",
     "wordMeaning": "അനുരഞ്ജനം",
     "englishText": "A sincere telephone conversation led to a joyful reconciliation between old comrades.",
-    "malayalamMeaning": "ആത്മാർത്ഥമായ ഒരു ഫോൺ കോൾ പഴയ സുഹൃത്തുക്കൾ തമ്മിലുള്ള പിണക്കം മാറ്റി അവരെ ഒന്നിപ്പിച്ചു.",
+    "malayalamMeaning": "ആത്മാർത്ഥമായ ഒരു ഫോൺ സംഭാഷണം പഴയ സഹപ്രവർത്തകർ തമ്മിലുള്ള സന്തോഷകരമായ അനുരഞ്ജനത്തിന് വഴിയൊരുക്കി.",
     "usageExample": "Restoring friendship.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1795,7 +1795,7 @@
     "word": "cordiality",
     "wordMeaning": "ഹൃദ്യത",
     "englishText": "The two corporate executives concluded their phone discussion in an atmosphere of cordiality.",
-    "malayalamMeaning": "ഇരു കമ്പനി മേധാവികളും സൗഹാർദ്ദപരമായ അന്തരീക്ഷത്തിലാണ് ഫോൺ സംഭാഷണം പൂർത്തിയാക്കിയത്.",
+    "malayalamMeaning": "ഇരു കോർപ്പറേറ്റ് എക്സിക്യൂട്ടീവുകളും ഹൃദ്യതയുടെ അന്തരീക്ഷത്തിലാണ് തങ്ങളുടെ ഫോൺ ചർച്ച അവസാനിപ്പിച്ചത്.",
     "usageExample": "Warm civility.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1803,7 +1803,7 @@
     "word": "camaraderie",
     "wordMeaning": "സൗഹൃദം",
     "englishText": "Weekly casual catch-up calls sustained team camaraderie during remote work periods.",
-    "malayalamMeaning": "വീട്ടിലിരുന്ന് ജോലി ചെയ്ത സമയത്തും ആഴ്ചതോറുമുള്ള ഫോൺ കോളുകൾ സഹപ്രവർത്തകർ തമ്മിലുള്ള ബന്ധം ദൃഢമാക്കി.",
+    "malayalamMeaning": "വിദൂര ജോലി കാലയളവിൽ ആഴ്ചതോറുമുള്ള അനൗപചാരിക ഫോൺ സംഭാഷണങ്ങൾ ടീമിലെ സൗഹൃദം നിലനിർത്തി.",
     "usageExample": "Friendly fellowship.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1811,7 +1811,7 @@
     "word": "unobtrusive",
     "wordMeaning": "ശല്യപ്പെടുത്താത്ത",
     "englishText": "Set your smartphone ringtone to an unobtrusive gentle chime in shared office halls.",
-    "malayalamMeaning": "ഓഫീസിലിരിക്കുമ്പോൾ മറ്റുള്ളവർക്ക് ബുദ്ധിമുട്ടുണ്ടാക്കാത്ത രീതിയിൽ റിംഗ് ടോൺ വെക്കുക.",
+    "malayalamMeaning": "പൊതുവായ ഓഫീസ് ഹാളുകളിൽ നിങ്ങളുടെ സ്മാർട്ട്ഫോൺ റിംഗ്ടോൺ ശല്യപ്പെടുത്താത്ത മൃദുവായ ഒരു നാദമായി ക്രമീകരിക്കുക.",
     "usageExample": "Not attracting notice.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1819,7 +1819,7 @@
     "word": "discreet",
     "wordMeaning": "വിവേകപൂർണ്ണമായ",
     "englishText": "She stepped into the balcony to make a discreet phone call regarding her job offer.",
-    "malayalamMeaning": "പുതിയ ജോലിയുടെ കാര്യം മറ്റുള്ളവർ അറിയാതെ സംസാരിക്കാൻ അവൾ ബാൽക്കണിയിലേക്ക് മാറിനിന്നു.",
+    "malayalamMeaning": "തന്റെ ജോലി വാഗ്ദാനത്തെക്കുറിച്ച് വിവേകപൂർണ്ണമായ ഒരു ഫോൺ കോൾ ചെയ്യാൻ അവൾ ബാൽക്കണിയിലേക്ക് ഇറങ്ങി.",
     "usageExample": "Guarding privacy.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1827,7 +1827,7 @@
     "word": "persuasive",
     "wordMeaning": "ബോധ്യപ്പെടുത്തുന്ന",
     "englishText": "His persuasive tone during the client pitch secured the multi-crore software deal.",
-    "malayalamMeaning": "ക്ലയന്റുമായി സംസാരിച്ചപ്പോൾ അയാളുടെ ആകർഷകമായ സംസാരരീതി ആ വലിയ സോഫ്റ്റ്‌വെയർ കരാർ നേടിക്കൊടുത്തു.",
+    "malayalamMeaning": "ക്ലയന്റ് അവതരണത്തിനിടയിലെ അയാളുടെ ബോധ്യപ്പെടുത്തുന്ന സ്വരം ആ കോടിക്കണക്കിന് രൂപയുടെ സോഫ്റ്റ്‌വെയർ കരാർ നേടിക്കൊടുത്തു.",
     "usageExample": "Convincing.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1835,7 +1835,7 @@
     "word": "eloquent",
     "wordMeaning": "വാചാലമായ",
     "englishText": "She gave an eloquent summary of our company's charitable initiatives over the phone.",
-    "malayalamMeaning": "കമ്പനിയുടെ ജീവകാരുണ്യ പ്രവർത്തനങ്ങളെക്കുറിച്ച് അവൾ ഫോണിലൂടെ മനോഹരമായി സംസാരിച്ചു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കമ്പനിയുടെ ജീവകാരുണ്യ സംരംഭങ്ങളെക്കുറിച്ച് അവൾ ഫോണിലൂടെ വാചാലമായ ഒരു സംഗ്രഹം അവതരിപ്പിച്ചു.",
     "usageExample": "Fluently graceful.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1843,7 +1843,7 @@
     "word": "articulation",
     "wordMeaning": "ഉച്ചാരണം",
     "englishText": "Clear vocal articulation ensures that your message is transmitted without ambiguity.",
-    "malayalamMeaning": "വാക്കുകൾ വ്യക്തമായി ഉച്ചരിച്ചാൽ പറയുന്ന കാര്യം മറുഭാഗത്തുള്ള ആൾക്ക് സംശയമില്ലാതെ മനസ്സിലാകും.",
+    "malayalamMeaning": "വ്യക്തമായ ശബ്ദോച്ചാരണം നിങ്ങളുടെ സന്ദേശം സംശയരഹിതമായി കൈമാറപ്പെടുന്നുവെന്ന് ഉറപ്പാക്കുന്നു.",
     "usageExample": "Distinct speech.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1851,7 +1851,7 @@
     "word": "succinct",
     "wordMeaning": "സംക്ഷിപ്തമായ",
     "englishText": "Deliver a succinct thirty-second elevator pitch explaining your startup's core value.",
-    "malayalamMeaning": "സ്റ്റാർട്ടപ്പിന്റെ ലക്ഷ്യങ്ങൾ അരമിനിറ്റിൽ വളരെ വ്യക്തമായി ചുരുക്കിപ്പറയുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ സ്റ്റാർട്ടപ്പിന്റെ കാതലായ മൂല്യം വിശദീകരിക്കുന്ന സംക്ഷിപ്തമായ ഒരു മുപ്പത് സെക്കൻഡ് എലിവേറ്റർ പിച്ച് അവതരിപ്പിക്കുക.",
     "usageExample": "Briefly to point.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1859,7 +1859,7 @@
     "word": "proactive",
     "wordMeaning": "മുൻകൈയെടുക്കുന്ന",
     "englishText": "Our customer relationship team made proactive calls to check on client satisfaction.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ അഭിപ്രായങ്ങൾ നേരിട്ടറിയാൻ ഞങ്ങളുടെ ടീം അവരെ വിളിച്ച് അന്വേഷിച്ചു.",
+    "malayalamMeaning": "ഉപഭോക്തൃ സംതൃപ്തി പരിശോധിക്കാൻ ഞങ്ങളുടെ കസ്റ്റമർ റിലേഷൻഷിപ്പ് ടീം മുൻകൈയെടുത്ത് കോളുകൾ ചെയ്തു.",
     "usageExample": "Acting in advance.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1867,7 +1867,7 @@
     "word": "unambiguous",
     "wordMeaning": "സംശയരഹിതമായ",
     "englishText": "State your availability in plain, unambiguous terms when scheduling calendar calls.",
-    "malayalamMeaning": "മീറ്റിംഗുകൾ നിശ്ചയിക്കുമ്പോൾ നിങ്ങൾക്ക് സൗകര്യപ്രദമായ സമയം കൃത്യമായി പറയുക.",
+    "malayalamMeaning": "കലണ്ടർ കോളുകൾ നിശ്ചയിക്കുമ്പോൾ നിങ്ങളുടെ ലഭ്യത ലളിതവും സംശയരഹിതവുമായ വാക്കുകളിൽ വ്യക്തമാക്കുക.",
     "usageExample": "Completely clear.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1875,7 +1875,7 @@
     "word": "professionalism",
     "wordMeaning": "ഔദ്യോഗിക മര്യാദ",
     "englishText": "Her calm professionalism defused an irate customer's anger during the support call.",
-    "malayalamMeaning": "അവളുടെ ശാന്തമായ പെരുമാറ്റം ദേഷ്യപ്പെട്ടു വിളിച്ച ഉപഭോക്താവിനെ തണുപ്പിച്ചു.",
+    "malayalamMeaning": "സപ്പോർട്ട് കോളിനിടയിലെ അവളുടെ ശാന്തമായ ഔദ്യോഗിക മര്യാദ കോപാകുലനായ ഒരു ഉപഭോക്താവിന്റെ ദേഷ്യം ശമിപ്പിച്ചു.",
     "usageExample": "Workplace decorum.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1883,7 +1883,7 @@
     "word": "integrity",
     "wordMeaning": "സത്യസന്ധത",
     "englishText": "Upholding verbal integrity means honoring promises made during telephone discussions.",
-    "malayalamMeaning": "ഫോൺ സംഭാഷണത്തിൽ നൽകിയ വാഗ്ദാനങ്ങൾ പാലിക്കുന്നത് വ്യക്തിത്വത്തിന്റെ തെളിവാണ്.",
+    "malayalamMeaning": "വാക്കിലെ സത്യസന്ധത ഉയർത്തിപ്പിടിക്കുക എന്നതിനർത്ഥം ഫോൺ ചർച്ചകളിൽ നൽകിയ വാഗ്ദാനങ്ങൾ പാലിക്കുക എന്നതാണ്.",
     "usageExample": "Honesty.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1891,7 +1891,7 @@
     "word": "confidant",
     "wordMeaning": "വിശ്വസ്തൻ",
     "englishText": "He called his closest confidant to share the confidential news of his promotion.",
-    "malayalamMeaning": "തനിക്ക് സ്ഥാനക്കയറ്റം ലഭിച്ച സന്തോഷവാർത്ത പങ്കുവെക്കാൻ അയാൾ ഉറ്റസുഹൃത്തിനെ വിളിച്ചു.",
+    "malayalamMeaning": "തന്റെ സ്ഥാനക്കയറ്റത്തെക്കുറിച്ചുള്ള രഹസ്യ വാർത്ത പങ്കുവെക്കാൻ അയാൾ തന്റെ ഏറ്റവും അടുത്ത വിശ്വസ്തനെ വിളിച്ചു.",
     "usageExample": "Trusted friend.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1899,7 +1899,7 @@
     "word": "telecommunication",
     "wordMeaning": "വാർത്താവിനിമയം",
     "englishText": "Global telecommunication networks form the digital circulatory system of commerce.",
-    "malayalamMeaning": "ആഗോള വാർത്താവിനിമയ ശൃംഖലകൾ ആധുനിക വ്യാപാരരംഗത്തിന്റെ നട്ടെല്ലാണ്.",
+    "malayalamMeaning": "ആഗോള വാർത്താവിനിമയ ശൃംഖലകൾ വ്യാപാരത്തിന്റെ ഡിജിറ്റൽ രക്തചംക്രമണ വ്യവസ്ഥ രൂപീകരിക്കുന്നു.",
     "usageExample": "Telecom systems.",
     "difficulty": "ADVANCED"
   },
@@ -1907,7 +1907,7 @@
     "word": "asynchronous",
     "wordMeaning": "തത്സമയമല്ലാത്ത",
     "englishText": "Email and text messaging provide asynchronous communication that respects personal focus.",
-    "malayalamMeaning": "ഇമെയിലും മെസ്സേജുകളും അയക്കുമ്പോൾ മറുഭാഗത്തുള്ള ആൾക്ക് സൗകര്യപ്രദമായ സമയത്ത് മറുപടി നൽകാൻ സാധിക്കുന്നു.",
+    "malayalamMeaning": "ഇമെയിലും ടെക്സ്റ്റ് സന്ദേശങ്ങളും വ്യക്തിപരമായ ഏകാഗ്രതയെ മാനിക്കുന്ന തത്സമയമല്ലാത്ത ആശയവിനിമയം നൽകുന്നു.",
     "usageExample": "Not in real time.",
     "difficulty": "ADVANCED"
   },
@@ -1915,7 +1915,7 @@
     "word": "synchronous",
     "wordMeaning": "ഒരേസമയത്തുള്ള",
     "englishText": "Real-time phone calls are synchronous interactions requiring immediate mutual presence.",
-    "malayalamMeaning": "തത്സമയ ഫോൺ കോളുകളിൽ ഇരുവർക്കും ഒരേസമയം സംസാരിക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "തത്സമയ ഫോൺ കോളുകൾ ഉടനടിയുള്ള പരസ്പര സാന്നിധ്യം ആവശ്യമുള്ള ഒരേസമയത്തുള്ള സംവേദനങ്ങളാണ്.",
     "usageExample": "Simultaneous in time.",
     "difficulty": "ADVANCED"
   },
@@ -1923,7 +1923,7 @@
     "word": "telephony",
     "wordMeaning": "ടെലിഫോൺ സാങ്കേതികവിദ്യ",
     "englishText": "Modern cloud telephony systems integrate seamlessly with customer relationship databases.",
-    "malayalamMeaning": "ആധുനിക ക്ലൗഡ് ടെലിഫോണി സംവിധാനങ്ങൾ കസ്റ്റമർ ഡാറ്റാബേസുകളുമായി എളുപ്പത്തിൽ ബന്ധിപ്പിക്കാം.",
+    "malayalamMeaning": "ആധുനിക ക്ലൗഡ് ടെലിഫോൺ സാങ്കേതികവിദ്യാ സംവിധാനങ്ങൾ കസ്റ്റമർ റിലേഷൻഷിപ്പ് ഡാറ്റാബേസുകളുമായി തടസ്സമില്ലാതെ സംയോജിക്കുന്നു.",
     "usageExample": "Telephone science.",
     "difficulty": "ADVANCED"
   },
@@ -1931,7 +1931,7 @@
     "word": "encryption",
     "wordMeaning": "രഹസ്യകോഡാക്കൽ",
     "englishText": "End-to-end cryptographic encryption guarantees that your private calls cannot be tapped.",
-    "malayalamMeaning": "എൻഡ്-ടു-എൻഡ് എൻക്രിപ്ഷൻ ഉള്ളതുകൊണ്ട് ഫോൺ കോളുകൾ ആർക്കും ചോർത്താൻ സാധിക്കില്ല.",
+    "malayalamMeaning": "എൻഡ്-ടു-എൻഡ് ക്രിപ്റ്റോഗ്രാഫിക് രഹസ്യകോഡാക്കൽ നിങ്ങളുടെ സ്വകാര്യ കോളുകൾ ചോർത്താൻ കഴിയില്ലെന്ന് ഉറപ്പുനൽകുന്നു.",
     "usageExample": "Coded secrecy.",
     "difficulty": "ADVANCED"
   },
@@ -1939,7 +1939,7 @@
     "word": "authentication",
     "wordMeaning": "പ്രാമാണീകരണം",
     "englishText": "Multi-factor cryptographic authentication protects user accounts against unauthorized access.",
-    "malayalamMeaning": "മൾട്ടി-ഫാക്ടർ ഓതന്റിക്കേഷൻ ഉപയോക്തൃ അക്കൗണ്ടുകൾക്ക് കൂടുതൽ സുരക്ഷ നൽകുന്നു.",
+    "malayalamMeaning": "മൾട്ടി-ഫാക്ടർ ക്രിപ്റ്റോഗ്രാഫിക് പ്രാമാണീകരണം അനധികൃത പ്രവേശനത്തിൽ നിന്ന് ഉപയോക്തൃ അക്കൗണ്ടുകളെ സംരക്ഷിക്കുന്നു.",
     "usageExample": "Proving identity.",
     "difficulty": "ADVANCED"
   },
@@ -1947,7 +1947,7 @@
     "word": "latency",
     "wordMeaning": "സമയതാമസം",
     "englishText": "Ultra-low network latency is indispensable for real-time surgical robotics and gaming.",
-    "malayalamMeaning": "റോബോട്ടിക് ശസ്ത്രക്രിയകൾക്കും ഓൺലൈൻ ഗെയിമിംഗിനും അതിവേഗ നെറ്റ്‌വർക്ക് ലേറ്റൻസി അനിവാര്യമാണ്.",
+    "malayalamMeaning": "തത്സമയ സർജിക്കൽ റോബോട്ടിക്സിനും ഗെയിമിംഗിനും അതികുറഞ്ഞ നെറ്റ്‌വർക്ക് സമയതാമസം അനിവാര്യമാണ്.",
     "usageExample": "Delay gap.",
     "difficulty": "ADVANCED"
   },
@@ -1955,7 +1955,7 @@
     "word": "electromagnetic",
     "wordMeaning": "വൈദ്യുതകാന്തിക",
     "englishText": "Cellular mobile signals travel via high-frequency electromagnetic radio waves.",
-    "malayalamMeaning": "ഉയർന്ന ഫ്രീക്വൻസിയുള്ള റേഡിയോ തരംഗങ്ങളിലൂടെയാണ് മൊബൈൽ സിഗ്നലുകൾ സഞ്ചരിക്കുന്നത്.",
+    "malayalamMeaning": "സെല്ലുലാർ മൊബൈൽ സിഗ്നലുകൾ ഉയർന്ന ആവൃത്തിയുള്ള വൈദ്യുതകാന്തിക റേഡിയോ തരംഗങ്ങളിലൂടെയാണ് സഞ്ചരിക്കുന്നത്.",
     "usageExample": "Wave physics.",
     "difficulty": "ADVANCED"
   },
@@ -1963,7 +1963,7 @@
     "word": "frequency",
     "wordMeaning": "ആവൃത്തി",
     "englishText": "The government auctioned valuable radio frequency spectrum bands for 5G deployment.",
-    "malayalamMeaning": "5G സേവനങ്ങൾ ലഭ്യമാക്കുന്നതിനായി സർക്കാർ സ്പെക്ട്രം ബാൻഡുകൾ ലേലം ചെയ്തു.",
+    "malayalamMeaning": "5G വിന്യാസത്തിനായി സർക്കാർ വിലയേറിയ റേഡിയോ ആവൃത്തി സ്പെക്ട്രം ബാൻഡുകൾ ലേലം ചെയ്തു.",
     "usageExample": "Wave cycle rate.",
     "difficulty": "ADVANCED"
   },
@@ -1971,7 +1971,7 @@
     "word": "spectrum",
     "wordMeaning": "തരംഗപരിധി",
     "englishText": "Allocating wireless radio spectrum fairly balances commercial needs and public safety.",
-    "malayalamMeaning": "റേഡിയോ സ്പെക്ട്രം കൃത്യമായി വിതരണം ചെയ്യുന്നത് വാണിജ്യ ആവശ്യങ്ങൾക്കും സുരക്ഷയ്ക്കും ഒരുപോലെ പ്രധാനമാണ്.",
+    "malayalamMeaning": "വയർലെസ് റേഡിയോ തരംഗപരിധി ന്യായമായി വിതരണം ചെയ്യുന്നത് വാണിജ്യ ആവശ്യങ്ങളെയും പൊതു സുരക്ഷയെയും സന്തുലിതമാക്കുന്നു.",
     "usageExample": "Radio range.",
     "difficulty": "ADVANCED"
   },
@@ -1979,7 +1979,7 @@
     "word": "transponder",
     "wordMeaning": "സിഗ്നൽ പ്രക്ഷേപിണി",
     "englishText": "The communications satellite transponder receives, amplifies, and retransmits signals.",
-    "malayalamMeaning": "ഉപഗ്രഹത്തിലെ ട്രാൻസ്‌പോണ്ടർ സിഗ്നലുകൾ സ്വീകരിക്കുകയും ശക്തിപ്പെടുത്തി തിരികെ അയക്കുകയും ചെയ്യുന്നു.",
+    "malayalamMeaning": "വാർത്താവിനിമയ ഉപഗ്രഹത്തിലെ സിഗ്നൽ പ്രക്ഷേപിണി സിഗ്നലുകൾ സ്വീകരിക്കുകയും ശക്തിപ്പെടുത്തുകയും വീണ്ടും പ്രക്ഷേപണം ചെയ്യുകയും ചെയ്യുന്നു.",
     "usageExample": "Signal receiver-transmitter.",
     "difficulty": "ADVANCED"
   },
@@ -1987,7 +1987,7 @@
     "word": "modulation",
     "wordMeaning": "തരംഗ ക്രമീകരണം",
     "englishText": "Digital phase modulation encodes binary data packets onto high-frequency carrier waves.",
-    "malayalamMeaning": "ഡിജിറ്റൽ മോഡുലേഷൻ വഴി ഡാറ്റ തരംഗങ്ങളിലേക്ക് സന്നിവേശിപ്പിച്ച് പ്രക്ഷേപണം ചെയ്യുന്നു.",
+    "malayalamMeaning": "ഡിജിറ്റൽ ഫേസ് തരംഗ ക്രമീകരണം ബൈനറി ഡാറ്റാ പാക്കറ്റുകളെ ഉയർന്ന ആവൃത്തിയുള്ള വാഹക തരംഗങ്ങളിലേക്ക് എൻകോഡ് ചെയ്യുന്നു.",
     "usageExample": "Wave modification.",
     "difficulty": "ADVANCED"
   },
@@ -1995,7 +1995,7 @@
     "word": "demodulation",
     "wordMeaning": "സിഗ്നൽ വേർതിരിക്കൽ",
     "englishText": "The modem performs demodulation, converting analog radio signals back into digital data.",
-    "malayalamMeaning": "റേഡിയോ സിഗ്നലുകളെ ഡിജിറ്റൽ ഡാറ്റയാക്കി മാറ്റുന്ന ജോലിയാണ് മോഡം ചെയ്യുന്നത്.",
+    "malayalamMeaning": "മോഡം സിഗ്നൽ വേർതിരിക്കൽ നിർവഹിക്കുകയും അനലോഗ് റേഡിയോ സിഗ്നലുകളെ തിരികെ ഡിജിറ്റൽ ഡാറ്റയാക്കി മാറ്റുകയും ചെയ്യുന്നു.",
     "usageExample": "Signal decoding.",
     "difficulty": "ADVANCED"
   },
@@ -2003,7 +2003,7 @@
     "word": "multiplexing",
     "wordMeaning": "സിഗ്നൽ സംയോജനം",
     "englishText": "Time-division multiplexing allows hundreds of voice calls to travel along a single optical fiber.",
-    "malayalamMeaning": "ഒറ്റ ഒപ്റ്റിക്കൽ ഫൈബറിലൂടെ ഒരേസമയം നൂറുകണക്കിന് കോളുകൾ പ്രക്ഷേപണം ചെയ്യാൻ മൾട്ടിപ്ലക്സിംഗ് സഹായിക്കുന്നു.",
+    "malayalamMeaning": "ടൈം-ഡിവിഷൻ സിഗ്നൽ സംയോജനം നൂറുകണക്കിന് വോയ്‌സ് കോളുകൾക്ക് ഒറ്റ ഒപ്റ്റിക്കൽ ഫൈബറിലൂടെ സഞ്ചരിക്കാൻ സൗകര്യമൊരുക്കുന്നു.",
     "usageExample": "Combining signals.",
     "difficulty": "ADVANCED"
   },
@@ -2011,7 +2011,7 @@
     "word": "transceiver",
     "wordMeaning": "സിഗ്നൽ കൈമാറ്റ യന്ത്രം",
     "englishText": "The wireless transceiver module handles both incoming and outgoing radio communications.",
-    "malayalamMeaning": "വയർലെസ് ട്രാൻസീവർ സിഗ്നലുകൾ സ്വീകരിക്കാനും അയക്കാനും ഒരുപോലെ സഹായിക്കുന്നു.",
+    "malayalamMeaning": "വയർലെസ് സിഗ്നൽ കൈമാറ്റ യന്ത്ര മൊഡ്യൂൾ അകത്തേക്ക് വരുന്നതും പുറത്തേക്ക് പോകുന്നതുമായ റേഡിയോ ആശയവിനിമയങ്ങൾ ഒരുപോലെ കൈകാര്യം ചെയ്യുന്നു.",
     "usageExample": "Two-way radio unit.",
     "difficulty": "ADVANCED"
   },
@@ -2019,7 +2019,7 @@
     "word": "interoperability",
     "wordMeaning": "പരസ്പര പ്രവർത്തനക്ഷമത",
     "englishText": "Seamless technical interoperability allows users across different telecom networks to connect.",
-    "malayalamMeaning": "വിവിധ ടെലികോം നെറ്റ്‌വർക്കുകളിലെ ഉപയോക്താക്കൾക്ക് പരസ്പരം തടസ്സമില്ലാതെ ബന്ധപ്പെടാൻ സാങ്കേതിക ഐക്യരൂപം സഹായിക്കുന്നു.",
+    "malayalamMeaning": "തടസ്സമില്ലാത്ത സാങ്കേതിക പരസ്പര പ്രവർത്തനക്ഷമത വിവിധ ടെലികോം നെറ്റ്‌വർക്കുകളിലെ ഉപയോക്താക്കളെ പരസ്പരം ബന്ധിപ്പിക്കാൻ അനുവദിക്കുന്നു.",
     "usageExample": "Cross-system working.",
     "difficulty": "ADVANCED"
   },
@@ -2027,7 +2027,7 @@
     "word": "cryptanalysis",
     "wordMeaning": "രഹസ്യകോഡ് വിശകലനം",
     "englishText": "Military defense agencies employ advanced cryptanalysis to decrypt intercepted radio chatter.",
-    "malayalamMeaning": "ശത്രുക്കളുടെ റേഡിയോ സന്ദേശങ്ങൾ ചോർത്തി വിവരങ്ങൾ മനസ്സിലാക്കാൻ സൈന്യം ആധുനിക സാങ്കേതികവിദ്യ ഉപയോഗിക്കുന്നു.",
+    "malayalamMeaning": "പിടിച്ചെടുത്ത റേഡിയോ സംഭാഷണങ്ങൾ ഡീക്രിപ്റ്റ് ചെയ്യാൻ സൈനിക പ്രതിരോധ ഏജൻസികൾ നൂതന രഹസ്യകോഡ് വിശകലനം ഉപയോഗിക്കുന്നു.",
     "usageExample": "Deciphering codes.",
     "difficulty": "ADVANCED"
   },
@@ -2035,7 +2035,7 @@
     "word": "steganography",
     "wordMeaning": "രഹസ്യ സന്ദേശവിദ്യ",
     "englishText": "Digital steganography conceals private text messages within ordinary image and audio files.",
-    "malayalamMeaning": "ചിത്രങ്ങൾക്കോ ശബ്ദരേഖകൾക്കോ ഉള്ളിൽ രഹസ്യ സന്ദേശങ്ങൾ ഒളിപ്പിച്ചു വെക്കുന്ന രീതിയാണ് സ്റ്റെഗാനോഗ്രഫി.",
+    "malayalamMeaning": "ഡിജിറ്റൽ രഹസ്യ സന്ദേശവിദ്യ സാധാരണ ചിത്രങ്ങളുടെയും ഓഡിയോ ഫയലുകളുടെയും ഉള്ളിൽ സ്വകാര്യ ടെക്സ്റ്റ് സന്ദേശങ്ങൾ ഒളിപ്പിക്കുന്നു.",
     "usageExample": "Hidden communication.",
     "difficulty": "ADVANCED"
   },
@@ -2043,7 +2043,7 @@
     "word": "eavesdropping",
     "wordMeaning": "ഒളിഞ്ഞു കേൾക്കൽ",
     "englishText": "Constitutional privacy laws strictly forbid illegal wiretapping and unauthorized eavesdropping.",
-    "malayalamMeaning": "അനുവാദമില്ലാതെ മറ്റുള്ളവരുടെ ഫോൺ ചോർത്തുന്നത് നിയമവിരുദ്ധമാണ്.",
+    "malayalamMeaning": "ഭരണഘടനാപരമായ സ്വകാര്യതാ നിയമങ്ങൾ അനധികൃത ഫോൺ ചോർത്തലും അനുവാദമില്ലാത്ത ഒളിഞ്ഞു കേൾക്കലും കർശനമായി നിരോധിക്കുന്നു.",
     "usageExample": "Secret listening.",
     "difficulty": "ADVANCED"
   },
@@ -2051,7 +2051,7 @@
     "word": "surveillance",
     "wordMeaning": "നിരീക്ഷണം",
     "englishText": "Mass electronic telecommunications surveillance raises serious civil liberty and privacy concerns.",
-    "malayalamMeaning": "വ്യാപകമായി ഫോൺ കോളുകൾ നിരീക്ഷിക്കുന്നത് പൗരന്മാരുടെ സ്വകാര്യതയ്ക്ക് മേലുള്ള കടന്നുകയറ്റമാണ്.",
+    "malayalamMeaning": "വ്യാപകമായ ഇലക്ട്രോണിക് വാർത്താവിനിമയ നിരീക്ഷണം പൗരസ്വാതന്ത്ര്യത്തെയും സ്വകാര്യതയെയും കുറിച്ച് ഗുരുതരമായ ആശങ്കകൾ ഉയർത്തുന്നു.",
     "usageExample": "Monitoring.",
     "difficulty": "ADVANCED"
   },
@@ -2059,7 +2059,7 @@
     "word": "geolocation",
     "wordMeaning": "സ്ഥാനനിർണ്ണയം",
     "englishText": "Cellular tower triangulation enables rapid emergency geolocation of lost mountain hikers.",
-    "malayalamMeaning": "മൊബൈൽ ടവർ സിഗ്നലുകൾ പരിശോധിച്ച് മലനിരകളിൽ കുടുങ്ങിയവരെ വേഗത്തിൽ കണ്ടെത്താൻ സാധിക്കും.",
+    "malayalamMeaning": "സെല്ലുലാർ ടവർ ട്രയാംഗുലേഷൻ വഴിതെറ്റിയ പർവ്വതാരോഹകരുടെ വേഗത്തിലുള്ള അടിയന്തര സ്ഥാനനിർണ്ണയം സാധ്യമാക്കുന്നു.",
     "usageExample": "Locating position.",
     "difficulty": "ADVANCED"
   },
@@ -2067,7 +2067,7 @@
     "word": "triangulation",
     "wordMeaning": "ത്രികോണ സ്ഥാനനിർണ്ണയം",
     "englishText": "Radio direction finders used signal triangulation to pinpoint the distress beacon.",
-    "malayalamMeaning": "അപകട സന്ദേശം എവിടെ നിന്നാണെന്ന് കൃത്യമായി കണ്ടെത്താൻ സിഗ്നലുകളുടെ ട്രയാംഗുലേഷൻ രീതി ഉപയോഗിച്ചു.",
+    "malayalamMeaning": "അപകട സൂചക ബീക്കൺ കൃത്യമായി കണ്ടെത്താൻ റേഡിയോ ദിശാസൂചികൾ സിഗ്നൽ ത്രികോണ സ്ഥാനനിർണ്ണയം ഉപയോഗിച്ചു.",
     "usageExample": "Three-point locating.",
     "difficulty": "ADVANCED"
   },
@@ -2075,7 +2075,7 @@
     "word": "redundancy",
     "wordMeaning": "കരുതൽ സംവിധാനം",
     "englishText": "Critical telecommunications infrastructure incorporates triple redundancy to prevent blackouts.",
-    "malayalamMeaning": "നെറ്റ്‌വർക്ക് തകരാറുകൾ വരാതിരിക്കാൻ വാർത്താവിനിമയ സംവിധാനങ്ങളിൽ കൂടുതൽ സുരക്ഷാ മുൻകരുതലുകൾ ഏർപ്പെടുത്തിയിട്ടുണ്ട്.",
+    "malayalamMeaning": "സേവന തടസ്സങ്ങൾ ഒഴിവാക്കാൻ നിർണ്ണായക വാർത്താവിനിമയ അടിസ്ഥാന സൗകര്യങ്ങളിൽ മൂന്നിരട്ടി കരുതൽ സംവിധാനം ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.",
     "usageExample": "Duplicate backup.",
     "difficulty": "ADVANCED"
   },
@@ -2083,7 +2083,7 @@
     "word": "telematics",
     "wordMeaning": "വാഹന വിവരസാങ്കേതികവിദ്യ",
     "englishText": "Automotive telematics systems transmit real-time vehicle diagnostic and crash data.",
-    "malayalamMeaning": "വാഹനാപകടങ്ങളുടെ വിവരങ്ങളും എൻജിന്റെ അവസ്ഥയും അപ്പപ്പോൾ കൈമാറാൻ വാഹനങ്ങളിലെ ടെലിമാറ്റിക്സ് സംവിധാനം സഹായിക്കുന്നു.",
+    "malayalamMeaning": "ഓട്ടോമോട്ടീവ് വാഹന വിവരസാങ്കേതികവിദ്യാ സംവിധാനങ്ങൾ തത്സമയ വാഹന പരിശോധനാ വിവരങ്ങളും അപകട ഡാറ്റയും കൈമാറുന്നു.",
     "usageExample": "Remote vehicle tech.",
     "difficulty": "ADVANCED"
   },
@@ -2091,7 +2091,7 @@
     "word": "interlocutor",
     "wordMeaning": "സംഭാഷകൻ",
     "englishText": "He found in his transatlantic telephone partner a remarkably stimulating interlocutor.",
-    "malayalamMeaning": "ഫോണിലൂടെ ആഴത്തിൽ സംസാരിക്കാൻ പറ്റിയ നല്ലൊരു സൗഹൃദം അയാൾക്ക് ലഭിച്ചു.",
+    "malayalamMeaning": "തന്റെ അറ്റ്ലാന്റിക്കിന് അക്കരെയുള്ള ഫോൺ പങ്കാളിയിൽ അസാധാരണമാംവിധം പ്രചോദനാത്മകനായ ഒരു സംഭാഷകനെ അയാൾ കണ്ടെത്തി.",
     "usageExample": "Dialogue partner.",
     "difficulty": "ADVANCED"
   },
@@ -2099,7 +2099,7 @@
     "word": "circumlocution",
     "wordMeaning": "വളച്ചുകെട്ടിയ സംസാരം",
     "englishText": "Avoid tiresome bureaucratic circumlocution; come straight to the operational point.",
-    "malayalamMeaning": "വളച്ചുകെട്ടി സംസാരിക്കാതെ കാര്യം നേരിട്ട് പറയൂ.",
+    "malayalamMeaning": "മടുപ്പിക്കുന്ന ഉദ്യോഗസ്ഥതല വളച്ചുകെട്ടിയ സംസാരം ഒഴിവാക്കുക; നേരിട്ട് പ്രവർത്തനപരമായ കാര്യത്തിലേക്ക് വരൂ.",
     "usageExample": "Roundabout speech.",
     "difficulty": "ADVANCED"
   },
@@ -2107,7 +2107,7 @@
     "word": "verbosity",
     "wordMeaning": "അമിതഭാഷണം",
     "englishText": "Excessive verbosity on conference calls wastes valuable time and obfuscates core issues.",
-    "malayalamMeaning": "ഫോൺ മീറ്റിംഗുകളിൽ അനാവശ്യമായി നീട്ടി സംസാരിക്കുന്നത് സമയം കളയുക മാത്രമല്ല പ്രധാന കാര്യങ്ങളിൽ നിന്ന് ശ്രദ്ധ തിരിക്കുകയും ചെയ്യും.",
+    "malayalamMeaning": "കോൺഫറൻസ് കോളുകളിലെ അമിതഭാഷണം വിലപ്പെട്ട സമയം പാഴാക്കുകയും കാതലായ പ്രശ്നങ്ങളെ അവ്യക്തമാക്കുകയും ചെയ്യുന്നു.",
     "usageExample": "Wordiness.",
     "difficulty": "ADVANCED"
   },
@@ -2115,7 +2115,7 @@
     "word": "succinctness",
     "wordMeaning": "സംക്ഷിപ്തത",
     "englishText": "Her admirable succinctness allowed her to summarize a fifty-page report in two minutes.",
-    "malayalamMeaning": "അമ്പത് പേജുള്ള റിപ്പോർട്ട് രണ്ട് മിനിറ്റിൽ ചുരുക്കിപ്പറയാൻ അവൾക്ക് കഴിഞ്ഞു.",
+    "malayalamMeaning": "അവളുടെ പ്രശംസനീയമായ സംക്ഷിപ്തത അമ്പത് പേജുള്ള ഒരു റിപ്പോർട്ട് രണ്ട് മിനിറ്റിൽ സംഗ്രഹിക്കാൻ അവളെ പ്രാപ്തയാക്കി.",
     "usageExample": "Brief conciseness.",
     "difficulty": "ADVANCED"
   },
@@ -2123,7 +2123,7 @@
     "word": "intelligibility",
     "wordMeaning": "മനസ്സിലാകാനുള്ള വ്യക്തത",
     "englishText": "Background static reduced the intelligibility of the audio recording during the trial.",
-    "malayalamMeaning": "പശ്ചാത്തലത്തിലെ ഇരമ്പൽ ശബ്ദം കാരണം റെക്കോർഡ് ചെയ്ത സംഭാഷണം വ്യക്തമായി കേൾക്കാൻ കഴിഞ്ഞില്ല.",
+    "malayalamMeaning": "വിചാരണയ്ക്കിടെ പശ്ചാത്തലത്തിലെ ഇരമ്പൽ ശബ്ദം ഓഡിയോ റെക്കോർഡിംഗിന്റെ മനസ്സിലാകാനുള്ള വ്യക്തത കുറച്ചു.",
     "usageExample": "Understandability.",
     "difficulty": "ADVANCED"
   },
@@ -2131,7 +2131,7 @@
     "word": "audibility",
     "wordMeaning": "കേൾക്കാനുള്ള വ്യക്തത",
     "englishText": "Check the audibility of the speakerphone before commencing the international boardroom call.",
-    "malayalamMeaning": "പ്രധാനപ്പെട്ട മീറ്റിംഗ് തുടങ്ങുന്നതിന് മുൻപ് സ്പീക്കറിന്റെ ശബ്ദം വ്യക്തമാണോ എന്ന് പരിശോധിക്കുക.",
+    "malayalamMeaning": "അന്താരാഷ്ട്ര ബോർഡ്റൂം കോൾ ആരംഭിക്കുന്നതിന് മുൻപ് സ്പീക്കർഫോണിന്റെ കേൾക്കാനുള്ള വ്യക്തത പരിശോധിക്കുക.",
     "usageExample": "Being hearable.",
     "difficulty": "ADVANCED"
   },
@@ -2139,7 +2139,7 @@
     "word": "soliloquy",
     "wordMeaning": "ആത്മഭാഷണം",
     "englishText": "The meeting felt like an endless soliloquy as the director talked for an hour without pause.",
-    "malayalamMeaning": "ഡയറക്ടർ ഇടതടവില്ലാതെ സംസാരിച്ചുകൊണ്ടിരുന്നതിനാൽ ആ മീറ്റിംഗ് അദ്ദേഹത്തിന്റെ ഏകാന്തഭാഷണം പോലെയായി മാറി.",
+    "malayalamMeaning": "ഡയറക്ടർ ഒരു മണിക്കൂർ നേരം നിർത്താതെ സംസാരിച്ചതിനാൽ ആ മീറ്റിംഗ് അവസാനിക്കാത്ത ഒരു ആത്മഭാഷണം പോലെ തോന്നി.",
     "usageExample": "Solo speech.",
     "difficulty": "ADVANCED"
   },
@@ -2147,7 +2147,7 @@
     "word": "monologue",
     "wordMeaning": "ഏകഭാഷണം",
     "englishText": "Turn your conference call into an open dialogue rather than a tedious one-way monologue.",
-    "malayalamMeaning": "മീറ്റിംഗുകൾ ഒരാൾ മാത്രം സംസാരിക്കുന്ന വിരസമായ അവസ്ഥയാക്കാതെ എല്ലാവരും പങ്കാളികളാകുന്ന ചർച്ചയാക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ കോൺഫറൻസ് കോൾ വിരസമായ ഒരു ഏകപക്ഷീയ ഏകഭാഷണമാക്കുന്നതിന് പകരം തുറന്ന ഒരു സംഭാഷണമാക്കി മാറ്റുക.",
     "usageExample": "One-person talk.",
     "difficulty": "ADVANCED"
   },
@@ -2155,7 +2155,7 @@
     "word": "colloquialism",
     "wordMeaning": "സംസാരഭാഷാ പ്രയോഗം",
     "englishText": "Avoid regional colloquialisms when communicating with non-native English business clients.",
-    "malayalamMeaning": "വിദേശ ഇടപാടുകാരുമായി സംസാരിക്കുമ്പോൾ അവർക്ക് മനസ്സിലാകാത്ത പ്രാദേശിക പ്രയോഗങ്ങൾ ഒഴിവാക്കുക.",
+    "malayalamMeaning": "ഇംഗ്ലീഷ് മാതൃഭാഷയല്ലാത്ത ബിസിനസ്സ് ഇടപാടുകാരുമായി ആശയവിനിമയം നടത്തുമ്പോൾ പ്രാദേശിക സംസാരഭാഷാ പ്രയോഗങ്ങൾ ഒഴിവാക്കുക.",
     "usageExample": "Informal phrase.",
     "difficulty": "ADVANCED"
   },
@@ -2163,7 +2163,7 @@
     "word": "vernacular",
     "wordMeaning": "പ്രാദേശിക ഭാഷ",
     "englishText": "Local radio announcers broadcast weather bulletins in the regional coastal vernacular.",
-    "malayalamMeaning": "തീരദേശത്തെ പ്രാദേശിക ഭാഷയിലാണ് റേഡിയോയിൽ കാലാവസ്ഥാ മുന്നറിയിപ്പുകൾ നൽകിയത്.",
+    "malayalamMeaning": "പ്രാദേശിക റേഡിയോ അനൗൺസർമാർ തീരദേശ പ്രാദേശിക ഭാഷയിൽ കാലാവസ്ഥാ ബുള്ളറ്റിനുകൾ പ്രക്ഷേപണം ചെയ്യുന്നു.",
     "usageExample": "Native tongue.",
     "difficulty": "ADVANCED"
   },
@@ -2171,7 +2171,7 @@
     "word": "parlance",
     "wordMeaning": "സംസാരശൈലി",
     "englishText": "In modern Silicon Valley tech parlance, 'bandwidth' often refers to personal mental capacity.",
-    "malayalamMeaning": "ഐടി മേഖലയിൽ ഒരാളുടെ ജോലി ചെയ്യാനുള്ള ശേഷിയെയും 'ബാൻഡ്‌വിഡ്ത്ത്' എന്ന് വിശേഷിപ്പിക്കാറുണ്ട്.",
+    "malayalamMeaning": "ആധുനിക സിലിക്കൺ വാലി സാങ്കേതിക സംസാരശൈലിയിൽ, 'ബാൻഡ്‌വിഡ്ത്ത്' എന്നത് പലപ്പോഴും വ്യക്തിപരമായ മാനസിക ശേഷിയെ സൂചിപ്പിക്കുന്നു.",
     "usageExample": "Specialized jargon.",
     "difficulty": "ADVANCED"
   },
@@ -2179,7 +2179,7 @@
     "word": "reciprocal",
     "wordMeaning": "പരസ്പരമുള്ള",
     "englishText": "Healthy professional partnerships require reciprocal communication and mutual respect.",
-    "malayalamMeaning": "നല്ലൊരു ബിസിനസ്സ് ബന്ധത്തിന് ഇരുപക്ഷത്തുനിന്നുമുള്ള ആശയവിനിമയവും പരസ്പര ബഹുമാനവും അനിവാര്യമാണ്.",
+    "malayalamMeaning": "ആരോഗ്യകരമായ പ്രൊഫഷണൽ പങ്കാളിത്തങ്ങൾക്ക് പരസ്പരമുള്ള ആശയവിനിമയവും പരസ്പര ബഹുമാനവും ആവശ്യമാണ്.",
     "usageExample": "Two-way mutual.",
     "difficulty": "ADVANCED"
   },
@@ -2187,7 +2187,7 @@
     "word": "indiscretion",
     "wordMeaning": "വിവേകശൂന്യത",
     "englishText": "A careless telephone indiscretion leaked details of the impending corporate acquisition.",
-    "malayalamMeaning": "ഫോണിലൂടെ അശ്രദ്ധമായി സംസാരിച്ചത് കമ്പനി ഏറ്റെടുക്കലിന്റെ രഹസ്യ വിവരങ്ങൾ ചോരാൻ ഇടയാക്കി.",
+    "malayalamMeaning": "അശ്രദ്ധമായ ഒരു ഫോൺ വിവേകശൂന്യത വരാനിരിക്കുന്ന കോർപ്പറേറ്റ് ഏറ്റെടുക്കലിന്റെ വിശദാംശങ്ങൾ ചോരാൻ ഇടയാക്കി.",
     "usageExample": "Imprudent act.",
     "difficulty": "ADVANCED"
   },
@@ -2195,7 +2195,7 @@
     "word": "pragmatic",
     "wordMeaning": "പ്രായോഗികമായ",
     "englishText": "He adopted a pragmatic approach, choosing a phone call over a protracted email chain.",
-    "malayalamMeaning": "നീണ്ട ഇമെയിലുകൾക്ക് പകരം പെട്ടെന്ന് ഫോൺ വിളിച്ച് സംസാരിക്കാനാണ് അയാൾ തീരുമാനിച്ചത്.",
+    "malayalamMeaning": "നീണ്ടുപോകുന്ന ഇമെയിൽ ശൃംഖലയ്ക്ക് പകരം ഒരു ഫോൺ കോൾ തിരഞ്ഞെടുത്തുകൊണ്ട് അയാൾ പ്രായോഗികമായ ഒരു സമീപനം സ്വീകരിച്ചു.",
     "usageExample": "Practical.",
     "difficulty": "ADVANCED"
   },
@@ -2203,7 +2203,7 @@
     "word": "lucidity",
     "wordMeaning": "വ്യക്തത",
     "englishText": "His exceptional lucidity of thought enabled him to explain quantum physics over the phone.",
-    "malayalamMeaning": "സങ്കീർണ്ണമായ ശാസ്ത്ര വിഷയങ്ങൾ പോലും ഫോണിലൂടെ ലളിതമായി പറഞ്ഞു മനസ്സിലാക്കാൻ അയാൾക്ക് കഴിഞ്ഞു.",
+    "malayalamMeaning": "അയാളുടെ ചിന്തയിലെ അസാധാരണമായ വ്യക്തത ക്വാണ്ടം ഫിസിക്സ് ഫോണിലൂടെ വിശദീകരിക്കാൻ അയാളെ പ്രാപ്തനാക്കി.",
     "usageExample": "Mental clarity.",
     "difficulty": "ADVANCED"
   },
@@ -2211,7 +2211,7 @@
     "word": "cogency",
     "wordMeaning": "യുക്തിഭദ്രത",
     "englishText": "The lawyer argued with formidable cogency, convincing the appellate judges on the call.",
-    "malayalamMeaning": "വക്കീൽ വളരെ യുക്തിഭദ്രമായി സംസാരിച്ച് ജഡ്ജിമാരെ കാര്യങ്ങൾ ബോധ്യപ്പെടുത്തി.",
+    "malayalamMeaning": "അഭിഭാഷകൻ ശക്തമായ യുക്തിഭദ്രതയോടെ വാദിക്കുകയും കോളിലുണ്ടായിരുന്ന അപ്പീൽ ജഡ്ജിമാരെ ബോധ്യപ്പെടുത്തുകയും ചെയ്തു.",
     "usageExample": "Compelling logic.",
     "difficulty": "ADVANCED"
   },
@@ -2219,7 +2219,7 @@
     "word": "perspicacity",
     "wordMeaning": "സൂക്ഷ്മദൃഷ്ടി",
     "englishText": "Her sharp perspicacity enabled her to detect the subtle hesitation in the client's voice.",
-    "malayalamMeaning": "ക്ലയന്റിന്റെ സംസാരത്തിലെ ചെറിയൊരു പതർച്ചയിൽ നിന്നുതന്നെ അവൾ കാര്യം മനസ്സിലാക്കിയെടുത്തു.",
+    "malayalamMeaning": "അവളുടെ കൂർത്ത സൂക്ഷ്മദൃഷ്ടി ക്ലയന്റിന്റെ ശബ്ദത്തിലെ നേരിയ മടി തിരിച്ചറിയാൻ അവളെ പ്രാപ്തയാക്കി.",
     "usageExample": "Acute discernment.",
     "difficulty": "ADVANCED"
   },
@@ -2227,7 +2227,7 @@
     "word": "sagacity",
     "wordMeaning": "വിവേകം",
     "englishText": "The elder statesman resolved the diplomatic standoff with customary wisdom and sagacity.",
-    "malayalamMeaning": "മുതിർന്ന നേതാവ് തന്റെ അനുഭവപരിചയവും വിവേകവും ഉപയോഗിച്ച് തർക്കം രമ്യമായി പരിഹരിച്ചു.",
+    "malayalamMeaning": "മുതിർന്ന രാഷ്ട്രതന്ത്രജ്ഞൻ തന്റെ പതിവ് ജ്ഞാനവും വിവേകവും ഉപയോഗിച്ച് ആ നയതന്ത്ര പ്രതിസന്ധി പരിഹരിച്ചു.",
     "usageExample": "Farsighted wisdom.",
     "difficulty": "ADVANCED"
   },
@@ -2235,7 +2235,7 @@
     "word": "inscrutable",
     "wordMeaning": "മനസ്സിലാക്കാനാകാത്ത",
     "englishText": "His calm telephone voice was completely inscrutable, revealing no emotional vulnerability.",
-    "malayalamMeaning": "അയാളുടെ വികാരങ്ങൾ ഒന്നും പുറത്തുകാണിക്കാത്ത വളരെ ശാന്തമായ ശബ്ദമായിരുന്നു ഫോണിൽ.",
+    "malayalamMeaning": "യാതൊരു വൈകാരിക ദൗർബല്യവും വെളിപ്പെടുത്താതെ അയാളുടെ ശാന്തമായ ഫോൺ ശബ്ദം പൂർണ്ണമായും മനസ്സിലാക്കാനാകാത്തതായിരുന്നു.",
     "usageExample": "Unfathomable.",
     "difficulty": "ADVANCED"
   },
@@ -2243,7 +2243,7 @@
     "word": "equanimity",
     "wordMeaning": "സമചിത്തത",
     "englishText": "The air traffic controller maintained magnificent equanimity throughout the airborne crisis.",
-    "malayalamMeaning": "വിമാനത്തിൽ അപകടാവസ്ഥ ഉണ്ടായ സമയത്തും എയർ ട്രാഫിക് കൺട്രോളർ തികഞ്ഞ മനസ്സാന്നിധ്യത്തോടെ പ്രവർത്തിച്ചു.",
+    "malayalamMeaning": "വ്യോമ പ്രതിസന്ധിയിലുടനീളം എയർ ട്രാഫിക് കൺട്രോളർ മഹത്തായ സമചിത്തത നിലനിർത്തി.",
     "usageExample": "Unshakable calm.",
     "difficulty": "ADVANCED"
   },
@@ -2251,7 +2251,7 @@
     "word": "unflappable",
     "wordMeaning": "പതറാത്ത",
     "englishText": "She remained completely unflappable despite the noisy confusion surrounding the call.",
-    "malayalamMeaning": "ചുറ്റുമുള്ള ബഹളങ്ങൾക്കിടയിലും യാതൊരു പതർച്ചയുമില്ലാതെ അവൾ ഫോണിൽ സംസാരിച്ചു.",
+    "malayalamMeaning": "കോളിന് ചുറ്റുമുള്ള ബഹളമയമായ ആശയക്കുഴപ്പത്തിനിടയിലും അവൾ പൂർണ്ണമായും പതറാതെ നിലകൊണ്ടു.",
     "usageExample": "Imperturbable.",
     "difficulty": "ADVANCED"
   },
@@ -2259,7 +2259,7 @@
     "word": "prowess",
     "wordMeaning": "പ്രാവീണ്യം",
     "englishText": "The emergency dispatcher demonstrated exceptional logistical prowess under extreme pressure.",
-    "malayalamMeaning": "കടുത്ത പ്രതിസന്ധി ഘട്ടത്തിലും എമർജൻസി ജീവനക്കാരൻ സമയോചിതമായി കാര്യങ്ങൾ ഏകോപിപ്പിച്ചു.",
+    "malayalamMeaning": "അതികഠിനമായ സമ്മർദ്ദത്തിനിടയിലും എമർജൻസി ഡിസ്പാച്ചർ അസാധാരണമായ ലോജിസ്റ്റിക്കൽ പ്രാവീണ്യം പ്രകടിപ്പിച്ചു.",
     "usageExample": "Formidable skill.",
     "difficulty": "ADVANCED"
   },
@@ -2267,7 +2267,7 @@
     "word": "dexterity",
     "wordMeaning": "വൈദഗ്ധ്യം",
     "englishText": "Diplomatic dexterity is required when negotiating sensitive border protocols over the phone.",
-    "malayalamMeaning": "അതിർത്തി പ്രശ്നങ്ങൾ ഫോണിൽ ചർച്ച ചെയ്യുമ്പോൾ അതീവ നയതന്ത്രജ്ഞത ആവശ്യമാണ്.",
+    "malayalamMeaning": "സൂക്ഷ്മതയേറിയ അതിർത്തി പ്രോട്ടോക്കോളുകൾ ഫോണിലൂടെ ചർച്ച ചെയ്യുമ്പോൾ നയതന്ത്ര വൈദഗ്ധ്യം ആവശ്യമാണ്.",
     "usageExample": "Skillful tact.",
     "difficulty": "ADVANCED"
   },
@@ -2275,7 +2275,7 @@
     "word": "acumen",
     "wordMeaning": "കുശാഗ്രബുദ്ധി",
     "englishText": "His sharp commercial acumen allowed him to negotiate a twenty percent discount on the call.",
-    "malayalamMeaning": "തന്റെ ബിസിനസ്സ് സാമർത്ഥ്യം കൊണ്ട് ഫോൺ ചർച്ചയിലൂടെ ഇരുപത് ശതമാനം ഇളവ് നേടാൻ അയാൾക്ക് കഴിഞ്ഞു.",
+    "malayalamMeaning": "അയാളുടെ കൂർത്ത വാണിജ്യ കുശാഗ്രബുദ്ധി കോളിലൂടെ ഇരുപത് ശതമാനം കിഴിവ് വിലപേശി നേടാൻ അയാളെ പ്രാപ്തനാക്കി.",
     "usageExample": "Business insight.",
     "difficulty": "ADVANCED"
   },
@@ -2283,7 +2283,7 @@
     "word": "stewardship",
     "wordMeaning": "പരിപാലന ചുമതല",
     "englishText": "Responsible corporate stewardship mandates strict compliance with privacy regulations.",
-    "malayalamMeaning": "ഉത്തരവാദിത്തമുള്ള കമ്പനികൾ ഉപഭോക്താക്കളുടെ സ്വകാര്യത കർശനമായി സംരക്ഷിക്കുന്നു.",
+    "malayalamMeaning": "ഉത്തരവാദിത്തമുള്ള കോർപ്പറേറ്റ് പരിപാലന ചുമതല സ്വകാര്യതാ ചട്ടങ്ങൾ കർശനമായി പാലിക്കാൻ നിഷ്കർഷിക്കുന്നു.",
     "usageExample": "Caring management.",
     "difficulty": "ADVANCED"
   },
@@ -2291,7 +2291,7 @@
     "word": "fiduciary",
     "wordMeaning": "വിശ്വാസപരമായ",
     "englishText": "Corporate directors bear an uncompromised fiduciary duty when advising on client calls.",
-    "malayalamMeaning": "ഇടപാടുകാർക്ക് ഉപദേശം നൽകുമ്പോൾ കമ്പനി ഡയറക്ടർമാർ തികഞ്ഞ സത്യസന്ധത പുലർത്തേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "ക്ലയന്റ് കോളുകളിൽ ഉപദേശം നൽകുമ്പോൾ കോർപ്പറേറ്റ് ഡയറക്ടർമാർക്ക് വിട്ടുവീഴ്ചയില്ലാത്ത വിശ്വാസപരമായ കടമയുണ്ട്.",
     "usageExample": "Trust obligation.",
     "difficulty": "ADVANCED"
   },
@@ -2299,7 +2299,7 @@
     "word": "substantiate",
     "wordMeaning": "സാധൂകരിക്കുക",
     "englishText": "You must provide documented evidence to substantiate the billing claims discussed on the call.",
-    "malayalamMeaning": "ഫോണിൽ പറഞ്ഞ ബില്ലിംഗ് കാര്യങ്ങൾ തെളിയിക്കുന്ന രേഖകൾ നിങ്ങൾ ഹാജരാക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "കോളിൽ ചർച്ച ചെയ്ത ബില്ലിംഗ് അവകാശവാദങ്ങൾ സാധൂകരിക്കാൻ നിങ്ങൾ രേഖാമൂലമുള്ള തെളിവുകൾ നൽകേണ്ടതുണ്ട്.",
     "usageExample": "Prove factual.",
     "difficulty": "ADVANCED"
   },
@@ -2307,7 +2307,7 @@
     "word": "exemplary",
     "wordMeaning": "മാതൃകാപരമായ",
     "englishText": "The customer care team's exemplary professionalism earned praise from the corporate board.",
-    "malayalamMeaning": "കസ്റ്റമർ കെയർ ടീമിന്റെ മാതൃകാപരമായ സേവനം മാനേജ്മെന്റിന്റെ പ്രശംസ പിടിച്ചുപറ്റി.",
+    "malayalamMeaning": "കസ്റ്റമർ കെയർ ടീമിന്റെ മാതൃകാപരമായ പ്രൊഫഷണലിസം കോർപ്പറേറ്റ് ബോർഡിന്റെ പ്രശംസ പിടിച്ചുപറ്റി.",
     "usageExample": "Model standard.",
     "difficulty": "ADVANCED"
   },
@@ -2315,7 +2315,7 @@
     "word": "imperative",
     "wordMeaning": "അനിവാര്യമായ",
     "englishText": "Securing encrypted communications channels is an urgent national security imperative.",
-    "malayalamMeaning": "ആശയവിനിമയ മാർഗ്ഗങ്ങൾ സുരക്ഷിതമാക്കുന്നത് രാജ്യസുരക്ഷയ്ക്ക് അത്യന്താപേക്ഷിതമാണ്.",
+    "malayalamMeaning": "എൻക്രിപ്റ്റ് ചെയ്ത ആശയവിനിമയ ചാനലുകൾ സുരക്ഷിതമാക്കുന്നത് അടിയന്തരവും അനിവാര്യവുമായ ഒരു ദേശീയ സുരക്ഷാ ആവശ്യകതയാണ്.",
     "usageExample": "Crucial requirement.",
     "difficulty": "ADVANCED"
   },
@@ -2323,7 +2323,7 @@
     "word": "perfunctory",
     "wordMeaning": "ചടങ്ങുമാത്രമായ",
     "englishText": "Never dismiss serious customer grievances with a perfunctory, disinterested phone reply.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ പരാതികൾ കേവലം ഒരു കടമ തീർക്കൽ മട്ടിൽ നിസ്സാരമായി തള്ളിക്കളയരുത്.",
+    "malayalamMeaning": "ഗുരുതരമായ ഉപഭോക്തൃ പരാതികളെ ചടങ്ങുമാത്രവും താൽപ്പര്യമില്ലാത്തതുമായ ഒരു ഫോൺ മറുപടി നൽകി ഒരിക്കലും തള്ളിക്കളയരുത്.",
     "usageExample": "Superficial.",
     "difficulty": "ADVANCED"
   },
@@ -2331,7 +2331,7 @@
     "word": "meticulous",
     "wordMeaning": "സൂക്ഷ്മമായ",
     "englishText": "Her meticulous documentation of telephone meeting minutes prevented misunderstandings.",
-    "malayalamMeaning": "ഫോൺ മീറ്റിംഗിലെ തീരുമാനങ്ങൾ അവൾ കൃത്യമായി കുറിച്ചുവെച്ചതിനാൽ തെറ്റിദ്ധാരണകൾ ഒഴിവായി.",
+    "malayalamMeaning": "ഫോൺ മീറ്റിംഗ് മിനിറ്റ്സിന്റെ അവളുടെ സൂക്ഷ്മമായ രേഖപ്പെടുത്തൽ തെറ്റിദ്ധാരണകൾ ഒഴിവാക്കി.",
     "usageExample": "Painstakingly exact.",
     "difficulty": "ADVANCED"
   },
@@ -2339,7 +2339,7 @@
     "word": "expedite",
     "wordMeaning": "വേഗത്തിലാക്കുക",
     "englishText": "The manager made a personal call to the warehouse supervisor to expedite the shipment.",
-    "malayalamMeaning": "സാധനങ്ങൾ വേഗത്തിൽ അയക്കാൻ മാനേജർ ഗോഡൗൺ സൂപ്പർവൈസറെ നേരിട്ട് ഫോണിൽ വിളിച്ചു.",
+    "malayalamMeaning": "ചരക്ക് നീക്കം വേഗത്തിലാക്കാനായി മാനേജർ വെയർഹൗസ് സൂപ്പർവൈസറെ വ്യക്തിപരമായി ഫോൺ വിളിച്ചു.",
     "usageExample": "Speed up.",
     "difficulty": "ADVANCED"
   },
@@ -2347,7 +2347,7 @@
     "word": "scrutiny",
     "wordMeaning": "സൂക്ഷ്മപരിശോധന",
     "englishText": "Recorded emergency calls undergo intense regulatory scrutiny following industrial accidents.",
-    "malayalamMeaning": "അപകടങ്ങളെക്കുറിച്ചുള്ള എമർജൻസി കോളുകൾ കൃത്യമായി പരിശോധിച്ച് നടപടികൾ സ്വീകരിക്കുന്നു.",
+    "malayalamMeaning": "വ്യാവസായിക അപകടങ്ങളെത്തുടർന്ന് റെക്കോർഡ് ചെയ്ത അടിയന്തര കോളുകൾ കർശനമായ നിയന്ത്രണ സൂക്ഷ്മപരിശോധനയ്ക്ക് വിധേയമാകുന്നു.",
     "usageExample": "Critical review.",
     "difficulty": "ADVANCED"
   },
@@ -2355,7 +2355,7 @@
     "word": "diligence",
     "wordMeaning": "അതീവ ശ്രദ്ധ",
     "englishText": "Handling confidential client communications demands unwavering professional diligence.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ രഹസ്യ വിവരങ്ങൾ കൈകാര്യം ചെയ്യുമ്പോൾ അതീവ ജാഗ്രത ആവശ്യമാണ്.",
+    "malayalamMeaning": "രഹസ്യസ്വഭാവമുള്ള ഉപഭോക്തൃ ആശയവിനിമയങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിന് അചഞ്ചലമായ പ്രൊഫഷണൽ അതീവ ശ്രദ്ധ ആവശ്യമാണ്.",
     "usageExample": "Persistent care.",
     "difficulty": "ADVANCED"
   },
@@ -2363,7 +2363,7 @@
     "word": "touchscreen",
     "wordMeaning": "ടച്ച്സ്ക്രീൻ",
     "englishText": "The modern capacitive touchscreen registers delicate multi-finger gestures.",
-    "malayalamMeaning": "ആധുനിക ടച്ച് സ്ക്രീനുകളിൽ വിരലുകളുടെ ചെറിയ ചലനങ്ങൾ പോലും കൃത്യമായി തിരിച്ചറിയുന്നു.",
+    "malayalamMeaning": "ആധുനിക കപ്പാസിറ്റീവ് ടച്ച്സ്ക്രീൻ ഒന്നിലധികം വിരലുകളുടെ നേരിയ ആംഗ്യങ്ങൾ പോലും രേഖപ്പെടുത്തുന്നു.",
     "usageExample": "Touch display.",
     "difficulty": "BEGINNER"
   },
@@ -2371,7 +2371,7 @@
     "word": "dial tone",
     "wordMeaning": "ഡയൽ ടോൺ",
     "englishText": "Pick up the handset and listen for the continuous dial tone before dialing.",
-    "malayalamMeaning": "ഫോൺ റിസീവർ എടുത്ത് ഡയൽ ടോൺ കേട്ടതിനു ശേഷം മാത്രം നമ്പർ ഡയൽ ചെയ്യുക.",
+    "malayalamMeaning": "ഡയൽ ചെയ്യുന്നതിന് മുൻപ് ഹാൻഡ്സെറ്റ് എടുത്ത് തുടർച്ചയായ ഡയൽ ടോൺ ശ്രദ്ധിച്ചു കേൾക്കുക.",
     "usageExample": "Phone audio tone.",
     "difficulty": "BEGINNER"
   },
@@ -2387,7 +2387,7 @@
     "word": "speakerphone",
     "wordMeaning": "സ്പീക്കർഫോൺ",
     "englishText": "Switch on the speakerphone so the whole family can join the video greetings.",
-    "malayalamMeaning": "കുടുംബാംഗങ്ങൾക്ക് എല്ലാവർക്കും സംസാരിക്കാനായി സ്പീക്കർഫോൺ ഓൺ ചെയ്യുക.",
+    "malayalamMeaning": "കുടുംബത്തിന് മുഴുവൻ വീഡിയോ ആശംസകളിൽ പങ്കുചേരാൻ കഴിയുന്ന തരത്തിൽ സ്പീക്കർഫോൺ ഓൺ ചെയ്യുക.",
     "usageExample": "Hands-free phone.",
     "difficulty": "INTERMEDIATE"
   },
@@ -2395,7 +2395,7 @@
     "word": "voice call",
     "wordMeaning": "വോയ്സ് കോൾ",
     "englishText": "A quick voice call is often far more personal than sending dozens of texts.",
-    "malayalamMeaning": "ധാരാളം മെസ്സേജുകൾ അയക്കുന്നതിനേക്കാൾ എത്രയോ ആത്മബന്ധം നൽകുന്നതാണ് പെട്ടെന്നൊരു ഫോൺ കോൾ.",
+    "malayalamMeaning": "ഡസൻ കണക്കിന് ടെക്സ്റ്റ് സന്ദേശങ്ങൾ അയക്കുന്നതിനേക്കാൾ പലപ്പോഴും കൂടുതൽ വ്യക്തിപരമാണ് പെട്ടെന്നുള്ള ഒരു വോയ്സ് കോൾ.",
     "usageExample": "Voice telephone.",
     "difficulty": "INTERMEDIATE"
   }

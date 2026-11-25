@@ -11,7 +11,7 @@
     "word": "desk",
     "wordMeaning": "മേശ",
     "englishText": "Keep your computer desk organized and free of clutter.",
-    "malayalamMeaning": "നിങ്ങളുടെ കമ്പ്യൂട്ടർ ഡെസ്ക് സാധനങ്ങൾ അലങ്കോലപ്പെടാതെ എപ്പോഴും വൃത്തിയായി സൂക്ഷിക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ കമ്പ്യൂട്ടർ മേശ അലങ്കോലമില്ലാതെ ചിട്ടയായി സൂക്ഷിക്കുക.",
     "usageExample": "Workstation table.",
     "difficulty": "BEGINNER"
   },
@@ -75,7 +75,7 @@
     "word": "paper",
     "wordMeaning": "കടലാസ്",
     "englishText": "We ran out of printer paper just before the client presentation.",
-    "malayalamMeaning": "ക്ലയന്റ് പ്രസന്റേഷന് തൊട്ടുമുമ്പ് പ്രിന്ററിലെ പേപ്പർ തീർന്നുപോയി.",
+    "malayalamMeaning": "ക്ലയന്റ് പ്രസന്റേഷന് തൊട്ടുമുമ്പ് പ്രിന്ററിലെ കടലാസ് തീർന്നുപോയി.",
     "usageExample": "Stationery.",
     "difficulty": "BEGINNER"
   },
@@ -91,7 +91,7 @@
     "word": "notebook",
     "wordMeaning": "നോട്ട്ബുക്ക്",
     "englishText": "She took detailed notes in her spiral notebook during the briefing.",
-    "malayalamMeaning": "മീറ്റിംഗിലെ വിവരങ്ങൾ അവൾ തന്റെ നോട്ട്ബുക്കിൽ വിശദമായി കുറിച്ചുവെച്ചു.",
+    "malayalamMeaning": "ബ്രീഫിംഗിനിടെ അവൾ തന്റെ സ്പൈറൽ നോട്ട്ബുക്കിൽ വിശദമായ കുറിപ്പുകൾ എഴുതിയെടുത്തു.",
     "usageExample": "Note keeper.",
     "difficulty": "BEGINNER"
   },
@@ -123,7 +123,7 @@
     "word": "email",
     "wordMeaning": "ഇമെയിൽ",
     "englishText": "I will send you a formal confirmation email with the meeting agenda.",
-    "malayalamMeaning": "മീറ്റിംഗിന്റെ വിവരങ്ങളും അജണ്ടയും ഉൾപ്പെടുത്തി ഔദ്യോഗിക സ്ഥിരീകരണ ഇമെയിൽ ഞാൻ അയക്കാം.",
+    "malayalamMeaning": "മീറ്റിംഗിന്റെ അജണ്ട ഉൾപ്പെടുത്തിയ ഔദ്യോഗിക സ്ഥിരീകരണ ഇമെയിൽ ഞാൻ നിങ്ങൾക്ക് അയയ്ക്കാം.",
     "usageExample": "Electronic mail.",
     "difficulty": "BEGINNER"
   },
@@ -139,7 +139,7 @@
     "word": "receive",
     "wordMeaning": "സ്വീകരിക്കുക",
     "englishText": "Did you receive the updated shift schedule from human resources?",
-    "malayalamMeaning": "എച്ച്.ആർ (HR) വിഭാഗത്തിൽ നിന്ന് പുതുക്കിയ ഷിഫ്റ്റ് വിവരങ്ങൾ നിങ്ങൾക്ക് ലഭിച്ചോ?",
+    "malayalamMeaning": "ഹ്യൂമൻ റിസോഴ്സ് വിഭാഗത്തിൽ നിന്ന് പുതുക്കിയ ഷിഫ്റ്റ് സമയക്രമം നിങ്ങൾക്ക് ലഭിച്ചോ?",
     "usageExample": "Getting communication.",
     "difficulty": "BEGINNER"
   },
@@ -155,7 +155,7 @@
     "word": "reply",
     "wordMeaning": "മറുപടി നൽകുക",
     "englishText": "Please reply promptly to urgent inquiries from clients.",
-    "malayalamMeaning": "ക്ലയന്റുകളിൽ നിന്നുള്ള അടിയന്തിര അന്വേഷണങ്ങൾക്ക് എത്രയും വേഗം മറുപടി നൽകുക.",
+    "malayalamMeaning": "ക്ലയന്റുകളിൽ നിന്നുള്ള അടിയന്തര അന്വേഷണങ്ങൾക്ക് ഉടൻ മറുപടി നൽകുക.",
     "usageExample": "Answering messages.",
     "difficulty": "BEGINNER"
   },
@@ -163,7 +163,7 @@
     "word": "forward",
     "wordMeaning": "കൈമാറുക",
     "englishText": "Could you forward that technical documentation to the development team?",
-    "malayalamMeaning": "ആ ടെക്നിക്കൽ ഡോക്യുമെന്റേഷൻ ഡെവലപ്‌മെന്റ് ടീമിന് ഒന്ന് ഫോർവേഡ് ചെയ്യാമോ?",
+    "malayalamMeaning": "ആ ടെക്നിക്കൽ ഡോക്യുമെന്റേഷൻ ഡെവലപ്‌മെന്റ് ടീമിന് ഒന്ന് കൈമാറാമോ?",
     "usageExample": "Re-sending email.",
     "difficulty": "BEGINNER"
   },
@@ -171,7 +171,7 @@
     "word": "message",
     "wordMeaning": "സന്ദേശം",
     "englishText": "He dropped a quick message in the team chat asking for assistance.",
-    "malayalamMeaning": "സഹായം അഭ്യർത്ഥിച്ചുകൊണ്ട് അവൻ ടീം ചാറ്റിൽ പെട്ടെന്ന് ഒരു മെസ്സേജ് അയച്ചു.",
+    "malayalamMeaning": "സഹായം അഭ്യർത്ഥിച്ചുകൊണ്ട് അവൻ ടീം ചാറ്റിൽ പെട്ടെന്ന് ഒരു സന്ദേശം അയച്ചു.",
     "usageExample": "Short memo.",
     "difficulty": "BEGINNER"
   },
@@ -179,7 +179,7 @@
     "word": "call",
     "wordMeaning": "വിളിക്കുക",
     "englishText": "We have a scheduled conference call with the Singapore team at noon.",
-    "malayalamMeaning": "ഉച്ചയ്ക്ക് സിംഗപ്പൂർ ടീമുമായി നിശ്ചയിച്ച ഒരു കോൺഫറൻസ് കോൾ ഉണ്ട്.",
+    "malayalamMeaning": "നമുക്ക് ഉച്ചയ്ക്ക് സിംഗപ്പൂർ ടീമുമായി നിശ്ചയിച്ച ഒരു കോൺഫറൻസ് കോൾ ഉണ്ട്.",
     "usageExample": "Voice communication.",
     "difficulty": "BEGINNER"
   },
@@ -195,7 +195,7 @@
     "word": "meeting",
     "wordMeaning": "യോഗം",
     "englishText": "The morning stand-up meeting lasted only fifteen minutes.",
-    "malayalamMeaning": "രാവിലത്തെ സ്റ്റാൻഡ്-അപ്പ് മീറ്റിംഗ് വെറും പതിനഞ്ച് മിനിറ്റ് മാത്രമേ നീണ്ടുനിന്നുള്ളൂ.",
+    "malayalamMeaning": "രാവിലത്തെ സ്റ്റാൻഡ്-അപ്പ് യോഗം വെറും പതിനഞ്ച് മിനിറ്റ് മാത്രമേ നീണ്ടുനിന്നുള്ളൂ.",
     "usageExample": "Work gathering.",
     "difficulty": "BEGINNER"
   },
@@ -203,7 +203,7 @@
     "word": "room",
     "wordMeaning": "മുറി",
     "englishText": "Let us book conference room B for the afternoon client demo.",
-    "malayalamMeaning": "ഉച്ചകഴിഞ്ഞുള്ള ക്ലയന്റ് ഡെമോയ്ക്കായി നമുക്ക് കോൺഫറൻസ് റൂം ബി ബുക്ക് ചെയ്യാം.",
+    "malayalamMeaning": "ഉച്ചകഴിഞ്ഞുള്ള ക്ലയന്റ് ഡെമോയ്ക്കായി നമുക്ക് കോൺഫറൻസ് മുറി ബി ബുക്ക് ചെയ്യാം.",
     "usageExample": "Office chamber.",
     "difficulty": "BEGINNER"
   },
@@ -211,7 +211,7 @@
     "word": "table",
     "wordMeaning": "മേശ",
     "englishText": "The directors sat around the polished conference table to review results.",
-    "malayalamMeaning": "കമ്പനിയുടെ പ്രവർത്തനഫലങ്ങൾ വിലയിരുത്താനായി ഡയറക്ടർമാർ കോൺഫറൻസ് ടേബിളിന് ചുറ്റുമിരുന്നു.",
+    "malayalamMeaning": "പ്രവർത്തനഫലങ്ങൾ അവലോകനം ചെയ്യാനായി ഡയറക്ടർമാർ മിനുസപ്പെടുത്തിയ കോൺഫറൻസ് മേശയ്ക്ക് ചുറ്റുമിരുന്നു.",
     "usageExample": "Meeting table.",
     "difficulty": "BEGINNER"
   },
@@ -219,7 +219,7 @@
     "word": "boss",
     "wordMeaning": "മേലധികാരി",
     "englishText": "My boss approved my leave request for the festival holidays.",
-    "malayalamMeaning": "ഉത്സവ അവധിക്ക് വേണ്ടിയുള്ള എന്റെ ലീവ് അപേക്ഷ ബോസ് അനുവദിച്ചു.",
+    "malayalamMeaning": "ഉത്സവ അവധികൾക്കായുള്ള എന്റെ ലീവ് അപേക്ഷ എന്റെ മേലധികാരി അംഗീകരിച്ചു.",
     "usageExample": "Supervisor.",
     "difficulty": "BEGINNER"
   },
@@ -227,7 +227,7 @@
     "word": "manager",
     "wordMeaning": "മാനേജർ",
     "englishText": "The project manager assigned three new tickets to each developer.",
-    "malayalamMeaning": "ഓരോ ഡെവലപ്പർക്കും പ്രോജക്ട് മാനേജർ മൂന്ന് പുതിയ ടാസ്കുകൾ വീതിച്ചു നൽകി.",
+    "malayalamMeaning": "ഓരോ ഡെവലപ്പർക്കും പ്രോജക്ട് മാനേജർ മൂന്ന് പുതിയ ടിക്കറ്റുകൾ ഏൽപ്പിച്ചു നൽകി.",
     "usageExample": "Team leader.",
     "difficulty": "BEGINNER"
   },
@@ -235,7 +235,7 @@
     "word": "team",
     "wordMeaning": "സംഘം",
     "englishText": "Our engineering team worked round the clock to deploy the update.",
-    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ അപ്ഡേറ്റ് വിജയകരമായി റിലീസ് ചെയ്യാൻ ഞങ്ങളുടെ എൻജിനീയറിംഗ് ടീം രാപ്പകലില്ലാതെ പ്രവർത്തിച്ചു.",
+    "malayalamMeaning": "അപ്ഡേറ്റ് പുറത്തിറക്കാൻ ഞങ്ങളുടെ എൻജിനീയറിംഗ് സംഘം രാപ്പകലില്ലാതെ പ്രവർത്തിച്ചു.",
     "usageExample": "Workgroup.",
     "difficulty": "BEGINNER"
   },
@@ -243,7 +243,7 @@
     "word": "leader",
     "wordMeaning": "നേതാവ്",
     "englishText": "A great team leader guides others with empathy and clear vision.",
-    "malayalamMeaning": "സഹപ്രവർത്തകരെ മനസ്സിലാക്കിക്കൊണ്ടും വ്യക്തമായ കാഴ്ചപ്പാടോടെയുമാണ് ഒരു മികച്ച ടീം ലീഡർ മറ്റുള്ളവരെ നയിക്കുന്നത്.",
+    "malayalamMeaning": "ഒരു മികച്ച ടീം നേതാവ് സഹാനുഭൂതിയോടും വ്യക്തമായ കാഴ്ചപ്പാടോടും കൂടി മറ്റുള്ളവരെ നയിക്കുന്നു.",
     "usageExample": "Guide/manager.",
     "difficulty": "BEGINNER"
   },
@@ -251,7 +251,7 @@
     "word": "colleague",
     "wordMeaning": "സഹപ്രവർത്തകൻ",
     "englishText": "My colleague kindly helped me resolve the database configuration error.",
-    "malayalamMeaning": "ഡാറ്റാബേസ് കോൺഫിഗറേഷനിലുണ്ടായ തകരാർ പരിഹരിക്കാൻ സഹപ്രവർത്തകൻ എന്നെ വളരെ സഹായിച്ചു.",
+    "malayalamMeaning": "ഡാറ്റാബേസ് കോൺഫിഗറേഷനിലെ പിശക് പരിഹരിക്കാൻ എന്റെ സഹപ്രവർത്തകൻ സന്മനസ്സോടെ എന്നെ സഹായിച്ചു.",
     "usageExample": "Coworker.",
     "difficulty": "BEGINNER"
   },
@@ -315,7 +315,7 @@
     "word": "task",
     "wordMeaning": "ചുമതല",
     "englishText": "Break down the big task into smaller, manageable daily steps.",
-    "malayalamMeaning": "വലിയൊരു ജോലിയെ എളുപ്പത്തിൽ ചെയ്തുതീർക്കാൻ പറ്റിയ ചെറിയ ഘട്ടങ്ങളായി തിരിക്കുക.",
+    "malayalamMeaning": "വലിയൊരു ചുമതലയെ എളുപ്പത്തിൽ കൈകാര്യം ചെയ്യാവുന്ന ചെറിയ ദൈനംദിന ഘട്ടങ്ങളായി തിരിക്കുക.",
     "usageExample": "Work item.",
     "difficulty": "BEGINNER"
   },
@@ -323,7 +323,7 @@
     "word": "project",
     "wordMeaning": "പദ്ധതി",
     "englishText": "The software project must be completed within the agreed timeline.",
-    "malayalamMeaning": "തീരുമാനിച്ച സമയപരിധിക്കുള്ളിൽ തന്നെ സോഫ്റ്റ്‌വെയർ പ്രോജക്റ്റ് പൂർത്തിയാക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "ധാരണയായ സമയപരിധിക്കുള്ളിൽ തന്നെ സോഫ്റ്റ്‌വെയർ പദ്ധതി പൂർത്തിയാക്കേണ്ടതുണ്ട്.",
     "usageExample": "Major work initiative.",
     "difficulty": "BEGINNER"
   },
@@ -331,7 +331,7 @@
     "word": "plan",
     "wordMeaning": "പദ്ധതി",
     "englishText": "We need a backup plan in case the server deployment fails.",
-    "malayalamMeaning": "സെർവർ ഡിപ്ലോയ്മെന്റ് പരാജയപ്പെട്ടാൽ ചെയ്യാൻ നമുക്കൊരു ബാക്കപ്പ് പ്ലാൻ ഉണ്ടായിരിക്കണം.",
+    "malayalamMeaning": "സെർവർ ഡിപ്ലോയ്മെന്റ് പരാജയപ്പെട്ടാൽ ഉപയോഗിക്കാൻ നമുക്കൊരു ബാക്കപ്പ് പദ്ധതി ആവശ്യമാണ്.",
     "usageExample": "Work strategy.",
     "difficulty": "BEGINNER"
   },
@@ -347,7 +347,7 @@
     "word": "target",
     "wordMeaning": "ലക്ഷ്യം",
     "englishText": "The sales department exceeded its monthly target ahead of schedule.",
-    "malayalamMeaning": "സെയിൽസ് വിഭാഗം തങ്ങളുടെ പ്രതിമാസ ടാർഗെറ്റ് നിശ്ചയിച്ചതിലും നേരത്തെ തന്നെ മറികടന്നു.",
+    "malayalamMeaning": "സെയിൽസ് വിഭാഗം തങ്ങളുടെ പ്രതിമാസ ലക്ഷ്യം നിശ്ചയിച്ച സമയത്തിനും മുൻപേ മറികടന്നു.",
     "usageExample": "Numerical quota.",
     "difficulty": "BEGINNER"
   },
@@ -355,7 +355,7 @@
     "word": "deadline",
     "wordMeaning": "സമയപരിധി",
     "englishText": "Missing a critical client deadline can harm our company's reputation.",
-    "malayalamMeaning": "ക്ലയന്റിന് നൽകിയ സമയപരിധി പാലിക്കാൻ കഴിയാതെ വരുന്നത് കമ്പനിയുടെ സൽപ്പേരിനെ ബാധിക്കും.",
+    "malayalamMeaning": "ക്ലയന്റിന്റെ നിർണ്ണായകമായ സമയപരിധി തെറ്റിക്കുന്നത് നമ്മുടെ കമ്പനിയുടെ സൽപ്പേരിനെ ദോഷകരമായി ബാധിക്കും.",
     "usageExample": "Due time.",
     "difficulty": "BEGINNER"
   },
@@ -371,7 +371,7 @@
     "word": "time",
     "wordMeaning": "സമയം",
     "englishText": "Punctuality and time management are critical traits for professionals.",
-    "malayalamMeaning": "കൃത്യനിഷ്ഠയും സമയനിഷ്ഠയും ഒരു പ്രൊഫഷണലിന് ഒഴിച്ചുകൂടാനാവാത്ത ഗുണങ്ങളാണ്.",
+    "malayalamMeaning": "കൃത്യനിഷ്ഠയും സമയപരിപാലനവും പ്രൊഫഷണലുകൾക്ക് അത്യന്താപേക്ഷിതമായ ഗുണങ്ങളാണ്.",
     "usageExample": "Punctuality.",
     "difficulty": "BEGINNER"
   },
@@ -379,7 +379,7 @@
     "word": "clock",
     "wordMeaning": "ഘടികാരം",
     "englishText": "Employees must clock in using their biometric pass at the entrance.",
-    "malayalamMeaning": "ജീവനക്കാർ ഓഫീസിൽ പ്രവേശിക്കുമ്പോൾ എൻട്രൻസിലെ ബയോമെട്രിക് മെഷീനിൽ പഞ്ച് ഇൻ ചെയ്യണം.",
+    "malayalamMeaning": "ജീവനക്കാർ പ്രവേശന കവാടത്തിൽ തങ്ങളുടെ ബയോമെട്രിക് പാസ് ഉപയോഗിച്ച് ഹാജർ രേഖപ്പെടുത്തണം.",
     "usageExample": "Time tracking.",
     "difficulty": "BEGINNER"
   },
@@ -419,7 +419,7 @@
     "word": "done",
     "wordMeaning": "പൂർത്തിയായ",
     "englishText": "Once the code review is done, we can push the changes live.",
-    "malayalamMeaning": "കോഡ് റിവ്യൂ കഴിഞ്ഞാലുടൻ നമുക്ക് ആ മാറ്റങ്ങൾ പ്രൊഡക്ഷനിലേക്ക് ലൈവാക്കാം.",
+    "malayalamMeaning": "കോഡ് റിവ്യൂ പൂർത്തിയായാലുടൻ നമുക്ക് മാറ്റങ്ങൾ ലൈവ് ആക്കാം.",
     "usageExample": "Completed state.",
     "difficulty": "BEGINNER"
   },
@@ -451,7 +451,7 @@
     "word": "review",
     "wordMeaning": "അവലോകനം ചെയ്യുക",
     "englishText": "The senior architect will review your system architecture proposal.",
-    "malayalamMeaning": "സീനിയർ ആർക്കിടെക്റ്റ് നിങ്ങളുടെ സിസ്റ്റം ആർക്കിടെക്ചർ പ്രൊപ്പോസൽ പരിശോധിക്കുന്നതായിരിക്കും.",
+    "malayalamMeaning": "സീനിയർ ആർക്കിടെക്റ്റ് നിങ്ങളുടെ സിസ്റ്റം ആർക്കിടെക്ചർ നിർദ്ദേശം അവലോകനം ചെയ്യും.",
     "usageExample": "Examining critically.",
     "difficulty": "BEGINNER"
   },
@@ -459,7 +459,7 @@
     "word": "edit",
     "wordMeaning": "തിരുത്തുക",
     "englishText": "Please edit the executive summary to remove grammatical errors.",
-    "malayalamMeaning": "വ്യാകരണപരമായ തെറ്റുകൾ തിരുത്താനായി എക്സിക്യൂട്ടീവ് സമ്മറി ഒന്ന് എഡിറ്റ് ചെയ്യുക.",
+    "malayalamMeaning": "വ്യാകരണപ്പിശകുകൾ നീക്കം ചെയ്യാനായി എക്സിക്യൂട്ടീവ് സമ്മറി തിരുത്തുക.",
     "usageExample": "Refining text.",
     "difficulty": "BEGINNER"
   },
@@ -475,7 +475,7 @@
     "word": "error",
     "wordMeaning": "പിശക്",
     "englishText": "The system threw an error when processing the invalid credit card.",
-    "malayalamMeaning": "അസാധുവായ ക്രെഡിറ്റ് കാർഡ് പ്രോസസ്സ് ചെയ്തപ്പോൾ സിസ്റ്റത്തിൽ എറർ കാണിച്ചു.",
+    "malayalamMeaning": "അസാധുവായ ക്രെഡിറ്റ് കാർഡ് പ്രോസസ്സ് ചെയ്തപ്പോൾ സിസ്റ്റം ഒരു പിശക് കാണിച്ചു.",
     "usageExample": "Flaw or bug.",
     "difficulty": "BEGINNER"
   },
@@ -483,7 +483,7 @@
     "word": "mistake",
     "wordMeaning": "തെറ്റ്",
     "englishText": "Admitting an honest mistake promptly builds trust with your manager.",
-    "malayalamMeaning": "പറ്റിപ്പോയ തെറ്റ് അപ്പോൾത്തന്നെ തുറന്നുസമ്മതിക്കുന്നത് മാനേജർക്ക് നിങ്ങളിലുള്ള വിശ്വാസം വർദ്ധിപ്പിക്കും.",
+    "malayalamMeaning": "അറിയാതെ പറ്റിയ ഒരു തെറ്റ് ഉടൻ തുറന്നുസമ്മതിക്കുന്നത് മാനേജർക്ക് നിങ്ങളിലുള്ള വിശ്വാസം വർദ്ധിപ്പിക്കും.",
     "usageExample": "Error in work.",
     "difficulty": "BEGINNER"
   },
@@ -515,7 +515,7 @@
     "word": "help",
     "wordMeaning": "സഹായം",
     "englishText": "Never hesitate to ask for help from senior colleagues when stuck.",
-    "malayalamMeaning": "ജോലിക്കിടയിൽ സംശയങ്ങൾ വന്നാൽ സീനിയർ സഹപ്രവർത്തകരോട് സഹായം ചോദിക്കാൻ ഒരിക്കലും മടിക്കരുത്.",
+    "malayalamMeaning": "ജോലിക്കിടയിൽ തടസ്സം നേരിടുമ്പോൾ സീനിയർ സഹപ്രവർത്തകരോട് സഹായം ചോദിക്കാൻ ഒരിക്കലും മടിക്കരുത്.",
     "usageExample": "Mutual assistance.",
     "difficulty": "BEGINNER"
   },
@@ -531,7 +531,7 @@
     "word": "question",
     "wordMeaning": "ചോദ്യം",
     "englishText": "He raised an important question about user data privacy during the call.",
-    "malayalamMeaning": "മീറ്റിംഗിനിടയിൽ ഉപഭോക്താക്കളുടെ ഡാറ്റാ സ്വകാര്യതയെക്കുറിച്ച് അവൻ ഒരു പ്രധാന ചോദ്യം ഉന്നയിച്ചു.",
+    "malayalamMeaning": "കോളിനിടയിൽ ഉപയോക്താക്കളുടെ ഡാറ്റാ സ്വകാര്യതയെക്കുറിച്ച് അവൻ ഒരു പ്രധാന ചോദ്യം ഉന്നയിച്ചു.",
     "usageExample": "Professional query.",
     "difficulty": "BEGINNER"
   },
@@ -539,7 +539,7 @@
     "word": "answer",
     "wordMeaning": "ഉത്തരം",
     "englishText": "She gave a crisp, data-backed answer to the director's query.",
-    "malayalamMeaning": "ഡയറക്ടറുടെ ചോദ്യത്തിന് കൃത്യമായ കണക്കുകളുടെ പിൻബലത്തോടെ അവൾ വ്യക്തമായ മറുപടി നൽകി.",
+    "malayalamMeaning": "ഡയറക്ടറുടെ ചോദ്യത്തിന് ഡാറ്റയുടെ പിൻബലത്തോടെ അവൾ സംക്ഷിപ്തവും വ്യക്തവുമായ ഉത്തരം നൽകി.",
     "usageExample": "Professional response.",
     "difficulty": "BEGINNER"
   },
@@ -547,7 +547,7 @@
     "word": "explain",
     "wordMeaning": "വിശദീകരിക്കുക",
     "englishText": "Can you explain the new feature roadmap to the marketing team?",
-    "malayalamMeaning": "പുതിയ ഫീച്ചറുകളെക്കുറിച്ചുള്ള വിശദാംശങ്ങൾ മാർക്കറ്റിംഗ് ടീമിന് ഒന്ന് വിശദീകരിച്ചുകൊടുക്കാമോ?",
+    "malayalamMeaning": "പുതിയ ഫീച്ചർ റോഡ്മാപ്പ് മാർക്കറ്റിംഗ് ടീമിന് വിശദീകരിച്ചുകൊടുക്കാമോ?",
     "usageExample": "Clarifying.",
     "difficulty": "BEGINNER"
   },
@@ -563,7 +563,7 @@
     "word": "share",
     "wordMeaning": "പങ്കിടുക",
     "englishText": "Please share your screen so everyone can see the live demonstration.",
-    "malayalamMeaning": "എല്ലാവർക്കും ലൈവ് ഡെമോ കാണാനായി നിങ്ങളുടെ സ്ക്രീൻ ഒന്ന് ഷെയർ ചെയ്യൂ.",
+    "malayalamMeaning": "എല്ലാവർക്കും ലൈവ് ഡെമോ കാണാനായി ദയവായി നിങ്ങളുടെ സ്ക്രീൻ പങ്കിടുക.",
     "usageExample": "Broadcasting screen.",
     "difficulty": "BEGINNER"
   },
@@ -571,7 +571,7 @@
     "word": "idea",
     "wordMeaning": "ആശയം",
     "englishText": "Employees are encouraged to submit innovative ideas into the suggestion box.",
-    "malayalamMeaning": "പുതുമയുള്ള ആശയങ്ങൾ സജ്ജഷൻ ബോക്സിലൂടെ സമർപ്പിക്കാൻ ജീവനക്കാരെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "malayalamMeaning": "പുതുമയുള്ള ആശയങ്ങൾ നിർദ്ദേശപ്പെട്ടിയിൽ സമർപ്പിക്കാൻ ജീവനക്കാരെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
     "usageExample": "Creative thought.",
     "difficulty": "BEGINNER"
   },
@@ -619,7 +619,7 @@
     "word": "approval",
     "wordMeaning": "അംഗീകാരം",
     "englishText": "We are waiting for financial approval from the general manager.",
-    "malayalamMeaning": "ജനറൽ മാനേജരിൽ നിന്നുള്ള സാമ്പത്തിക അനുമതിക്കായി ഞങ്ങൾ കാത്തിരിക്കുകയാണ്.",
+    "malayalamMeaning": "ജനറൽ മാനേജരിൽ നിന്നുള്ള സാമ്പത്തിക അംഗീകാരത്തിനായി ഞങ്ങൾ കാത്തിരിക്കുകയാണ്.",
     "usageExample": "Official sanction.",
     "difficulty": "BEGINNER"
   },
@@ -643,7 +643,7 @@
     "word": "print",
     "wordMeaning": "അച്ചടിക്കുക",
     "englishText": "Could you print two hard copies of the non-disclosure agreement?",
-    "malayalamMeaning": "ആ നോൺ-ഡിസ്‌ക്ലോഷർ കരാറിന്റെ രണ്ട് കോപ്പികൾ പ്രിന്റൗട്ട് എടുത്ത് തരാമോ?",
+    "malayalamMeaning": "നോൺ-ഡിസ്‌ക്ലോഷർ കരാറിന്റെ രണ്ട് ഹാർഡ് കോപ്പികൾ അച്ചടിച്ചു തരാമോ?",
     "usageExample": "Hard copy output.",
     "difficulty": "BEGINNER"
   },
@@ -651,7 +651,7 @@
     "word": "copy",
     "wordMeaning": "പകർപ്പ്",
     "englishText": "Keep a backup copy of all invoices on the secure external drive.",
-    "malayalamMeaning": "എല്ലാ ഇൻവോയ്സുകളുടെയും ഒരു ബാക്കപ്പ് കോപ്പി സുരക്ഷിതമായ എക്സ്റ്റേണൽ ഡ്രൈവിൽ സൂക്ഷിക്കുക.",
+    "malayalamMeaning": "എല്ലാ ഇൻവോയ്സുകളുടെയും ഒരു ബാക്കപ്പ് പകർപ്പ് സുരക്ഷിതമായ എക്സ്റ്റേണൽ ഡ്രൈവിൽ സൂക്ഷിക്കുക.",
     "usageExample": "Duplicate record.",
     "difficulty": "BEGINNER"
   },
@@ -667,7 +667,7 @@
     "word": "attach",
     "wordMeaning": "കൂട്ടിച്ചേർക്കുക",
     "englishText": "Do not forget to attach your resume when submitting the online application.",
-    "malayalamMeaning": "ഓൺലൈൻ അപേക്ഷ സമർപ്പിക്കുമ്പോൾ നിങ്ങളുടെ റെസ്യുമെ അറ്റാച്ച് ചെയ്യാൻ മറക്കരുത്.",
+    "malayalamMeaning": "ഓൺലൈൻ അപേക്ഷ സമർപ്പിക്കുമ്പോൾ നിങ്ങളുടെ റെസ്യുമെ കൂട്ടിച്ചേർക്കാൻ മറക്കരുത്.",
     "usageExample": "Appending file.",
     "difficulty": "BEGINNER"
   },
@@ -675,7 +675,7 @@
     "word": "link",
     "wordMeaning": "ലിങ്ക്",
     "englishText": "Click this secure link to join our virtual team conference.",
-    "malayalamMeaning": "ഞങ്ങളുടെ ഓൺലൈൻ മീറ്റിംഗിൽ പങ്കെടുക്കാൻ ഈ സുരക്ഷിതമായ ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുക.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വെർച്വൽ ടീം കോൺഫറൻസിൽ പങ്കെടുക്കാൻ ഈ സുരക്ഷിതമായ ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുക.",
     "usageExample": "Web hyperlink.",
     "difficulty": "BEGINNER"
   },
@@ -699,7 +699,7 @@
     "word": "save",
     "wordMeaning": "സൂക്ഷിക്കുക",
     "englishText": "Always save your document frequently to prevent accidental data loss.",
-    "malayalamMeaning": "തയ്യാറാക്കുന്ന വിവരങ്ങൾ നഷ്ടപ്പെട്ടുപോകാതിരിക്കാൻ ഡോക്യുമെന്റുകൾ എപ്പോഴും സേവ് ചെയ്യുക.",
+    "malayalamMeaning": "അപ്രതീക്ഷിതമായ ഡാറ്റ നഷ്ടം ഒഴിവാക്കാൻ നിങ്ങളുടെ ഡോക്യുമെന്റ് എപ്പോഴും ഇടയ്ക്കിടെ സൂക്ഷിച്ചുവെക്കുക.",
     "usageExample": "Preserving work.",
     "difficulty": "BEGINNER"
   },
@@ -707,7 +707,7 @@
     "word": "delete",
     "wordMeaning": "ഇല്ലാതാക്കുക",
     "englishText": "Never delete official correspondence without checking archiving policies.",
-    "malayalamMeaning": "കമ്പനിയുടെ ആർക്കൈവിംഗ് നിയമങ്ങൾ പരിശോധിക്കാതെ ഔദ്യോഗിക കത്തിടപാടുകൾ ഡിലീറ്റ് ചെയ്യരുത്.",
+    "malayalamMeaning": "ആർക്കൈവിംഗ് നയങ്ങൾ പരിശോധിക്കാതെ ഔദ്യോഗിക കത്തിടപാടുകൾ ഒരിക്കലും ഇല്ലാതാക്കരുത്.",
     "usageExample": "Removing data.",
     "difficulty": "BEGINNER"
   },
@@ -723,7 +723,7 @@
     "word": "slide",
     "wordMeaning": "സ്ലൈഡ്",
     "englishText": "Make sure your presentation slides are concise and visually clear.",
-    "malayalamMeaning": "നിങ്ങളുടെ പ്രസന്റേഷൻ സ്ലൈഡുകൾ ലളിതവും വ്യക്തതയുള്ളതുമാണെന്ന് ഉറപ്പാക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ പ്രസന്റേഷൻ സ്ലൈഡുകൾ സംക്ഷിപ്തവും കാഴ്ചയ്ക്ക് വ്യക്തവുമാണെന്ന് ഉറപ്പാക്കുക.",
     "usageExample": "Presentation page.",
     "difficulty": "BEGINNER"
   },
@@ -731,7 +731,7 @@
     "word": "show",
     "wordMeaning": "കാണിക്കുക",
     "englishText": "Show the client how the automated invoice generation feature works.",
-    "malayalamMeaning": "ഓട്ടോമേറ്റഡ് ഇൻവോയ്സ് സംവിധാനം എങ്ങനെയാണ് പ്രവർത്തിക്കുന്നതെന്ന് ക്ലയന്റിന് കാണിച്ച് കൊടുക്കൂ.",
+    "malayalamMeaning": "ഓട്ടോമേറ്റഡ് ഇൻവോയ്സ് നിർമ്മാണ ഫീച്ചർ എങ്ങനെയാണ് പ്രവർത്തിക്കുന്നതെന്ന് ക്ലയന്റിന് കാണിച്ചുകൊടുക്കുക.",
     "usageExample": "Demonstrating.",
     "difficulty": "BEGINNER"
   },
@@ -739,7 +739,7 @@
     "word": "note",
     "wordMeaning": "കുറിപ്പ്",
     "englishText": "Keep a notepad handy to take down action items during the call.",
-    "malayalamMeaning": "മീറ്റിംഗിലെ പ്രധാന നിർദ്ദേശങ്ങളും ചെയ്യേണ്ട കാര്യങ്ങളും കുറിച്ചുവെക്കാൻ ഒരു നോട്ട്പാഡ് കയ്യിൽ കരുതുക.",
+    "malayalamMeaning": "കോളിനിടയിൽ ചെയ്യേണ്ട കാര്യങ്ങൾ കുറിച്ചുവെക്കാൻ ഒരു നോട്ട്പാഡ് കയ്യിൽ കരുതുക.",
     "usageExample": "Jotting points.",
     "difficulty": "BEGINNER"
   },
@@ -755,7 +755,7 @@
     "word": "type",
     "wordMeaning": "ടൈപ്പ് ചെയ്യുക",
     "englishText": "Learning touch typing significantly boosts your daily writing speed.",
-    "malayalamMeaning": "കീബോർഡിൽ നോക്കാതെ ടൈപ്പ് ചെയ്യാൻ പഠിക്കുന്നത് നിങ്ങളുടെ ടൈപ്പിംഗ് വേഗത ഗണ്യമായി വർദ്ധിപ്പിക്കും.",
+    "malayalamMeaning": "കീബോർഡിൽ നോക്കാതെ ടൈപ്പ് ചെയ്യാൻ പഠിക്കുന്നത് നിങ്ങളുടെ ദൈനംദിന എഴുത്ത് വേഗത ഗണ്യമായി വർദ്ധിപ്പിക്കും.",
     "usageExample": "Entering text.",
     "difficulty": "BEGINNER"
   },
@@ -771,7 +771,7 @@
     "word": "calendar",
     "wordMeaning": "കലണ്ടർ",
     "englishText": "Check the shared team calendar before scheduling cross-timezone calls.",
-    "malayalamMeaning": "മറ്റ് രാജ്യങ്ങളിലുള്ളവരുമായി കോൾ നിശ്ചയിക്കുന്നതിന് മുൻപ് ടീം കലണ്ടർ പരിശോധിച്ച് ഉറപ്പുവരുത്തുക.",
+    "malayalamMeaning": "വ്യത്യസ്ത സമയമേഖലകളിലുള്ള കോളുകൾ നിശ്ചയിക്കുന്നതിന് മുൻപ് പൊതുവായ ടീം കലണ്ടർ പരിശോധിക്കുക.",
     "usageExample": "Schedule planner.",
     "difficulty": "BEGINNER"
   },
@@ -779,7 +779,7 @@
     "word": "schedule",
     "wordMeaning": "സമയക്രമം",
     "englishText": "The project schedule was updated to include additional testing days.",
-    "malayalamMeaning": "കൂടുതൽ ടെസ്റ്റിംഗ് ദിവസങ്ങൾ കൂടി ഉൾപ്പെടുത്തി പ്രോജക്ട് ഷെഡ്യൂൾ പുതുക്കി.",
+    "malayalamMeaning": "കൂടുതൽ ടെസ്റ്റിംഗ് ദിവസങ്ങൾ കൂടി ഉൾപ്പെടുത്തി പ്രോജക്ടിന്റെ സമയക്രമം പുതുക്കി.",
     "usageExample": "Timetable.",
     "difficulty": "BEGINNER"
   },
@@ -795,7 +795,7 @@
     "word": "interview",
     "wordMeaning": "അഭിമുഖം",
     "englishText": "We scheduled five technical interview rounds for the software engineer role.",
-    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ എൻജിനീയർ തസ്തികയ്ക്കായി ഞങ്ങൾ അഞ്ച് ടെക്നിക്കൽ ഇന്റർവ്യൂ റൗണ്ടുകൾ നിശ്ചയിച്ചിട്ടുണ്ട്.",
+    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ എൻജിനീയർ തസ്തികയ്ക്കായി ഞങ്ങൾ അഞ്ച് ടെക്നിക്കൽ അഭിമുഖ ഘട്ടങ്ങൾ നിശ്ചയിച്ചു.",
     "usageExample": "Hiring assessment.",
     "difficulty": "BEGINNER"
   },
@@ -811,7 +811,7 @@
     "word": "resume",
     "wordMeaning": "സ്വയംവിവരക്കുറിപ്പ്",
     "englishText": "Tailor your professional resume to highlight measurable achievements.",
-    "malayalamMeaning": "നിങ്ങളുടെ പ്രധാന നേട്ടങ്ങൾ വ്യക്തമായി കാണുന്ന രീതിയിൽ റെസ്യുമെ ചിട്ടപ്പെടുത്തുക.",
+    "malayalamMeaning": "അളക്കാവുന്ന നേട്ടങ്ങൾ എടുത്തുകാണിക്കുന്ന വിധത്തിൽ നിങ്ങളുടെ പ്രൊഫഷണൽ സ്വയംവിവരക്കുറിപ്പ് ചിട്ടപ്പെടുത്തുക.",
     "usageExample": "Curriculum vitae.",
     "difficulty": "BEGINNER"
   },
@@ -835,7 +835,7 @@
     "word": "train",
     "wordMeaning": "പരിശീലിപ്പിക്കുക",
     "englishText": "Senior engineers train junior recruits on industry coding standards.",
-    "malayalamMeaning": "പുതുതായി ചേർന്ന ജൂനിയർ എൻജിനീയർമാർക്ക് സീനിയർ എൻജിനീയർമാർ കോഡിംഗ് രീതികളിൽ പരിശീലനം നൽകുന്നു.",
+    "malayalamMeaning": "പുതുതായി നിയമിതരായ ജൂനിയർ ജീവനക്കാരെ സീനിയർ എൻജിനീയർമാർ വ്യവസായ കോഡിംഗ് നിലവാരത്തിൽ പരിശീലിപ്പിക്കുന്നു.",
     "usageExample": "Instructing staff.",
     "difficulty": "BEGINNER"
   },
@@ -843,7 +843,7 @@
     "word": "learn",
     "wordMeaning": "പഠിക്കുക",
     "englishText": "A successful career requires a continuous willingness to learn new tools.",
-    "malayalamMeaning": "വിജയകരമായ ഒരു കരിയറിന് പുതിയ സാങ്കേതികവിദ്യകളും ടൂളുകളും പഠിക്കാനുള്ള സന്നദ്ധത അത്യാവശ്യമാണ്.",
+    "malayalamMeaning": "വിജയകരമായ ഒരു കരിയറിന് പുതിയ ഉപകരണങ്ങൾ പഠിക്കാനുള്ള നിരന്തരമായ സന്നദ്ധത അത്യാവശ്യമാണ്.",
     "usageExample": "Acquiring skills.",
     "difficulty": "BEGINNER"
   },
@@ -851,7 +851,7 @@
     "word": "skill",
     "wordMeaning": "വൈദഗ്ധ്യം",
     "englishText": "Communication is just as vital a skill as technical programming expertise.",
-    "malayalamMeaning": "സാങ്കേതിക പ്രോഗ്രാമിംഗ് വൈദഗ്ധ്യം പോലെ തന്നെ പ്രധാനമാണ് മികച്ച ആശയവിനിമയ ശേഷിയും.",
+    "malayalamMeaning": "സാങ്കേതിക പ്രോഗ്രാമിംഗ് പ്രാവീണ്യം പോലെ തന്നെ അത്യന്താപേക്ഷിതമായ ഒരു വൈദഗ്ധ്യമാണ് ആശയവിനിമയവും.",
     "usageExample": "Capability.",
     "difficulty": "BEGINNER"
   },
@@ -867,7 +867,7 @@
     "word": "pay",
     "wordMeaning": "വേതനം",
     "englishText": "The company offers competitive pay packages along with stock options.",
-    "malayalamMeaning": "കമ്പനി മികച്ച ശമ്പളത്തിനൊപ്പം ആകർഷകമായ സ്റ്റോക്ക് ഓപ്ഷനുകളും നൽകുന്നുണ്ട്.",
+    "malayalamMeaning": "സ്റ്റോക്ക് ഓപ്ഷനുകൾക്കൊപ്പം മത്സരക്ഷമമായ വേതന പാക്കേജുകളും കമ്പനി വാഗ്ദാനം ചെയ്യുന്നു.",
     "usageExample": "Remuneration.",
     "difficulty": "BEGINNER"
   },
@@ -875,7 +875,7 @@
     "word": "bonus",
     "wordMeaning": "ബോണസ്",
     "englishText": "All staff members received an annual performance bonus after a banner year.",
-    "malayalamMeaning": "കമ്പനി വലിയ വിജയം കൈവരിച്ചതിനെത്തുടർന്ന് എല്ലാ ജീവനക്കാർക്കും വാർഷിക ബോണസ് ലഭിച്ചു.",
+    "malayalamMeaning": "മികച്ച വിജയവർഷത്തിന് ശേഷം എല്ലാ ജീവനക്കാർക്കും വാർഷിക പ്രകടന ബോണസ് ലഭിച്ചു.",
     "usageExample": "Extra incentive.",
     "difficulty": "BEGINNER"
   },
@@ -883,7 +883,7 @@
     "word": "leave",
     "wordMeaning": "അവധി",
     "englishText": "You can apply for casual leave through the self-service HR portal.",
-    "malayalamMeaning": "കമ്പനിയുടെ എച്ച്.ആർ പോർട്ടൽ വഴി നിങ്ങൾക്ക് കാഷ്വൽ ലീവിന് അപേക്ഷിക്കാം.",
+    "malayalamMeaning": "സെൽഫ് സർവീസ് HR പോർട്ടൽ വഴി നിങ്ങൾക്ക് കാഷ്വൽ അവധിക്ക് അപേക്ഷിക്കാം.",
     "usageExample": "Time off.",
     "difficulty": "BEGINNER"
   },
@@ -891,7 +891,7 @@
     "word": "holiday",
     "wordMeaning": "അവധി",
     "englishText": "The office will remain closed on Thursday for the public holiday.",
-    "malayalamMeaning": "പൊതു അവധിയായതിനാൽ വ്യാഴാഴ്ച ഓഫീസിന് അവധിയായിരിക്കും.",
+    "malayalamMeaning": "പൊതു അവധിയായതിനാൽ വ്യാഴാഴ്ച ഓഫീസ് അടച്ചിരിക്കും.",
     "usageExample": "Official day off.",
     "difficulty": "BEGINNER"
   },
@@ -899,7 +899,7 @@
     "word": "sick",
     "wordMeaning": "അസുഖമുള്ള",
     "englishText": "Inform your manager via email if you need to take sick leave today.",
-    "malayalamMeaning": "ഇന്ന് സിക്ക് ലീവ് ആവശ്യമുണ്ടെങ്കിൽ മാനേജരെ ഇമെയിൽ വഴി അറിയിക്കുക.",
+    "malayalamMeaning": "ഇന്ന് അസുഖം കാരണം അവധിയെടുക്കേണ്ടതുണ്ടെങ്കിൽ നിങ്ങളുടെ മാനേജരെ ഇമെയിൽ വഴി അറിയിക്കുക.",
     "usageExample": "Medical absence.",
     "difficulty": "BEGINNER"
   },
@@ -907,7 +907,7 @@
     "word": "absent",
     "wordMeaning": "ഹാജരാകാത്ത",
     "englishText": "Two team members were absent today due to the severe monsoon flooding.",
-    "malayalamMeaning": "കനത്ത മഴയും വെള്ളപ്പൊക്കവും കാരണം രണ്ട് ടീമംഗങ്ങൾക്ക് ഇന്ന് ജോലിക്ക് വരാൻ കഴിഞ്ഞില്ല.",
+    "malayalamMeaning": "കനത്ത കാലവർഷ വെള്ളപ്പൊക്കം കാരണം രണ്ട് ടീമംഗങ്ങൾ ഇന്ന് ഹാജരായില്ല.",
     "usageExample": "Not present.",
     "difficulty": "BEGINNER"
   },
@@ -915,7 +915,7 @@
     "word": "present",
     "wordMeaning": "ഹാജരായ",
     "englishText": "All fifteen department heads were present at the annual general meeting.",
-    "malayalamMeaning": "വാർഷിക ജനറൽ ബോഡി യോഗത്തിൽ പതിനഞ്ച് ഡിപ്പാർട്ട്‌മെന്റ് തലവന്മാരും പങ്കെടുത്തു.",
+    "malayalamMeaning": "വാർഷിക പൊതുയോഗത്തിൽ പതിനഞ്ച് ഡിപ്പാർട്ട്‌മെന്റ് തലവന്മാരും ഹാജരായിരുന്നു.",
     "usageExample": "In attendance.",
     "difficulty": "BEGINNER"
   },
@@ -939,7 +939,7 @@
     "word": "lunch",
     "wordMeaning": "ഉച്ചഭക്ഷണം",
     "englishText": "We usually step out for a quick lunch at twelve-thirty in the afternoon.",
-    "malayalamMeaning": "ഉച്ചയ്ക്ക് പന്ത്രണ്ടരയോടെയാണ് ഞങ്ങൾ സാധാരണയായി ഭക്ഷണം കഴിക്കാൻ പുറത്തിറങ്ങാറുള്ളത്.",
+    "malayalamMeaning": "ഉച്ചയ്ക്ക് പന്ത്രണ്ടരയ്ക്ക് ഞങ്ങൾ സാധാരണയായി വേഗത്തിൽ ഉച്ചഭക്ഷണം കഴിക്കാൻ പുറത്തിറങ്ങാറുണ്ട്.",
     "usageExample": "Midday meal break.",
     "difficulty": "BEGINNER"
   },
@@ -955,7 +955,7 @@
     "word": "pantry",
     "wordMeaning": "കലവറ",
     "englishText": "Fresh fruit and herbal tea are available for all staff in the office pantry.",
-    "malayalamMeaning": "ഓഫീസ് പാൻട്രിയിൽ ജീവനക്കാർക്കായി പഴങ്ങളും ചായയും കരുതിയിട്ടുണ്ട്.",
+    "malayalamMeaning": "ഓഫീസ് കലവറയിൽ എല്ലാ ജീവനക്കാർക്കുമായി പുതിയ പഴങ്ങളും ഹെർബൽ ചായയും ലഭ്യമാണ്.",
     "usageExample": "Office kitchenette.",
     "difficulty": "BEGINNER"
   },
@@ -979,7 +979,7 @@
     "word": "badge",
     "wordMeaning": "ബാഡ്ജ്",
     "englishText": "Wear your company identification badge visibly at all times on campus.",
-    "malayalamMeaning": "ഓഫീസ് ക്യാമ്പസിൽ ആയിരിക്കുമ്പോൾ ഐഡി കാർഡ് എല്ലാവരും കാണത്തക്കവിധം എപ്പോഴും ധരിക്കുക.",
+    "malayalamMeaning": "ക്യാമ്പസിലായിരിക്കുമ്പോൾ നിങ്ങളുടെ കമ്പനിയുടെ തിരിച്ചറിയൽ ബാഡ്ജ് എല്ലാവർക്കും കാണാവുന്ന വിധത്തിൽ എപ്പോഴും ധരിക്കുക.",
     "usageExample": "Security ID.",
     "difficulty": "BEGINNER"
   },
@@ -987,7 +987,7 @@
     "word": "pass",
     "wordMeaning": "പ്രവേശനാനുമതി",
     "englishText": "Visitors must obtain a temporary security pass at the reception desk.",
-    "malayalamMeaning": "ഓഫീസ് സന്ദർശിക്കാൻ എത്തുന്നവർ റിസപ്ഷനിൽ നിന്ന് താൽക്കാലിക എൻട്രി പാസ് വാങ്ങേണ്ടതാണ്.",
+    "malayalamMeaning": "സന്ദർശകർ റിസപ്ഷൻ ഡെസ്കിൽ നിന്ന് താൽക്കാലിക സുരക്ഷാ പ്രവേശനാനുമതി നേടേണ്ടതാണ്.",
     "usageExample": "Entry permit.",
     "difficulty": "BEGINNER"
   },
@@ -1003,7 +1003,7 @@
     "word": "formal",
     "wordMeaning": "ഔപചാരികമായ",
     "englishText": "Our corporate client meeting calls for formal business attire.",
-    "malayalamMeaning": "കോർപ്പറേറ്റ് ക്ലയന്റ് മീറ്റിംഗിൽ പങ്കെടുക്കുമ്പോൾ ഔദ്യോഗിക ഫോർമൽ വസ്ത്രങ്ങൾ ധരിക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "നമ്മുടെ കോർപ്പറേറ്റ് ക്ലയന്റ് മീറ്റിംഗിൽ ഔപചാരികമായ ബിസിനസ്സ് വസ്ത്രധാരണം ആവശ്യമാണ്.",
     "usageExample": "Professional dress.",
     "difficulty": "BEGINNER"
   },
@@ -1011,7 +1011,7 @@
     "word": "tie",
     "wordMeaning": "ടൈ",
     "englishText": "Wearing a tie is optional except during formal executive presentations.",
-    "malayalamMeaning": "പ്രധാനപ്പെട്ട എക്സിക്യൂട്ടീവ് പ്രസന്റേഷനുകളിൽ ഒഴികെ ടൈ ധരിക്കുന്നത് നിർബന്ധമല്ല.",
+    "malayalamMeaning": "ഔപചാരിക എക്സിക്യൂട്ടീവ് പ്രസന്റേഷനുകളിലൊഴികെ ടൈ ധരിക്കുന്നത് നിർബന്ധമല്ല.",
     "usageExample": "Neckwear.",
     "difficulty": "BEGINNER"
   },
@@ -1027,7 +1027,7 @@
     "word": "rule",
     "wordMeaning": "നിയമം",
     "englishText": "Strict compliance with safety rules is mandatory across all laboratories.",
-    "malayalamMeaning": "എല്ലാ ലാബുകളിലും സുരക്ഷാ മാനദണ്ഡങ്ങൾ കർശനമായി പാലിക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "എല്ലാ ലബോറട്ടറികളിലും സുരക്ഷാ നിയമങ്ങൾ കർശനമായി പാലിക്കുന്നത് നിർബന്ധമാണ്.",
     "usageExample": "Regulation.",
     "difficulty": "BEGINNER"
   },
@@ -1035,7 +1035,7 @@
     "word": "policy",
     "wordMeaning": "നയം",
     "englishText": "Our remote work policy permits employees to work from home two days a week.",
-    "malayalamMeaning": "കമ്പനിയുടെ വർക്ക് ഫ്രം ഹോം പോളിസി പ്രകാരം ജീവനക്കാർക്ക് ആഴ്ചയിൽ രണ്ട് ദിവസം വീട്ടിലിരുന്ന് ജോലി ചെയ്യാം.",
+    "malayalamMeaning": "ഞങ്ങളുടെ റിമോട്ട് വർക്ക് നയം ജീവനക്കാർക്ക് ആഴ്ചയിൽ രണ്ട് ദിവസം വീട്ടിലിരുന്ന് ജോലി ചെയ്യാൻ അനുമതി നൽകുന്നു.",
     "usageExample": "Company guidelines.",
     "difficulty": "BEGINNER"
   },
@@ -1043,7 +1043,7 @@
     "word": "safe",
     "wordMeaning": "സുരക്ഷിതം",
     "englishText": "Ensure all power cables are neatly tied so the workspace remains safe.",
-    "malayalamMeaning": "ഓഫീസ് അന്തരീക്ഷം സുരക്ഷിതമായിരിക്കാൻ എല്ലാ പവർ കേബിളുകളും അലക്ഷ്യമായി ഇടാതെ ഒതുക്കി വെക്കുക.",
+    "malayalamMeaning": "ജോലിസ്ഥലം സുരക്ഷിതമായിരിക്കാൻ എല്ലാ പവർ കേബിളുകളും വൃത്തിയായി കെട്ടിവെച്ചിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക.",
     "usageExample": "Secure environment.",
     "difficulty": "BEGINNER"
   },
@@ -1051,7 +1051,7 @@
     "word": "clean",
     "wordMeaning": "വൃത്തിയുള്ള",
     "englishText": "Maintain a clean and tidy workstation at the end of each working day.",
-    "malayalamMeaning": "ഓരോ ദിവസത്തെയും ജോലിക്കു ശേഷം നിങ്ങളുടെ വർക്ക്സ്റ്റേഷൻ എപ്പോഴും വൃത്തിയായി സൂക്ഷിക്കുക.",
+    "malayalamMeaning": "ഓരോ പ്രവൃത്തിദിവസത്തിന്റെയും അവസാനം നിങ്ങളുടെ വർക്ക്സ്റ്റേഷൻ വൃത്തിയായും ചിട്ടയായും സൂക്ഷിക്കുക.",
     "usageExample": "Hygiene.",
     "difficulty": "BEGINNER"
   },
@@ -1059,7 +1059,7 @@
     "word": "quiet",
     "wordMeaning": "നിശബ്ദം",
     "englishText": "The library and research zone is strictly maintained as a quiet area.",
-    "malayalamMeaning": "ലൈബ്രറിയും റിസർച്ച് വിഭാഗവും ശാന്തമായ ഒരു നിശബ്ദ മേഖലയായി നിലനിർത്തിയിരിക്കുന്നു.",
+    "malayalamMeaning": "ലൈബ്രറിയും ഗവേഷണ മേഖലയും കർശനമായി ഒരു നിശബ്ദ മേഖലയായി നിലനിർത്തിയിരിക്കുന്നു.",
     "usageExample": "Silent workspace.",
     "difficulty": "BEGINNER"
   },
@@ -1075,7 +1075,7 @@
     "word": "urgent",
     "wordMeaning": "അടിയന്തരമായ",
     "englishText": "Please mark the email as urgent if the server outage affects live users.",
-    "malayalamMeaning": "സെർവർ തകരാർ കാരണം ഉപഭോക്താക്കൾക്ക് സേവനം തടസ്സപ്പെടുന്നുണ്ടെങ്കിൽ ആ ഇമെയിൽ അർജന്റ് എന്ന് മാർക്ക് ചെയ്യുക.",
+    "malayalamMeaning": "സെർവർ തകരാർ തത്സമയ ഉപയോക്താക്കളെ ബാധിക്കുന്നുണ്ടെങ്കിൽ ദയവായി ആ ഇമെയിൽ അടിയന്തരം എന്ന് അടയാളപ്പെടുത്തുക.",
     "usageExample": "High priority.",
     "difficulty": "BEGINNER"
   },
@@ -1083,7 +1083,7 @@
     "word": "priority",
     "wordMeaning": "മുൻഗണന",
     "englishText": "Addressing customer security vulnerabilities is our highest priority.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ വിവരങ്ങളുടെ സുരക്ഷാ പ്രശ്നങ്ങൾ പരിഹരിക്കുന്നതിനാണ് ഞങ്ങൾ ഏറ്റവും കൂടുതൽ മുൻഗണന നൽകുന്നത്.",
+    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ സുരക്ഷാ പഴുതുകൾ പരിഹരിക്കുന്നതിനാണ് ഞങ്ങളുടെ ഏറ്റവും ഉയർന്ന മുൻഗണന.",
     "usageExample": "Urgent focus.",
     "difficulty": "BEGINNER"
   },
@@ -1107,7 +1107,7 @@
     "word": "hard",
     "wordMeaning": "കഠിനമായ",
     "englishText": "Tackling hard engineering problems requires patience and deep focus.",
-    "malayalamMeaning": "സങ്കീർണ്ണമായ എൻജിനീയറിംഗ് പ്രശ്നങ്ങൾ പരിഹരിക്കാൻ വലിയ ക്ഷമയും അതീവ ശ്രദ്ധയും ആവശ്യമാണ്.",
+    "malayalamMeaning": "കഠിനമായ എൻജിനീയറിംഗ് പ്രശ്നങ്ങൾ പരിഹരിക്കാൻ ക്ഷമയും ആഴത്തിലുള്ള ശ്രദ്ധയും ആവശ്യമാണ്.",
     "usageExample": "Challenging task.",
     "difficulty": "BEGINNER"
   },
@@ -1115,7 +1115,7 @@
     "word": "stress",
     "wordMeaning": "സമ്മർദ്ദം",
     "englishText": "Regular physical exercise helps alleviate daily workplace stress.",
-    "malayalamMeaning": "ദിവസവുമുള്ള വ്യായാമം ജോലിസ്ഥലത്തെ മാനസിക സമ്മർദ്ദം കുറയ്ക്കാൻ സഹായിക്കും.",
+    "malayalamMeaning": "പതിവായുള്ള ശാരീരിക വ്യായാമം ജോലിസ്ഥലത്തെ ദൈനംദിന സമ്മർദ്ദം കുറയ്ക്കാൻ സഹായിക്കുന്നു.",
     "usageExample": "Mental strain.",
     "difficulty": "BEGINNER"
   },
@@ -1131,7 +1131,7 @@
     "word": "success",
     "wordMeaning": "വിജയം",
     "englishText": "Teamwork, discipline, and customer focus are the keys to long-term success.",
-    "malayalamMeaning": "ടീം വർക്ക്, അച്ചടക്കം, മികച്ച ഉപഭോക്തൃ സേവനം എന്നിവയാണ് ബിസിനസിന്റെ ദീർഘകാല വിജയത്തിന്റെ താക്കോൽ.",
+    "malayalamMeaning": "ടീം വർക്ക്, അച്ചടക്കം, ഉപഭോക്തൃ ശ്രദ്ധ എന്നിവയാണ് ദീർഘകാല വിജയത്തിന്റെ താക്കോൽ.",
     "usageExample": "Achievement.",
     "difficulty": "BEGINNER"
   },
@@ -1139,7 +1139,7 @@
     "word": "achieve",
     "wordMeaning": "നേടുക",
     "englishText": "With clear milestones, our engineering team can achieve any ambitious target.",
-    "malayalamMeaning": "കൃത്യമായ പ്ലാനിംഗ് ഉണ്ടെങ്കിൽ ഞങ്ങളുടെ എൻജിനീയറിംഗ് ടീമിന് എത്ര വലിയ ലക്ഷ്യങ്ങളും കൈവരിക്കാനാകും.",
+    "malayalamMeaning": "വ്യക്തമായ നാഴികക്കല്ലുകൾ ഉണ്ടെങ്കിൽ ഞങ്ങളുടെ എൻജിനീയറിംഗ് ടീമിന് ഏതൊരു വലിയ ലക്ഷ്യവും നേടാനാകും.",
     "usageExample": "Accomplishing.",
     "difficulty": "BEGINNER"
   },
@@ -1147,7 +1147,7 @@
     "word": "win",
     "wordMeaning": "ജയിക്കുക",
     "englishText": "Winning the government software contract was a huge milestone for our firm.",
-    "malayalamMeaning": "സർക്കാരിന്റെ സോഫ്റ്റ്‌വെയർ കരാർ ലഭിച്ചത് ഞങ്ങളുടെ കമ്പനിയെ സംബന്ധിച്ച് വലിയൊരു നേട്ടമായിരുന്നു.",
+    "malayalamMeaning": "സർക്കാരിന്റെ സോഫ്റ്റ്‌വെയർ കരാർ വിജയിച്ചെടുക്കാനായത് ഞങ്ങളുടെ സ്ഥാപനത്തിന് വലിയൊരു നാഴികക്കല്ലായിരുന്നു.",
     "usageExample": "Securing deal.",
     "difficulty": "BEGINNER"
   },
@@ -1155,7 +1155,7 @@
     "word": "award",
     "wordMeaning": "പുരസ്കാരം",
     "englishText": "She received the 'Employee of the Year' award for outstanding leadership.",
-    "malayalamMeaning": "മികച്ച നേതൃത്വത്തിന് അവൾക്ക് 'എംപ്ലോയി ഓഫ് ദ ഇയർ' അവാർഡ് ലഭിച്ചു.",
+    "malayalamMeaning": "അസാധാരണമായ നേതൃത്വമികവിന് അവൾക്ക് 'എംപ്ലോയി ഓഫ് ദ ഇയർ' പുരസ്കാരം ലഭിച്ചു.",
     "usageExample": "Recognition honor.",
     "difficulty": "BEGINNER"
   },
@@ -1163,7 +1163,7 @@
     "word": "shareholder",
     "wordMeaning": "ഓഹരി ഉടമ",
     "englishText": "The board presented the annual financial performance to every shareholder.",
-    "malayalamMeaning": "ഡയറക്ടർ ബോർഡ് കമ്പനിയുടെ വാർഷിക സാമ്പത്തിക റിപ്പോർട്ട് ഓഹരി ഉടമകൾക്ക് മുന്നിൽ അവതരിപ്പിച്ചു.",
+    "malayalamMeaning": "ബോർഡ് വാർഷിക സാമ്പത്തിക പ്രകടനം ഓരോ ഓഹരി ഉടമയ്ക്കും മുന്നിൽ അവതരിപ്പിച്ചു.",
     "usageExample": "Company investor.",
     "difficulty": "BEGINNER"
   },
@@ -1171,7 +1171,7 @@
     "word": "client",
     "wordMeaning": "ഇടപാടുകാരൻ",
     "englishText": "Always communicate with the client in a respectful, professional tone.",
-    "malayalamMeaning": "ക്ലയന്റുകളോട് സംസാരിക്കുമ്പോൾ എപ്പോഴും ബഹുമാനത്തോടും മാന്യതയോടും കൂടി സംസാരിക്കുക.",
+    "malayalamMeaning": "ഇടപാടുകാരനുമായി എപ്പോഴും ബഹുമാനത്തോടും പ്രൊഫഷണൽ ശൈലിയിലും ആശയവിനിമയം നടത്തുക.",
     "usageExample": "Customer/partner.",
     "difficulty": "BEGINNER"
   },
@@ -1179,7 +1179,7 @@
     "word": "vendor",
     "wordMeaning": "വിതരണക്കാരൻ",
     "englishText": "The IT vendor delivered thirty new monitors for the development wing.",
-    "malayalamMeaning": "സോഫ്റ്റ്‌വെയർ ഡെവലപ്‌മെന്റ് വിഭാഗത്തിനായി ഐ.ടി വെണ്ടർ മുപ്പത് പുതിയ മോണിറ്ററുകൾ എത്തിച്ചുതന്നു.",
+    "malayalamMeaning": "ഡെവലപ്‌മെന്റ് വിഭാഗത്തിനായി IT വിതരണക്കാരൻ മുപ്പത് പുതിയ മോണിറ്ററുകൾ എത്തിച്ചുനൽകി.",
     "usageExample": "Supplier.",
     "difficulty": "BEGINNER"
   },
@@ -1187,7 +1187,7 @@
     "word": "bill",
     "wordMeaning": "ബിൽ",
     "englishText": "Submit all taxi and hotel bills to the finance department for reimbursement.",
-    "malayalamMeaning": "യാത്രാ ചെലവുകൾ തിരികെ ലഭിക്കുന്നതിനായി ടാക്സി, ഹോട്ടൽ ബില്ലുകൾ ഫിനാൻസ് വിഭാഗത്തിൽ സമർപ്പിക്കുക.",
+    "malayalamMeaning": "തുക തിരികെ ലഭിക്കുന്നതിനായി എല്ലാ ടാക്സി, ഹോട്ടൽ ബില്ലുകളും ഫിനാൻസ് വിഭാഗത്തിൽ സമർപ്പിക്കുക.",
     "usageExample": "Receipt/invoice.",
     "difficulty": "BEGINNER"
   },
@@ -1219,7 +1219,7 @@
     "word": "productivity",
     "wordMeaning": "ഉത്പാദനക്ഷമത",
     "englishText": "Minimizing unnecessary meetings dramatically boosts engineering productivity.",
-    "malayalamMeaning": "അനാവശ്യ മീറ്റിംഗുകൾ ഒഴിവാക്കുന്നത് എൻജിനീയർമാരുടെ പ്രവർത്തനക്ഷമത ഗണ്യമായി വർദ്ധിപ്പിക്കും.",
+    "malayalamMeaning": "അനാവശ്യ മീറ്റിംഗുകൾ കുറയ്ക്കുന്നത് എൻജിനീയറിംഗ് ഉത്പാദനക്ഷമത ഗണ്യമായി വർദ്ധിപ്പിക്കും.",
     "usageExample": "Output efficiency.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1243,7 +1243,7 @@
     "word": "appraisal",
     "wordMeaning": "വിലയിരുത്തൽ",
     "englishText": "Annual appraisal discussions give employees valuable feedback on career growth.",
-    "malayalamMeaning": "വാർഷിക അപ്രൈസൽ ചർച്ചകൾ കരിയറിലെ വളർച്ചയെക്കുറിച്ച് വിലപ്പെട്ട വിവരങ്ങൾ ലഭിക്കാൻ ജീവനക്കാരെ സഹായിക്കുന്നു.",
+    "malayalamMeaning": "വാർഷിക വിലയിരുത്തൽ ചർച്ചകൾ ജീവനക്കാർക്ക് കരിയർ വളർച്ചയെക്കുറിച്ച് വിലപ്പെട്ട പ്രതികരണങ്ങൾ നൽകുന്നു.",
     "usageExample": "Performance review.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1251,7 +1251,7 @@
     "word": "feedback",
     "wordMeaning": "പ്രതികരണം",
     "englishText": "Constructive feedback should focus on behavior and outcomes, not personalities.",
-    "malayalamMeaning": "ക്രിയാത്മകമായ വിലയിരുത്തലുകൾ വ്യക്തികളെ ലക്ഷ്യം വെക്കാതെ അവരുടെ ജോലിയുടെ ഫലങ്ങളിലും രീതികളിലുമാണ് ശ്രദ്ധ കേന്ദ്രീകരിക്കേണ്ടത്.",
+    "malayalamMeaning": "ക്രിയാത്മകമായ പ്രതികരണം വ്യക്തിത്വങ്ങളിലല്ല, മറിച്ച് പെരുമാറ്റത്തിലും ഫലങ്ങളിലുമാണ് ശ്രദ്ധ കേന്ദ്രീകരിക്കേണ്ടത്.",
     "usageExample": "Evaluative input.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1267,7 +1267,7 @@
     "word": "portfolio",
     "wordMeaning": "പ്രവർത്തന സമാഹാരം",
     "englishText": "The UI designer presented an impressive portfolio of mobile applications.",
-    "malayalamMeaning": "യു.ഐ ഡിസൈനർ മൊബൈൽ ആപ്പുകളുടെ ആകർഷകമായ ഒരു പോർട്ട്‌ഫോളിയോ അവതരിപ്പിച്ചു.",
+    "malayalamMeaning": "UI ഡിസൈനർ മൊബൈൽ ആപ്ലിക്കേഷനുകളുടെ ആകർഷകമായ ഒരു പ്രവർത്തന സമാഹാരം അവതരിപ്പിച്ചു.",
     "usageExample": "Work showcase.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1275,7 +1275,7 @@
     "word": "negotiation",
     "wordMeaning": "ഒത്തുതീർപ്പ് ചർച്ച",
     "englishText": "Skillful negotiation enabled us to reduce vendor costs by fifteen percent.",
-    "malayalamMeaning": "വിദഗ്ദ്ധമായ ചർച്ചകളിലൂടെ വെണ്ടർമാരുടെ ചെലവ് പതിനഞ്ച് ശതമാനം കുറയ്ക്കാൻ ഞങ്ങൾക്ക് സാധിച്ചു.",
+    "malayalamMeaning": "വിദഗ്ദ്ധമായ ഒത്തുതീർപ്പ് ചർച്ചയിലൂടെ വെണ്ടർ ചെലവുകൾ പതിനഞ്ച് ശതമാനം കുറയ്ക്കാൻ ഞങ്ങൾക്ക് സാധിച്ചു.",
     "usageExample": "Bargaining dialogue.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1291,7 +1291,7 @@
     "word": "agreement",
     "wordMeaning": "കരാർ",
     "englishText": "We reached a mutual agreement regarding project milestones and payment dates.",
-    "malayalamMeaning": "പ്രോജക്ടിന്റെ ഘട്ടങ്ങളും പേയ്‌മെന്റ് തീയതികളും സംബന്ധിച്ച് ഞങ്ങൾ പരസ്പര ധാരണയിലെത്തി.",
+    "malayalamMeaning": "പ്രോജക്ടിന്റെ നാഴികക്കല്ലുകളും പേയ്‌മെന്റ് തീയതികളും സംബന്ധിച്ച് ഞങ്ങൾ പരസ്പര കരാറിലെത്തി.",
     "usageExample": "Accord.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1299,7 +1299,7 @@
     "word": "stakeholder",
     "wordMeaning": "ബന്ധപ്പെട്ട കക്ഷി",
     "englishText": "Keep all internal and external stakeholders updated on project progress.",
-    "malayalamMeaning": "പ്രോജക്ടിന്റെ പുരോഗതിയെക്കുറിച്ച് ബന്ധപ്പെട്ട എല്ലാവരെയും കൃത്യമായി വിവരങ്ങൾ അറിയിക്കുക.",
+    "malayalamMeaning": "പ്രോജക്ടിന്റെ പുരോഗതിയെക്കുറിച്ച് ആന്തരികവും ബാഹ്യവുമായ ബന്ധപ്പെട്ട എല്ലാ കക്ഷികളെയും കൃത്യമായി അറിയിച്ചുകൊണ്ടിരിക്കുക.",
     "usageExample": "Interested party.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1307,7 +1307,7 @@
     "word": "conference",
     "wordMeaning": "സമ്മേളനം",
     "englishText": "Our team attended the annual international software developer conference.",
-    "malayalamMeaning": "വാർഷിക അന്താരാഷ്ട്ര സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ കോൺഫറൻസിൽ ഞങ്ങളുടെ ടീം പങ്കെടുത്തു.",
+    "malayalamMeaning": "വാർഷിക അന്താരാഷ്ട്ര സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ സമ്മേളനത്തിൽ ഞങ്ങളുടെ ടീം പങ്കെടുത്തു.",
     "usageExample": "Industry convention.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1315,7 +1315,7 @@
     "word": "workshop",
     "wordMeaning": "ശില്പശാല",
     "englishText": "The HR department organized an interactive workshop on conflict resolution.",
-    "malayalamMeaning": "തൊഴിലിടങ്ങളിലെ പ്രശ്നങ്ങൾ പരിഹരിക്കുന്നതിനെക്കുറിച്ച് എച്ച്.ആർ വിഭാഗം നല്ലൊരു ശിൽപ്പശാല സംഘടിപ്പിച്ചു.",
+    "malayalamMeaning": "തർക്കപരിഹാരത്തെക്കുറിച്ച് HR വിഭാഗം സംവേദനാത്മകമായ ഒരു ശില്പശാല സംഘടിപ്പിച്ചു.",
     "usageExample": "Training session.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1323,7 +1323,7 @@
     "word": "seminar",
     "wordMeaning": "സെമിനാർ",
     "englishText": "She delivered a keynote seminar on artificial intelligence in healthcare.",
-    "malayalamMeaning": "ആരോഗ്യരംഗത്തെ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിനെക്കുറിച്ച് അവൾ മുഖ്യ പ്രഭാഷണം നടത്തി.",
+    "malayalamMeaning": "ആരോഗ്യരംഗത്തെ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിനെക്കുറിച്ച് അവൾ ഒരു മുഖ്യ സെമിനാർ അവതരിപ്പിച്ചു.",
     "usageExample": "Educational speech.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1331,7 +1331,7 @@
     "word": "webinar",
     "wordMeaning": "വെബിനാർ",
     "englishText": "Over five hundred professionals registered for our live technical webinar.",
-    "malayalamMeaning": "ഞങ്ങളുടെ ടെക്നിക്കൽ വെബിനാറിൽ പങ്കെടുക്കാൻ അഞ്ഞൂറിലധികം പ്രൊഫഷണലുകളാണ് രജിസ്റ്റർ ചെയ്തത്.",
+    "malayalamMeaning": "ഞങ്ങളുടെ തത്സമയ ടെക്നിക്കൽ വെബിനാറിനായി അഞ്ഞൂറിലധികം പ്രൊഫഷണലുകൾ രജിസ്റ്റർ ചെയ്തു.",
     "usageExample": "Online seminar.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1339,7 +1339,7 @@
     "word": "agenda",
     "wordMeaning": "കാര്യപരിപാടി",
     "englishText": "Please circulate the meeting agenda at least twenty-four hours in advance.",
-    "malayalamMeaning": "മീറ്റിംഗ് അജണ്ട കുറഞ്ഞത് ഇരുപത്തിനാല് മണിക്കൂർ മുൻപെങ്കിലും എല്ലാവർക്കും അയച്ചുനൽകുക.",
+    "malayalamMeaning": "യോഗത്തിന്റെ കാര്യപരിപാടി കുറഞ്ഞത് ഇരുപത്തിനാല് മണിക്കൂർ മുൻപെങ്കിലും വിതരണം ചെയ്യുക.",
     "usageExample": "Meeting plan.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1347,7 +1347,7 @@
     "word": "minutes",
     "wordMeaning": "യോഗരേഖകൾ",
     "englishText": "The secretary took detailed minutes of the board meeting for official records.",
-    "malayalamMeaning": "ഔദ്യോഗിക ആവശ്യങ്ങൾക്കായി സെക്രട്ടറി ബോർഡ് മീറ്റിംഗിലെ തീരുമാനങ്ങൾ വിശദമായി കുറിച്ചുവെച്ചു.",
+    "malayalamMeaning": "ഔദ്യോഗിക രേഖകൾക്കായി സെക്രട്ടറി ബോർഡ് യോഗത്തിന്റെ വിശദമായ യോഗരേഖകൾ തയ്യാറാക്കി.",
     "usageExample": "Official notes.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1355,7 +1355,7 @@
     "word": "executive",
     "wordMeaning": "കാര്യനിർവ്വാഹകൻ",
     "englishText": "The chief executive officer addressed the entire company during the town hall.",
-    "malayalamMeaning": "കമ്പനിയുടെ ടൗൺ ഹാൾ മീറ്റിംഗിൽ സി.ഇ.ഒ എല്ലാ ജീവനക്കാരെയും അഭിസംബോധന ചെയ്തു സംസാരിച്ചു.",
+    "malayalamMeaning": "ടൗൺ ഹാൾ യോഗത്തിൽ മുഖ്യ കാര്യനിർവ്വാഹകൻ കമ്പനിയിലെ മുഴുവൻ പേരെയും അഭിസംബോധന ചെയ്തു.",
     "usageExample": "Senior official.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1371,7 +1371,7 @@
     "word": "supervisor",
     "wordMeaning": "മേൽനോട്ടക്കാരൻ",
     "englishText": "Always consult your direct supervisor before initiating changes to production.",
-    "malayalamMeaning": "പ്രൊഡക്ഷൻ സിസ്റ്റത്തിൽ മാറ്റങ്ങൾ വരുത്തുന്നതിന് മുൻപായി എപ്പോഴും സൂപ്പർവൈസറോട് അനുവാദം ചോദിക്കുക.",
+    "malayalamMeaning": "പ്രൊഡക്ഷനിൽ മാറ്റങ്ങൾ ആരംഭിക്കുന്നതിന് മുൻപ് എപ്പോഴും നിങ്ങളുടെ നേരിട്ടുള്ള മേൽനോട്ടക്കാരനുമായി ആലോചിക്കുക.",
     "usageExample": "Work manager.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1379,7 +1379,7 @@
     "word": "subordinate",
     "wordMeaning": "കീഴുദ്യോഗസ്ഥൻ",
     "englishText": "A respected manager treats every subordinate with dignity and fair consideration.",
-    "malayalamMeaning": "ഒരു നല്ല മാനേജർ തന്റെ കീഴിലുള്ള ജീവനക്കാരോട് എപ്പോഴും മാന്യതയോടും നീതിയോടും കൂടി മാത്രമേ പെരുമാറൂ.",
+    "malayalamMeaning": "ബഹുമാനിതനായ ഒരു മാനേജർ ഓരോ കീഴുദ്യോഗസ്ഥനോടും അന്തസ്സോടും ന്യായമായ പരിഗണനയോടും കൂടി പെരുമാറുന്നു.",
     "usageExample": "Team member under lead.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1387,7 +1387,7 @@
     "word": "delegation",
     "wordMeaning": "ചുമതല കൈമാറ്റം",
     "englishText": "Effective delegation of routine tasks frees up managers for strategic planning.",
-    "malayalamMeaning": "ദൈനംദിന ജോലികൾ ജീവനക്കാർക്ക് കൃത്യമായി വീതിച്ചു നൽകുന്നത് പ്രധാന കാര്യങ്ങൾ ആസൂത്രണം ചെയ്യാൻ മാനേജർമാർക്ക് കൂടുതൽ സമയം നൽകും.",
+    "malayalamMeaning": "ദൈനംദിന ചുമതലകളുടെ ഫലപ്രദമായ കൈമാറ്റം തന്ത്രപരമായ ആസൂത്രണത്തിനായി മാനേജർമാർക്ക് സമയം കണ്ടെത്താൻ സഹായിക്കുന്നു.",
     "usageExample": "Assigning tasks.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1395,7 +1395,7 @@
     "word": "accountability",
     "wordMeaning": "ഉത്തരവാദിത്തം",
     "englishText": "Taking personal accountability for project outcomes inspires trust across teams.",
-    "malayalamMeaning": "തന്റെ ജോലിയുടെ പൂർണ്ണ ഉത്തരവാദിത്തം സ്വയം ഏറ്റെടുക്കുന്നത് സഹപ്രവർത്തകർക്കിടയിൽ വലിയ വിശ്വാസ്യത ഉണ്ടാക്കും.",
+    "malayalamMeaning": "പ്രോജക്ട് ഫലങ്ങളുടെ വ്യക്തിഗത ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നത് ടീമുകളിലുടനീളം വിശ്വാസം വളർത്തുന്നു.",
     "usageExample": "Taking responsibility.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1419,7 +1419,7 @@
     "word": "competence",
     "wordMeaning": "കഴിവ്",
     "englishText": "His deep technical competence was evident in the elegant software architecture.",
-    "malayalamMeaning": "അവൻ രൂപകൽപ്പന ചെയ്ത മികച്ച സോഫ്റ്റ്‌വെയർ ആർക്കിടെക്ചറിൽ അവന്റെ സാങ്കേതിക മികവ് പ്രകടമായിരുന്നു.",
+    "malayalamMeaning": "മികച്ച സോഫ്റ്റ്‌വെയർ ആർക്കിടെക്ചറിൽ അവന്റെ ആഴത്തിലുള്ള സാങ്കേതിക കഴിവ് വ്യക്തമായിരുന്നു.",
     "usageExample": "High capability.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1427,7 +1427,7 @@
     "word": "professional",
     "wordMeaning": "തൊഴിൽപരമായ",
     "englishText": "Always maintain a calm, professional demeanor when dealing with irate clients.",
-    "malayalamMeaning": "ദേഷ്യപ്പെടുന്ന ക്ലയന്റുകളോട് സംസാരിക്കുമ്പോഴും എപ്പോഴും ശാന്തതയും പ്രൊഫഷണലിസവും കൈവിടാതിരിക്കുക.",
+    "malayalamMeaning": "കോപിതരായ ക്ലയന്റുകളുമായി ഇടപെടുമ്പോൾ എപ്പോഴും ശാന്തവും തൊഴിൽപരവുമായ പെരുമാറ്റം നിലനിർത്തുക.",
     "usageExample": "Workplace conduct.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1451,7 +1451,7 @@
     "word": "overtime",
     "wordMeaning": "അധിക സമയം",
     "englishText": "Employees who work overtime during weekend releases receive compensatory leave.",
-    "malayalamMeaning": "വാരാന്ത്യങ്ങളിൽ കൂടുതൽ സമയം ജോലി ചെയ്യുന്ന ജീവനക്കാർക്ക് പകരം കോംപ് ഓഫ് ലഭിക്കും.",
+    "malayalamMeaning": "വാരാന്ത്യ റിലീസുകളിൽ അധിക സമയം ജോലി ചെയ്യുന്ന ജീവനക്കാർക്ക് പകരമുള്ള അവധി ലഭിക്കും.",
     "usageExample": "Extra hours.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1459,7 +1459,7 @@
     "word": "compensation",
     "wordMeaning": "പ്രതിഫലം",
     "englishText": "The tech firm offers an attractive compensation package including equity options.",
-    "malayalamMeaning": "ഓഹരി പങ്കാളിത്തം ഉൾപ്പെടെയുള്ള മികച്ച ശമ്പള പാക്കേജാണ് ആ ടെക് കമ്പനി വാഗ്ദാനം ചെയ്യുന്നത്.",
+    "malayalamMeaning": "ഓഹരി ഓപ്ഷനുകൾ ഉൾപ്പെടെയുള്ള ആകർഷകമായ പ്രതിഫല പാക്കേജാണ് ആ ടെക് സ്ഥാപനം വാഗ്ദാനം ചെയ്യുന്നത്.",
     "usageExample": "Pay and benefits.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1467,7 +1467,7 @@
     "word": "reimbursement",
     "wordMeaning": "ചെലവ് മടക്കിനൽകൽ",
     "englishText": "Submit your travel expenses online for prompt reimbursement by accounts.",
-    "malayalamMeaning": "യാത്രാ ചെലവുകൾ തിരികെ ലഭിക്കാൻ ബില്ലുകൾ ഓൺലൈനായി സമർപ്പിക്കുക.",
+    "malayalamMeaning": "അക്കൗണ്ട്സ് വിഭാഗത്തിൽ നിന്ന് വേഗത്തിൽ ചെലവ് മടക്കി ലഭിക്കുന്നതിനായി നിങ്ങളുടെ യാത്രാച്ചെലവുകൾ ഓൺലൈനായി സമർപ്പിക്കുക.",
     "usageExample": "Repayment of costs.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1475,7 +1475,7 @@
     "word": "allowance",
     "wordMeaning": "ബത്ത",
     "englishText": "Employees traveling on official duty receive a daily food and transport allowance.",
-    "malayalamMeaning": "ഔദ്യോഗിക ആവശ്യങ്ങൾക്കായി യാത്ര ചെയ്യുന്ന ജീവനക്കാർക്ക് ദിവസേനയുള്ള ഭക്ഷണത്തിനും യാത്രയ്ക്കും അലവൻസ് ലഭിക്കും.",
+    "malayalamMeaning": "ഔദ്യോഗിക കൃത്യനിർവ്വഹണത്തിനായി യാത്ര ചെയ്യുന്ന ജീവനക്കാർക്ക് പ്രതിദിന ഭക്ഷണ-യാത്രാ ബത്ത ലഭിക്കും.",
     "usageExample": "Stipend.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1491,7 +1491,7 @@
     "word": "onboarding",
     "wordMeaning": "ജോലിയിൽ പ്രവേശിപ്പിക്കൽ",
     "englishText": "A structured onboarding process helps new hires assimilate smoothly into the team.",
-    "malayalamMeaning": "മികച്ച രീതിയിലുള്ള ഓൺബോർഡിംഗ് പ്രക്രിയ പുതിയ ജീവനക്കാർക്ക് ടീമുമായി വേഗത്തിൽ ഇണങ്ങിപ്പേകാൻ സഹായകരമാകും.",
+    "malayalamMeaning": "ചിട്ടയായ ജോലിയിൽ പ്രവേശിപ്പിക്കൽ പ്രക്രിയ പുതിയ ജീവനക്കാർക്ക് ടീമുമായി സുഗമമായി ഇണങ്ങിച്ചേരാൻ സഹായിക്കുന്നു.",
     "usageExample": "New hire welcome.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1499,7 +1499,7 @@
     "word": "orientation",
     "wordMeaning": "ആമുഖ പരിശീലനം",
     "englishText": "New employees attended a two-day orientation covering company history and policies.",
-    "malayalamMeaning": "കമ്പനിയുടെ ചരിത്രവും നയങ്ങളും വിശദീകരിക്കുന്ന രണ്ടു ദിവസത്തെ ഓറിയന്റേഷൻ ക്ലാസ്സിൽ പുതിയ ജീവനക്കാർ പങ്കെടുത്തു.",
+    "malayalamMeaning": "കമ്പനിയുടെ ചരിത്രവും നയങ്ങളും ഉൾക്കൊള്ളുന്ന രണ്ടു ദിവസത്തെ ആമുഖ പരിശീലനത്തിൽ പുതിയ ജീവനക്കാർ പങ്കെടുത്തു.",
     "usageExample": "Introductory training.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1507,7 +1507,7 @@
     "word": "probation",
     "wordMeaning": "പരീക്ഷണ കാലയളവ്",
     "englishText": "Permanent employment was confirmed upon the successful completion of probation.",
-    "malayalamMeaning": "പ്രൊബേഷൻ കാലയളവ് വിജയകരമായി പൂർത്തിയാക്കിയതിനെത്തുടർന്ന് അദ്ദേഹത്തിന്റെ ജോലി സ്ഥിരപ്പെടുത്തി.",
+    "malayalamMeaning": "പരീക്ഷണ കാലയളവ് വിജയകരമായി പൂർത്തിയാക്കിയതോടെ സ്ഥിരം നിയമനം ഉറപ്പാക്കി.",
     "usageExample": "Trial period.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1515,7 +1515,7 @@
     "word": "evaluation",
     "wordMeaning": "മൂല്യനിർണ്ണയം",
     "englishText": "The annual employee evaluation assesses both technical output and teamwork.",
-    "malayalamMeaning": "വാർഷിക പ്രകടന വിലയിരുത്തലിൽ സാങ്കേതിക മികവും ടീമിനൊപ്പം ചേർന്നു പ്രവർത്തിക്കാനുള്ള കഴിവും കണക്കിലെടുക്കുന്നു.",
+    "malayalamMeaning": "വാർഷിക ജീവനക്കാരുടെ മൂല്യനിർണ്ണയം സാങ്കേതിക ഫലവും ടീം വർക്കും ഒരുപോലെ വിലയിരുത്തുന്നു.",
     "usageExample": "Assessment.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1523,7 +1523,7 @@
     "word": "benchmark",
     "wordMeaning": "മാനദണ്ഡം",
     "englishText": "Our customer support team set a new industry benchmark for resolution speed.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ പരാതികൾ വേഗത്തിൽ പരിഹരിക്കുന്നതിൽ ഞങ്ങളുടെ കസ്റ്റമർ സപ്പോർട്ട് ടീം പുതിയൊരു മാതൃക സൃഷ്ടിച്ചു.",
+    "malayalamMeaning": "പ്രശ്നപരിഹാര വേഗതയിൽ ഞങ്ങളുടെ കസ്റ്റമർ സപ്പോർട്ട് ടീം പുതിയൊരു വ്യവസായ മാനദണ്ഡം സ്ഥാപിച്ചു.",
     "usageExample": "Standard of excellence.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1539,7 +1539,7 @@
     "word": "strategy",
     "wordMeaning": "തന്ത്രം",
     "englishText": "Our corporate strategy focuses on expanding cloud services to small enterprises.",
-    "malayalamMeaning": "ചെറുകിട സംരംഭങ്ങളിലേക്ക് ക്ലൗഡ് സേവനങ്ങൾ എത്തിക്കുക എന്നതിലാണ് ഞങ്ങളുടെ കമ്പനി ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നത്.",
+    "malayalamMeaning": "ചെറുകിട സംരംഭങ്ങളിലേക്ക് ക്ലൗഡ് സേവനങ്ങൾ വ്യാപിപ്പിക്കുന്നതിലാണ് ഞങ്ങളുടെ കോർപ്പറേറ്റ് തന്ത്രം ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നത്.",
     "usageExample": "High-level plan.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1547,7 +1547,7 @@
     "word": "implementation",
     "wordMeaning": "നടപ്പിലാക്കൽ",
     "englishText": "Smooth implementation of the new CRM system required weeks of staff training.",
-    "malayalamMeaning": "പുതിയ സി.ആർ.എം സിസ്റ്റം വിജയകരമായി നടപ്പിലാക്കാൻ ജീവനക്കാർക്ക് ആഴ്ചകളോളം പരിശീലനം നൽകേണ്ടി വന്നു.",
+    "malayalamMeaning": "പുതിയ CRM സിസ്റ്റം സുഗമമായി നടപ്പിലാക്കുന്നതിന് ജീവനക്കാർക്ക് ആഴ്ചകളോളം പരിശീലനം ആവശ്യമായിരുന്നു.",
     "usageExample": "Putting into action.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1555,7 +1555,7 @@
     "word": "execution",
     "wordMeaning": "നിർവ്വഹണം",
     "englishText": "A brilliant business strategy is worthless without disciplined, timely execution.",
-    "malayalamMeaning": "കൃത്യമായ ആസൂത്രണവും സമയബന്ധിതമായ പ്രവർത്തനവുമില്ലെങ്കിൽ എത്ര മികച്ച ബിസിനസ് തന്ത്രവും പരാജയപ്പെടും.",
+    "malayalamMeaning": "അച്ചടക്കത്തോടും സമയബന്ധിതവുമായ നിർവ്വഹണമില്ലെങ്കിൽ എത്ര മികച്ച ബിസിനസ് തന്ത്രവും നിഷ്പ്രയോജനമാണ്.",
     "usageExample": "Carrying out plans.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1571,7 +1571,7 @@
     "word": "deliverable",
     "wordMeaning": "കൈമാറേണ്ട ഫലം",
     "englishText": "The final deliverable includes source code, test reports, and a user manual.",
-    "malayalamMeaning": "സോഴ്സ് കോഡ്, ടെസ്റ്റ് റിപ്പോർട്ടുകൾ, യൂസർ മാനുവൽ എന്നിവ ഉൾപ്പെടുന്നതാണ് അവസാന പ്രോജക്ട് റിപ്പോർട്ട്.",
+    "malayalamMeaning": "സോഴ്സ് കോഡ്, ടെസ്റ്റ് റിപ്പോർട്ടുകൾ, യൂസർ മാനുവൽ എന്നിവ ഉൾപ്പെടുന്നതാണ് അവസാനമായി കൈമാറേണ്ട ഫലം.",
     "usageExample": "Project output.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1579,7 +1579,7 @@
     "word": "timeline",
     "wordMeaning": "സമയരേഖ",
     "englishText": "We must strictly adhere to the project timeline to prevent contractual penalties.",
-    "malayalamMeaning": "കരാർ ലംഘനത്തിനുള്ള പിഴ ഒഴിവാക്കാൻ പ്രോജക്ട് സമയപരിധി കർശനമായി പാലിക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "കരാർ പ്രകാരമുള്ള പിഴകൾ ഒഴിവാക്കാൻ നാം പ്രോജക്ടിന്റെ സമയരേഖ കർശനമായി പാലിക്കേണ്ടതുണ്ട്.",
     "usageExample": "Schedule of phases.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1587,7 +1587,7 @@
     "word": "forecast",
     "wordMeaning": "പ്രവചനം",
     "englishText": "The financial analyst presented a realistic revenue forecast for the fiscal year.",
-    "malayalamMeaning": "ഈ സാമ്പത്തിക വർഷത്തിലെ വരുമാനം സംബന്ധിച്ച കൃത്യമായ ഒരു കണക്കുകൂട്ടൽ ഫിനാൻഷ്യൽ അനലിസ്റ്റ് അവതരിപ്പിച്ചു.",
+    "malayalamMeaning": "സാമ്പത്തിക വർഷത്തേക്കുള്ള യാഥാർത്ഥ്യബോധമുള്ള ഒരു വരുമാന പ്രവചനം ഫിനാൻഷ്യൽ അനലിസ്റ്റ് അവതരിപ്പിച്ചു.",
     "usageExample": "Prediction.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1611,7 +1611,7 @@
     "word": "revenue",
     "wordMeaning": "വരുമാനം",
     "englishText": "The company reported a twenty-five percent increase in annual recurring revenue.",
-    "malayalamMeaning": "കമ്പനിയുടെ വാർഷിക വരുമാനത്തിൽ ഇരുപത്തിയഞ്ച് ശതമാനത്തിന്റെ വർദ്ധനവുണ്ടായതായി റിപ്പോർട്ട് ചെയ്തു.",
+    "malayalamMeaning": "വാർഷിക ആവർത്തന വരുമാനത്തിൽ ഇരുപത്തിയഞ്ച് ശതമാനം വർദ്ധനവുണ്ടായതായി കമ്പനി റിപ്പോർട്ട് ചെയ്തു.",
     "usageExample": "Income.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1627,7 +1627,7 @@
     "word": "analysis",
     "wordMeaning": "വിശകലനം",
     "englishText": "A thorough competitor analysis revealed key gaps in our product offerings.",
-    "malayalamMeaning": "മത്സരരംഗത്തുള്ള മറ്റ് കമ്പനികളെക്കുറിച്ചുള്ള വിശദമായ പഠനം ഞങ്ങളുടെ ഉൽപ്പന്നങ്ങളിലെ പ്രധാന പോരായ്മകൾ വെളിപ്പെടുത്തി.",
+    "malayalamMeaning": "എതിരാളികളെക്കുറിച്ചുള്ള സമഗ്രമായ വിശകലനം ഞങ്ങളുടെ ഉൽപ്പന്നങ്ങളിലെ പ്രധാന പോരായ്മകൾ വെളിപ്പെടുത്തി.",
     "usageExample": "Detailed study.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1659,7 +1659,7 @@
     "word": "workflow",
     "wordMeaning": "പ്രവർത്തനക്രമം",
     "englishText": "Automating document approvals streamlined our procurement workflow immensely.",
-    "malayalamMeaning": "രേഖകളുടെ അനുമതികൾ ഓട്ടോമേറ്റ് ചെയ്തത് സാധനങ്ങൾ വാങ്ങുന്ന പ്രക്രിയയെ കൂടുതൽ വേഗതയുള്ളതും കാര്യക്ഷമവുമാക്കി.",
+    "malayalamMeaning": "രേഖകളുടെ അംഗീകാരം ഓട്ടോമേറ്റ് ചെയ്തത് ഞങ്ങളുടെ സംഭരണ പ്രവർത്തനക്രമത്തെ വളരെയധികം സുഗമമാക്കി.",
     "usageExample": "Work sequence.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1667,7 +1667,7 @@
     "word": "optimization",
     "wordMeaning": "കാര്യക്ഷമമാക്കൽ",
     "englishText": "Database query optimization reduced page load times by half a second.",
-    "malayalamMeaning": "ഡാറ്റാബേസ് ക്വറികൾ ഒപ്റ്റിമൈസ് ചെയ്തതോടെ പേജ് ലോഡിംഗ് സമയം അര സെക്കൻഡ് കുറഞ്ഞു.",
+    "malayalamMeaning": "ഡാറ്റാബേസ് ക്വറികൾ കാര്യക്ഷമമാക്കിയത് പേജ് ലോഡ് സമയം അര സെക്കൻഡ് കുറച്ചു.",
     "usageExample": "Improving efficiency.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1675,7 +1675,7 @@
     "word": "streamline",
     "wordMeaning": "സുഗമമാക്കുക",
     "englishText": "We need to streamline our customer onboarding to reduce drop-off rates.",
-    "malayalamMeaning": "ഉപഭോക്താക്കൾ ഇടയ്ക്ക് വെച്ച് കൊഴിഞ്ഞുപോകുന്നത് ഒഴിവാക്കാൻ സർവീസ് ലഭ്യമാക്കുന്ന രീതി കൂടുതൽ ലളിതമാക്കണം.",
+    "malayalamMeaning": "ഉപഭോക്താക്കൾ ഇടയ്ക്ക് വെച്ച് പിന്മാറുന്ന നിരക്ക് കുറയ്ക്കാൻ ഞങ്ങളുടെ കസ്റ്റമർ ഓൺബോർഡിംഗ് സുഗമമാക്കേണ്ടതുണ്ട്.",
     "usageExample": "Simplifying processes.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1691,7 +1691,7 @@
     "word": "diplomacy",
     "wordMeaning": "നയതന്ത്രം",
     "englishText": "Handling client negotiations requires tact, patience, and professional diplomacy.",
-    "malayalamMeaning": "ക്ലയന്റുകളുമായുള്ള ചർച്ചകൾ വിജയകരമാക്കാൻ വിവേകവും ക്ഷമയും പ്രൊഫഷണൽ സമീപനവും ആവശ്യമാണ്.",
+    "malayalamMeaning": "ക്ലയന്റുകളുമായുള്ള ചർച്ചകൾ കൈകാര്യം ചെയ്യാൻ വിവേകവും ക്ഷമയും തൊഴിൽപരമായ നയതന്ത്രവും ആവശ്യമാണ്.",
     "usageExample": "Tactful conduct.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1699,7 +1699,7 @@
     "word": "professionalism",
     "wordMeaning": "തൊഴിൽമികവ്",
     "englishText": "She earned the client's respect through her unwavering professionalism and rigor.",
-    "malayalamMeaning": "തന്റെ അചഞ്ചലമായ പ്രൊഫഷണലിസവും കൃത്യതയും കൊണ്ട് അവൾ ക്ലയന്റിന്റെ വലിയ ബഹുമാനം പിടിച്ചുപറ്റി.",
+    "malayalamMeaning": "തന്റെ അചഞ്ചലമായ തൊഴിൽമികവും കൃത്യനിഷ്ഠയും കൊണ്ട് അവൾ ക്ലയന്റിന്റെ ബഹുമാനം നേടിയെടുത്തു.",
     "usageExample": "Excellence in work.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1707,7 +1707,7 @@
     "word": "integrity",
     "wordMeaning": "സത്യസന്ധത",
     "englishText": "Corporate integrity requires uncompromising honesty in accounting and marketing.",
-    "malayalamMeaning": "കണക്കുകളിലും മാർക്കറ്റിംഗിലും വിട്ടുവീഴ്ചയില്ലാത്ത സത്യസന്ധത പുലർത്തുന്നതാണ് ഒരു കമ്പനിയുടെ വിശ്വാസ്യതയുടെ അടിസ്ഥാനം.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് സത്യസന്ധതയ്ക്ക് അക്കൗണ്ടിംഗിലും മാർക്കറ്റിംഗിലും വിട്ടുവീഴ്ചയില്ലാത്ത സത്യനിഷ്ഠ ആവശ്യമാണ്.",
     "usageExample": "Ethical uprightness.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1715,7 +1715,7 @@
     "word": "confidentiality",
     "wordMeaning": "രഹസ്യാത്മകത",
     "englishText": "All staff members must maintain strict confidentiality regarding client data.",
-    "malayalamMeaning": "എല്ലാ ജീവനക്കാരും ക്ലയന്റുകളുടെ വിവരങ്ങൾ അതീവ രഹസ്യമായി തന്നെ സൂക്ഷിക്കേണ്ടതാണ്.",
+    "malayalamMeaning": "ക്ലയന്റ് ഡാറ്റയുടെ കാര്യത്തിൽ എല്ലാ ജീവനക്കാരും കർശനമായ രഹസ്യാത്മകത പാലിക്കേണ്ടതാണ്.",
     "usageExample": "Secrecy.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1723,7 +1723,7 @@
     "word": "compliance",
     "wordMeaning": "നിയമപാലനം",
     "englishText": "Our software guarantees full compliance with European data protection regulations.",
-    "malayalamMeaning": "ഞങ്ങളുടെ സോഫ്റ്റ്‌വെയർ യൂറോപ്യൻ ഡാറ്റാ സംരക്ഷണ നിയമങ്ങൾ പൂർണ്ണമായും പാലിക്കുന്നുണ്ട്.",
+    "malayalamMeaning": "യൂറോപ്യൻ ഡാറ്റാ സംരക്ഷണ ചട്ടങ്ങളുടെ പൂർണ്ണമായ നിയമപാലനം ഞങ്ങളുടെ സോഫ്റ്റ്‌വെയർ ഉറപ്പുനൽകുന്നു.",
     "usageExample": "Adhering to rules.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1731,7 +1731,7 @@
     "word": "regulation",
     "wordMeaning": "നിയന്ത്രണം",
     "englishText": "New environmental regulations require the factory to curtail carbon emissions.",
-    "malayalamMeaning": "പുതിയ പരിസ്ഥിതി നിയമങ്ങൾ അനുസരിച്ച് ഫാക്ടറിയിൽ നിന്നുള്ള കാർബൺ പുറന്തള്ളൽ ഗണ്യമായി കുറയ്ക്കണം.",
+    "malayalamMeaning": "പുതിയ പരിസ്ഥിതി നിയന്ത്രണങ്ങൾ പ്രകാരം ഫാക്ടറി കാർബൺ പുറന്തള്ളൽ കുറയ്ക്കേണ്ടതുണ്ട്.",
     "usageExample": "Statutory law.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1739,7 +1739,7 @@
     "word": "protocol",
     "wordMeaning": "ഔദ്യോഗിക ചട്ടം",
     "englishText": "Follow the standard security protocol when reporting suspicious system activities.",
-    "malayalamMeaning": "സിസ്റ്റത്തിൽ എന്തെങ്കിലും അസ്വാഭാവികത ശ്രദ്ധയിൽപ്പെട്ടാൽ ഔദ്യോഗിക സുരക്ഷാ മാനദണ്ഡങ്ങൾ പാലിച്ച് ഉടൻ റിപ്പോർട്ട് ചെയ്യുക.",
+    "malayalamMeaning": "സംശയാസ്പദമായ സിസ്റ്റം പ്രവർത്തനങ്ങൾ റിപ്പോർട്ട് ചെയ്യുമ്പോൾ നിശ്ചിത ഔദ്യോഗിക സുരക്ഷാ ചട്ടം പാലിക്കുക.",
     "usageExample": "Standard procedure.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1747,7 +1747,7 @@
     "word": "procedure",
     "wordMeaning": "നടപടിക്രമം",
     "englishText": "The office manual outlines the exact procedure for reporting workplace injuries.",
-    "malayalamMeaning": "ജോലിക്കിടയിൽ അപകടം സംഭവിച്ചാൽ പാലിക്കേണ്ട കൃത്യമായ നടപടിക്രമങ്ങൾ ഓഫീസ് മാന്വലിൽ വിശദീകരിച്ചിട്ടുണ്ട്.",
+    "malayalamMeaning": "ജോലിസ്ഥലത്തെ പരിക്കുകൾ റിപ്പോർട്ട് ചെയ്യുന്നതിനുള്ള കൃത്യമായ നടപടിക്രമം ഓഫീസ് മാന്വലിൽ വ്യക്തമാക്കിയിട്ടുണ്ട്.",
     "usageExample": "Step-by-step rules.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1755,7 +1755,7 @@
     "word": "standard",
     "wordMeaning": "നിലവാരം",
     "englishText": "Our engineering teams uphold the highest international quality standards.",
-    "malayalamMeaning": "ഞങ്ങളുടെ എൻജിനീയറിംഗ് ടീമുകൾ അന്താരാഷ്ട്ര നിലവാരത്തിലുള്ള ഏറ്റവും ഉയർന്ന ഗുണനിലവാരം കാത്തുസൂക്ഷിക്കുന്നു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ എൻജിനീയറിംഗ് ടീമുകൾ ഏറ്റവും ഉയർന്ന അന്താരാഷ്ട്ര ഗുണനിലവാരം കാത്തുസൂക്ഷിക്കുന്നു.",
     "usageExample": "Quality benchmark.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1763,7 +1763,7 @@
     "word": "innovation",
     "wordMeaning": "നവീകരണം",
     "englishText": "Fostering a culture of innovation encourages engineers to patent bold solutions.",
-    "malayalamMeaning": "പുതുമകളെ പ്രോത്സാഹിപ്പിക്കുന്ന തൊഴിൽ സംസ്കാരം എൻജിനീയർമാർക്ക് പുതിയ കണ്ടുപിടുത്തങ്ങൾ നടത്താൻ വലിയ പ്രചോദനമാണ്.",
+    "malayalamMeaning": "നവീകരണ സംസ്കാരം വളർത്തിയെടുക്കുന്നത് ധീരമായ പരിഹാരങ്ങൾക്ക് പേറ്റന്റ് നേടാൻ എൻജിനീയർമാരെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
     "usageExample": "Novel invention.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1771,7 +1771,7 @@
     "word": "brainstorm",
     "wordMeaning": "കൂട്ടായി ആലോചിക്കുക",
     "englishText": "The creative team held a two-hour session to brainstorm names for the new brand.",
-    "malayalamMeaning": "പുതിയ ബ്രാൻഡിന് നല്ലൊരു പേര് കണ്ടെത്താനായി ക്രിയേറ്റീവ് ടീം രണ്ടു മണിക്കൂർ നീണ്ട ആലോചനാ ചർച്ച നടത്തി.",
+    "malayalamMeaning": "പുതിയ ബ്രാൻഡിനുള്ള പേരുകൾ കൂട്ടായി ആലോചിക്കാൻ ക്രിയേറ്റീവ് ടീം രണ്ടു മണിക്കൂർ നീണ്ട സെഷൻ നടത്തി.",
     "usageExample": "Idea generation.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1787,7 +1787,7 @@
     "word": "leadership",
     "wordMeaning": "നേതൃത്വം",
     "englishText": "Authentic leadership inspires team members to achieve more than they imagined.",
-    "malayalamMeaning": "മികച്ച നേതൃപാടവം ടീമംഗങ്ങൾക്ക് തങ്ങളുടെ പ്രതീക്ഷകൾക്കും അപ്പുറമുള്ള നേട്ടങ്ങൾ കൈവരിക്കാൻ കരുത്താകുന്നു.",
+    "malayalamMeaning": "യഥാർത്ഥ നേതൃത്വം ടീമംഗങ്ങൾക്ക് അവർ സങ്കൽപ്പിച്ചതിലുമധികം നേട്ടങ്ങൾ കൈവരിക്കാൻ പ്രചോദനം നൽകുന്നു.",
     "usageExample": "Guiding ability.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1795,7 +1795,7 @@
     "word": "mentorship",
     "wordMeaning": "മാർഗദർശനം",
     "englishText": "Under his dedicated mentorship, several junior engineers grew into tech leads.",
-    "malayalamMeaning": "അദ്ദേഹത്തിന്റെ മികച്ച മാർഗ്ഗനിർദ്ദേശത്തിൽ നിരവധി ജൂനിയർ എൻജിനീയർമാർ ഉയർന്ന പദവികളിലേക്ക് വളർന്നു.",
+    "malayalamMeaning": "അദ്ദേഹത്തിന്റെ അർപ്പണബോധമുള്ള മാർഗദർശനത്തിൽ നിരവധി ജൂനിയർ എൻജിനീയർമാർ ടെക് ലീഡുകളായി വളർന്നു.",
     "usageExample": "Advising recruits.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1803,7 +1803,7 @@
     "word": "tenure",
     "wordMeaning": "കാലാവധി",
     "englishText": "During her ten-year tenure as chief executive, company revenues tripled.",
-    "malayalamMeaning": "സി.ഇ.ഒ ആയി അവർ സേവനമനുഷ്ഠിച്ച പത്തു വർഷത്തിനുള്ളിൽ കമ്പനിയുടെ വരുമാനം മൂന്നിരട്ടിയായി വർദ്ധിച്ചു.",
+    "malayalamMeaning": "മുഖ്യ കാര്യനിർവ്വാഹക എന്ന നിലയിലുള്ള അവരുടെ പത്തു വർഷത്തെ കാലാവധിയിൽ കമ്പനിയുടെ വരുമാനം മൂന്നിരട്ടിയായി.",
     "usageExample": "Period in office.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1811,7 +1811,7 @@
     "word": "seniority",
     "wordMeaning": "സേവനമൂപ്പ്",
     "englishText": "Promotions in the firm are awarded based on merit rather than mere seniority.",
-    "malayalamMeaning": "സ്ഥാപനത്തിലെ സ്ഥാനക്കയറ്റങ്ങൾ കേവല സീനിയോറിറ്റിക്ക് പകരമായി പ്രവർത്തന മികവ് അടിസ്ഥാനമാക്കിയാണ് നൽകുന്നത്.",
+    "malayalamMeaning": "സ്ഥാപനത്തിലെ സ്ഥാനക്കയറ്റങ്ങൾ കേവലം സേവനമൂപ്പിനേക്കാൾ യോഗ്യതയുടെ അടിസ്ഥാനത്തിലാണ് നൽകുന്നത്.",
     "usageExample": "Years of service.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1819,7 +1819,7 @@
     "word": "workspace",
     "wordMeaning": "ജോലിസ്ഥലം",
     "englishText": "Our open-plan workspace encourages spontaneous discussions between departments.",
-    "malayalamMeaning": "ഞങ്ങളുടെ ഓപ്പൺ ഓഫീസ് സംവിധാനം വിവിധ ടീമുകൾ തമ്മിലുള്ള ആശയവിനിമയം കൂടുതൽ എളുപ്പമാക്കുന്നു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ഓപ്പൺ-പ്ലാൻ ജോലിസ്ഥലം വിവിധ വിഭാഗങ്ങൾ തമ്മിലുള്ള സ്വാഭാവികമായ ചർച്ചകളെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
     "usageExample": "Work environment.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1827,7 +1827,7 @@
     "word": "ergonomics",
     "wordMeaning": "തൊഴിലിട രൂപകൽപ്പന",
     "englishText": "Investing in office ergonomics reduces repetitive strain injuries among programmers.",
-    "malayalamMeaning": "പ്രോഗ്രാമർമാർക്ക് നല്ല ഇരിപ്പിടങ്ങളും ക്രമീകരണങ്ങളും നൽകുന്നത് ജോലി സംബന്ധമായ ശാരീരിക ബുദ്ധിമുട്ടുകൾ കുറയ്ക്കാൻ സഹായിക്കും.",
+    "malayalamMeaning": "ഓഫീസ് തൊഴിലിട രൂപകൽപ്പനയിൽ നിക്ഷേപിക്കുന്നത് പ്രോഗ്രാമർമാർക്കിടയിലെ ആവർത്തിച്ചുള്ള ആയാസ പരിക്കുകൾ കുറയ്ക്കുന്നു.",
     "usageExample": "Workplace health design.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1835,7 +1835,7 @@
     "word": "telecommuting",
     "wordMeaning": "വിദൂര ജോലി",
     "englishText": "Telecommuting policies enable employees to save hours of daily commuting time.",
-    "malayalamMeaning": "വീട്ടിലിരുന്ന് ജോലി ചെയ്യാനുള്ള സൗകര്യം ദിവസേനയുള്ള യാത്രാസമയം ലാഭിക്കാൻ ജീവനക്കാരെ സഹായിക്കുന്നു.",
+    "malayalamMeaning": "വിദൂര ജോലി നയങ്ങൾ ജീവനക്കാർക്ക് ദിവസേനയുള്ള മണിക്കൂറുകളോളം യാത്രാസമയം ലാഭിക്കാൻ സഹായിക്കുന്നു.",
     "usageExample": "Remote working.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1843,7 +1843,7 @@
     "word": "flexibility",
     "wordMeaning": "വഴക്കം",
     "englishText": "Workplace schedule flexibility improves employee morale and retention.",
-    "malayalamMeaning": "ജോലി സമയങ്ങളിലെ ഇളവുകൾ ജീവനക്കാരുടെ ഉന്മേഷം കൂട്ടാനും അവർ കമ്പനിയിൽ തുടരാനും സഹായിക്കും.",
+    "malayalamMeaning": "ജോലിസ്ഥലത്തെ സമയക്രമത്തിലെ വഴക്കം ജീവനക്കാരുടെ മനോവീര്യവും നിലനിർത്തലും മെച്ചപ്പെടുത്തുന്നു.",
     "usageExample": "Adaptable terms.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1851,7 +1851,7 @@
     "word": "retention",
     "wordMeaning": "നിലനിർത്തൽ",
     "englishText": "Offering competitive pay and clear career paths boosts talent retention.",
-    "malayalamMeaning": "നല്ല ശമ്പളവും മികച്ച കരിയർ വളർച്ചയും നൽകുന്നത് കഴിവുള്ള ജീവനക്കാരെ കമ്പനിയിൽ നിലനിർത്താൻ സഹായിക്കും.",
+    "malayalamMeaning": "മത്സരക്ഷമമായ ശമ്പളവും വ്യക്തമായ കരിയർ പാതകളും നൽകുന്നത് കഴിവുള്ള ജീവനക്കാരെ നിലനിർത്തുന്നതിന് വലിയ കരുത്താകുന്നു.",
     "usageExample": "Keeping staff.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1859,7 +1859,7 @@
     "word": "attrition",
     "wordMeaning": "ജീവനക്കാരുടെ കൊഴിഞ്ഞുപോക്ക്",
     "englishText": "The HR team investigated the underlying causes of high staff attrition.",
-    "malayalamMeaning": "ജീവനക്കാർ കൂട്ടത്തോടെ ജോലി ഉപേക്ഷിച്ചു പോകുന്നതിന്റെ യഥാർത്ഥ കാരണങ്ങൾ എച്ച്.ആർ വിഭാഗം അന്വേഷിച്ചു.",
+    "malayalamMeaning": "ഉയർന്ന തോതിലുള്ള ജീവനക്കാരുടെ കൊഴിഞ്ഞുപോക്കിന്റെ അടിസ്ഥാന കാരണങ്ങൾ HR ടീം അന്വേഷിച്ചു.",
     "usageExample": "Employee turnover.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1867,7 +1867,7 @@
     "word": "recruitment",
     "wordMeaning": "നിയമന പ്രക്രിയ",
     "englishText": "Our annual campus recruitment drive attracted over ten thousand applicants.",
-    "malayalamMeaning": "ഞങ്ങളുടെ വാർഷിക ക്യാമ്പസ് പ്ലേസ്‌മെന്റിൽ പതിനായിരത്തിലധികം ഉദ്യോഗാർത്ഥികളാണ് പങ്കെടുത്തത്.",
+    "malayalamMeaning": "ഞങ്ങളുടെ വാർഷിക ക്യാമ്പസ് നിയമന പ്രക്രിയ പതിനായിരത്തിലധികം അപേക്ഷകരെ ആകർഷിച്ചു.",
     "usageExample": "Hiring process.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1875,7 +1875,7 @@
     "word": "headhunting",
     "wordMeaning": "പ്രതിഭാ കണ്ടെത്തൽ",
     "englishText": "The firm hired an executive headhunting agency to identify a new CEO.",
-    "malayalamMeaning": "കമ്പനിക്ക് അനുയോജ്യനായ ഒരു പുതിയ സി.ഇ.ഒ-യെ കണ്ടെത്താൻ അവർ ഒരു പ്രൊഫഷണൽ റിക്രൂട്ട്മെന്റ് ഏജൻസിയെ ചുമതലപ്പെടുത്തി.",
+    "malayalamMeaning": "പുതിയ CEO-യെ കണ്ടെത്തുന്നതിനായി സ്ഥാപനം ഒരു എക്സിക്യൂട്ടീവ് പ്രതിഭാ കണ്ടെത്തൽ ഏജൻസിയെ നിയോഗിച്ചു.",
     "usageExample": "Executive search.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1883,7 +1883,7 @@
     "word": "negotiator",
     "wordMeaning": "ഒത്തുതീർപ്പുകാരൻ",
     "englishText": "He proved to be a formidable negotiator who protected our company's margins.",
-    "malayalamMeaning": "കമ്പനിയുടെ ലാഭം സംരക്ഷിച്ചുകൊണ്ട് വിലപേശാൻ സാധിച്ച അതിസമർത്ഥനായ ഒരു മധ്യസ്ഥനാണ് താനെന്ന് അദ്ദേഹം തെളിയിച്ചു.",
+    "malayalamMeaning": "ഞങ്ങളുടെ കമ്പനിയുടെ ലാഭമാർജിനുകൾ സംരക്ഷിച്ച ശക്തനായ ഒരു ഒത്തുതീർപ്പുകാരനാണ് താനെന്ന് അദ്ദേഹം തെളിയിച്ചു.",
     "usageExample": "Bargaining expert.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1891,7 +1891,7 @@
     "word": "arbitration",
     "wordMeaning": "മധ്യസ്ഥതീർപ്പ്",
     "englishText": "Both commercial partners agreed to submit the contractual dispute to arbitration.",
-    "malayalamMeaning": "കരാർ സംബന്ധിച്ച തർക്കം മധ്യസ്ഥതയിലൂടെ പരിഹരിക്കാൻ ഇരു കമ്പനികളും സമ്മതിച്ചു.",
+    "malayalamMeaning": "കരാർ സംബന്ധിച്ച തർക്കം മധ്യസ്ഥതീർപ്പിന് സമർപ്പിക്കാൻ ഇരു വ്യാപാര പങ്കാളികളും സമ്മതിച്ചു.",
     "usageExample": "Settling disputes.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1899,7 +1899,7 @@
     "word": "mediation",
     "wordMeaning": "മധ്യസ്ഥത",
     "englishText": "A trained professional was brought in to conduct mediation between team leads.",
-    "malayalamMeaning": "ടീം ലീഡർമാർക്കിടയിലുള്ള അഭിപ്രായവ്യത്യാസങ്ങൾ പരിഹരിക്കാനായി ഒരു പ്രൊഫഷണൽ മധ്യസ്ഥനെ നിയോഗിച്ചു.",
+    "malayalamMeaning": "ടീം ലീഡർമാർക്കിടയിൽ മധ്യസ്ഥത നടത്താനായി പരിശീലനം ലഭിച്ച ഒരു പ്രൊഫഷണലിനെ കൊണ്ടുവന്നു.",
     "usageExample": "Conflict resolution.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1915,7 +1915,7 @@
     "word": "documentation",
     "wordMeaning": "വിവരരേഖകൾ",
     "englishText": "Clear API documentation is indispensable for developers integrating our platform.",
-    "malayalamMeaning": "ഞങ്ങളുടെ പ്ലാറ്റ്‌ഫോം ഉപയോഗിക്കുന്ന ഡെവലപ്പർമാർക്ക് കൃത്യമായ API ഡോക്യുമെന്റേഷൻ ഒഴിച്ചുകൂടാനാവാത്തതാണ്.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പ്ലാറ്റ്‌ഫോം സംയോജിപ്പിക്കുന്ന ഡെവലപ്പർമാർക്ക് വ്യക്തമായ API വിവരരേഖകൾ ഒഴിച്ചുകൂടാനാവാത്തതാണ്.",
     "usageExample": "Written manuals.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1931,7 +1931,7 @@
     "word": "synergy",
     "wordMeaning": "സമന്വയം",
     "englishText": "The corporate merger created powerful synergy across distribution channels.",
-    "malayalamMeaning": "കമ്പനികളുടെ ലയനം വിതരണ ശൃംഖലയിൽ വലിയൊരു കരുത്തും ഉണർവ്വും നൽകി.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് ലയനം വിതരണ ചാനലുകളിലുടനീളം ശക്തമായ സമന്വയം സൃഷ്ടിച്ചു.",
     "usageExample": "Combined energy.",
     "difficulty": "ADVANCED"
   },
@@ -1939,7 +1939,7 @@
     "word": "paradigm",
     "wordMeaning": "മാതൃക",
     "englishText": "Cloud computing introduced a fundamental paradigm shift in enterprise software.",
-    "malayalamMeaning": "ക്ലൗഡ് കമ്പ്യൂട്ടിംഗിന്റെ വരവ് ബിസിനസ് സോഫ്റ്റ്‌വെയർ മേഖലയിൽ വലിയൊരു വിപ്ലവകരമായ മാറ്റമാണ് കൊണ്ടുവന്നത്.",
+    "malayalamMeaning": "എന്റർപ്രൈസ് സോഫ്റ്റ്‌വെയർ രംഗത്ത് ക്ലൗഡ് കമ്പ്യൂട്ടിംഗ് അടിസ്ഥാനപരമായ ഒരു മാതൃകാ മാറ്റം കൊണ്ടുവന്നു.",
     "usageExample": "Conceptual framework.",
     "difficulty": "ADVANCED"
   },
@@ -1947,7 +1947,7 @@
     "word": "leverage",
     "wordMeaning": "പ്രയോജനപ്പെടുത്തുക",
     "englishText": "We must leverage our existing client relationships to cross-sell new services.",
-    "malayalamMeaning": "പുതിയ സേവനങ്ങൾ വിൽക്കുന്നതിനായി നിലവിലുള്ള ക്ലയന്റുകളുമായുള്ള നല്ല ബന്ധം ഞങ്ങൾ പ്രയോജനപ്പെടുത്തണം.",
+    "malayalamMeaning": "പുതിയ സേവനങ്ങൾ ക്രോസ്-സെൽ ചെയ്യുന്നതിനായി നിലവിലുള്ള ക്ലയന്റ് ബന്ധങ്ങൾ നാം പ്രയോജനപ്പെടുത്തണം.",
     "usageExample": "Use to advantage.",
     "difficulty": "ADVANCED"
   },
@@ -1955,7 +1955,7 @@
     "word": "bandwidth",
     "wordMeaning": "പ്രവർത്തനശേഷി",
     "englishText": "Our development team currently lacks the bandwidth to take on extra projects.",
-    "malayalamMeaning": "അധികമായി വരുന്ന മറ്റ് പ്രോജക്റ്റുകൾ ഏറ്റെടുക്കാനുള്ള സമയവും സാങ്കേതിക സൗകര്യവും ഞങ്ങളുടെ ഡെവലപ്‌മെന്റ് ടീമിന് നിലവിലില്ല.",
+    "malayalamMeaning": "അധിക പ്രോജക്റ്റുകൾ ഏറ്റെടുക്കാനുള്ള പ്രവർത്തനശേഷി ഞങ്ങളുടെ ഡെവലപ്‌മെന്റ് ടീമിന് നിലവിലില്ല.",
     "usageExample": "Capacity.",
     "difficulty": "ADVANCED"
   },
@@ -1963,7 +1963,7 @@
     "word": "bottleneck",
     "wordMeaning": "തടസ്സം",
     "englishText": "Identifying the database bottleneck allowed us to double system throughput.",
-    "malayalamMeaning": "ഡാറ്റാബേസിന്റെ വേഗത കുറയ്ക്കുന്ന പ്രധാന തടസ്സം കണ്ടെത്തി പരിഹരിച്ചതോടെ സിസ്റ്റത്തിന്റെ വേഗത ഇരട്ടിയായി.",
+    "malayalamMeaning": "ഡാറ്റാബേസിലെ തടസ്സം കണ്ടെത്തിയത് സിസ്റ്റത്തിന്റെ പ്രവർത്തനശേഷി ഇരട്ടിയാക്കാൻ ഞങ്ങളെ സഹായിച്ചു.",
     "usageExample": "Constriction point.",
     "difficulty": "ADVANCED"
   },
@@ -1971,7 +1971,7 @@
     "word": "deliverables",
     "wordMeaning": "കൈമാറേണ്ട ഫലങ്ങൾ",
     "englishText": "All contractual deliverables must be formally accepted by the client.",
-    "malayalamMeaning": "കരാർ പ്രകാരമുള്ള എല്ലാ പ്രോജക്ട് ഘട്ടങ്ങളും ക്ലയന്റ് ഔദ്യോഗികമായി പരിശോധിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "കരാർ പ്രകാരമുള്ള കൈമാറേണ്ട എല്ലാ ഫലങ്ങളും ക്ലയന്റ് ഔദ്യോഗികമായി അംഗീകരിക്കേണ്ടതുണ്ട്.",
     "usageExample": "Obligated products.",
     "difficulty": "ADVANCED"
   },
@@ -1979,7 +1979,7 @@
     "word": "governance",
     "wordMeaning": "ഭരണം",
     "englishText": "Strict corporate governance prevents financial irregularities and protects investors.",
-    "malayalamMeaning": "കർശനമായ കമ്പനി ഭരണനിയമങ്ങൾ സാമ്പത്തിക ക്രമക്കേടുകൾ തടയുകയും നിക്ഷേപകരെ സംരക്ഷിക്കുകയും ചെയ്യുന്നു.",
+    "malayalamMeaning": "കർശനമായ കോർപ്പറേറ്റ് ഭരണം സാമ്പത്തിക ക്രമക്കേടുകൾ തടയുകയും നിക്ഷേപകരെ സംരക്ഷിക്കുകയും ചെയ്യുന്നു.",
     "usageExample": "Regulatory oversight.",
     "difficulty": "ADVANCED"
   },
@@ -1987,7 +1987,7 @@
     "word": "remuneration",
     "wordMeaning": "പ്രതിഫലം",
     "englishText": "Executive remuneration packages are tied to long-term shareholder returns.",
-    "malayalamMeaning": "ഉയർന്ന ഉദ്യോഗസ്ഥരുടെ ശമ്പള പാക്കേജുകൾ കമ്പനിയുടെ ദീർഘകാല ലാഭവിഹിതവുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു.",
+    "malayalamMeaning": "എക്സിക്യൂട്ടീവ് പ്രതിഫല പാക്കേജുകൾ ഓഹരി ഉടമകൾക്കുള്ള ദീർഘകാല വരുമാനവുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു.",
     "usageExample": "Compensation.",
     "difficulty": "ADVANCED"
   },
@@ -1995,7 +1995,7 @@
     "word": "competency",
     "wordMeaning": "കഴിവ്",
     "englishText": "Core competency in artificial intelligence gives our firm a distinct edge.",
-    "malayalamMeaning": "ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് രംഗത്തെ ഞങ്ങളുടെ മികച്ച പ്രാവീണ്യം കമ്പനിക്ക് വിപണിയിൽ വലിയൊരു മുൻതൂക്കം നൽകുന്നു.",
+    "malayalamMeaning": "ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിലെ അടിസ്ഥാന കഴിവ് ഞങ്ങളുടെ സ്ഥാപനത്തിന് വ്യക്തമായൊരു മുൻതൂക്കം നൽകുന്നു.",
     "usageExample": "Foundational capability.",
     "difficulty": "ADVANCED"
   },
@@ -2003,7 +2003,7 @@
     "word": "bureaucracy",
     "wordMeaning": "ഉദ്യോഗസ്ഥഭരണം",
     "englishText": "Excessive organizational bureaucracy stifles creative initiative among young engineers.",
-    "malayalamMeaning": "അമിതമായ ചുവപ്പുനാടയും ഉദ്യോഗസ്ഥ ദുഷ്പ്രഭുത്വവും യുവ എൻജിനീയർമാരുടെ സർഗ്ഗാത്മകതയെയും പുതിയ ആശയങ്ങളെയും തളർത്തുന്നു.",
+    "malayalamMeaning": "അമിതമായ സംഘടനാപരമായ ഉദ്യോഗസ്ഥഭരണം യുവ എൻജിനീയർമാർക്കിടയിലെ സർഗ്ഗാത്മക മുൻകൈയെ ഞെരുക്കിക്കളയുന്നു.",
     "usageExample": "Red tape.",
     "difficulty": "ADVANCED"
   },
@@ -2019,7 +2019,7 @@
     "word": "conglomerate",
     "wordMeaning": "വ്യവസായ സമുച്ചയം",
     "englishText": "The multinational conglomerate operates across energy, telecommunications, and retail.",
-    "malayalamMeaning": "ഊർജ്ജം, ടെലികമ്മ്യൂണിക്കേഷൻ, റീട്ടെയിൽ എന്നീ വിവിധ മേഖലകളിൽ ആ ബഹുരാഷ്ട്ര വൻകിട കമ്പനി പ്രവർത്തിക്കുന്നു.",
+    "malayalamMeaning": "ആ ബഹുരാഷ്ട്ര വ്യവസായ സമുച്ചയം ഊർജ്ജം, ടെലികമ്മ്യൂണിക്കേഷൻ, റീട്ടെയിൽ എന്നീ മേഖലകളിലുടനീളം പ്രവർത്തിക്കുന്നു.",
     "usageExample": "Mega corporation.",
     "difficulty": "ADVANCED"
   },
@@ -2027,7 +2027,7 @@
     "word": "entrepreneurial",
     "wordMeaning": "സംരംഭകത്വമുള്ള",
     "englishText": "The company rewards employees who display a bold, entrepreneurial mindset.",
-    "malayalamMeaning": "നല്ല സംരംഭകത്വ മനോഭാവവും ധീരമായ തീരുമാനങ്ങളും കൈക്കൊള്ളുന്ന ജീവനക്കാരെ കമ്പനി എപ്പോഴും പ്രോത്സാഹിപ്പിക്കുന്നു.",
+    "malayalamMeaning": "ധീരവും സംരംഭകത്വമുള്ളതുമായ മനോഭാവം പ്രകടിപ്പിക്കുന്ന ജീവനക്കാരെ കമ്പനി പാരിതോഷികം നൽകി ആദരിക്കുന്നു.",
     "usageExample": "Enterprising spirit.",
     "difficulty": "ADVANCED"
   },
@@ -2035,7 +2035,7 @@
     "word": "monetization",
     "wordMeaning": "ധനസമ്പാദനം",
     "englishText": "Our digital platform is testing various monetization strategies, including subscriptions.",
-    "malayalamMeaning": "സബ്‌സ്‌ക്രിപ്ഷൻ ഉൾപ്പെടെയുള്ള വിവിധ വരുമാന മാർഗ്ഗങ്ങൾ ഞങ്ങളുടെ ഡിജിറ്റൽ പ്ലാറ്റ്‌ഫോം പരീക്ഷിച്ചു വരികയാണ്.",
+    "malayalamMeaning": "സബ്‌സ്‌ക്രിപ്ഷനുകൾ ഉൾപ്പെടെയുള്ള വിവിധ ധനസമ്പാദന തന്ത്രങ്ങൾ ഞങ്ങളുടെ ഡിജിറ്റൽ പ്ലാറ്റ്‌ഫോം പരീക്ഷിച്ചുവരികയാണ്.",
     "usageExample": "Generating revenue.",
     "difficulty": "ADVANCED"
   },
@@ -2043,7 +2043,7 @@
     "word": "pipeline",
     "wordMeaning": "വിപണന ശൃംഖല",
     "englishText": "The sales team maintains a robust pipeline of high-value enterprise leads.",
-    "malayalamMeaning": "വലിയ ബിസിനസ്സ് സാധ്യതകളുള്ള ഒട്ടനവധി ക്ലയന്റുകളെ സെയിൽസ് ടീം നിരന്തരം പിന്തുടരുന്നുണ്ട്.",
+    "malayalamMeaning": "ഉയർന്ന മൂല്യമുള്ള എന്റർപ്രൈസ് സാധ്യതകളുടെ ശക്തമായ ഒരു വിപണന ശൃംഖല സെയിൽസ് ടീം നിലനിർത്തുന്നു.",
     "usageExample": "Sales channel.",
     "difficulty": "ADVANCED"
   },
@@ -2051,7 +2051,7 @@
     "word": "infrastructure",
     "wordMeaning": "അടിസ്ഥാന സൗകര്യങ്ങൾ",
     "englishText": "Upgrading our cloud server infrastructure ensures ninety-nine percent uptime.",
-    "malayalamMeaning": "ക്ലൗഡ് സെർവർ സൗകര്യങ്ങൾ നവീകരിച്ചതോടെ വെബ്‌സൈറ്റ് തടസ്സമില്ലാതെ തൊണ്ണൂറ്റൊമ്പത് ശതമാനവും ലഭ്യമാകുമെന്ന് ഉറപ്പായി.",
+    "malayalamMeaning": "ഞങ്ങളുടെ ക്ലൗഡ് സെർവർ അടിസ്ഥാന സൗകര്യങ്ങൾ നവീകരിക്കുന്നത് തൊണ്ണൂറ്റൊമ്പത് ശതമാനം തടസ്സരഹിത പ്രവർത്തനം ഉറപ്പാക്കുന്നു.",
     "usageExample": "Foundational systems.",
     "difficulty": "ADVANCED"
   },
@@ -2059,7 +2059,7 @@
     "word": "fiscal",
     "wordMeaning": "സാമ്പത്തിക",
     "englishText": "The company reported record net profits for the concluding fiscal year.",
-    "malayalamMeaning": "കഴിഞ്ഞ സാമ്പത്തിക വർഷത്തിൽ കമ്പനി റെക്കോർഡ് അറ്റാദായം കൈവരിച്ചതായി പ്രഖ്യാപിച്ചു.",
+    "malayalamMeaning": "സമാപിക്കുന്ന സാമ്പത്തിക വർഷത്തിൽ കമ്പനി റെക്കോർഡ് അറ്റാദായം റിപ്പോർട്ട് ചെയ്തു.",
     "usageExample": "Financial/tax year.",
     "difficulty": "ADVANCED"
   },
@@ -2067,7 +2067,7 @@
     "word": "restructuring",
     "wordMeaning": "പുനഃക്രമീകരണം",
     "englishText": "Corporate restructuring eliminated overlapping roles and reduced operational overhead.",
-    "malayalamMeaning": "കമ്പനിയിലെ പുനഃസംഘടന അനാവശ്യ തസ്തികകൾ ഒഴിവാക്കാനും പ്രവർത്തനച്ചെലവ് കുറയ്ക്കാനും സഹായിച്ചു.",
+    "malayalamMeaning": "കോർപ്പറേറ്റ് പുനഃക്രമീകരണം ആവർത്തിക്കുന്ന തസ്തികകൾ ഒഴിവാക്കുകയും പ്രവർത്തനച്ചെലവ് കുറയ്ക്കുകയും ചെയ്തു.",
     "usageExample": "Reorganizing firm.",
     "difficulty": "ADVANCED"
   },
@@ -2083,7 +2083,7 @@
     "word": "procurement",
     "wordMeaning": "സംഭരണം",
     "englishText": "The procurement department negotiated volume discounts with major hardware suppliers.",
-    "malayalamMeaning": "വൻതോതിൽ സാധനങ്ങൾ വാങ്ങുന്നതിലൂടെ പ്രധാന ഹാർഡ്‌വെയർ വിതരണക്കാരിൽ നിന്ന് നല്ല വിലക്കിഴിവ് നേടാൻ പ്രൊക്യൂർമെന്റ് വിഭാഗത്തിന് കഴിഞ്ഞു.",
+    "malayalamMeaning": "പ്രധാന ഹാർഡ്‌വെയർ വിതരണക്കാരുമായി ചർച്ച നടത്തി സംഭരണ വിഭാഗം വൻതോതിലുള്ള വാങ്ങലുകൾക്ക് വിലക്കിഴിവ് നേടിയെടുത്തു.",
     "usageExample": "Acquiring supplies.",
     "difficulty": "ADVANCED"
   },
@@ -2091,7 +2091,7 @@
     "word": "jurisprudence",
     "wordMeaning": "നിയമശാസ്ത്രം",
     "englishText": "Corporate lawyers must navigate complex international trade jurisprudence.",
-    "malayalamMeaning": "സങ്കീർണ്ണമായ അന്താരാഷ്ട്ര വ്യാപാര നിയമങ്ങൾ കൈകാര്യം ചെയ്യാൻ കോർപ്പറേറ്റ് അഭിഭാഷകർക്ക് വലിയ വൈദഗ്ദ്ധ്യം ആവശ്യമാണ്.",
+    "malayalamMeaning": "സങ്കീർണ്ണമായ അന്താരാഷ്ട്ര വ്യാപാര നിയമശാസ്ത്രം കോർപ്പറേറ്റ് അഭിഭാഷകർ കൈകാര്യം ചെയ്യേണ്ടതുണ്ട്.",
     "usageExample": "Legal principles.",
     "difficulty": "ADVANCED"
   },
@@ -2099,7 +2099,7 @@
     "word": "proprietary",
     "wordMeaning": "കുത്തകാവകാശമുള്ള",
     "englishText": "The company holds multiple proprietary patents covering its encryption algorithm.",
-    "malayalamMeaning": "തങ്ങളുടെ എൻക്രിപ്ഷൻ സാങ്കേതികവിദ്യയ്ക്ക് കമ്പനിക്ക് സ്വന്തമായി ഒന്നിലധികം പേറ്റന്റുകൾ ഉണ്ട്.",
+    "malayalamMeaning": "തങ്ങളുടെ എൻക്രിപ്ഷൻ അൽഗോരിതത്തിനായി കമ്പനിക്ക് കുത്തകാവകാശമുള്ള ഒന്നിലധികം പേറ്റന്റുകളുണ്ട്.",
     "usageExample": "Privately owned.",
     "difficulty": "ADVANCED"
   },
@@ -2107,7 +2107,7 @@
     "word": "scalability",
     "wordMeaning": "വിപുലീകരണ ശേഷി",
     "englishText": "The microservices architecture ensures high scalability during traffic surges.",
-    "malayalamMeaning": "ഉപയോക്താക്കളുടെ എണ്ണം പെട്ടെന്ന് കൂടുമ്പോഴും തടസ്സമില്ലാതെ പ്രവർത്തിക്കാൻ മൈക്രോസർവീസസ് ഘടന സഹായിക്കുന്നു.",
+    "malayalamMeaning": "ട്രാഫിക് പെട്ടെന്ന് വർദ്ധിക്കുമ്പോൾ ഉയർന്ന വിപുലീകരണ ശേഷി മൈക്രോസർവീസസ് ആർക്കിടെക്ചർ ഉറപ്പാക്കുന്നു.",
     "usageExample": "Ability to grow.",
     "difficulty": "ADVANCED"
   },
@@ -2115,7 +2115,7 @@
     "word": "viability",
     "wordMeaning": "പ്രവർത്തനക്ഷമത",
     "englishText": "Economic viability must be established before committing capital to new ventures.",
-    "malayalamMeaning": "പുതിയ പദ്ധതികളിലേക്ക് പണം നിക്ഷേപിക്കുന്നതിന് മുൻപ് അവ സാമ്പത്തികമായി ലാഭകരമാണെന്ന് ഉറപ്പുവരുത്തണം.",
+    "malayalamMeaning": "പുതിയ സംരംഭങ്ങളിൽ മൂലധനം നിക്ഷേപിക്കുന്നതിന് മുൻപ് സാമ്പത്തിക പ്രവർത്തനക്ഷമത ഉറപ്പുവരുത്തേണ്ടതുണ്ട്.",
     "usageExample": "Feasibility.",
     "difficulty": "ADVANCED"
   },
@@ -2131,7 +2131,7 @@
     "word": "indemnity",
     "wordMeaning": "നഷ്ടപരിഹാരം",
     "englishText": "The contract contains an indemnity clause protecting our firm against third-party claims.",
-    "malayalamMeaning": "മൂന്നാം കക്ഷികളിൽ നിന്നുള്ള നഷ്ടപരിഹാര ക്ലെയിമുകളിൽ നിന്ന് കമ്പനിയെ സംരക്ഷിക്കുന്ന ഒരു വ്യവസ്ഥ കരാറിൽ ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.",
+    "malayalamMeaning": "മൂന്നാം കക്ഷികളുടെ ക്ലെയിമുകളിൽ നിന്ന് ഞങ്ങളുടെ സ്ഥാപനത്തെ സംരക്ഷിക്കുന്ന ഒരു നഷ്ടപരിഹാര വ്യവസ്ഥ കരാറിൽ ഉൾപ്പെടുന്നു.",
     "usageExample": "Security against loss.",
     "difficulty": "ADVANCED"
   },
@@ -2147,7 +2147,7 @@
     "word": "prerequisite",
     "wordMeaning": "മുൻവ്യവസ്ഥ",
     "englishText": "Thorough understanding of data structures is an indispensable prerequisite for the role.",
-    "malayalamMeaning": "ഡാറ്റാ സ്ട്രക്ചറുകളെക്കുറിച്ചുള്ള ആഴത്തിലുള്ള അറിവ് ഈ ജോലിക്ക് അത്യന്താപേക്ഷിതമായ ഒരു യോഗ്യതയാണ്.",
+    "malayalamMeaning": "ഡാറ്റാ സ്ട്രക്ചറുകളെക്കുറിച്ചുള്ള സമഗ്രമായ അറിവ് ഈ തസ്തികയ്ക്ക് ഒഴിച്ചുകൂടാനാവാത്ത ഒരു മുൻവ്യവസ്ഥയാണ്.",
     "usageExample": "Mandatory condition.",
     "difficulty": "ADVANCED"
   },
@@ -2155,7 +2155,7 @@
     "word": "hierarchy",
     "wordMeaning": "ശ്രേണി",
     "englishText": "A rigid corporate hierarchy can sometimes impede rapid bottom-up communication.",
-    "malayalamMeaning": "കമ്പനിയിലെ കടുപ്പമേറിയ ഉദ്യോഗസ്ഥ ശ്രേണി ജീവനക്കാരുടെ ആശയങ്ങൾ മുകളിലേക്ക് വേഗത്തിൽ എത്തുന്നതിന് പലപ്പോഴും തടസ്സമാകാറുണ്ട്.",
+    "malayalamMeaning": "കർക്കശമായ കോർപ്പറേറ്റ് ശ്രേണി താഴെനിന്ന് മുകളിലേക്കുള്ള വേഗത്തിലുള്ള ആശയവിനിമയത്തിന് ചിലപ്പോൾ തടസ്സമായേക്കാം.",
     "usageExample": "Rank order.",
     "difficulty": "ADVANCED"
   },
@@ -2163,7 +2163,7 @@
     "word": "transformative",
     "wordMeaning": "രൂപാന്തരപ്പെടുത്തുന്ന",
     "englishText": "Adopting machine learning proved to be a transformative milestone for our business.",
-    "malayalamMeaning": "മെഷീൻ ലേണിംഗ് സാങ്കേതികവിദ്യ നടപ്പിലാക്കിയത് ഞങ്ങളുടെ ബിസിനസ്സിൽ വലിയൊരു വഴിത്തിരിവായി മാറി.",
+    "malayalamMeaning": "മെഷീൻ ലേണിംഗ് സ്വീകരിച്ചത് ഞങ്ങളുടെ ബിസിനസ്സിനെ രൂപാന്തരപ്പെടുത്തുന്ന ഒരു നാഴികക്കല്ലായി മാറി.",
     "usageExample": "Revolutionary change.",
     "difficulty": "ADVANCED"
   },
@@ -2171,7 +2171,7 @@
     "word": "dynamism",
     "wordMeaning": "ചലനാത്മകത",
     "englishText": "The technological dynamism of the market demands constant agility from companies.",
-    "malayalamMeaning": "വിപണിയിലെ വേഗതയേറിയ സാങ്കേതിക മാറ്റങ്ങൾക്ക് അനുസരിച്ച് കമ്പനികളും നിരന്തരം മാറ്റങ്ങൾക്ക് തയ്യാറാകേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "വിപണിയിലെ സാങ്കേതിക ചലനാത്മകത കമ്പനികളിൽ നിന്ന് നിരന്തരമായ ചടുലത ആവശ്യപ്പെടുന്നു.",
     "usageExample": "Vibrant adaptability.",
     "difficulty": "ADVANCED"
   },
@@ -2187,7 +2187,7 @@
     "word": "aptitude",
     "wordMeaning": "അഭിരുചി",
     "englishText": "The candidate displayed a natural aptitude for designing scalable distributed networks.",
-    "malayalamMeaning": "വലിയ തോതിലുള്ള നെറ്റ്‌വർക്കുകൾ രൂപകൽപ്പന ചെയ്യുന്നതിൽ ആ ഉദ്യോഗാർത്ഥിക്ക് മികച്ച സഹജവാസനയുണ്ടെന്ന് വ്യക്തമായി.",
+    "malayalamMeaning": "വിപുലീകരിക്കാവുന്ന വിതരണ നെറ്റ്‌വർക്കുകൾ രൂപകൽപ്പന ചെയ്യുന്നതിൽ ആ ഉദ്യോഗാർത്ഥി സ്വാഭാവികമായ അഭിരുചി പ്രകടിപ്പിച്ചു.",
     "usageExample": "Natural talent.",
     "difficulty": "ADVANCED"
   },
@@ -2195,7 +2195,7 @@
     "word": "dexterity",
     "wordMeaning": "വൈദഗ്ധ്യം",
     "englishText": "Managing multiple high-stakes client relationships demands great diplomatic dexterity.",
-    "malayalamMeaning": "പ്രധാനപ്പെട്ട വലിയ ക്ലയന്റുകളുമായുള്ള ബന്ധം തകരാതെ കൊണ്ടുപോകാൻ മികച്ച നയതന്ത്ര ചാതുര്യം ആവശ്യമാണ്.",
+    "malayalamMeaning": "ഉയർന്ന പ്രാധാന്യമുള്ള ഒന്നിലധികം ക്ലയന്റ് ബന്ധങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിന് മികച്ച നയതന്ത്ര വൈദഗ്ധ്യം ആവശ്യമാണ്.",
     "usageExample": "Skillful handling.",
     "difficulty": "ADVANCED"
   },
@@ -2203,7 +2203,7 @@
     "word": "acumen",
     "wordMeaning": "കുശാഗ്രബുദ്ധി",
     "englishText": "Her astute business acumen steered the firm through a severe macroeconomic recession.",
-    "malayalamMeaning": "അവളുടെ മികച്ച ബിസിനസ്സ് ബുദ്ധി വലിയ സാമ്പത്തിക മാന്ദ്യത്തിലും കമ്പനിയെ സുരക്ഷിതമായി നയിച്ചു.",
+    "malayalamMeaning": "അവളുടെ സൂക്ഷ്മമായ ബിസിനസ്സ് കുശാഗ്രബുദ്ധി കടുത്ത ബൃഹദ് സാമ്പത്തിക മാന്ദ്യത്തിലൂടെ സ്ഥാപനത്തെ സുരക്ഷിതമായി നയിച്ചു.",
     "usageExample": "Sharp business mind.",
     "difficulty": "ADVANCED"
   },
@@ -2219,7 +2219,7 @@
     "word": "stewardship",
     "wordMeaning": "പരിപാലന ചുമതല",
     "englishText": "Prudent environmental stewardship is now a mandatory KPI for modern corporations.",
-    "malayalamMeaning": "പരിസ്ഥിതി സംരക്ഷണത്തോടുള്ള ഉത്തരവാദിത്തം പാലിക്കുക എന്നത് ഇന്നത്തെ കോർപ്പറേറ്റ് കമ്പനികൾക്ക് നിർബന്ധിത മാനദണ്ഡമാണ്.",
+    "malayalamMeaning": "വിവേകപൂർണ്ണമായ പരിസ്ഥിതി പരിപാലന ചുമതല ഇന്ന് ആധുനിക കോർപ്പറേറ്റുകൾക്ക് നിർബന്ധിത KPI ആണ്.",
     "usageExample": "Responsible management.",
     "difficulty": "ADVANCED"
   },
@@ -2227,7 +2227,7 @@
     "word": "fiduciary",
     "wordMeaning": "വിശ്വാസാധിഷ്ഠിതമായ",
     "englishText": "Directors bear a solemn fiduciary duty to act in the best interests of shareholders.",
-    "malayalamMeaning": "ഓഹരി ഉടമകളുടെ താൽപ്പര്യങ്ങൾക്ക് മുൻഗണന നൽകി പ്രവർത്തിക്കുക എന്നത് കമ്പനി ഡയറക്ടർമാരുടെ വലിയൊരു ധാർമ്മിക ഉത്തരവാദിത്തമാണ്.",
+    "malayalamMeaning": "ഓഹരി ഉടമകളുടെ മികച്ച താൽപ്പര്യങ്ങൾക്കായി പ്രവർത്തിക്കാൻ ഡയറക്ടർമാർക്ക് ഗൗരവമേറിയ വിശ്വാസാധിഷ്ഠിതമായ കടമയുണ്ട്.",
     "usageExample": "Trust-based duty.",
     "difficulty": "ADVANCED"
   },
@@ -2235,7 +2235,7 @@
     "word": "visionary",
     "wordMeaning": "ദീർഘവീക്ഷണമുള്ള",
     "englishText": "The visionary founder foresaw the mobile revolution years before competitors.",
-    "malayalamMeaning": "മൊബൈൽ ഫോൺ രംഗത്തുണ്ടാകാൻ പോകുന്ന വിപ്ലവം വർഷങ്ങൾക്ക് മുൻപേ ദീർഘവീക്ഷണത്തോടെ കാണാൻ കമ്പനി സ്ഥാപകന് സാധിച്ചു.",
+    "malayalamMeaning": "ദീർഘവീക്ഷണമുള്ള സ്ഥാപകൻ എതിരാളികൾക്കും വർഷങ്ങൾക്ക് മുൻപേ മൊബൈൽ വിപ്ലവം മുൻകൂട്ടി കണ്ടു.",
     "usageExample": "Farsighted leader.",
     "difficulty": "ADVANCED"
   },
@@ -2243,7 +2243,7 @@
     "word": "ubiquitous",
     "wordMeaning": "സർവ്വവ്യാപിയായ",
     "englishText": "Smartphones have become ubiquitous tools in modern corporate communication.",
-    "malayalamMeaning": "ആധുനിക കോർപ്പറേറ്റ് ആശയവിനിമയത്തിൽ സ്മാർട്ട്ഫോണുകൾ ഇന്ന് സർവ്വസാധാരണമായ ഒന്നായി മാറിയിരിക്കുന്നു.",
+    "malayalamMeaning": "ആധുനിക കോർപ്പറേറ്റ് ആശയവിനിമയത്തിൽ സ്മാർട്ട്ഫോണുകൾ സർവ്വവ്യാപിയായ ഉപകരണങ്ങളായി മാറിയിരിക്കുന്നു.",
     "usageExample": "Present everywhere.",
     "difficulty": "ADVANCED"
   },
@@ -2251,7 +2251,7 @@
     "word": "pragmatic",
     "wordMeaning": "പ്രായോഗികമായ",
     "englishText": "He adopted a pragmatic approach, choosing stability over untested experimental tools.",
-    "malayalamMeaning": "പരീക്ഷിക്കപ്പെടാത്ത പുതിയ ടൂളുകൾക്ക് പകരം സ്ഥിരതയുള്ളവ തിരഞ്ഞെടുത്ത് അവൻ തികച്ചും പ്രായോഗികമായ സമീപനമാണ് സ്വീകരിച്ചത്.",
+    "malayalamMeaning": "പരീക്ഷിക്കപ്പെടാത്ത പരീക്ഷണാത്മക ടൂളുകൾക്ക് പകരം സ്ഥിരത തിരഞ്ഞെടുത്ത് അവൻ പ്രായോഗികമായ ഒരു സമീപനം സ്വീകരിച്ചു.",
     "usageExample": "Practical/realistic.",
     "difficulty": "ADVANCED"
   },
@@ -2259,7 +2259,7 @@
     "word": "lucrative",
     "wordMeaning": "ലാഭകരമായ",
     "englishText": "Securing the government cloud contract was the most lucrative deal of the quarter.",
-    "malayalamMeaning": "സർക്കാരിന്റെ ക്ലൗഡ് കരാർ സ്വന്തമാക്കാൻ കഴിഞ്ഞതാണ് ഈ പാദത്തിലെ ഏറ്റവും വലിയ സാമ്പത്തിക നേട്ടം.",
+    "malayalamMeaning": "സർക്കാരിന്റെ ക്ലൗഡ് കരാർ സ്വന്തമാക്കിയത് ഈ പാദത്തിലെ ഏറ്റവും ലാഭകരമായ ഇടപാടായിരുന്നു.",
     "usageExample": "Highly profitable.",
     "difficulty": "ADVANCED"
   },
@@ -2275,7 +2275,7 @@
     "word": "unprecedented",
     "wordMeaning": "അഭൂതപൂർവമായ",
     "englishText": "The sudden surge in cloud demand brought unprecedented revenue growth.",
-    "malayalamMeaning": "ക്ലൗഡ് സേവനങ്ങൾക്കായുള്ള വർദ്ധിച്ച ആവശ്യം കമ്പനിക്ക് മുൻപൊരിക്കലുമില്ലാത്ത വലിയ വരുമാന വളർച്ച നേടിക്കൊടുത്തു.",
+    "malayalamMeaning": "ക്ലൗഡ് ആവശ്യകതയിലുണ്ടായ പെട്ടെന്നുള്ള കുതിച്ചുചാട്ടം അഭൂതപൂർവമായ വരുമാന വളർച്ച കൊണ്ടുവന്നു.",
     "usageExample": "Never seen before.",
     "difficulty": "ADVANCED"
   },
@@ -2283,7 +2283,7 @@
     "word": "exponential",
     "wordMeaning": "ബഹുഗുണിതമായ",
     "englishText": "Our SaaS platform witnessed exponential subscriber growth over the past year.",
-    "malayalamMeaning": "കഴിഞ്ഞ ഒരു വർഷത്തിനിടെ ഞങ്ങളുടെ സോഫ്റ്റ്‌വെയർ പ്ലാറ്റ്‌ഫോമിലെ വരിക്കാരുടെ എണ്ണത്തിൽ വൻ കുതിച്ചുചാട്ടമുണ്ടായി.",
+    "malayalamMeaning": "കഴിഞ്ഞ ഒരു വർഷത്തിനിടെ ഞങ്ങളുടെ SaaS പ്ലാറ്റ്‌ഫോം വരിക്കാരുടെ എണ്ണത്തിൽ ബഹുഗുണിതമായ വളർച്ചയ്ക്ക് സാക്ഷ്യം വഹിച്ചു.",
     "usageExample": "Rapid multiplication.",
     "difficulty": "ADVANCED"
   },
@@ -2291,7 +2291,7 @@
     "word": "substantiate",
     "wordMeaning": "സാധൂകരിക്കുക",
     "englishText": "The auditor asked the accounting team to substantiate the reported tax deductions.",
-    "malayalamMeaning": "കണക്കിൽ കാണിച്ച നികുതി ഇളവുകൾ തെളിയിക്കുന്ന രേഖകൾ ഹാജരാക്കാൻ ഓഡിറ്റർ അക്കൗണ്ട്സ് ടീമിനോട് ആവശ്യപ്പെട്ടു.",
+    "malayalamMeaning": "റിപ്പോർട്ട് ചെയ്ത നികുതി ഇളവുകൾ സാധൂകരിക്കാൻ ഓഡിറ്റർ അക്കൗണ്ടിംഗ് ടീമിനോട് ആവശ്യപ്പെട്ടു.",
     "usageExample": "Provide proof.",
     "difficulty": "ADVANCED"
   },
@@ -2299,7 +2299,7 @@
     "word": "exemplary",
     "wordMeaning": "മാതൃകാപരമായ",
     "englishText": "Her exemplary dedication earned her the highest leadership award in the firm.",
-    "malayalamMeaning": "അവളുടെ മാതൃകാപരമായ അർപ്പണബോധത്തിന് കമ്പനിയിലെ ഏറ്റവും ഉയർന്ന ലീഡർഷിപ്പ് അവാർഡ് അവൾക്ക് ലഭിച്ചു.",
+    "malayalamMeaning": "അവളുടെ മാതൃകാപരമായ അർപ്പണബോധം സ്ഥാപനത്തിലെ ഏറ്റവും ഉയർന്ന നേതൃത്വ പുരസ്കാരം നേടിക്കൊടുത്തു.",
     "usageExample": "Model quality.",
     "difficulty": "ADVANCED"
   },
@@ -2307,7 +2307,7 @@
     "word": "imperative",
     "wordMeaning": "അനിവാര്യമായ",
     "englishText": "Streamlining customer onboarding is a strategic imperative for this quarter.",
-    "malayalamMeaning": "കസ്റ്റമർ ഓൺബോർഡിംഗ് പ്രക്രിയ ലളിതമാക്കുക എന്നത് ഈ പാദത്തിൽ അടിയന്തിരമായി ചെയ്യേണ്ട പ്രധാന കാര്യമാണ്.",
+    "malayalamMeaning": "കസ്റ്റമർ ഓൺബോർഡിംഗ് സുഗമമാക്കുക എന്നത് ഈ പാദത്തിലെ തന്ത്രപരമായി അനിവാര്യമായ ഒരു കാര്യമാണ്.",
     "usageExample": "Crucial requirement.",
     "difficulty": "ADVANCED"
   },
@@ -2315,7 +2315,7 @@
     "word": "perfunctory",
     "wordMeaning": "പേരിനുമാത്രമുള്ള",
     "englishText": "Avoid giving perfunctory responses when addressing serious customer complaints.",
-    "malayalamMeaning": "ഗൗരവമുള്ള ഉപഭോക്തൃ പരാതികൾക്ക് മറുപടി നൽകുമ്പോൾ യാന്ത്രികമായോ പേരിനു മാത്രമായോ സംസാരിക്കാതെ കാര്യക്ഷമമായി കൈകാര്യം ചെയ്യുക.",
+    "malayalamMeaning": "ഗൗരവമുള്ള ഉപഭോക്തൃ പരാതികൾ പരിഹരിക്കുമ്പോൾ പേരിനുമാത്രമുള്ള മറുപടികൾ നൽകുന്നത് ഒഴിവാക്കുക.",
     "usageExample": "Superficial effort.",
     "difficulty": "ADVANCED"
   },
@@ -2331,7 +2331,7 @@
     "word": "expedite",
     "wordMeaning": "വേഗത്തിലാക്കുക",
     "englishText": "We paid an extra fee to expedite the shipping of replacement server components.",
-    "malayalamMeaning": "സെർവറിന്റെ സ്പെയർ പാർട്സുകൾ വേഗത്തിൽ എത്തിക്കുന്നതിനായി ഞങ്ങൾ കൂടുതൽ തുക നൽകി.",
+    "malayalamMeaning": "പകരമുള്ള സെർവർ ഘടകങ്ങൾ അയയ്ക്കുന്നത് വേഗത്തിലാക്കാൻ ഞങ്ങൾ അധിക ഫീസ് നൽകി.",
     "usageExample": "Speed up.",
     "difficulty": "ADVANCED"
   },
@@ -2339,7 +2339,7 @@
     "word": "scrutiny",
     "wordMeaning": "സൂക്ഷ്മപരിശോധന",
     "englishText": "The proposed corporate acquisition faced intense regulatory scrutiny from authorities.",
-    "malayalamMeaning": "മറ്റൊരു കമ്പനിയെ ഏറ്റെടുക്കാനുള്ള നീക്കം അധികാരികളുടെ കർശനമായ നിയമപരിശോധനയ്ക്ക് വിധേയമായി.",
+    "malayalamMeaning": "നിർദ്ദിഷ്ട കോർപ്പറേറ്റ് ഏറ്റെടുക്കൽ അധികാരികളിൽ നിന്നുള്ള കടുത്ത നിയന്ത്രണ സൂക്ഷ്മപരിശോധന നേരിട്ടു.",
     "usageExample": "Critical inspection.",
     "difficulty": "ADVANCED"
   },
@@ -2347,7 +2347,7 @@
     "word": "diligence",
     "wordMeaning": "ജാഗ്രത",
     "englishText": "Conducting thorough due diligence is non-negotiable before finalizing any corporate buyout.",
-    "malayalamMeaning": "മറ്റൊരു കമ്പനി വിലയ്ക്ക് വാങ്ങുന്നതിന് മുൻപ് അവരുടെ പൂർണ്ണ വിവരങ്ങൾ വിശദമായി പരിശോധിച്ചുറപ്പുവരുത്തുന്നത് ഒഴിച്ചുകൂടാനാവാത്ത കാര്യമാണ്.",
+    "malayalamMeaning": "ഏതൊരു കോർപ്പറേറ്റ് ഏറ്റെടുക്കലും അന്തിമമാക്കുന്നതിന് മുൻപ് ജാഗ്രതയോടെയുള്ള സമഗ്രമായ പരിശോധന നടത്തുന്നത് വിട്ടുവീഴ്ചയില്ലാത്ത കാര്യമാണ്.",
     "usageExample": "Persistent care.",
     "difficulty": "ADVANCED"
   },
@@ -2355,7 +2355,7 @@
     "word": "unambiguous",
     "wordMeaning": "സംശയരഹിതമായ",
     "englishText": "The project requirements must be stated in clear, unambiguous language.",
-    "malayalamMeaning": "പ്രോജക്ടിന്റെ ആവശ്യകതകൾ ഒരു സംശയത്തിനും ഇടയില്ലാത്ത വിധം വ്യക്തമായിത്തന്നെ രേഖപ്പെടുത്തണം.",
+    "malayalamMeaning": "പ്രോജക്ടിന്റെ ആവശ്യകതകൾ വ്യക്തവും സംശയരഹിതവുമായ ഭാഷയിൽ പ്രസ്താവിക്കേണ്ടതാണ്.",
     "usageExample": "Leaving no doubt.",
     "difficulty": "ADVANCED"
   },
@@ -2363,7 +2363,7 @@
     "word": "concomitant",
     "wordMeaning": "ഒപ്പം ഉണ്ടാകുന്ന",
     "englishText": "Increased market share brought a concomitant rise in customer service responsibilities.",
-    "malayalamMeaning": "മാർക്കറ്റ് വിഹിതം വർദ്ധിച്ചതിനൊപ്പം ഉപഭോക്തൃ സേവനത്തിലുള്ള ഉത്തരവാദിത്തങ്ങളും സ്വാഭാവികമായി കൂടി.",
+    "malayalamMeaning": "വിപണി വിഹിതം വർദ്ധിച്ചതോടെ ഉപഭോക്തൃ സേവന ഉത്തരവാദിത്തങ്ങളിലും അതിനൊപ്പം വർദ്ധനവുണ്ടായി.",
     "usageExample": "Accompanying factor.",
     "difficulty": "ADVANCED"
   },
@@ -2371,7 +2371,7 @@
     "word": "efficacy",
     "wordMeaning": "ഫലപ്രാപ്തി",
     "englishText": "Clinical trials demonstrated the remarkable efficacy of the new diagnostic device.",
-    "malayalamMeaning": "പുതിയ മെഡിക്കൽ പരിശോധനാ ഉപകരണം വളരെ കൃത്യതയുള്ളതും ഫലപ്രദവുമാണെന്ന് ക്ലിനിക്കൽ പരീക്ഷണങ്ങൾ തെളിയിച്ചു.",
+    "malayalamMeaning": "പുതിയ രോഗനിർണ്ണയ ഉപകരണത്തിന്റെ ശ്രദ്ധേയമായ ഫലപ്രാപ്തി ക്ലിനിക്കൽ പരീക്ഷണങ്ങൾ തെളിയിച്ചു.",
     "usageExample": "Power to produce effect.",
     "difficulty": "ADVANCED"
   },
@@ -2379,7 +2379,7 @@
     "word": "proactive",
     "wordMeaning": "മുൻകരുതലുള്ള",
     "englishText": "A proactive approach to system monitoring prevents critical production outages.",
-    "malayalamMeaning": "സിസ്റ്റത്തിന്റെ പ്രവർത്തനം നിരന്തരം മുൻകൂട്ടി നിരീക്ഷിക്കുന്നത് സെർവർ തകരാറുകൾ വരാതെ തടയാൻ സഹായിക്കും.",
+    "malayalamMeaning": "സിസ്റ്റം നിരീക്ഷണത്തിലെ മുൻകരുതലുള്ള സമീപനം ഗുരുതരമായ പ്രൊഡക്ഷൻ തടസ്സങ്ങൾ തടയുന്നു.",
     "usageExample": "Acting in anticipation.",
     "difficulty": "ADVANCED"
   },
@@ -2395,7 +2395,7 @@
     "word": "salient",
     "wordMeaning": "ശ്രദ്ധേയമായ",
     "englishText": "The executive summary highlights the salient features of our five-year business roadmap.",
-    "malayalamMeaning": "ഞങ്ങളുടെ അഞ്ചു വർഷത്തെ ബിസിനസ് പ്ലാനിന്റെ പ്രധാന വിവരങ്ങൾ എക്സിക്യൂട്ടീവ് സമ്മറിയിൽ എടുത്തു കാണിക്കുന്നുണ്ട്.",
+    "malayalamMeaning": "ഞങ്ങളുടെ അഞ്ചു വർഷത്തെ ബിസിനസ് റോഡ്മാപ്പിന്റെ ശ്രദ്ധേയമായ സവിശേഷതകൾ എക്സിക്യൂട്ടീവ് സമ്മറി എടുത്തുകാണിക്കുന്നു.",
     "usageExample": "Most noticeable/vital.",
     "difficulty": "ADVANCED"
   }

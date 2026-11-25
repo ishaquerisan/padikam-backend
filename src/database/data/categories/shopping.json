@@ -11,7 +11,7 @@
     "word": "store",
     "wordMeaning": "കട",
     "englishText": "The departmental store has fresh organic fruits every morning.",
-    "malayalamMeaning": "ആ ഡിപ്പാർട്ട്‌മെന്റൽ സ്റ്റോറിൽ എല്ലാ ദിവസവും രാവിലെ വിഷാംശമില്ലാത്ത നല്ല നാടൻ പഴങ്ങൾ ലഭിക്കും.",
+    "malayalamMeaning": "ഡിപ്പാർട്ട്‌മെന്റൽ സ്റ്റോറിൽ എല്ലാ ദിവസവും രാവിലെ പുതുമയുള്ള ജൈവ പഴങ്ങൾ ലഭിക്കും.",
     "usageExample": "Retail venue.",
     "difficulty": "BEGINNER"
   },
@@ -27,7 +27,7 @@
     "word": "market",
     "wordMeaning": "വിപണി",
     "englishText": "We buy fresh sea fish from the local fish market.",
-    "malayalamMeaning": "ഞങ്ങൾ തൊട്ടടുത്തുള്ള ചന്തയിൽ നിന്നാണ് നല്ല കടൽമത്സ്യം വാങ്ങാറുള്ളത്.",
+    "malayalamMeaning": "ഞങ്ങൾ പ്രാദേശിക മത്സ്യവിപണിയിൽ നിന്നാണ് പുതുമയുള്ള കടൽമത്സ്യം വാങ്ങാറുള്ളത്.",
     "usageExample": "Trading market.",
     "difficulty": "BEGINNER"
   },
@@ -51,7 +51,7 @@
     "word": "pay",
     "wordMeaning": "പണം നൽകുക",
     "englishText": "You can pay using UPI, debit card, or cash.",
-    "malayalamMeaning": "യു.പി.ഐ (UPI), ഡെബിറ്റ് കാർഡ് അല്ലെങ്കിൽ പണമായി നിങ്ങൾക്ക് പണമടയ്ക്കാം.",
+    "malayalamMeaning": "യു.പി.ഐ., ഡെബിറ്റ് കാർഡ് അല്ലെങ്കിൽ പണം ഉപയോഗിച്ച് നിങ്ങൾക്ക് പണമടയ്ക്കാം.",
     "usageExample": "Settling bill.",
     "difficulty": "BEGINNER"
   },
@@ -67,7 +67,7 @@
     "word": "cost",
     "wordMeaning": "ചെലവ്",
     "englishText": "The total cost of our grocery cart was two thousand rupees.",
-    "malayalamMeaning": "ഞങ്ങൾ വാങ്ങിയ പലചരക്ക് സാധനങ്ങൾക്കെല്ലാം കൂടി ആകെ രണ്ടായിരം രൂപയായി.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പലചരക്ക് വണ്ടിയിലെ സാധനങ്ങളുടെ ആകെ ചെലവ് രണ്ടായിരം രൂപയായിരുന്നു.",
     "usageExample": "Expenses.",
     "difficulty": "BEGINNER"
   },
@@ -75,7 +75,7 @@
     "word": "cheap",
     "wordMeaning": "വിലകുറഞ്ഞ",
     "englishText": "These canvas sneakers are remarkably cheap yet durable.",
-    "malayalamMeaning": "ഈ ക്യാൻവാസ് ഷൂകൾക്ക് വില കുറവാണെങ്കിലും നല്ല ഈടുനിൽക്കുന്നവയാണ്.",
+    "malayalamMeaning": "ഈ ക്യാൻവാസ് സ്നീക്കറുകൾ വളരെ വിലകുറഞ്ഞവയാണെങ്കിലും നല്ല ഈടുനിൽക്കുന്നവയാണ്.",
     "usageExample": "Inexpensive.",
     "difficulty": "BEGINNER"
   },
@@ -83,7 +83,7 @@
     "word": "expensive",
     "wordMeaning": "ചെലവേറിയ",
     "englishText": "Designer leather handbags are too expensive for everyday use.",
-    "malayalamMeaning": "ലെതർ ഡിസൈനർ ഹാൻഡ്‌ബാഗുകൾ നിത്യോപയോഗത്തിന് വളരെ വിലകൂടിയതാണ്.",
+    "malayalamMeaning": "ഡിസൈനർ ലെതർ ഹാൻഡ്‌ബാഗുകൾ നിത്യോപയോഗത്തിന് വളരെ ചെലവേറിയവയാണ്.",
     "usageExample": "Costly.",
     "difficulty": "BEGINNER"
   },
@@ -91,7 +91,7 @@
     "word": "discount",
     "wordMeaning": "കിഴിവ്",
     "englishText": "Can you give me a small discount on this purchase?",
-    "malayalamMeaning": "ഈ സാധനത്തിന് വിലയിൽ ചെറിയൊരു ഇളവ് തരാമോ?",
+    "malayalamMeaning": "ഈ വാങ്ങലിൽ എനിക്ക് ചെറിയൊരു കിഴിവ് തരാമോ?",
     "usageExample": "Price cut.",
     "difficulty": "BEGINNER"
   },
@@ -99,7 +99,7 @@
     "word": "offer",
     "wordMeaning": "പ്രത്യേക വാഗ്ദാനം",
     "englishText": "The shop has a buy-one-get-one-free festival offer.",
-    "malayalamMeaning": "ഈ കടയിൽ ഒരെണ്ണം വാങ്ങിയാൽ മറ്റൊന്ന് തികച്ചും സൗജന്യമായി ലഭിക്കുന്ന ഉത്സവ ഓഫർ ഉണ്ട്.",
+    "malayalamMeaning": "ഒരെണ്ണം വാങ്ങിയാൽ ഒന്ന് സൗജന്യമായി ലഭിക്കുന്ന ഉത്സവകാല പ്രത്യേക വാഗ്ദാനം കടയിലുണ്ട്.",
     "usageExample": "Special deal.",
     "difficulty": "BEGINNER"
   },
@@ -107,7 +107,7 @@
     "word": "sale",
     "wordMeaning": "വിൽപ്പന",
     "englishText": "The annual monsoon clearance sale begins this weekend.",
-    "malayalamMeaning": "വർഷം തോറുമുള്ള മൺസൂൺ ക്ലിയറൻസ് സെയിൽ ഈ വാരാന്ത്യത്തിൽ ആരംഭിക്കും.",
+    "malayalamMeaning": "വാർഷിക മൺസൂൺ ക്ലിയറൻസ് വിൽപ്പന ഈ വാരാന്ത്യത്തിൽ ആരംഭിക്കും.",
     "usageExample": "Discount event.",
     "difficulty": "BEGINNER"
   },
@@ -115,7 +115,7 @@
     "word": "item",
     "wordMeaning": "ഇനം",
     "englishText": "Please scan each item separately at the checkout counter.",
-    "malayalamMeaning": "ബില്ലിംഗ് കൗണ്ടറിൽ ഓരോ സാധനങ്ങളും വെവ്വേറെ സ്കാൻ ചെയ്യുക.",
+    "malayalamMeaning": "ദയവായി ബില്ലിംഗ് കൗണ്ടറിൽ ഓരോ ഇനവും വെവ്വേറെ സ്കാൻ ചെയ്യുക.",
     "usageExample": "Single product.",
     "difficulty": "BEGINNER"
   },
@@ -131,7 +131,7 @@
     "word": "bag",
     "wordMeaning": "സഞ്ചി",
     "englishText": "Do you need a paper bag to carry your items?",
-    "malayalamMeaning": "സാധനങ്ങൾ കൊണ്ടുപോകാൻ നിങ്ങൾക്ക് പേപ്പർ ബാഗ് വേണമെന്നുണ്ടോ?",
+    "malayalamMeaning": "നിങ്ങളുടെ സാധനങ്ങൾ കൊണ്ടുപോകാൻ ഒരു പേപ്പർ സഞ്ചി വേണോ?",
     "usageExample": "Carrier bag.",
     "difficulty": "BEGINNER"
   },
@@ -139,7 +139,7 @@
     "word": "cart",
     "wordMeaning": "വണ്ടി",
     "englishText": "Push the shopping cart down the central grocery aisle.",
-    "malayalamMeaning": "പലചരക്ക് സാധനങ്ങളുടെ നടുവിലുള്ള നിരയിലൂടെ ആ ട്രോളി മുന്നോട്ട് തള്ളുക.",
+    "malayalamMeaning": "പലചരക്ക് വിഭാഗത്തിന്റെ നടുവിലുള്ള ഇടനാഴിയിലൂടെ ഷോപ്പിംഗ് വണ്ടി മുന്നോട്ട് തള്ളുക.",
     "usageExample": "Trolley.",
     "difficulty": "BEGINNER"
   },
@@ -147,7 +147,7 @@
     "word": "basket",
     "wordMeaning": "കൊട്ട",
     "englishText": "Take a small hand basket if you are only buying snacks.",
-    "malayalamMeaning": "കുറച്ചു പലഹാരങ്ങൾ മാത്രമേ വാങ്ങുന്നുള്ളൂവെങ്കിൽ ചെറിയൊരു ബാസ്കറ്റ് എടുത്താൽ മതിയാകും.",
+    "malayalamMeaning": "നിങ്ങൾ ലഘുഭക്ഷണങ്ങൾ മാത്രമാണ് വാങ്ങുന്നതെങ്കിൽ ചെറിയൊരു കൈക്കൊട്ട എടുക്കുക.",
     "usageExample": "Hand carrier.",
     "difficulty": "BEGINNER"
   },
@@ -155,7 +155,7 @@
     "word": "shelf",
     "wordMeaning": "തട്ട്",
     "englishText": "Canned juices are arranged neatly on the third shelf.",
-    "malayalamMeaning": "മൂന്നാമത്തെ തട്ടിലാണ് ടിന്നിലടച്ച ജ്യൂസുകൾ അടുക്കിവെച്ചിരിക്കുന്നത്.",
+    "malayalamMeaning": "ടിന്നിലടച്ച ജ്യൂസുകൾ മൂന്നാമത്തെ തട്ടിൽ വൃത്തിയായി അടുക്കിവെച്ചിരിക്കുന്നു.",
     "usageExample": "Storage rack.",
     "difficulty": "BEGINNER"
   },
@@ -163,7 +163,7 @@
     "word": "aisle",
     "wordMeaning": "ഇടനാഴി",
     "englishText": "You will find cleaning detergents down aisle number four.",
-    "malayalamMeaning": "നാലാമത്തെ നിരയിലാണ് തുണി കഴുകുന്ന ഡിറ്റർജന്റുകൾ ഉള്ളത്.",
+    "malayalamMeaning": "നാലാം നമ്പർ ഇടനാഴിയിലൂടെ മുന്നോട്ട് പോയാൽ ശുചീകരണ ഡിറ്റർജന്റുകൾ കാണാം.",
     "usageExample": "Passage between shelves.",
     "difficulty": "BEGINNER"
   },
@@ -171,7 +171,7 @@
     "word": "cashier",
     "wordMeaning": "കാഷ്യർ",
     "englishText": "The cashier counted my change and handed me the receipt.",
-    "malayalamMeaning": "കാഷ്യർ ബാക്കി പണം എണ്ണിത്തന്ന് ഒപ്പം ബില്ലും തന്നു.",
+    "malayalamMeaning": "കാഷ്യർ എന്റെ ബാക്കി പണം എണ്ണിത്തരികയും രസീത് കൈമാറുകയും ചെയ്തു.",
     "usageExample": "Checkout operator.",
     "difficulty": "BEGINNER"
   },
@@ -187,7 +187,7 @@
     "word": "bill",
     "wordMeaning": "ബിൽ",
     "englishText": "Check your bill to make sure all discounts were applied.",
-    "malayalamMeaning": "എല്ലാ ഓഫർ ഡിസ്കൗണ്ടുകളും ചേർത്തിട്ടുണ്ടോ എന്ന് ബിൽ നോക്കി ഉറപ്പുവരുത്തുക.",
+    "malayalamMeaning": "എല്ലാ കിഴിവുകളും നൽകിയിട്ടുണ്ടോ എന്ന് ഉറപ്പുവരുത്താൻ നിങ്ങളുടെ ബിൽ പരിശോധിക്കുക.",
     "usageExample": "Purchase invoice.",
     "difficulty": "BEGINNER"
   },
@@ -195,7 +195,7 @@
     "word": "receipt",
     "wordMeaning": "രസീത്",
     "englishText": "Keep your cash receipt safely in case you need an exchange.",
-    "malayalamMeaning": "സാധനങ്ങൾ മാറ്റിവാങ്ങേണ്ടി വന്നാൽ കാണിക്കാൻ ബിൽ ഭദ്രമായി സൂക്ഷിക്കുക.",
+    "malayalamMeaning": "മാറ്റിവാങ്ങേണ്ടി വന്നാൽ ഉപയോഗിക്കാൻ നിങ്ങളുടെ പണമടച്ച രസീത് സുരക്ഷിതമായി സൂക്ഷിക്കുക.",
     "usageExample": "Proof of purchase.",
     "difficulty": "BEGINNER"
   },
@@ -251,7 +251,7 @@
     "word": "wallet",
     "wordMeaning": "വാലറ്റ്",
     "englishText": "I forgot my leather wallet on the study desk at home.",
-    "malayalamMeaning": "എന്റെ ലെതർ വാലറ്റ് വീട്ടിലെ മേശപ്പുറത്ത് വെച്ച് മറന്നുപോയി.",
+    "malayalamMeaning": "എന്റെ ലെതർ വാലറ്റ് വീട്ടിലെ പഠനമേശപ്പുറത്ത് വെച്ച് മറന്നുപോയി.",
     "usageExample": "Money holder.",
     "difficulty": "BEGINNER"
   },
@@ -259,7 +259,7 @@
     "word": "purse",
     "wordMeaning": "പേഴ്സ്",
     "englishText": "She took her credit card out of her handbag purse.",
-    "malayalamMeaning": "തന്റെ പേഴ്സിൽ നിന്ന് അവൾ ക്രെഡിറ്റ് കാർഡ് എടുത്തു.",
+    "malayalamMeaning": "തന്റെ ഹാൻഡ്‌ബാഗ് പേഴ്സിൽ നിന്ന് അവൾ ക്രെഡിറ്റ് കാർഡ് പുറത്തെടുത്തു.",
     "usageExample": "Small bag.",
     "difficulty": "BEGINNER"
   },
@@ -267,7 +267,7 @@
     "word": "clothes",
     "wordMeaning": "വസ്ത്രങ്ങൾ",
     "englishText": "Cotton clothes are the most comfortable during tropical summers.",
-    "malayalamMeaning": "വേനൽക്കാലത്ത് ധരിക്കാൻ ഏറ്റവും സുഖകരമായത് കോട്ടൺ വസ്ത്രങ്ങളാണ്.",
+    "malayalamMeaning": "ഉഷ്ണമേഖലാ വേനൽക്കാലത്ത് ഏറ്റവും സുഖകരമായത് കോട്ടൺ വസ്ത്രങ്ങളാണ്.",
     "usageExample": "Garments.",
     "difficulty": "BEGINNER"
   },
@@ -275,7 +275,7 @@
     "word": "dress",
     "wordMeaning": "ഉടുപ്പ്",
     "englishText": "She bought an elegant traditional dress for the festival.",
-    "malayalamMeaning": "ഉത്സവത്തിന് ധരിക്കാൻ അവൾ മനോഹരമായ ഒരു നാടൻ വസ്ത്രം വാങ്ങി.",
+    "malayalamMeaning": "ഉത്സവത്തിനായി അവൾ മനോഹരമായ ഒരു പരമ്പരാഗത ഉടുപ്പ് വാങ്ങി.",
     "usageExample": "One-piece garment.",
     "difficulty": "BEGINNER"
   },
@@ -283,7 +283,7 @@
     "word": "shirt",
     "wordMeaning": "ഷർട്ട്",
     "englishText": "He tried on a crisp blue linen shirt in the fitting room.",
-    "malayalamMeaning": "ട്രയൽ റൂമിൽ കയറി അവൻ ആ നീല ലിനൻ ഷർട്ട് ഇട്ടുനോക്കി.",
+    "malayalamMeaning": "ട്രയൽ റൂമിൽ വെച്ച് അവൻ പുത്തൻ നീല ലിനൻ ഷർട്ട് ധരിച്ചുനോക്കി.",
     "usageExample": "Top garment.",
     "difficulty": "BEGINNER"
   },
@@ -299,7 +299,7 @@
     "word": "jeans",
     "wordMeaning": "ജീൻസ്",
     "englishText": "Denim jeans are sturdy and ideal for weekend travel.",
-    "malayalamMeaning": "യാത്രകൾക്ക് ഉപയോഗിക്കാൻ ഏറ്റവും മികച്ചതും ഈടുനിൽക്കുന്നതുമാണ് ജീൻസ് പാന്റുകൾ.",
+    "malayalamMeaning": "ഡെനിം ജീൻസ് ഉറപ്പുള്ളതും വാരാന്ത്യ യാത്രകൾക്ക് അനുയോജ്യവുമാണ്.",
     "usageExample": "Denim trousers.",
     "difficulty": "BEGINNER"
   },
@@ -307,7 +307,7 @@
     "word": "skirt",
     "wordMeaning": "പാവാട",
     "englishText": "The school uniform includes a pleated dark green skirt.",
-    "malayalamMeaning": "സ്കൂൾ യൂണിഫോമിൽ കടുംപച്ച നിറത്തിലുള്ള ചുരുക്കുകളുള്ള പാവാടയാണുള്ളത്.",
+    "malayalamMeaning": "സ്കൂൾ യൂണിഫോമിൽ ഞൊറിവുകളുള്ള കടുംപച്ച പാവാട ഉൾപ്പെടുന്നു.",
     "usageExample": "Lower garment.",
     "difficulty": "BEGINNER"
   },
@@ -315,7 +315,7 @@
     "word": "t-shirt",
     "wordMeaning": "ടി-ഷർട്ട്",
     "englishText": "I bought three plain round-neck cotton t-shirts.",
-    "malayalamMeaning": "കഴുത്തുരുണ്ട മൂന്ന് കോട്ടൺ ടീഷർട്ടുകൾ ഞാൻ വാങ്ങി.",
+    "malayalamMeaning": "ഡിസൈനുകളില്ലാത്ത വട്ടക്കഴുത്തുള്ള മൂന്ന് കോട്ടൺ ടി-ഷർട്ടുകൾ ഞാൻ വാങ്ങി.",
     "usageExample": "Casual top.",
     "difficulty": "BEGINNER"
   },
@@ -323,7 +323,7 @@
     "word": "jacket",
     "wordMeaning": "ജാക്കറ്റ്",
     "englishText": "Wear a warm jacket because the hill station turns cold at night.",
-    "malayalamMeaning": "രാത്രിയിൽ നല്ല തണുപ്പുള്ളതിനാൽ തണുപ്പ് തട്ടാത്ത ഒരു ജാക്കറ്റ് കരുതുക.",
+    "malayalamMeaning": "രാത്രിയിൽ ഹിൽ സ്റ്റേഷനിൽ തണുപ്പേറുന്നതിനാൽ ചൂടുനൽകുന്ന ഒരു ജാക്കറ്റ് ധരിക്കുക.",
     "usageExample": "Outer coat.",
     "difficulty": "BEGINNER"
   },
@@ -331,7 +331,7 @@
     "word": "coat",
     "wordMeaning": "കോട്ട്",
     "englishText": "He hung his formal woolen coat on the rack near the entrance.",
-    "malayalamMeaning": "വാതിലിനടുത്തുള്ള റാക്കിൽ അവൻ തന്റെ കമ്പിളി കോട്ട് തൂക്കിയിട്ടു.",
+    "malayalamMeaning": "പ്രവേശന കവാടത്തിനടുത്തുള്ള റാക്കിൽ അവൻ തന്റെ ഫോർമൽ കമ്പിളി കോട്ട് തൂക്കിയിട്ടു.",
     "usageExample": "Outerwear.",
     "difficulty": "BEGINNER"
   },
@@ -355,7 +355,7 @@
     "word": "boots",
     "wordMeaning": "ബൂട്ടുകൾ",
     "englishText": "You will need sturdy rubber boots when hiking in monsoon mud.",
-    "malayalamMeaning": "മഴയത്ത് ചെളിയിലൂടെ നടക്കാൻ നല്ല കട്ടിയുള്ള റബ്ബർ ബൂട്ടുകൾ ആവശ്യമാണ്.",
+    "malayalamMeaning": "മഴക്കാലത്തെ ചെളിയിലൂടെ മലകയറുമ്പോൾ നിങ്ങൾക്ക് ഉറപ്പുള്ള റബ്ബർ ബൂട്ടുകൾ ആവശ്യമായി വരും.",
     "usageExample": "Heavy footwear.",
     "difficulty": "BEGINNER"
   },
@@ -363,7 +363,7 @@
     "word": "socks",
     "wordMeaning": "സോക്സുകൾ",
     "englishText": "Always buy breathable cotton socks for sports activities.",
-    "malayalamMeaning": "കായിക വിനോദങ്ങൾക്ക് കാലിൽ കാറ്റുകയറുന്ന നല്ല കോട്ടൺ സോക്സുകൾ ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "കായിക പ്രവർത്തനങ്ങൾക്കായി എപ്പോഴും വായുസഞ്ചാരമുള്ള കോട്ടൺ സോക്സുകൾ വാങ്ങുക.",
     "usageExample": "Foot coverings.",
     "difficulty": "BEGINNER"
   },
@@ -371,7 +371,7 @@
     "word": "hat",
     "wordMeaning": "തൊപ്പി",
     "englishText": "A wide-brimmed straw hat shields your face from the harsh sun.",
-    "malayalamMeaning": "വിശാലമായ വട്ടത്തൊപ്പി കടുത്ത വെയിലിൽ നിന്ന് മുഖത്തെ സംരക്ഷിക്കും.",
+    "malayalamMeaning": "വിശാലമായ വക്കുള്ള വൈക്കോൽ തൊപ്പി കടുത്ത വെയിലിൽ നിന്ന് നിങ്ങളുടെ മുഖത്തെ സംരക്ഷിക്കും.",
     "usageExample": "Headwear.",
     "difficulty": "BEGINNER"
   },
@@ -379,7 +379,7 @@
     "word": "cap",
     "wordMeaning": "തൊപ്പി",
     "englishText": "He wore a sporty blue baseball cap during the afternoon game.",
-    "malayalamMeaning": "ഉച്ചയ്ക്കുള്ള കളിക്കിടെ അവൻ നീല നിറത്തിലുള്ള ഒരു സ്പോർട്സ് തൊപ്പി ധരിച്ചിരുന്നു.",
+    "malayalamMeaning": "ഉച്ചതിരിഞ്ഞുള്ള കളിക്കിടെ അവൻ നീല നിറത്തിലുള്ള ഒരു സ്പോർട്ടി ബേസ്ബോൾ തൊപ്പി ധരിച്ചിരുന്നു.",
     "usageExample": "Casual headwear.",
     "difficulty": "BEGINNER"
   },
@@ -387,7 +387,7 @@
     "word": "size",
     "wordMeaning": "വലിപ്പം",
     "englishText": "Do you have this formal shirt in a medium size?",
-    "malayalamMeaning": "ഈ ഫോർമൽ ഷർട്ട് മീഡിയം സൈസിൽ നിങ്ങളുടെ കയ്യിലുണ്ടോ?",
+    "malayalamMeaning": "ഈ ഫോർമൽ ഷർട്ട് മീഡിയം വലിപ്പത്തിൽ നിങ്ങളുടെ പക്കലുണ്ടോ?",
     "usageExample": "Dimension of clothes.",
     "difficulty": "BEGINNER"
   },
@@ -395,7 +395,7 @@
     "word": "fit",
     "wordMeaning": "പാകമാകുക",
     "englishText": "Make sure the shoes fit comfortably without pinching your toes.",
-    "malayalamMeaning": "വിരലുകൾ അമർന്നുപോകാതെ ഷൂ കാലിന് പാകമാണെന്ന് ഉറപ്പുവരുത്തുക.",
+    "malayalamMeaning": "കാൽവിരലുകൾ ഞെരുങ്ങാതെ ഷൂസ് സുഖകരമായി പാകമാകുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുക.",
     "usageExample": "Appropriate size.",
     "difficulty": "BEGINNER"
   },
@@ -419,7 +419,7 @@
     "word": "small",
     "wordMeaning": "ചെറിയ",
     "englishText": "This shirt is too small; could you fetch the next size up?",
-    "malayalamMeaning": "ഈ ഷർട്ട് ഇത്തിരി ചെറുതാണ്; ഇതിലും വലിയ അടുത്ത സൈസ് എടുത്തു തരാമോ?",
+    "malayalamMeaning": "ഈ ഷർട്ട് വളരെ ചെറുതാണ്; അടുത്ത വലിയ സൈസ് എടുത്തു തരാമോ?",
     "usageExample": "Size S.",
     "difficulty": "BEGINNER"
   },
@@ -427,7 +427,7 @@
     "word": "medium",
     "wordMeaning": "ഇടത്തരം",
     "englishText": "Medium size shirts usually fit me perfectly.",
-    "malayalamMeaning": "മീഡിയം സൈസ് ഷർട്ടുകൾ സാധാരണയായി എനിക്ക് കൃത്യമായി പാകമാകാറുണ്ട്.",
+    "malayalamMeaning": "ഇടത്തരം വലിപ്പമുള്ള ഷർട്ടുകൾ സാധാരണയായി എനിക്ക് കൃത്യമായി പാകമാകാറുണ്ട്.",
     "usageExample": "Size M.",
     "difficulty": "BEGINNER"
   },
@@ -435,7 +435,7 @@
     "word": "large",
     "wordMeaning": "വലിയ",
     "englishText": "I need a large size suitcase for my three-week overseas trip.",
-    "malayalamMeaning": "മൂന്നാഴ്ചത്തെ വിദേശയാത്രയ്ക്കായി എനിക്ക് വലിയൊരു സ്യൂട്ട്കേസ് വാങ്ങണം.",
+    "malayalamMeaning": "എന്റെ മൂന്നാഴ്ചത്തെ വിദേശയാത്രയ്ക്കായി എനിക്ക് വലിയ വലിപ്പമുള്ള ഒരു സ്യൂട്ട്കേസ് ആവശ്യമാണ്.",
     "usageExample": "Size L.",
     "difficulty": "BEGINNER"
   },
@@ -443,7 +443,7 @@
     "word": "try",
     "wordMeaning": "ധരിച്ചുനോക്കുക",
     "englishText": "Can I try this jacket on before making the final payment?",
-    "malayalamMeaning": "പണമടയ്ക്കുന്നതിന് മുൻപായി ഈ ജാക്കറ്റ് ഒന്നിട്ടു നോക്കാൻ പറ്റുമോ?",
+    "malayalamMeaning": "അന്തിമമായി പണമടയ്ക്കുന്നതിന് മുൻപ് എനിക്ക് ഈ ജാക്കറ്റ് ധരിച്ചുനോക്കാമോ?",
     "usageExample": "Test wearing.",
     "difficulty": "BEGINNER"
   },
@@ -451,7 +451,7 @@
     "word": "mirror",
     "wordMeaning": "കണ്ണാടി",
     "englishText": "She looked in the full-length mirror to check the saree drape.",
-    "malayalamMeaning": "സാരിയുടുത്തത് ഭംഗിയായിട്ടുണ്ടോ എന്ന് നോക്കാൻ അവൾ വലിയ കണ്ണാടിയിൽ നോക്കി.",
+    "malayalamMeaning": "സാരി ഉടുത്ത രീതി പരിശോധിക്കാൻ അവൾ പൂർണ്ണകായ കണ്ണാടിയിൽ നോക്കി.",
     "usageExample": "Reflecting glass.",
     "difficulty": "BEGINNER"
   },
@@ -475,7 +475,7 @@
     "word": "blue",
     "wordMeaning": "നീല",
     "englishText": "Navy blue is a classic choice for professional business suits.",
-    "malayalamMeaning": "ഫോർമൽ സ്യൂട്ടുകൾക്ക് ഏറ്റവും അനുയോജ്യമായ ഒരു നിറമാണ് നേവി ബ്ലൂ.",
+    "malayalamMeaning": "പ്രൊഫഷണൽ ബിസിനസ്സ് സ്യൂട്ടുകൾക്ക് കടുംനീല ഒരു മികച്ച ക്ലാസിക് തിരഞ്ഞെടുപ്പാണ്.",
     "usageExample": "Color blue.",
     "difficulty": "BEGINNER"
   },
@@ -491,7 +491,7 @@
     "word": "yellow",
     "wordMeaning": "മഞ്ഞ",
     "englishText": "Bright yellow marigold flowers decorated the store entrance.",
-    "malayalamMeaning": "കടയുടെ പ്രവേശന കവാടം മഞ്ഞ ജമന്തിപ്പൂക്കൾ കൊണ്ട് മനോഹരമായി അലങ്കരിച്ചിരുന്നു.",
+    "malayalamMeaning": "തിളങ്ങുന്ന മഞ്ഞ ജമന്തിപ്പൂക്കൾ കടയുടെ പ്രവേശന കവാടത്തെ അലങ്കരിച്ചിരുന്നു.",
     "usageExample": "Color yellow.",
     "difficulty": "BEGINNER"
   },
@@ -499,7 +499,7 @@
     "word": "black",
     "wordMeaning": "കറുപ്പ്",
     "englishText": "A pair of shiny black formal shoes is a wardrobe essential.",
-    "malayalamMeaning": "നല്ലൊരു കറുത്ത ഫോർമൽ ഷൂ എല്ലാവരുടെയും വസ്ത്രശേഖരത്തിൽ ഒഴിച്ചുകൂടാനാവാത്ത ഒന്നാണ്.",
+    "malayalamMeaning": "തിളങ്ങുന്ന ഒരു ജോഡി കറുത്ത ഫോർമൽ ഷൂസ് വസ്ത്രശേഖരത്തിൽ ഒഴിച്ചുകൂടാനാവാത്ത ഒന്നാണ്.",
     "usageExample": "Color black.",
     "difficulty": "BEGINNER"
   },
@@ -507,7 +507,7 @@
     "word": "white",
     "wordMeaning": "വെള്ള",
     "englishText": "Traditional Kerala kasavu mundu is pure white with a gold border.",
-    "malayalamMeaning": "സ്വർണ്ണക്കരയുള്ള വെള്ള നിറമാണ് പരമ്പരാഗത കേരള കസവു മുണ്ടിന്റെ പ്രത്യേകത.",
+    "malayalamMeaning": "പരമ്പരാഗത കേരള കസവുമുണ്ട് സ്വർണ്ണക്കരയുള്ള തൂവെള്ള നിറത്തിലുള്ളതാണ്.",
     "usageExample": "Color white.",
     "difficulty": "BEGINNER"
   },
@@ -523,7 +523,7 @@
     "word": "pink",
     "wordMeaning": "ഇളം ചുവപ്പ്",
     "englishText": "The little girl chose a soft pink cotton frock with lace.",
-    "malayalamMeaning": "ലേസ് പിടിപ്പിച്ച ഇളം റോസ് നിറത്തിലുള്ള ഒരു കോട്ടൺ ഫ്രോക്കാണ് ആ കൊച്ചുകുട്ടി തിരഞ്ഞെടുത്തത്.",
+    "malayalamMeaning": "ലേസ് പിടിപ്പിച്ച മൃദുവായ ഇളം ചുവപ്പ് നിറത്തിലുള്ള ഒരു കോട്ടൺ ഫ്രോക്കാണ് ആ കൊച്ചുകുട്ടി തിരഞ്ഞെടുത്തത്.",
     "usageExample": "Color pink.",
     "difficulty": "BEGINNER"
   },
@@ -531,7 +531,7 @@
     "word": "look",
     "wordMeaning": "നോക്കുക",
     "englishText": "Let us look at the new collection of handmade ceramic pots.",
-    "malayalamMeaning": "കൈകൊണ്ട് നിർമ്മിച്ച സെറാമിക് പാത്രങ്ങളുടെ പുതിയ കളക്ഷൻ നമുക്കൊന്ന് കാണാം.",
+    "malayalamMeaning": "കൈകൊണ്ട് നിർമ്മിച്ച സെറാമിക് പാത്രങ്ങളുടെ പുതിയ ശേഖരം നമുക്കൊന്ന് നോക്കാം.",
     "usageExample": "Browse.",
     "difficulty": "BEGINNER"
   },
@@ -539,7 +539,7 @@
     "word": "search",
     "wordMeaning": "തിരയുക",
     "englishText": "I am searching for a lightweight, waterproof laptop backpack.",
-    "malayalamMeaning": "ഭാരം കുറഞ്ഞതും വെള്ളം കയറാത്തതുമായ ഒരു ലാപ്‌ടോപ്പ് ബാഗ് നോക്കുകയാണ് ഞാൻ.",
+    "malayalamMeaning": "ഭാരം കുറഞ്ഞതും വെള്ളം കയറാത്തതുമായ ഒരു ലാപ്‌ടോപ്പ് ബാക്ക്പാക്ക് ഞാൻ തിരയുകയാണ്.",
     "usageExample": "Looking for.",
     "difficulty": "BEGINNER"
   },
@@ -547,7 +547,7 @@
     "word": "find",
     "wordMeaning": "കണ്ടെത്തുക",
     "englishText": "Did you find the organic spice section on the ground floor?",
-    "malayalamMeaning": "താഴത്തെ നിലയിലുള്ള നാടൻ സുഗന്ധവ്യഞ്ജനങ്ങളുടെ കൗണ്ടർ നിങ്ങൾക്ക് കിട്ടിയോ?",
+    "malayalamMeaning": "താഴത്തെ നിലയിലുള്ള ജൈവ സുഗന്ധവ്യഞ്ജന വിഭാഗം നിങ്ങൾക്ക് കണ്ടെത്താനായോ?",
     "usageExample": "Locate item.",
     "difficulty": "BEGINNER"
   },
@@ -563,7 +563,7 @@
     "word": "select",
     "wordMeaning": "തിരഞ്ഞെടുക്കുക",
     "englishText": "Customers can select their preferred delivery time slot online.",
-    "malayalamMeaning": "സാധനങ്ങൾ എത്തിക്കേണ്ട സമയം ഉപഭോക്താക്കൾക്ക് ഓൺലൈനായി തന്നെ തിരഞ്ഞെടുക്കാം.",
+    "malayalamMeaning": "ഉപഭോക്താക്കൾക്ക് ഓൺലൈനായി തങ്ങൾക്ക് സൗകര്യപ്രദമായ ഡെലിവറി സമയം തിരഞ്ഞെടുക്കാം.",
     "usageExample": "Pick option.",
     "difficulty": "BEGINNER"
   },
@@ -571,7 +571,7 @@
     "word": "pick",
     "wordMeaning": "തിരഞ്ഞെടുക്കുക",
     "englishText": "She helped her mother pick out fresh red apples from the crate.",
-    "malayalamMeaning": "പെട്ടിയിൽ നിന്ന് നല്ല ആപ്പിളുകൾ നോക്കി തിരഞ്ഞെടുക്കാൻ അവൾ അമ്മയെ സഹായിച്ചു.",
+    "malayalamMeaning": "പെട്ടിയിൽ നിന്ന് പുതുമയുള്ള ചുവന്ന ആപ്പിളുകൾ തിരഞ്ഞെടുക്കാൻ അവൾ അമ്മയെ സഹായിച്ചു.",
     "usageExample": "Hand-select.",
     "difficulty": "BEGINNER"
   },
@@ -579,7 +579,7 @@
     "word": "take",
     "wordMeaning": "എടുക്കുക",
     "englishText": "I will take two packets of this fresh filter coffee powder.",
-    "malayalamMeaning": "ഈ ഫിൽട്ടർ കോഫിപ്പൊടിയുടെ രണ്ട് പാക്കറ്റ് ഞാൻ വാങ്ങുന്നുണ്ട്.",
+    "malayalamMeaning": "പുതുമയുള്ള ഈ ഫിൽട്ടർ കാപ്പിപ്പൊടിയുടെ രണ്ട് പാക്കറ്റ് ഞാൻ എടുക്കാം.",
     "usageExample": "Purchase choice.",
     "difficulty": "BEGINNER"
   },
@@ -587,7 +587,7 @@
     "word": "bring",
     "wordMeaning": "കൊണ്ടുവരിക",
     "englishText": "Could you bring me a glass of water while I try these shoes?",
-    "malayalamMeaning": "ഈ ഷൂസ് ഇട്ടുനോക്കുന്നതിനിടയിൽ എനിക്ക് ഒരു ഗ്ലാസ് വെള്ളം തരാമോ?",
+    "malayalamMeaning": "ഞാൻ ഈ ഷൂസ് ധരിച്ചുനോക്കുന്നതിനിടയിൽ എനിക്ക് ഒരു ഗ്ലാസ് വെള്ളം കൊണ്ടുവരാമോ?",
     "usageExample": "Fetch.",
     "difficulty": "BEGINNER"
   },
@@ -595,7 +595,7 @@
     "word": "return",
     "wordMeaning": "തിരികെ നൽകുക",
     "englishText": "You can return the defective blender within seven working days.",
-    "malayalamMeaning": "കേടുപാടുകളുള്ള മിക്സി ഏഴ് പ്രവൃത്തി ദിവസങ്ങൾക്കുള്ളിൽ തിരികെ നൽകാവുന്നതാണ്.",
+    "malayalamMeaning": "കേടുപാടുകളുള്ള ബ്ലെൻഡർ ഏഴ് പ്രവൃത്തി ദിവസങ്ങൾക്കുള്ളിൽ നിങ്ങൾക്ക് തിരികെ നൽകാം.",
     "usageExample": "Bring back item.",
     "difficulty": "BEGINNER"
   },
@@ -603,7 +603,7 @@
     "word": "exchange",
     "wordMeaning": "കൈമാറ്റം",
     "englishText": "Can I exchange this shirt for a larger size tomorrow?",
-    "malayalamMeaning": "ഈ ഷർട്ടിന് പകരം ഇതിലും വലിയ സൈസ് നാളെ വന്ന് മാറ്റി വാങ്ങാൻ പറ്റുമോ?",
+    "malayalamMeaning": "ഈ ഷർട്ടിന് പകരം ഇതിലും വലിയ സൈസ് നാളെ മാറ്റി വാങ്ങാൻ പറ്റുമോ?",
     "usageExample": "Swap item.",
     "difficulty": "BEGINNER"
   },
@@ -611,7 +611,7 @@
     "word": "refund",
     "wordMeaning": "പണം തിരികെ നൽകൽ",
     "englishText": "The store issued a full refund to my bank account immediately.",
-    "malayalamMeaning": "കടക്കാർ പണം മുഴുവൻ എന്റെ ബാങ്ക് അക്കൗണ്ടിലേക്ക് അപ്പോൾത്തന്നെ തിരികെ അയച്ചുതന്നു.",
+    "malayalamMeaning": "കട ഉടൻ തന്നെ എന്റെ ബാങ്ക് അക്കൗണ്ടിലേക്ക് പണം മുഴുവനായി തിരികെ നൽകി.",
     "usageExample": "Money returned.",
     "difficulty": "BEGINNER"
   },
@@ -619,7 +619,7 @@
     "word": "quality",
     "wordMeaning": "ഗുണനിലവാരം",
     "englishText": "High quality fabrics last through dozens of washes without fading.",
-    "malayalamMeaning": "നല്ലയിനം തുണിത്തരങ്ങൾ എത്ര തവണ അലക്കിയാലും നിറം മങ്ങാതെ ഈടുനിൽക്കും.",
+    "malayalamMeaning": "ഉയർന്ന ഗുണനിലവാരമുള്ള തുണിത്തരങ്ങൾ ഡസൻ കണക്കിന് തവണ അലക്കിയാലും നിറം മങ്ങാതെ ഈടുനിൽക്കും.",
     "usageExample": "Standard of make.",
     "difficulty": "BEGINNER"
   },
@@ -627,7 +627,7 @@
     "word": "new",
     "wordMeaning": "പുതിയ",
     "englishText": "The supermarket opened a new organic bakery section today.",
-    "malayalamMeaning": "ആ സൂപ്പർമാർക്കറ്റിൽ പുതിയൊരു ബേക്കറി വിഭാഗം ഇന്ന് പ്രവർത്തനം ആരംഭിച്ചു.",
+    "malayalamMeaning": "സൂപ്പർമാർക്കറ്റിൽ ഇന്ന് പുതിയൊരു ജൈവ ബേക്കറി വിഭാഗം തുറന്നു.",
     "usageExample": "Novel/fresh.",
     "difficulty": "BEGINNER"
   },
@@ -635,7 +635,7 @@
     "word": "old",
     "wordMeaning": "പഴയ",
     "englishText": "Exchange your old mobile phone for a discount on a new one.",
-    "malayalamMeaning": "നിങ്ങളുടെ പഴയ ഫോൺ എക്സ്ചേഞ്ച് ചെയ്ത് പുതിയ ഫോണിന് നല്ല വിലക്കിഴിവ് നേടൂ.",
+    "malayalamMeaning": "പുതിയൊരു ഫോണിന് കിഴിവ് നേടാൻ നിങ്ങളുടെ പഴയ മൊബൈൽ ഫോൺ മാറ്റി നൽകൂ.",
     "usageExample": "Previous item.",
     "difficulty": "BEGINNER"
   },
@@ -643,7 +643,7 @@
     "word": "fresh",
     "wordMeaning": "പുതുമയുള്ള",
     "englishText": "Always buy fresh green vegetables directly from local farm stalls.",
-    "malayalamMeaning": "നാട്ടുചന്തകളിൽ നിന്നോ ഫാമുകളിൽ നിന്നോ നേരിട്ട് പച്ചക്കറികൾ വാങ്ങാൻ ശ്രദ്ധിക്കുക.",
+    "malayalamMeaning": "പ്രാദേശിക ഫാം സ്റ്റാളുകളിൽ നിന്ന് നേരിട്ട് പുതുമയുള്ള പച്ചനിറമുള്ള പച്ചക്കറികൾ എപ്പോഴും വാങ്ങുക.",
     "usageExample": "Newly picked.",
     "difficulty": "BEGINNER"
   },
@@ -651,7 +651,7 @@
     "word": "good",
     "wordMeaning": "നല്ല",
     "englishText": "This is a very good brand known for reliable kitchen appliances.",
-    "malayalamMeaning": "നല്ല അടുക്കള ഉപകരണങ്ങൾക്ക് പേരെടുത്ത വിശ്വസനീയമായ ഒരു ബ്രാൻഡാണിത്.",
+    "malayalamMeaning": "വിശ്വസനീയമായ അടുക്കള ഉപകരണങ്ങൾക്ക് പേരുകേട്ട വളരെ നല്ലൊരു ബ്രാൻഡാണിത്.",
     "usageExample": "Positive quality.",
     "difficulty": "BEGINNER"
   },
@@ -659,7 +659,7 @@
     "word": "bad",
     "wordMeaning": "മോശം",
     "englishText": "Never buy canned food if the metal tin has bad dents.",
-    "malayalamMeaning": "ടിന്നിൽ ചതവുകളോ കേടുപാടുകളോ ഉണ്ടെങ്കിൽ അത്തരം പാക്കറ്റ് ഭക്ഷണങ്ങൾ വാങ്ങരുത്.",
+    "malayalamMeaning": "ലോഹ ടിന്നിൽ മോശം ചതവുകളുണ്ടെങ്കിൽ ഒരിക്കലും ടിന്നിലടച്ച ഭക്ഷണം വാങ്ങരുത്.",
     "usageExample": "Poor quality.",
     "difficulty": "BEGINNER"
   },
@@ -675,7 +675,7 @@
     "word": "dirty",
     "wordMeaning": "വൃത്തികെട്ട",
     "englishText": "Wipe away any dirty marks on the display glass with a cloth.",
-    "malayalamMeaning": "ഷോകേസിന്റെ ചില്ലിലെ അഴുക്കുപാടുകൾ തുണി ഉപയോഗിച്ച് തുടച്ചു മാറ്റുക.",
+    "malayalamMeaning": "ഡിസ്പ്ലേ ഗ്ലാസിലെ വൃത്തികെട്ട പാടുകളെല്ലാം ഒരു തുണി ഉപയോഗിച്ച് തുടച്ചു മാറ്റുക.",
     "usageExample": "Unclean.",
     "difficulty": "BEGINNER"
   },
@@ -683,7 +683,7 @@
     "word": "broken",
     "wordMeaning": "പൊട്ടിയ",
     "englishText": "The toy was broken inside the box, so we returned it at once.",
-    "malayalamMeaning": "പെട്ടി തുറന്നപ്പോൾ കളിപ്പാട്ടം പൊട്ടിയ നിലയിലായിരുന്നു, അതിനാൽ ഞങ്ങൾ അത് ഉടൻ തിരികെ നൽകി.",
+    "malayalamMeaning": "പെട്ടിക്കുള്ളിൽ കളിപ്പാട്ടം പൊട്ടിയ നിലയിലായിരുന്നു, അതിനാൽ ഞങ്ങൾ അത് ഉടൻ തിരികെ നൽകി.",
     "usageExample": "Damaged.",
     "difficulty": "BEGINNER"
   },
@@ -699,7 +699,7 @@
     "word": "warranty",
     "wordMeaning": "വാറൻ്റി",
     "englishText": "The LED television comes with a two-year manufacturer warranty.",
-    "malayalamMeaning": "ഈ എൽ.ഇ.ഡി ടിവിക്ക് കമ്പനി രണ്ടു വർഷത്തെ വാറന്റി നൽകുന്നുണ്ട്.",
+    "malayalamMeaning": "എൽ.ഇ.ഡി. ടെലിവിഷനോടൊപ്പം നിർമ്മാതാവിന്റെ രണ്ട് വർഷത്തെ വാറന്റി ലഭിക്കും.",
     "usageExample": "Service guarantee.",
     "difficulty": "BEGINNER"
   },
@@ -707,7 +707,7 @@
     "word": "guarantee",
     "wordMeaning": "ഉറപ്പ്",
     "englishText": "The shopkeeper gave his personal guarantee on the pure silk quality.",
-    "malayalamMeaning": "പട്ടിന്റെ പരിശുദ്ധിയിൽ കടയുടമ വ്യക്തിപരമായ ഉറപ്പ് നൽകി.",
+    "malayalamMeaning": "ശുദ്ധമായ പട്ടിന്റെ ഗുണനിലവാരത്തിന് കടക്കാരൻ തന്റെ വ്യക്തിപരമായ ഉറപ്പ് നൽകി.",
     "usageExample": "Promise of quality.",
     "difficulty": "BEGINNER"
   },
@@ -723,7 +723,7 @@
     "word": "close",
     "wordMeaning": "അടയ്ക്കുക",
     "englishText": "The retail stores close at nine o'clock every night.",
-    "malayalamMeaning": "കടകളെല്ലാം എല്ലാ ദിവസവും രാത്രി ഒൻപത് മണിക്ക് അടയ്ക്കും.",
+    "malayalamMeaning": "ചില്ലറ വിൽപ്പന കടകൾ എല്ലാ ദിവസവും രാത്രി ഒൻപത് മണിക്ക് അടയ്ക്കും.",
     "usageExample": "End of day.",
     "difficulty": "BEGINNER"
   },
@@ -731,7 +731,7 @@
     "word": "entrance",
     "wordMeaning": "പ്രവേശന കവാടം",
     "englishText": "Security guards check shopping bags at the main mall entrance.",
-    "malayalamMeaning": "മാളിന്റെ പ്രധാന കവാടത്തിൽ വെച്ച് സെക്യൂരിറ്റി ജീവനക്കാർ ബാഗുകൾ പരിശോധിക്കാറുണ്ട്.",
+    "malayalamMeaning": "മാളിന്റെ പ്രധാന പ്രവേശന കവാടത്തിൽ വെച്ച് സുരക്ഷാ ജീവനക്കാർ ഷോപ്പിംഗ് ബാഗുകൾ പരിശോധിക്കും.",
     "usageExample": "Entry doorway.",
     "difficulty": "BEGINNER"
   },
@@ -739,7 +739,7 @@
     "word": "exit",
     "wordMeaning": "പുറത്തേക്കുള്ള വഴി",
     "englishText": "Follow the green signs to reach the parking lot emergency exit.",
-    "malayalamMeaning": "പാർക്കിംഗ് സ്ഥലത്തെ എമർജൻസി എക്സിറ്റിലേക്ക് എത്താൻ പച്ച ബോർഡുകൾ ശ്രദ്ധിക്കുക.",
+    "malayalamMeaning": "പാർക്കിംഗ് സ്ഥലത്തെ അടിയന്തരമായി പുറത്തേക്കുള്ള വഴിയിൽ എത്താൻ പച്ച അടയാളങ്ങൾ പിന്തുടരുക.",
     "usageExample": "Way out.",
     "difficulty": "BEGINNER"
   },
@@ -771,7 +771,7 @@
     "word": "line",
     "wordMeaning": "വരി",
     "englishText": "Customers formed an orderly line in front of the cash counter.",
-    "malayalamMeaning": "ബില്ലിംഗ് കൗണ്ടറിന് മുന്നിൽ ഉപഭോക്താക്കൾ കൃത്യമായ വരിയായി നിന്നു.",
+    "malayalamMeaning": "ക്യാഷ് കൗണ്ടറിന് മുന്നിൽ ഉപഭോക്താക്കൾ ചിട്ടയായ വരിയായി നിന്നു.",
     "usageExample": "Queue.",
     "difficulty": "BEGINNER"
   },
@@ -779,7 +779,7 @@
     "word": "queue",
     "wordMeaning": "വരി",
     "englishText": "Please wait in the queue until your billing token is called.",
-    "malayalamMeaning": "നിങ്ങളുടെ ടോക്കൺ നമ്പർ വിളിക്കുന്നതുവരെ ദയവായി ക്യൂവിൽ കാത്തിരിക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ ബില്ലിംഗ് ടോക്കൺ വിളിക്കുന്നതുവരെ ദയവായി വരിയിൽ കാത്തിരിക്കുക.",
     "usageExample": "Standing line.",
     "difficulty": "BEGINNER"
   },
@@ -795,7 +795,7 @@
     "word": "help",
     "wordMeaning": "സഹായിക്കുക",
     "englishText": "The sales assistant offered to help me reach the top shelf.",
-    "malayalamMeaning": "മുകളിലെ തട്ടിലുള്ള സാധനങ്ങൾ എടുത്തുതരാൻ സെയിൽസ്മാൻ സഹായിച്ചു.",
+    "malayalamMeaning": "മുകളിലെ തട്ടിലെത്താൻ എന്നെ സഹായിക്കാമെന്ന് സെയിൽസ് അസിസ്റ്റന്റ് പറഞ്ഞു.",
     "usageExample": "Assistance.",
     "difficulty": "BEGINNER"
   },
@@ -811,7 +811,7 @@
     "word": "show",
     "wordMeaning": "കാണിക്കുക",
     "englishText": "Please show me your finest collection of pure Kanchipuram silk.",
-    "malayalamMeaning": "ശുദ്ധമായ കാഞ്ചീപുരം പട്ടിന്റെ നിങ്ങളുടെ ഏറ്റവും മികച്ച കളക്ഷൻ ദയവായി എന്നെ ഒന്ന് കാണിക്കാമോ?",
+    "malayalamMeaning": "ശുദ്ധമായ കാഞ്ചീപുരം പട്ടിന്റെ നിങ്ങളുടെ ഏറ്റവും മികച്ച ശേഖരം ദയവായി എന്നെ കാണിക്കൂ.",
     "usageExample": "Demonstrate.",
     "difficulty": "BEGINNER"
   },
@@ -819,7 +819,7 @@
     "word": "check",
     "wordMeaning": "പരിശോധിക്കുക",
     "englishText": "Check the expiry date printed on the milk packet before buying.",
-    "malayalamMeaning": "വാങ്ങുന്നതിന് മുൻപ് പാൽപ്പാക്കറ്റിലെ എക്സ്പയറി ഡേറ്റ് നോക്കാൻ മറക്കരുത്.",
+    "malayalamMeaning": "വാങ്ങുന്നതിന് മുൻപ് പാൽപ്പാക്കറ്റിൽ അച്ചടിച്ചിരിക്കുന്ന കാലാവധി തീയതി പരിശോധിക്കുക.",
     "usageExample": "Verify.",
     "difficulty": "BEGINNER"
   },
@@ -827,7 +827,7 @@
     "word": "touch",
     "wordMeaning": "സ്പർശിക്കുക",
     "englishText": "Feel free to touch the fabric to examine its softness and texture.",
-    "malayalamMeaning": "തുണിയുടെ ഗുണനിലവാരവും മിനുസവും അറിയാൻ അത് തൊട്ടുനോക്കിത്തന്നെ പരിശോധിച്ചോളൂ.",
+    "malayalamMeaning": "തുണിയുടെ മൃദുത്വവും ഘടനയും പരിശോധിക്കാൻ അത് മടിക്കാതെ സ്പർശിച്ചു നോക്കൂ.",
     "usageExample": "Feel physically.",
     "difficulty": "BEGINNER"
   },
@@ -835,7 +835,7 @@
     "word": "soft",
     "wordMeaning": "മൃദുവായ",
     "englishText": "This baby blanket is incredibly soft and gentle against sensitive skin.",
-    "malayalamMeaning": "കുഞ്ഞുങ്ങൾക്ക് പുതപ്പിക്കാൻ പറ്റിയ വളരെ മൃദുവായതും അലർജ്ജിയുണ്ടാക്കാത്തതുമായ ബ്ലാങ്കറ്റാണിത്.",
+    "malayalamMeaning": "ഈ ബേബി ബ്ലാങ്കറ്റ് അങ്ങേയറ്റം മൃദുവായതും ലോലമായ ചർമ്മത്തിന് സൗമ്യവുമാണ്.",
     "usageExample": "Smooth texture.",
     "difficulty": "BEGINNER"
   },
@@ -843,7 +843,7 @@
     "word": "hard",
     "wordMeaning": "കട്ടിയുള്ള",
     "englishText": "The soles of trekking shoes must be hard enough to resist sharp rocks.",
-    "malayalamMeaning": "മൂർച്ചയുള്ള പാറകളിൽ നടക്കുമ്പോൾ കേടുവരാത്ത വിധം നല്ല ഉറപ്പുള്ളതായിരിക്കണം ട്രെക്കിംഗ് ഷൂസിന്റെ അടിഭാഗം.",
+    "malayalamMeaning": "മൂർച്ചയുള്ള പാറകളെ പ്രതിരോധിക്കാൻ പാകത്തിന് ട്രെക്കിംഗ് ഷൂസിന്റെ അടിഭാഗം ആവശ്യത്തിന് കട്ടിയുള്ളതായിരിക്കണം.",
     "usageExample": "Stiff/firm.",
     "difficulty": "BEGINNER"
   },
@@ -851,7 +851,7 @@
     "word": "heavy",
     "wordMeaning": "ഭാരമുള്ള",
     "englishText": "This cast-iron frying pan is heavy but cooks food evenly.",
-    "malayalamMeaning": "ഈ കാസ്റ്റ് അയൺ ചട്ടിക്ക് ഭാരക്കൂടുതലുണ്ടെങ്കിലും ഭക്ഷണം നല്ലതുപോലെ വെന്തു കിട്ടും.",
+    "malayalamMeaning": "ഈ കാസ്റ്റ് അയൺ ഫ്രൈയിംഗ് പാൻ ഭാരമുള്ളതാണെങ്കിലും ഭക്ഷണം ഒരേപോലെ പാകം ചെയ്യും.",
     "usageExample": "Hefty mass.",
     "difficulty": "BEGINNER"
   },
@@ -859,7 +859,7 @@
     "word": "light",
     "wordMeaning": "ഭാരം കുറഞ്ഞ",
     "englishText": "Choose a lightweight umbrella that fits easily into your everyday bag.",
-    "malayalamMeaning": "ബാഗിൽ എളുപ്പത്തിൽ വെച്ചുകൊണ്ടുപോകാൻ പറ്റിയ ഭാരം കുറഞ്ഞൊരു കുട തിരഞ്ഞെടുക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ നിത്യോപയോഗ ബാഗിൽ എളുപ്പത്തിൽ കൊള്ളുന്ന ഭാരം കുറഞ്ഞ ഒരു കുട തിരഞ്ഞെടുക്കുക.",
     "usageExample": "Low weight.",
     "difficulty": "BEGINNER"
   },
@@ -867,7 +867,7 @@
     "word": "grocery",
     "wordMeaning": "പലചരക്ക്",
     "englishText": "Sunday morning is our dedicated time for family grocery shopping.",
-    "malayalamMeaning": "ഞായറാഴ്ച രാവിലെയാണ് ഞങ്ങൾ വീട്ടിലേക്കുള്ള സാധനങ്ങൾ വാങ്ങാൻ സാധാരണയായി പോകാറുള്ളത്.",
+    "malayalamMeaning": "ഞായറാഴ്ച രാവിലെ കുടുംബത്തോടൊപ്പമുള്ള പലചരക്ക് ഷോപ്പിംഗിനായി ഞങ്ങൾ നീക്കിവെച്ച സമയമാണ്.",
     "usageExample": "Food provisions.",
     "difficulty": "BEGINNER"
   },
@@ -875,7 +875,7 @@
     "word": "milk",
     "wordMeaning": "പാൽ",
     "englishText": "Pick up two liters of fresh cow milk from the dairy counter.",
-    "malayalamMeaning": "ഡയറി കൗണ്ടറിൽ നിന്ന് രണ്ട് ലിറ്റർ നല്ല പശുവിൻ പാൽ വാങ്ങിക്കോളൂ.",
+    "malayalamMeaning": "ഡയറി കൗണ്ടറിൽ നിന്ന് രണ്ട് ലിറ്റർ പുതുമയുള്ള പശുവിൻ പാൽ എടുക്കുക.",
     "usageExample": "Dairy staple.",
     "difficulty": "BEGINNER"
   },
@@ -883,7 +883,7 @@
     "word": "bread",
     "wordMeaning": "റൊട്ടി",
     "englishText": "We bought a loaf of freshly baked whole wheat brown bread.",
-    "malayalamMeaning": "നല്ല ചൂടോടെ ചുട്ടെടുത്ത ഗോതമ്പ് ബ്രെഡ് ഞങ്ങൾ വാങ്ങി.",
+    "malayalamMeaning": "പുതുതായി ചുട്ടെടുത്ത ഒരു മുഴുവൻ ഗോതമ്പ് തവിട്ട് റൊട്ടി ഞങ്ങൾ വാങ്ങി.",
     "usageExample": "Bakery staple.",
     "difficulty": "BEGINNER"
   },
@@ -891,7 +891,7 @@
     "word": "rice",
     "wordMeaning": "അരി",
     "englishText": "Buy a twenty-five kilogram bag of traditional Matta rice.",
-    "malayalamMeaning": "ഇരുപത്തഞ്ചു കിലോയുടെ ഒരു ചാക്ക് നല്ല മട്ടയരി വാങ്ങുക.",
+    "malayalamMeaning": "ഇരുപത്തഞ്ച് കിലോഗ്രാമിന്റെ ഒരു ചാക്ക് പരമ്പരാഗത മട്ടയരി വാങ്ങുക.",
     "usageExample": "Grain staple.",
     "difficulty": "BEGINNER"
   },
@@ -899,7 +899,7 @@
     "word": "fruit",
     "wordMeaning": "പഴം",
     "englishText": "Eating a seasonal fruit every day boosts your immune system.",
-    "malayalamMeaning": "ദിവസവും ഓരോ സീസണൽ പഴങ്ങൾ കഴിക്കുന്നത് ശരീരത്തിന്റെ പ്രതിരോധശേഷി വർദ്ധിപ്പിക്കും.",
+    "malayalamMeaning": "ദിവസവും ഒരു സീസണൽ പഴം കഴിക്കുന്നത് നിങ്ങളുടെ രോഗപ്രതിരോധശേഷി വർദ്ധിപ്പിക്കും.",
     "usageExample": "Healthy food.",
     "difficulty": "BEGINNER"
   },
@@ -907,7 +907,7 @@
     "word": "vegetable",
     "wordMeaning": "പച്ചക്കറി",
     "englishText": "Select crisp green vegetables for tonight's vegetable stew.",
-    "malayalamMeaning": "ഇന്നത്തെ രാത്രിയിലെ വെജിറ്റബിൾ സ്റ്റൂ ഉണ്ടാക്കാനായി നല്ല ഫ്രഷ് പച്ചക്കറികൾ നോക്കി വാങ്ങൂ.",
+    "malayalamMeaning": "ഇന്ന് രാത്രിയിലെ വെജിറ്റബിൾ സ്റ്റൂവിനായി പുതുമയുള്ള പച്ച പച്ചക്കറികൾ തിരഞ്ഞെടുക്കുക.",
     "usageExample": "Produce.",
     "difficulty": "BEGINNER"
   },
@@ -915,7 +915,7 @@
     "word": "soap",
     "wordMeaning": "സോപ്പ്",
     "englishText": "She bought handmade herbal soap infused with neem and tulsi.",
-    "malayalamMeaning": "വേപ്പും തുളസിയും ചേർത്ത നല്ലൊരു ആയുർവേദ സോപ്പാണ് അവൾ വാങ്ങിയത്.",
+    "malayalamMeaning": "വേപ്പും തുളസിയും ചേർത്ത് കൈകൊണ്ട് നിർമ്മിച്ച ഒരു ഔഷധ സോപ്പാണ് അവൾ വാങ്ങിയത്.",
     "usageExample": "Bathing bar.",
     "difficulty": "BEGINNER"
   },
@@ -923,7 +923,7 @@
     "word": "shampoo",
     "wordMeaning": "ഷാംപൂ",
     "englishText": "The coconut-oil-based shampoo leaves your hair silky and smooth.",
-    "malayalamMeaning": "വെളിച്ചെണ്ണ അടങ്ങിയ ഈ ഷാംപൂ നിങ്ങളുടെ മുടിക്ക് നല്ല മിനുസവും തിളക്കവും നൽകും.",
+    "malayalamMeaning": "വെളിച്ചെണ്ണ അടിസ്ഥാനമാക്കിയുള്ള ഈ ഷാംപൂ നിങ്ങളുടെ മുടിയെ പട്ടുപോലെ മൃദുവും മിനുസമുള്ളതുമാക്കുന്നു.",
     "usageExample": "Hair wash.",
     "difficulty": "BEGINNER"
   },
@@ -931,7 +931,7 @@
     "word": "paste",
     "wordMeaning": "പേസ്റ്റ്",
     "englishText": "Grab a tube of herbal toothpaste from the personal hygiene shelf.",
-    "malayalamMeaning": "അവിടെയുള്ള ഷെൽഫിൽ നിന്ന് ഒരു ഹെർബൽ ടൂത്ത് പേസ്റ്റ് കൂടി എടുക്കൂ.",
+    "malayalamMeaning": "വ്യക്തിഗത ശുചിത്വ തട്ടിൽ നിന്ന് ഒരു ട്യൂബ് ഹെർബൽ ടൂത്ത്പേസ്റ്റ് എടുക്കൂ.",
     "usageExample": "Oral hygiene.",
     "difficulty": "BEGINNER"
   },
@@ -947,7 +947,7 @@
     "word": "towel",
     "wordMeaning": "തോർത്ത്",
     "englishText": "We bought four plush cotton bath towels in pastel shades.",
-    "malayalamMeaning": "ഇളം നിറങ്ങളിലുള്ള നല്ല നാല് കോട്ടൺ ബാത്ത് ടവലുകൾ ഞങ്ങൾ വാങ്ങി.",
+    "malayalamMeaning": "ഇളം നിറങ്ങളിലുള്ള മൃദുവായ നാല് കോട്ടൺ കുളിത്തോർത്തുകൾ ഞങ്ങൾ വാങ്ങി.",
     "usageExample": "Drying cloth.",
     "difficulty": "BEGINNER"
   },
@@ -955,7 +955,7 @@
     "word": "water",
     "wordMeaning": "വെള്ളം",
     "englishText": "Always carry a reusable water bottle when walking around the mall.",
-    "malayalamMeaning": "മാളിൽ കറങ്ങിനടക്കുമ്പോൾ കുടിക്കാൻ ഒരു വാട്ടർ ബോട്ടിൽ കയ്യിൽ കരുതുക.",
+    "malayalamMeaning": "മാളിൽ ചുറ്റിനടക്കുമ്പോൾ എപ്പോഴും പുനരുപയോഗിക്കാവുന്ന ഒരു വെള്ളക്കുപ്പി കയ്യിൽ കരുതുക.",
     "usageExample": "Hydration bottle.",
     "difficulty": "BEGINNER"
   },
@@ -979,7 +979,7 @@
     "word": "can",
     "wordMeaning": "ടിൻ പാത്രം",
     "englishText": "Recycle the empty soda can in the designated blue recycling bin.",
-    "malayalamMeaning": "ഉപയോഗിച്ച സോഡാ ടിൻ അവിടെയുള്ള നീല ബിന്നിലേക്ക് നിക്ഷേപിക്കുക.",
+    "malayalamMeaning": "ഒഴിഞ്ഞ സോഡാ ടിൻ പാത്രം നിശ്ചിത നീല റീസൈക്ലിംഗ് ബിന്നിൽ ഇട്ട് പുനരുപയോഗത്തിന് നൽകുക.",
     "usageExample": "Tin container.",
     "difficulty": "BEGINNER"
   },
@@ -987,7 +987,7 @@
     "word": "jar",
     "wordMeaning": "ഭരണി",
     "englishText": "Grandmother stores homemade lime pickle in traditional ceramic jars.",
-    "malayalamMeaning": "മുത്തശ്ശി വീട്ടിലുണ്ടാക്കിയ നാരങ്ങ അച്ചാർ ഭരണിയിലാണ് സൂക്ഷിച്ചുവെച്ചിരിക്കുന്നത്.",
+    "malayalamMeaning": "മുത്തശ്ശി വീട്ടിലുണ്ടാക്കിയ നാരങ്ങ അച്ചാർ പരമ്പരാഗത സെറാമിക് ഭരണികളിലാണ് സൂക്ഷിക്കുന്നത്.",
     "usageExample": "Glass container.",
     "difficulty": "BEGINNER"
   },
@@ -995,7 +995,7 @@
     "word": "plastic",
     "wordMeaning": "പ്ലാസ്റ്റിക്",
     "englishText": "Many stores have replaced single-use plastic bags with cloth totes.",
-    "malayalamMeaning": "പല കടകളും ഇപ്പോൾ പ്ലാസ്റ്റിക് കവറുകൾക്ക് പകരം തുണിസഞ്ചികളാണ് നൽകുന്നത്.",
+    "malayalamMeaning": "പല കടകളും ഒറ്റത്തവണ ഉപയോഗിക്കുന്ന പ്ലാസ്റ്റിക് സഞ്ചികൾക്ക് പകരം തുണിസഞ്ചികൾ ഉപയോഗിക്കാൻ തുടങ്ങിയിട്ടുണ്ട്.",
     "usageExample": "Synthetic material.",
     "difficulty": "BEGINNER"
   },
@@ -1003,7 +1003,7 @@
     "word": "cloth",
     "wordMeaning": "തുണി",
     "englishText": "Always carry reusable cloth bags when you head to the bazaar.",
-    "malayalamMeaning": "മാർക്കറ്റിലേക്ക് പോകുമ്പോൾ തുണിസഞ്ചികൾ കൂടെ കരുതാൻ മറക്കരുത്.",
+    "malayalamMeaning": "ബസാറിലേക്ക് പോകുമ്പോൾ എപ്പോഴും പുനരുപയോഗിക്കാവുന്ന തുണിസഞ്ചികൾ കൂടെ കരുതുക.",
     "usageExample": "Fabric material.",
     "difficulty": "BEGINNER"
   },
@@ -1011,7 +1011,7 @@
     "word": "cotton",
     "wordMeaning": "പരുത്തി",
     "englishText": "Pure cotton fabrics are breathable, durable, and easily washable.",
-    "malayalamMeaning": "ശുദ്ധമായ കോട്ടൺ വസ്ത്രങ്ങൾ ചൂട് കുറയ്ക്കുന്നതും നല്ല ഈടുനിൽക്കുന്നതും അലക്കാൻ എളുപ്പമുള്ളതുമാണ്.",
+    "malayalamMeaning": "ശുദ്ധമായ പരുത്തി തുണിത്തരങ്ങൾ വായുസഞ്ചാരമുള്ളതും ഈടുനിൽക്കുന്നതും എളുപ്പത്തിൽ അലക്കാവുന്നതുമാണ്.",
     "usageExample": "Natural fiber.",
     "difficulty": "BEGINNER"
   },
@@ -1027,7 +1027,7 @@
     "word": "leather",
     "wordMeaning": "തുകൽ",
     "englishText": "Genuine leather shoes mold to the shape of your feet over time.",
-    "malayalamMeaning": "ഒറിജിനൽ ലെതർ ഷൂകൾ ഉപയോഗിക്കുംതോറും നമ്മുടെ കാലിന്റെ ആകൃതിക്കനുസരിച്ച് പാകമായി മാറും.",
+    "malayalamMeaning": "യഥാർത്ഥ തുകൽ ഷൂസുകൾ കാലക്രമേണ നിങ്ങളുടെ പാദങ്ങളുടെ ആകൃതിക്കനുസരിച്ച് പാകമായി മാറും.",
     "usageExample": "Animal hide.",
     "difficulty": "BEGINNER"
   },
@@ -1035,7 +1035,7 @@
     "word": "wool",
     "wordMeaning": "കമ്പിളി",
     "englishText": "This hand-knitted woolen sweater keeps you warm in hill station winters.",
-    "malayalamMeaning": "കൈകൊണ്ട് നെയ്ത ഈ കമ്പിളി സ്വെറ്റർ തണുപ്പുകാലത്ത് നല്ല ചൂട് തരും.",
+    "malayalamMeaning": "കൈകൊണ്ട് നെയ്ത ഈ കമ്പിളി സ്വെറ്റർ ഹിൽ സ്റ്റേഷനുകളിലെ തണുപ്പുകാലത്ത് നിങ്ങൾക്ക് ചൂട് നൽകും.",
     "usageExample": "Winter fiber.",
     "difficulty": "BEGINNER"
   },
@@ -1043,7 +1043,7 @@
     "word": "tag",
     "wordMeaning": "അടയാളച്ചീട്ട്",
     "englishText": "Check the price tag before taking the garments to the cash counter.",
-    "malayalamMeaning": "വസ്ത്രങ്ങളുമായി ബില്ലിംഗ് കൗണ്ടറിലേക്ക് പോകുന്നതിന് മുൻപ് അതിന്റെ പ്രൈസ് ടാഗ് നോക്കുക.",
+    "malayalamMeaning": "വസ്ത്രങ്ങൾ ക്യാഷ് കൗണ്ടറിലേക്ക് കൊണ്ടുപോകുന്നതിന് മുൻപ് വിലയുടെ അടയാളച്ചീട്ട് പരിശോധിക്കുക.",
     "usageExample": "Label.",
     "difficulty": "BEGINNER"
   },
@@ -1051,7 +1051,7 @@
     "word": "label",
     "wordMeaning": "വിവരച്ചീട്ട്",
     "englishText": "Read the nutrition label carefully to check for added sugars.",
-    "malayalamMeaning": "പഞ്ചസാര ചേർത്തിട്ടുണ്ടോ എന്നറിയാൻ പാക്കറ്റിലെ ചേരുവകൾ ശ്രദ്ധാപൂർവ്വം വായിക്കുക.",
+    "malayalamMeaning": "അധികമായി പഞ്ചസാര ചേർത്തിട്ടുണ്ടോ എന്നറിയാൻ പോഷക വിവരച്ചീട്ട് ശ്രദ്ധാപൂർവ്വം വായിക്കുക.",
     "usageExample": "Product info.",
     "difficulty": "BEGINNER"
   },
@@ -1059,7 +1059,7 @@
     "word": "barcode",
     "wordMeaning": "ബാർകോഡ്",
     "englishText": "The optical scanner beeped as it read the barcode on the carton.",
-    "malayalamMeaning": "പെട്ടിയിലെ ബാർകോഡ് സ്കാൻ ചെയ്തപ്പോൾ സ്കാനറിൽ നിന്ന് ബീപ് ശബ്ദം കേട്ടു.",
+    "malayalamMeaning": "പെട്ടിയിലെ ബാർകോഡ് വായിച്ചപ്പോൾ ഒപ്റ്റിക്കൽ സ്കാനർ ബീപ് ശബ്ദമുണ്ടാക്കി.",
     "usageExample": "Scannable code.",
     "difficulty": "BEGINNER"
   },
@@ -1067,7 +1067,7 @@
     "word": "scan",
     "wordMeaning": "സ്കാൻ ചെയ്യുക",
     "englishText": "The cashier will scan every barcode to generate the digital receipt.",
-    "malayalamMeaning": "ബിൽ തയ്യാറാക്കാനായി കാഷ്യർ ഓരോ സാധനങ്ങളിലെയും ബാർകോഡ് സ്കാൻ ചെയ്യും.",
+    "malayalamMeaning": "ഡിജിറ്റൽ രസീത് തയ്യാറാക്കാനായി കാഷ്യർ ഓരോ ബാർകോഡും സ്കാൻ ചെയ്യും.",
     "usageExample": "Reading code.",
     "difficulty": "BEGINNER"
   },
@@ -1075,7 +1075,7 @@
     "word": "total",
     "wordMeaning": "ആകെത്തുക",
     "englishText": "What is the grand total for all the grocery items combined?",
-    "malayalamMeaning": "സാധനങ്ങൾക്കെല്ലാം കൂടി ആകെ എത്ര രൂപയായി?",
+    "malayalamMeaning": "എല്ലാ പലചരക്ക് സാധനങ്ങൾക്കും കൂടി ആകെത്തുക എത്രയാണ്?",
     "usageExample": "Final sum.",
     "difficulty": "BEGINNER"
   },
@@ -1083,7 +1083,7 @@
     "word": "amount",
     "wordMeaning": "തുക",
     "englishText": "Enter the exact payment amount on the card terminal screen.",
-    "malayalamMeaning": "കാർഡ് മെഷീനിൽ നൽകേണ്ട കൃത്യമായ തുക രേഖപ്പെടുത്തുക.",
+    "malayalamMeaning": "കാർഡ് ടെർമിനൽ സ്ക്രീനിൽ നൽകേണ്ട കൃത്യമായ തുക രേഖപ്പെടുത്തുക.",
     "usageExample": "Numerical value.",
     "difficulty": "BEGINNER"
   },
@@ -1099,7 +1099,7 @@
     "word": "save",
     "wordMeaning": "മിച്ചം പിടിക്കുക",
     "englishText": "Shopping during clearance sales helps you save hundreds of rupees.",
-    "malayalamMeaning": "ക്ലിയറൻസ് സെയിലുകളിൽ നിന്ന് വാങ്ങുന്നത് നല്ലൊരു തുക ലാഭിക്കാൻ സഹായിക്കും.",
+    "malayalamMeaning": "ക്ലിയറൻസ് വിൽപ്പന സമയത്ത് ഷോപ്പിംഗ് നടത്തുന്നത് നിങ്ങൾക്ക് നൂറുകണക്കിന് രൂപ മിച്ചം പിടിക്കാൻ സഹായിക്കും.",
     "usageExample": "Conserve money.",
     "difficulty": "BEGINNER"
   },
@@ -1107,7 +1107,7 @@
     "word": "afford",
     "wordMeaning": "ചെലവ് താങ്ങുക",
     "englishText": "I love that leather sofa, but I cannot afford it right now.",
-    "malayalamMeaning": "എനിക്ക് ആ ലെതർ സോഫ വളരെ ഇഷ്ടപ്പെട്ടെങ്കിലും ഇപ്പോൾ അത് വാങ്ങാനുള്ള പണം കയ്യിലില്ല.",
+    "malayalamMeaning": "എനിക്ക് ആ ലെതർ സോഫ വളരെ ഇഷ്ടമാണ്, പക്ഷേ അതിന്റെ ചെലവ് താങ്ങാൻ എനിക്ക് ഇപ്പോൾ കഴിയില്ല.",
     "usageExample": "Financial capability.",
     "difficulty": "BEGINNER"
   },
@@ -1115,7 +1115,7 @@
     "word": "bargain",
     "wordMeaning": "വിലപേശൽ",
     "englishText": "He managed to bargain with the fruit vendor for a lower price.",
-    "malayalamMeaning": "പഴക്കടക്കാരനോട് വിലപേശി അവൻ കുറഞ്ഞ വിലയ്ക്ക് പഴങ്ങൾ വാങ്ങി.",
+    "malayalamMeaning": "കുറഞ്ഞ വിലയ്ക്കായി പഴക്കച്ചവടക്കാരനോട് വിലപേശാൻ അവന് കഴിഞ്ഞു.",
     "usageExample": "Negotiate price.",
     "difficulty": "BEGINNER"
   },
@@ -1123,7 +1123,7 @@
     "word": "deal",
     "wordMeaning": "ലാഭകരമായ ഇടപാട്",
     "englishText": "Buying the combo pack gave us a very attractive festive deal.",
-    "malayalamMeaning": "കോംബോ പായ്ക്ക് എടുത്തപ്പോൾ നല്ലൊരു ഉത്സവ ഓഫറാണ് ഞങ്ങൾക്ക് ലഭിച്ചത്.",
+    "malayalamMeaning": "കോംബോ പാക്ക് വാങ്ങിയതിലൂടെ വളരെ ആകർഷകവും ലാഭകരവുമായ ഒരു ഉത്സവകാല ഇടപാടാണ് ഞങ്ങൾക്ക് ലഭിച്ചത്.",
     "usageExample": "Good purchase.",
     "difficulty": "BEGINNER"
   },
@@ -1139,7 +1139,7 @@
     "word": "wrap",
     "wordMeaning": "പൊതിയുക",
     "englishText": "The gift shop staff can wrap your present in festive gold paper.",
-    "malayalamMeaning": "ഗിഫ്റ്റ് ഷോപ്പിലെ ജീവനക്കാർ സമ്മാനം മനോഹരമായ ഗിഫ്റ്റ് പേപ്പറിൽ പൊതിഞ്ഞു തരും.",
+    "malayalamMeaning": "ഗിഫ്റ്റ് ഷോപ്പിലെ ജീവനക്കാർക്ക് നിങ്ങളുടെ സമ്മാനം ഉത്സവകാല സ്വർണ്ണനിറമുള്ള പേപ്പറിൽ പൊതിഞ്ഞു നൽകാൻ കഴിയും.",
     "usageExample": "Packaging gift.",
     "difficulty": "BEGINNER"
   },
@@ -1147,7 +1147,7 @@
     "word": "ribbon",
     "wordMeaning": "റിബൺ",
     "englishText": "She tied a shimmering satin ribbon around the gift box.",
-    "malayalamMeaning": "സമ്മാനപ്പൊതിക്ക് ചുറ്റും അവൾ തിളങ്ങുന്ന സാറ്റിൻ റിബൺ കെട്ടി.",
+    "malayalamMeaning": "സമ്മാനപ്പെട്ടിക്ക് ചുറ്റും അവൾ തിളങ്ങുന്ന ഒരു സാറ്റിൻ റിബൺ കെട്ടി.",
     "usageExample": "Decorative cord.",
     "difficulty": "BEGINNER"
   },
@@ -1155,7 +1155,7 @@
     "word": "box",
     "wordMeaning": "പെട്ടി",
     "englishText": "The footwear store packed the running shoes inside a sturdy box.",
-    "malayalamMeaning": "ഷൂസ് കടക്കാർ റണ്ണിംഗ് ഷൂകൾ നല്ലൊരു ഉറപ്പുള്ള പെട്ടിയിലാണ് വെച്ചുതന്നത്.",
+    "malayalamMeaning": "പാദരക്ഷാ കടക്കാർ റണ്ണിംഗ് ഷൂകൾ ഉറപ്പുള്ള ഒരു പെട്ടിക്കുള്ളിൽ പാക്ക് ചെയ്തു.",
     "usageExample": "Cardboard pack.",
     "difficulty": "BEGINNER"
   },
@@ -1163,7 +1163,7 @@
     "word": "carry",
     "wordMeaning": "കൊണ്ടുപോകുക",
     "englishText": "These canvas tote bags are strong enough to carry heavy groceries.",
-    "malayalamMeaning": "ഭാരമേറിയ പലചരക്ക് സാധനങ്ങൾ കൊണ്ടുപോകാൻ ഈ തുണിസഞ്ചികൾക്ക് നല്ല ബലമുണ്ട്.",
+    "malayalamMeaning": "ഭാരമേറിയ പലചരക്ക് സാധനങ്ങൾ കൊണ്ടുപോകാൻ ഈ ക്യാൻവാസ് സഞ്ചികൾക്ക് ആവശ്യത്തിന് ബലമുണ്ട്.",
     "usageExample": "Transport in hand.",
     "difficulty": "BEGINNER"
   },
@@ -1171,7 +1171,7 @@
     "word": "choice",
     "wordMeaning": "തിരഞ്ഞെടുപ്പ്",
     "englishText": "The showroom offers a dazzling choice of modern jewelry designs.",
-    "malayalamMeaning": "ആധുനിക ആഭരണ ഡിസൈനുകളുടെ വിപുലമായ ശേഖരമാണ് ആ ഷോറൂമിലുള്ളത്.",
+    "malayalamMeaning": "ആധുനിക ആഭരണ ഡിസൈനുകളുടെ കണ്ണഞ്ചിപ്പിക്കുന്ന ഒരു തിരഞ്ഞെടുപ്പ് ഷോറൂം നൽകുന്നു.",
     "usageExample": "Selection.",
     "difficulty": "BEGINNER"
   },
@@ -1179,7 +1179,7 @@
     "word": "variety",
     "wordMeaning": "വൈവിധ്യം",
     "englishText": "The hypermarket stocks an impressive variety of international sauces.",
-    "malayalamMeaning": "വിദേശത്തുനിന്നുള്ള വ്യത്യസ്തയിനം സോസുകളുടെ വലിയൊരു കളക്ഷൻ ആ ഹൈപ്പർമാർക്കറ്റിലുണ്ട്.",
+    "malayalamMeaning": "അന്താരാഷ്ട്ര സോസുകളുടെ ആകർഷകമായ വൈവിധ്യം ഹൈപ്പർമാർക്കറ്റിൽ ലഭ്യമാണ്.",
     "usageExample": "Diversity of goods.",
     "difficulty": "BEGINNER"
   },
@@ -1187,7 +1187,7 @@
     "word": "brand",
     "wordMeaning": "ബ്രാൻഡ്",
     "englishText": "Always choose a trusted consumer brand for electrical kitchen appliances.",
-    "malayalamMeaning": "വൈദ്യുതോപകരണങ്ങൾ വാങ്ങുമ്പോൾ എപ്പോഴും വിശ്വസനീയമായ നല്ല ബ്രാൻഡുകൾ തിരഞ്ഞെടുക്കുക.",
+    "malayalamMeaning": "അടുക്കളയിലെ വൈദ്യുതോപകരണങ്ങൾക്കായി എപ്പോഴും വിശ്വസനീയമായ ഒരു ഉപഭോക്തൃ ബ്രാൻഡ് തിരഞ്ഞെടുക്കുക.",
     "usageExample": "Maker's identity.",
     "difficulty": "BEGINNER"
   },
@@ -1195,7 +1195,7 @@
     "word": "trust",
     "wordMeaning": "വിശ്വസിക്കുക",
     "englishText": "Generations of families trust this textile brand for wedding sarees.",
-    "malayalamMeaning": "കല്യാണപ്പുടവകൾ വാങ്ങാൻ കാലങ്ങളായി കുടുംബങ്ങൾ വിശ്വസിക്കുന്ന ഒരു വസ്ത്ര ബ്രാൻഡാണിത്.",
+    "malayalamMeaning": "വിവാഹ സാരികൾക്കായി തലമുറകളായി കുടുംബങ്ങൾ ഈ വസ്ത്ര ബ്രാൻഡിനെ വിശ്വസിക്കുന്നു.",
     "usageExample": "Reliability.",
     "difficulty": "BEGINNER"
   },
@@ -1203,7 +1203,7 @@
     "word": "boutique",
     "wordMeaning": "പ്രത്യേക വസ്ത്രശാല",
     "englishText": "She runs an exclusive fashion boutique specializing in handloom sarees.",
-    "malayalamMeaning": "കൈത്തറി സാരികൾക്ക് മാത്രമായി അവൾ ഒരു ഫാഷൻ ബോട്ടിക് നടത്തുന്നുണ്ട്.",
+    "malayalamMeaning": "കൈത്തറി സാരികളിൽ വൈദഗ്ദ്ധ്യമുള്ള ഒരു പ്രത്യേക ഫാഷൻ വസ്ത്രശാല അവൾ നടത്തുന്നു.",
     "usageExample": "Specialty shop.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1211,7 +1211,7 @@
     "word": "alteration",
     "wordMeaning": "അളവ് മാറ്റം",
     "englishText": "The tailor completed the sleeve alteration within two hours.",
-    "malayalamMeaning": "രണ്ടു മണിക്കൂറിനുള്ളിൽ തയ്യൽക്കാരൻ ഷർട്ടിന്റെ കൈ അൾട്ടർ ചെയ്തു തന്നു.",
+    "malayalamMeaning": "തയ്യൽക്കാരൻ രണ്ട് മണിക്കൂറിനുള്ളിൽ കൈയുടെ അളവ് മാറ്റം പൂർത്തിയാക്കി.",
     "usageExample": "Clothes adjustment.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1219,7 +1219,7 @@
     "word": "fitting",
     "wordMeaning": "പാകം നോക്കൽ",
     "englishText": "The designer scheduled a final fitting session for the bridal gown.",
-    "malayalamMeaning": "വിവാഹ ഗൗണിന്റെ അവസാന ഫിറ്റിംഗിനായി ഡിസൈനർ സമയം നിശ്ചയിച്ചു.",
+    "malayalamMeaning": "വിവാഹ ഗൗണിന്റെ അവസാന പാകം നോക്കലിനായി ഡിസൈനർ സമയം നിശ്ചയിച്ചു.",
     "usageExample": "Trying tailored clothes.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1227,7 +1227,7 @@
     "word": "mannequin",
     "wordMeaning": "പ്രദർശന പാവ",
     "englishText": "The latest silk collection was displayed on mannequins in the window.",
-    "malayalamMeaning": "ഏറ്റവും പുതിയ പട്ടുസാരികൾ ഷോക്കേസിലെ മാനെക്വിൻ പാവകളിൽ അണിയിച്ച് പ്രദർശിപ്പിച്ചിരുന്നു.",
+    "malayalamMeaning": "ഏറ്റവും പുതിയ പട്ടുശേഖരം വിൻഡോയിലെ പ്രദർശന പാവകളിൽ അണിയിച്ച് പ്രദർശിപ്പിച്ചിരുന്നു.",
     "usageExample": "Display model.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1235,7 +1235,7 @@
     "word": "showcase",
     "wordMeaning": "പ്രദർശന അലമാര",
     "englishText": "Jewelry stores showcase their diamond necklaces under bright spot lamps.",
-    "malayalamMeaning": "ജ്വല്ലറികളിൽ വജ്രമാലകൾ വെളിച്ചമുള്ള സ്പോട്ട് ലൈറ്റുകൾക്ക് കീഴിലാണ് പ്രദർശിപ്പിക്കാറുള്ളത്.",
+    "malayalamMeaning": "ആഭരണക്കടകൾ തങ്ങളുടെ വജ്രമാലകൾ പ്രകാശമുള്ള സ്പോട്ട് ലാമ്പുകൾക്ക് കീഴിൽ പ്രദർശിപ്പിക്കുന്നു.",
     "usageExample": "Display cabinet.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1243,7 +1243,7 @@
     "word": "clearance",
     "wordMeaning": "സ്റ്റോക്ക് ഒഴിവാക്കൽ വിൽപ്പന",
     "englishText": "The end-of-season clearance sale offered discounts up to seventy percent.",
-    "malayalamMeaning": "സീസൺ അവസാനത്തോടനുബന്ധിച്ചുള്ള ക്ലിയറൻസ് സെയിലിൽ എഴുപത് ശതമാനം വരെ വിലക്കിഴിവ് ഉണ്ടായിരുന്നു.",
+    "malayalamMeaning": "സീസൺ അവസാനത്തെ സ്റ്റോക്ക് ഒഴിവാക്കൽ വിൽപ്പനയിൽ എഴുപത് ശതമാനം വരെ കിഴിവ് നൽകിയിരുന്നു.",
     "usageExample": "Stock clearing.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1259,7 +1259,7 @@
     "word": "apparel",
     "wordMeaning": "വസ്ത്രം",
     "englishText": "The retail brand expanded its ethnic apparel collection for men and women.",
-    "malayalamMeaning": "സ്ത്രീകൾക്കും പുരുഷന്മാർക്കുമുള്ള പരമ്പരാഗത വസ്ത്രങ്ങളുടെ വലിയൊരു ശേഖരം ആ ബ്രാൻഡ് അവതരിപ്പിച്ചു.",
+    "malayalamMeaning": "ആ ചില്ലറ വിൽപ്പന ബ്രാൻഡ് പുരുഷന്മാർക്കും സ്ത്രീകൾക്കുമുള്ള പരമ്പരാഗത വസ്ത്ര ശേഖരം വിപുലീകരിച്ചു.",
     "usageExample": "Clothing category.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1267,7 +1267,7 @@
     "word": "garment",
     "wordMeaning": "വസ്ത്രം",
     "englishText": "Inspect each finished garment for loose threads before packaging.",
-    "malayalamMeaning": "വസ്ത്രങ്ങൾ പാക്ക് ചെയ്യുന്നതിന് മുൻപ് അവയിലെ തുന്നലുകളും നൂലുകളും കൃത്യമായി പരിശോധിക്കുക.",
+    "malayalamMeaning": "പാക്ക് ചെയ്യുന്നതിന് മുൻപ് പൂർത്തിയായ ഓരോ വസ്ത്രത്തിലും അയഞ്ഞ നൂലുകളുണ്ടോ എന്ന് പരിശോധിക്കുക.",
     "usageExample": "Single clothing item.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1275,7 +1275,7 @@
     "word": "accessories",
     "wordMeaning": "അനുബന്ധ സാധനങ്ങൾ",
     "englishText": "Silk ties, leather belts, and cufflinks are available under accessories.",
-    "malayalamMeaning": "സിൽക്ക് ടൈകൾ, ലെതർ ബെൽറ്റുകൾ, കഫ്‌ലിങ്കുകൾ എന്നിവ ആക്‌സസറീസ് വിഭാഗത്തിൽ ലഭ്യമാണ്.",
+    "malayalamMeaning": "പട്ട് ടൈകൾ, തുകൽ ബെൽറ്റുകൾ, കഫ്‌ലിങ്കുകൾ എന്നിവ അനുബന്ധ സാധനങ്ങളുടെ വിഭാഗത്തിൽ ലഭ്യമാണ്.",
     "usageExample": "Add-on items.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1283,7 +1283,7 @@
     "word": "cosmetics",
     "wordMeaning": "സൗന്ദര്യവർദ്ധക വസ്തുക്കൾ",
     "englishText": "The luxury cosmetics counter offers free skin tone consultations.",
-    "malayalamMeaning": "ആഡംബര സൗന്ദര്യവർദ്ധക വസ്തുക്കളുടെ കൗണ്ടറിൽ ചർമ്മത്തിനനുയോജ്യമായ നിറങ്ങൾ സൗജന്യമായി പരിശോധിച്ചു നൽകുന്നു.",
+    "malayalamMeaning": "ആഡംബര സൗന്ദര്യവർദ്ധക വസ്തുക്കളുടെ കൗണ്ടറിൽ ചർമ്മത്തിന്റെ നിറത്തിനനുസരിച്ചുള്ള സൗജന്യ വിദഗ്ദ്ധോപദേശം ലഭ്യമാണ്.",
     "usageExample": "Beauty products.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1291,7 +1291,7 @@
     "word": "fragrance",
     "wordMeaning": "സുഗന്ധം",
     "englishText": "The boutique was filled with the subtle, lingering fragrance of jasmine.",
-    "malayalamMeaning": "മുല്ലപ്പൂവിന്റെ നേർത്ത സുഗന്ധം ആ ബോട്ടിക് മുഴുവൻ നിറഞ്ഞുനിന്നിരുന്നു.",
+    "malayalamMeaning": "മുല്ലപ്പൂവിന്റെ നേർത്തതും തങ്ങിനിൽക്കുന്നതുമായ സുഗന്ധം ആ ബോട്ടിക് മുഴുവൻ നിറഞ്ഞുനിന്നിരുന്നു.",
     "usageExample": "Pleasant scent.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1299,7 +1299,7 @@
     "word": "perfume",
     "wordMeaning": "സുഗന്ധദ്രവ്യം",
     "englishText": "He bought a bottle of French eau de perfume as an anniversary present.",
-    "malayalamMeaning": "വിവാഹവാർഷിക സമ്മാനമായി അവൻ ഫ്രഞ്ച് പെർഫ്യൂമിന്റെ ഒരു കുപ്പി വാങ്ങി.",
+    "malayalamMeaning": "വാർഷിക സമ്മാനമായി അവൻ ഒരു കുപ്പി ഫ്രഞ്ച് സുഗന്ധദ്രവ്യം വാങ്ങി.",
     "usageExample": "Scented liquid.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1307,7 +1307,7 @@
     "word": "cashback",
     "wordMeaning": "പണം തിരിച്ചുകിട്ടൽ",
     "englishText": "Paying via digital wallets entitles you to five percent instant cashback.",
-    "malayalamMeaning": "ഡിജിറ്റൽ വാലറ്റുകൾ വഴി പണമടച്ചാൽ അഞ്ച് ശതമാനം ഇൻസ്റ്റന്റ് ക്യാഷ്ബാക്ക് ലഭിക്കും.",
+    "malayalamMeaning": "ഡിജിറ്റൽ വാലറ്റുകൾ വഴി പണമടച്ചാൽ അഞ്ച് ശതമാനം പണം തൽക്ഷണം തിരിച്ചുകിട്ടും.",
     "usageExample": "Reward refund.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1315,7 +1315,7 @@
     "word": "coupon",
     "wordMeaning": "കൂപ്പൺ",
     "englishText": "Apply this digital coupon code at checkout to claim free shipping.",
-    "malayalamMeaning": "സൗജന്യ ഡെലിവറി ലഭിക്കുന്നതിനായി ബിൽ ചെയ്യുമ്പോൾ ഈ കൂപ്പൺ കോഡ് നൽകുക.",
+    "malayalamMeaning": "സൗജന്യ ഷിപ്പിംഗ് നേടുന്നതിനായി ചെക്ക്ഔട്ട് സമയത്ത് ഈ ഡിജിറ്റൽ കൂപ്പൺ കോഡ് നൽകുക.",
     "usageExample": "Discount voucher.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1323,7 +1323,7 @@
     "word": "voucher",
     "wordMeaning": "വൗച്ചർ",
     "englishText": "My colleagues gave me a five-thousand-rupee bookstore gift voucher.",
-    "malayalamMeaning": "സഹപ്രവർത്തകർ എനിക്ക് അയ്യായിരം രൂപയുടെ പുസ്തക ഗിഫ്റ്റ് വൗച്ചറാണ് സമ്മാനമായി തന്നത്.",
+    "malayalamMeaning": "എന്റെ സഹപ്രവർത്തകർ എനിക്ക് അയ്യായിരം രൂപയുടെ ഒരു പുസ്തകക്കട സമ്മാന വൗച്ചർ നൽകി.",
     "usageExample": "Redeemable ticket.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1331,7 +1331,7 @@
     "word": "installment",
     "wordMeaning": "ഗഡു",
     "englishText": "Customers can purchase high-end laptops via interest-free monthly installments.",
-    "malayalamMeaning": "പലിശയില്ലാത്ത പ്രതിമാസ തവണകളായി ഉപഭോക്താക്കൾക്ക് വിലകൂടിയ ലാപ്‌ടോപ്പുകൾ വാങ്ങാം.",
+    "malayalamMeaning": "പലിശയില്ലാത്ത പ്രതിമാസ ഗഡുക്കളായി ഉപഭോക്താക്കൾക്ക് ഉന്നത നിലവാരമുള്ള ലാപ്‌ടോപ്പുകൾ വാങ്ങാം.",
     "usageExample": "Split payments.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1339,7 +1339,7 @@
     "word": "membership",
     "wordMeaning": "അംഗത്വം",
     "englishText": "Annual membership in the shopping club gives you exclusive early access.",
-    "malayalamMeaning": "ഷോപ്പിംഗ് ക്ലബ്ബിലെ വാർഷിക അംഗത്വം ഓഫറുകൾ മറ്റുള്ളവർക്ക് മുൻപേ സ്വന്തമാക്കാൻ അവസരം നൽകുന്നു.",
+    "malayalamMeaning": "ഷോപ്പിംഗ് ക്ലബ്ബിലെ വാർഷിക അംഗത്വം നിങ്ങൾക്ക് പ്രത്യേക മുൻകൂർ പ്രവേശനം നൽകുന്നു.",
     "usageExample": "Subscription tier.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1347,7 +1347,7 @@
     "word": "loyalty",
     "wordMeaning": "വിശ്വസ്തത",
     "englishText": "Scan your loyalty card at the billing counter to collect reward points.",
-    "malayalamMeaning": "റിവാർഡ് പോയിന്റുകൾ ലഭിക്കുന്നതിനായി ബില്ലിംഗ് കൗണ്ടറിൽ ലോയൽറ്റി കാർഡ് കാണിക്കുക.",
+    "malayalamMeaning": "റിവാർഡ് പോയിന്റുകൾ ശേഖരിക്കാൻ ബില്ലിംഗ് കൗണ്ടറിൽ നിങ്ങളുടെ ലോയൽറ്റി കാർഡ് സ്കാൻ ചെയ്യുക.",
     "usageExample": "Customer points.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1355,7 +1355,7 @@
     "word": "subscription",
     "wordMeaning": "വരിസംഖ്യ",
     "englishText": "Our monthly coffee bean subscription delivers freshly roasted packs.",
-    "malayalamMeaning": "ഞങ്ങളുടെ പ്രതിമാസ സബ്‌സ്‌ക്രിപ്ഷൻ വഴി നല്ല ഫ്രഷ് കാപ്പിക്കുരു പാക്കറ്റുകൾ വീട്ടിലെത്തും.",
+    "malayalamMeaning": "ഞങ്ങളുടെ പ്രതിമാസ കാപ്പിക്കുരു വരിസംഖ്യാ പദ്ധതി വഴി പുതുതായി വറുത്ത പാക്കറ്റുകൾ എത്തിച്ചുനൽകുന്നു.",
     "usageExample": "Recurring order.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1363,7 +1363,7 @@
     "word": "defective",
     "wordMeaning": "തകരാറുള്ള",
     "englishText": "Return the defective toaster to the service desk for immediate replacement.",
-    "malayalamMeaning": "കേടായ ടോസ്റ്റർ മാറ്റി പുതിയത് വാങ്ങാനായി സർവീസ് ഡെസ്കിൽ തിരികെ ഏൽപ്പിക്കുക.",
+    "malayalamMeaning": "ഉടനടി മാറ്റിവാങ്ങുന്നതിനായി തകരാറുള്ള ടോസ്റ്റർ സർവീസ് ഡെസ്കിൽ തിരികെ നൽകുക.",
     "usageExample": "Flawed product.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1371,7 +1371,7 @@
     "word": "replacement",
     "wordMeaning": "മാറ്റിസ്ഥാപിക്കൽ",
     "englishText": "The store dispatched an immediate replacement for the cracked mirror.",
-    "malayalamMeaning": "പൊട്ടിയ കണ്ണാടിക്ക് പകരം മറ്റൊന്ന് കടക്കാർ ഉടൻ തന്നെ അയച്ചുതന്നു.",
+    "malayalamMeaning": "വിള്ളലുള്ള കണ്ണാടിക്ക് പകരം മാറ്റിസ്ഥാപിക്കാനുള്ള മറ്റൊന്ന് കട ഉടൻ തന്നെ അയച്ചു.",
     "usageExample": "Substitute item.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1379,7 +1379,7 @@
     "word": "reimbursement",
     "wordMeaning": "ചെലവ് തിരികെ നൽകൽ",
     "englishText": "Submit your shopping receipt to claim official reimbursement.",
-    "malayalamMeaning": "പണം തിരികെ ലഭിക്കുന്നതിനായി ഷോപ്പിംഗ് ബിൽ ഓഫീസിൽ സമർപ്പിക്കുക.",
+    "malayalamMeaning": "ഔദ്യോഗികമായി ചെലവ് തിരികെ ലഭിക്കാൻ നിങ്ങളുടെ ഷോപ്പിംഗ് രസീത് സമർപ്പിക്കുക.",
     "usageExample": "Repayment.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1387,7 +1387,7 @@
     "word": "statement",
     "wordMeaning": "കണക്കുവിവരം",
     "englishText": "Review your monthly credit card statement to verify all transactions.",
-    "malayalamMeaning": "ഇടപാടുകളെല്ലാം കൃത്യമാണോ എന്നറിയാൻ പ്രതിമാസ ക്രെഡിറ്റ് കാർഡ് സ്റ്റേറ്റ്‌മെന്റ് പരിശോധിക്കുക.",
+    "malayalamMeaning": "എല്ലാ ഇടപാടുകളും ഉറപ്പുവരുത്താൻ നിങ്ങളുടെ പ്രതിമാസ ക്രെഡിറ്റ് കാർഡ് കണക്കുവിവരം പരിശോധിക്കുക.",
     "usageExample": "Financial summary.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1395,7 +1395,7 @@
     "word": "billing",
     "wordMeaning": "ബിൽ തയ്യാറാക്കൽ",
     "englishText": "The billing system automatically calculates state and central sales taxes.",
-    "malayalamMeaning": "ബില്ലിംഗ് സിസ്റ്റം സംസ്ഥാന-കേന്ദ്ര ജി.എസ്.ടി തുകകൾ സ്വയമേവ കണക്കാക്കുന്നു.",
+    "malayalamMeaning": "ബിൽ തയ്യാറാക്കൽ സംവിധാനം സംസ്ഥാന-കേന്ദ്ര വിൽപ്പന നികുതികൾ സ്വയമേവ കണക്കാക്കുന്നു.",
     "usageExample": "Invoicing process.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1403,7 +1403,7 @@
     "word": "catalog",
     "wordMeaning": "ഉൽപ്പന്ന പട്ടിക",
     "englishText": "Browse through the autumn furniture catalog to view new dining tables.",
-    "malayalamMeaning": "പുതിയ ഡൈനിംഗ് ടേബിളുകൾ കാണാനായി ഫർണിച്ചർ കാറ്റലോഗ് പരിശോധിക്കുക.",
+    "malayalamMeaning": "പുതിയ ഡൈനിംഗ് ടേബിളുകൾ കാണാനായി ശരത്കാല ഫർണിച്ചർ ഉൽപ്പന്ന പട്ടിക പരിശോധിക്കുക.",
     "usageExample": "Product book.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1411,7 +1411,7 @@
     "word": "brochure",
     "wordMeaning": "ലഘുപത്രിക",
     "englishText": "The electronics dealer handed me an informative product brochure.",
-    "malayalamMeaning": "ഇലക്ട്രോണിക്സ് ഡീലർ സാധനങ്ങളുടെ വിവരങ്ങളടങ്ങിയ ഒരു ബ്രോഷർ എനിക്ക് തന്നു.",
+    "malayalamMeaning": "ഇലക്ട്രോണിക്സ് ഡീലർ എനിക്ക് വിവരങ്ങളടങ്ങിയ ഒരു ഉൽപ്പന്ന ലഘുപത്രിക കൈമാറി.",
     "usageExample": "Pamphlet.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1419,7 +1419,7 @@
     "word": "inventory",
     "wordMeaning": "സാധന ശേഖരം",
     "englishText": "The department store conducts quarterly inventory audits after closing.",
-    "malayalamMeaning": "കടയടച്ചതിനു ശേഷം ഡിപ്പാർട്ട്‌മെന്റൽ സ്റ്റോറിൽ മൂന്നു മാസം കൂടുമ്പോൾ സ്റ്റോക്ക് പരിശോധന നടത്താറുണ്ട്.",
+    "malayalamMeaning": "കടയടച്ചതിനു ശേഷം ഡിപ്പാർട്ട്‌മെന്റ് സ്റ്റോർ ത്രൈമാസ സാധന ശേഖര ഓഡിറ്റുകൾ നടത്തുന്നു.",
     "usageExample": "Stock list.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1427,7 +1427,7 @@
     "word": "stockout",
     "wordMeaning": "സാധനം തീർന്നുപോകൽ",
     "englishText": "High festive demand caused an unexpected stockout of smart televisions.",
-    "malayalamMeaning": "ഉത്സവകാലത്തെ വലിയ ഡിമാൻഡ് കാരണം സ്മാർട്ട് ടിവികളുടെ സ്റ്റോക്ക് പെട്ടെന്ന് തീർന്നുപോയി.",
+    "malayalamMeaning": "ഉത്സവകാലത്തെ ഉയർന്ന ആവശ്യകത കാരണം സ്മാർട്ട് ടെലിവിഷനുകളുടെ ശേഖരം അപ്രതീക്ഷിതമായി തീർന്നുപോയി.",
     "usageExample": "Depleted stock.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1435,7 +1435,7 @@
     "word": "replenishment",
     "wordMeaning": "ശേഖരം പുതുക്കൽ",
     "englishText": "Automated inventory systems trigger automatic replenishment of cereal boxes.",
-    "malayalamMeaning": "ഓട്ടോമേറ്റഡ് സംവിധാനം വഴി സാധനങ്ങൾ തീരുന്ന മുറയ്ക്ക് പുതിയ സ്റ്റോക്ക് സ്വയമേവ ഓർഡർ ചെയ്യപ്പെടുന്നു.",
+    "malayalamMeaning": "ഓട്ടോമേറ്റഡ് സാധന ശേഖര സംവിധാനങ്ങൾ സീരിയൽ പെട്ടികളുടെ ശേഖരം സ്വയമേവ പുതുക്കാൻ നിർദ്ദേശം നൽകുന്നു.",
     "usageExample": "Restocking.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1443,7 +1443,7 @@
     "word": "consignment",
     "wordMeaning": "ചരക്ക്",
     "englishText": "The spice exporter received a large consignment of dried cloves from Zanzibar.",
-    "malayalamMeaning": "സുഗന്ധവ്യഞ്ജന കയറ്റുമതിക്കാരന് സാൻസിബാറിൽ നിന്ന് ഉണങ്ങിയ ഗ്രാമ്പൂവിന്റെ വലിയൊരു ശേഖരം ലഭിച്ചു.",
+    "malayalamMeaning": "സുഗന്ധവ്യഞ്ജന കയറ്റുമതിക്കാരന് സാൻസിബാറിൽ നിന്ന് ഉണങ്ങിയ ഗ്രാമ്പൂവിന്റെ വലിയൊരു ചരക്ക് ലഭിച്ചു.",
     "usageExample": "Shipped batch.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1451,7 +1451,7 @@
     "word": "delivery",
     "wordMeaning": "വിതരണം",
     "englishText": "Home grocery delivery is scheduled to arrive between two and four o'clock.",
-    "malayalamMeaning": "ഉച്ചയ്ക്ക് രണ്ട് മണിക്കും നാല് മണിക്കും ഇടയിൽ സാധനങ്ങൾ വീട്ടിലെത്തിക്കും.",
+    "malayalamMeaning": "വീട്ടിലേക്കുള്ള പലചരക്ക് വിതരണം രണ്ട് മണിക്കും നാല് മണിക്കും ഇടയിൽ എത്താൻ നിശ്ചയിച്ചിട്ടുണ്ട്.",
     "usageExample": "Transporting goods.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1459,7 +1459,7 @@
     "word": "courier",
     "wordMeaning": "കൊറിയർ",
     "englishText": "The courier delivered the online apparel order directly to our doorstep.",
-    "malayalamMeaning": "ഓൺലൈനിൽ ഓർഡർ ചെയ്ത വസ്ത്രങ്ങൾ കൊറിയർക്കാരൻ വീട്ടിൽ കൊണ്ടുവന്നു തന്നു.",
+    "malayalamMeaning": "ഓൺലൈൻ വസ്ത്ര ഓർഡർ കൊറിയർ നേരിട്ട് ഞങ്ങളുടെ വീട്ടുവാതിൽക്കൽ എത്തിച്ചു.",
     "usageExample": "Parcel carrier.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1467,7 +1467,7 @@
     "word": "tracking",
     "wordMeaning": "സ്ഥിതി നിരീക്ഷണം",
     "englishText": "Use the consignment tracking number to monitor your package's transit.",
-    "malayalamMeaning": "സാധനങ്ങൾ എവിടെയെത്തിയെന്ന് അറിയാൻ ട്രാക്കിംഗ് നമ്പർ ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "നിങ്ങളുടെ പാക്കേജിന്റെ യാത്രാസ്ഥിതി നിരീക്ഷിക്കാൻ ചരക്ക് ട്രാക്കിംഗ് നമ്പർ ഉപയോഗിക്കുക.",
     "usageExample": "Locating shipment.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1475,7 +1475,7 @@
     "word": "unboxing",
     "wordMeaning": "പെട്ടി തുറക്കൽ",
     "englishText": "Tech enthusiasts love watching online unboxing videos of new smartphones.",
-    "malayalamMeaning": "പുതിയ സ്മാർട്ട്‌ഫോണുകളുടെ അൺബോക്സിംഗ് വീഡിയോകൾ കാണാൻ സാങ്കേതികപ്രേമികൾക്ക് വലിയ ഇഷ്ടമാണ്.",
+    "malayalamMeaning": "പുതിയ സ്മാർട്ട്‌ഫോണുകളുടെ ഓൺലൈൻ പെട്ടി തുറക്കൽ വീഡിയോകൾ കാണാൻ സാങ്കേതികപ്രേമികൾക്ക് വലിയ ഇഷ്ടമാണ്.",
     "usageExample": "Opening product.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1483,7 +1483,7 @@
     "word": "satisfaction",
     "wordMeaning": "സംതൃപ്തി",
     "englishText": "Customer satisfaction is our highest metric of retail success.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ സംതൃപ്തിയാണ് ഞങ്ങളുടെ ബിസിനസ്സിന്റെ വിജയത്തിന്റെ ഏറ്റവും വലിയ അളവുകോൽ.",
+    "malayalamMeaning": "ഉപഭോക്തൃ സംതൃപ്തിയാണ് ഞങ്ങളുടെ ചില്ലറ വിൽപ്പന വിജയത്തിന്റെ ഏറ്റവും വലിയ അളവുകോൽ.",
     "usageExample": "Contentment.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1491,7 +1491,7 @@
     "word": "authentic",
     "wordMeaning": "യഥാർത്ഥമായ",
     "englishText": "Ensure that the silver jewelry bears a hallmark proving it is authentic.",
-    "malayalamMeaning": "വെള്ളി ആഭരണങ്ങൾ പരിശുദ്ധമാണെന്ന് ഉറപ്പുവരുത്താൻ അതിൽ ഹോൾമാർക്ക് മുദ്രയുണ്ടോ എന്ന് നോക്കുക.",
+    "malayalamMeaning": "വെള്ളി ആഭരണങ്ങൾ യഥാർത്ഥമാണെന്ന് തെളിയിക്കുന്ന ഹോൾമാർക്ക് മുദ്ര അതിലുണ്ടെന്ന് ഉറപ്പുവരുത്തുക.",
     "usageExample": "Genuine item.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1499,7 +1499,7 @@
     "word": "counterfeit",
     "wordMeaning": "വ്യാജ",
     "englishText": "Customs authorities seized thousands of counterfeit designer watches.",
-    "malayalamMeaning": "ആയിരക്കണക്കിന് വ്യാജ ബ്രാൻഡഡ് വാച്ചുകൾ കസ്റ്റംസ് അധികൃതർ പിടിച്ചെടുത്തു.",
+    "malayalamMeaning": "ആയിരക്കണക്കിന് വ്യാജ ഡിസൈനർ വാച്ചുകൾ കസ്റ്റംസ് അധികൃതർ പിടിച്ചെടുത്തു.",
     "usageExample": "Fake product.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1507,7 +1507,7 @@
     "word": "imitation",
     "wordMeaning": "അനുകരണം",
     "englishText": "These affordable earrings are crafted from high-quality imitation gold.",
-    "malayalamMeaning": "കുറഞ്ഞ വിലയിലുള്ള ഈ കമ്മലുകൾ നല്ലയിനം മുക്കുപണ്ടത്തിൽ തീർത്തതാണ്.",
+    "malayalamMeaning": "താങ്ങാനാവുന്ന വിലയിലുള്ള ഈ കമ്മലുകൾ ഉയർന്ന ഗുണനിലവാരമുള്ള അനുകരണ സ്വർണ്ണത്തിൽ നിർമ്മിച്ചതാണ്.",
     "usageExample": "Costume jewelry.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1515,7 +1515,7 @@
     "word": "premium",
     "wordMeaning": "ഉന്നത നിലവാരമുള്ള",
     "englishText": "Organic cold-pressed virgin coconut oil sells at a premium price.",
-    "malayalamMeaning": "പരമ്പരാഗത രീതിയിൽ ആട്ടിയ ശുദ്ധമായ വെർജിൻ വെളിച്ചെണ്ണയ്ക്ക് വിപണിയിൽ നല്ല വിലയുണ്ട്.",
+    "malayalamMeaning": "ഉന്നത നിലവാരമുള്ള ജൈവ കോൾഡ്-പ്രസ്ഡ് വെർജിൻ വെളിച്ചെണ്ണ ഉയർന്ന വിലയ്ക്കാണ് വിൽക്കപ്പെടുന്നത്.",
     "usageExample": "High grade.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1523,7 +1523,7 @@
     "word": "luxury",
     "wordMeaning": "ആഡംബര",
     "englishText": "The downtown avenue is lined with international luxury fashion houses.",
-    "malayalamMeaning": "നഗരത്തിലെ പ്രധാന പാതയോരത്ത് വൻകിട ആഡംബര വസ്ത്രശാലകളാണ് ഉള്ളത്.",
+    "malayalamMeaning": "നഗരമധ്യത്തിലെ പ്രധാന പാതയോരത്ത് അന്താരാഷ്ട്ര ആഡംബര ഫാഷൻ ശാലകൾ നിരനിരയായി സ്ഥിതി ചെയ്യുന്നു.",
     "usageExample": "High extravagance.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1531,7 +1531,7 @@
     "word": "economical",
     "wordMeaning": "ചെലവ് കുറഞ്ഞ",
     "englishText": "Buying washing detergent in five-kilogram packs is far more economical.",
-    "malayalamMeaning": "വാഷിംഗ് പൗഡർ അഞ്ച് കിലോയുടെ പായ്ക്കായി വാങ്ങുന്നത് കൂടുതൽ ലാഭകരമാണ്.",
+    "malayalamMeaning": "വാഷിംഗ് ഡിറ്റർജന്റ് അഞ്ച് കിലോഗ്രാം പായ്ക്കുകളായി വാങ്ങുന്നത് വളരെയധികം ചെലവ് കുറഞ്ഞതാണ്.",
     "usageExample": "Cost-efficient.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1539,7 +1539,7 @@
     "word": "durable",
     "wordMeaning": "ഈടുനിൽക്കുന്ന",
     "englishText": "Cast-iron cookware is virtually indestructible and exceptionally durable.",
-    "malayalamMeaning": "കാസ്റ്റ് അയൺ പാത്രങ്ങൾ ഒരിക്കലും കേടുവരാത്തതും കാലങ്ങളോളം ഈടുനിൽക്കുന്നതുമാണ്.",
+    "malayalamMeaning": "കാസ്റ്റ് അയൺ പാചകപ്പാത്രങ്ങൾ ഏതാണ്ട് നശിക്കാത്തതും അസാധാരണമാംവിധം ഈടുനിൽക്കുന്നതുമാണ്.",
     "usageExample": "Long-lasting.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1547,7 +1547,7 @@
     "word": "stylish",
     "wordMeaning": "മോടിയുള്ള",
     "englishText": "She wore a stylish linen blazer that was both professional and casual.",
-    "malayalamMeaning": "ഔദ്യോഗിക ആവശ്യങ്ങൾക്കും സാധാരണ യാത്രകൾക്കും ഒരുപോലെ ഇണങ്ങുന്ന നല്ലൊരു ലിനൻ ബ്ലേസറാണ് അവൾ ധരിച്ചിരുന്നത്.",
+    "malayalamMeaning": "ഔദ്യോഗികവും സാധാരണവുമായ അവസരങ്ങൾക്ക് ഒരുപോലെ ഇണങ്ങുന്ന മോടിയുള്ള ഒരു ലിനൻ ബ്ലേസറാണ് അവൾ ധരിച്ചിരുന്നത്.",
     "usageExample": "Fashionable.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1555,7 +1555,7 @@
     "word": "elegant",
     "wordMeaning": "ചാരുതയുള്ള",
     "englishText": "The bride chose an elegant pearl choker necklace for the reception.",
-    "malayalamMeaning": "വിവാഹസൽക്കാരത്തിനായി വധു തിരഞ്ഞെടുത്തത് മനോഹരമായ ഒരു മുത്തുമാലയാണ്.",
+    "malayalamMeaning": "വിവാഹസൽക്കാരത്തിനായി വധു ചാരുതയുള്ള ഒരു മുത്ത് ചോക്കർ മാല തിരഞ്ഞെടുത്തു.",
     "usageExample": "Gracefully refined.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1563,7 +1563,7 @@
     "word": "vintage",
     "wordMeaning": "പഴയകാല",
     "englishText": "The antique shop is famous for authentic vintage brass gramophones.",
-    "malayalamMeaning": "പഴയകാല പിച്ചള ഗ്രാമഫോണുകൾക്ക് പേരുകേട്ടതാണ് ആ പുരാവസ്തു കട.",
+    "malayalamMeaning": "യഥാർത്ഥ പഴയകാല പിച്ചള ഗ്രാമഫോണുകൾക്ക് പേരുകേട്ടതാണ് ആ പുരാവസ്തു കട.",
     "usageExample": "Classic period item.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1579,7 +1579,7 @@
     "word": "handmade",
     "wordMeaning": "കൈകൊണ്ട് നിർമ്മിച്ച",
     "englishText": "Support local village women by buying handmade coir door mats.",
-    "malayalamMeaning": "കൈകൊണ്ട് ഉണ്ടാക്കിയ കയർ ചവിട്ടികൾ വാങ്ങി ഗ്രാമത്തിലെ വനിതകളെ സഹായിക്കൂ.",
+    "malayalamMeaning": "കൈകൊണ്ട് നിർമ്മിച്ച കയർ ചവിട്ടികൾ വാങ്ങി പ്രാദേശിക ഗ്രാമീണ വനിതകളെ പിന്തുണയ്ക്കൂ.",
     "usageExample": "Crafted by hand.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1587,7 +1587,7 @@
     "word": "artisanal",
     "wordMeaning": "കരകൗശല",
     "englishText": "The boutique baker crafts artisanal sourdough bread using heritage grains.",
-    "malayalamMeaning": "പരമ്പരാഗത ധാന്യങ്ങൾ ഉപയോഗിച്ച് നിർമ്മിച്ച പ്രത്യേകതരം ബ്രെഡ്ഡുകൾ ആ ബേക്കറിയിൽ ലഭിക്കും.",
+    "malayalamMeaning": "ആ ബോട്ടിക് ബേക്കർ പരമ്പരാഗത ധാന്യങ്ങൾ ഉപയോഗിച്ച് കരകൗശല വൈദഗ്ദ്ധ്യത്തോടെ സോർഡോ റൊട്ടി നിർമ്മിക്കുന്നു.",
     "usageExample": "Craftsman-made.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1595,7 +1595,7 @@
     "word": "organic",
     "wordMeaning": "ജൈവ",
     "englishText": "No synthetic pesticides or chemicals were used on these organic greens.",
-    "malayalamMeaning": "ഈ ജൈവ പച്ചക്കറികളിൽ യാതൊരുവിധ കീടനാശിനികളോ രാസവസ്തുക്കളോ പ്രയോഗിച്ചിട്ടില്ല.",
+    "malayalamMeaning": "ഈ ജൈവ ഇലക്കറികളിൽ യാതൊരുവിധ കൃത്രിമ കീടനാശിനികളോ രാസവസ്തുക്കളോ ഉപയോഗിച്ചിട്ടില്ല.",
     "usageExample": "Pesticide-free.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1603,7 +1603,7 @@
     "word": "sustainable",
     "wordMeaning": "സുസ്ഥിരമായ",
     "englishText": "We choose sustainable bamboo toothbrushes to minimize plastic pollution.",
-    "malayalamMeaning": "പ്ലാസ്റ്റിക് മാലിന്യം കുറയ്ക്കുന്നതിനായി ഞങ്ങൾ പ്രകൃതിക്ക് ഇണങ്ങിയ മുള കൊണ്ടുള്ള ടൂത്ത് ബ്രഷുകളാണ് ഉപയോഗിക്കുന്നത്.",
+    "malayalamMeaning": "പ്ലാസ്റ്റിക് മലിനീകരണം കുറയ്ക്കുന്നതിനായി ഞങ്ങൾ സുസ്ഥിരമായ മുള ടൂത്ത് ബ്രഷുകൾ തിരഞ്ഞെടുക്കുന്നു.",
     "usageExample": "Eco-friendly.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1611,7 +1611,7 @@
     "word": "ethical",
     "wordMeaning": "ധാർമ്മികമായ",
     "englishText": "Consumers increasingly favor brands with transparent, ethical supply chains.",
-    "malayalamMeaning": "ധാർമ്മികമായ രീതികളിൽ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുന്ന വിശ്വസനീയ ബ്രാൻഡുകളെയാണ് ഉപഭോക്താക്കൾ ഇന്ന് കൂടുതൽ ഇഷ്ടപ്പെടുന്നത്.",
+    "malayalamMeaning": "സുതാര്യവും ധാർമ്മികവുമായ വിതരണ ശൃംഖലകളുള്ള ബ്രാൻഡുകളെയാണ് ഉപഭോക്താക്കൾ ഇന്ന് കൂടുതൽ ഇഷ്ടപ്പെടുന്നത്.",
     "usageExample": "Morally sound.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1619,7 +1619,7 @@
     "word": "fair-trade",
     "wordMeaning": "ന്യായമായ വ്യാപാരം",
     "englishText": "Buying fair-trade coffee ensures that tribal farmers receive equitable wages.",
-    "malayalamMeaning": "ഫെയർ-ട്രേഡ് കാപ്പിപ്പൊടി വാങ്ങുന്നത് തോട്ടം തൊഴിലാളികൾക്ക് അർഹമായ കൂലി ലഭിക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുന്നു.",
+    "malayalamMeaning": "ന്യായമായ വ്യാപാരത്തിലൂടെയുള്ള കാപ്പി വാങ്ങുന്നത് ആദിവാസി കർഷകർക്ക് അർഹമായ വേതനം ലഭിക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുന്നു.",
     "usageExample": "Just compensation.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1627,7 +1627,7 @@
     "word": "merchandise",
     "wordMeaning": "വിൽപ്പന സാധനങ്ങൾ",
     "englishText": "The store clearance sale featured discounted festive merchandise.",
-    "malayalamMeaning": "കടയിലെ ക്ലിയറൻസ് സെയിലിൽ ഉത്സവകാല സാധനങ്ങൾക്ക് വലിയ വിലക്കിഴിവ് നൽകിയിരുന്നു.",
+    "malayalamMeaning": "കടയിലെ സ്റ്റോക്ക് ഒഴിവാക്കൽ വിൽപ്പനയിൽ വിലക്കിഴിവുള്ള ഉത്സവകാല വിൽപ്പന സാധനങ്ങൾ ഉൾപ്പെടുത്തിയിരുന്നു.",
     "usageExample": "Goods on display.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1635,7 +1635,7 @@
     "word": "retailer",
     "wordMeaning": "ചില്ലറ വ്യാപാരി",
     "englishText": "The prominent online retailer opened five physical experience stores.",
-    "malayalamMeaning": "പ്രമുഖ ഓൺലൈൻ വ്യാപാര കമ്പനി ഉപഭോക്താക്കൾക്ക് സാധനങ്ങൾ നേരിട്ടു കണ്ടു വാങ്ങാനായി അഞ്ച് ഷോറൂമുകൾ തുറന്നു.",
+    "malayalamMeaning": "പ്രമുഖ ഓൺലൈൻ ചില്ലറ വ്യാപാരി അഞ്ച് നേരിട്ടുള്ള എക്സ്പീരിയൻസ് സ്റ്റോറുകൾ തുറന്നു.",
     "usageExample": "Seller to public.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1643,7 +1643,7 @@
     "word": "wholesaler",
     "wordMeaning": "മൊത്തക്കച്ചവടക്കാരൻ",
     "englishText": "The textile wholesaler offers steep volume discounts to small village shops.",
-    "malayalamMeaning": "കൂടുതൽ അളവിൽ തുണിത്തരങ്ങൾ വാങ്ങുന്ന നാട്ടിൻപുറത്തെ ചെറുകിട കടകൾക്ക് മൊത്തക്കച്ചവടക്കാരൻ നല്ല വിലക്കിഴിവ് നൽകുന്നു.",
+    "malayalamMeaning": "വസ്ത്ര മൊത്തക്കച്ചവടക്കാരൻ ചെറുകിട ഗ്രാമീണ കടകൾക്ക് വലിയ അളവിലുള്ള വാങ്ങലുകൾക്ക് വൻ കിഴിവുകൾ നൽകുന്നു.",
     "usageExample": "Bulk seller.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1651,7 +1651,7 @@
     "word": "distributor",
     "wordMeaning": "വിതരണക്കാരൻ",
     "englishText": "He was appointed as the exclusive regional distributor for the organic tea brand.",
-    "malayalamMeaning": "ആ ഓർഗാനിക് ചായപ്പൊടി ബ്രാൻഡിന്റെ ഈ മേഖലയിലെ ഏക വിതരണക്കാരനായി അദ്ദേഹത്തെ നിയമിച്ചു.",
+    "malayalamMeaning": "ആ ജൈവ തേയില ബ്രാൻഡിന്റെ ഏക പ്രാദേശിക വിതരണക്കാരനായി അദ്ദേഹത്തെ നിയമിച്ചു.",
     "usageExample": "Middle trader.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1659,7 +1659,7 @@
     "word": "specifications",
     "wordMeaning": "സവിശേഷതകൾ",
     "englishText": "Read the technical specifications to check if the charger matches your phone.",
-    "malayalamMeaning": "ചാർജർ നിങ്ങളുടെ ഫോണിന് അനുയോജ്യമാണോ എന്നറിയാൻ അതിന്റെ സാങ്കേതിക വിവരങ്ങൾ പരിശോധിക്കുക.",
+    "malayalamMeaning": "ചാർജർ നിങ്ങളുടെ ഫോണിന് അനുയോജ്യമാണോ എന്ന് പരിശോധിക്കാൻ സാങ്കേതിക സവിശേഷതകൾ വായിക്കുക.",
     "usageExample": "Product details.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1667,7 +1667,7 @@
     "word": "convenience",
     "wordMeaning": "സൗകര്യം",
     "englishText": "Online shopping offers the convenience of ordering from your living room.",
-    "malayalamMeaning": "സ്വന്തം വീട്ടിലിരുന്ന് തന്നെ എളുപ്പത്തിൽ സാധനങ്ങൾ ഓർഡർ ചെയ്യാൻ ഓൺലൈൻ ഷോപ്പിംഗ് സഹായിക്കുന്നു.",
+    "malayalamMeaning": "നിങ്ങളുടെ സ്വീകരണമുറിയിൽ ഇരുന്ന് തന്നെ ഓർഡർ ചെയ്യാനുള്ള സൗകര്യം ഓൺലൈൻ ഷോപ്പിംഗ് നൽകുന്നു.",
     "usageExample": "Ease of use.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1675,7 +1675,7 @@
     "word": "versatile",
     "wordMeaning": "ബഹുമുഖമായ",
     "englishText": "A classic white linen shirt is versatile enough for work or beach outings.",
-    "malayalamMeaning": "ഓഫീസിലും യാത്രകളിലും ഒരുപോലെ ഉപയോഗിക്കാൻ പറ്റിയ ഒന്നാണ് നല്ലൊരു വെള്ള ലിനൻ ഷർട്ട്.",
+    "malayalamMeaning": "ഒരു ക്ലാസിക് വെള്ള ലിനൻ ഷർട്ട് ജോലിക്കും ബീച്ച് യാത്രകൾക്കും ഒരുപോലെ അനുയോജ്യമായ ബഹുമുഖ വസ്ത്രമാണ്.",
     "usageExample": "Multipurpose.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1683,7 +1683,7 @@
     "word": "breathable",
     "wordMeaning": "വായുസഞ്ചാരമുള്ള",
     "englishText": "Cotton and linen are breathable fabrics ideal for high humidity.",
-    "malayalamMeaning": "ഈർപ്പവും ചൂടും കൂടുതലുള്ള കാലാവസ്ഥയിൽ ധരിക്കാൻ ഏറ്റവും അനുയോജ്യമായതാണ് കോട്ടൺ, ലിനൻ വസ്ത്രങ്ങൾ.",
+    "malayalamMeaning": "കോട്ടണും ലിനനും ഉയർന്ന ഈർപ്പമുള്ള കാലാവസ്ഥയ്ക്ക് അനുയോജ്യമായ വായുസഞ്ചാരമുള്ള തുണിത്തരങ്ങളാണ്.",
     "usageExample": "Air-permeable.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1691,7 +1691,7 @@
     "word": "waterproof",
     "wordMeaning": "വെള്ളം കയറാത്ത",
     "englishText": "This trekking jacket is completely waterproof and wind-resistant.",
-    "malayalamMeaning": "ഈ ട്രെക്കിംഗ് ജാക്കറ്റ് പൂർണ്ണമായും മഴയും കാറ്റും തടയാൻ ശേഷിയുള്ളതാണ്.",
+    "malayalamMeaning": "ഈ ട്രെക്കിംഗ് ജാക്കറ്റ് പൂർണ്ണമായും വെള്ളം കയറാത്തതും കാറ്റിനെ പ്രതിരോധിക്കുന്നതുമാണ്.",
     "usageExample": "Impermeable to water.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1699,7 +1699,7 @@
     "word": "tailored",
     "wordMeaning": "അളവെടുത്ത് തുന്നിയ",
     "englishText": "He looked sharp in a custom-tailored three-piece formal suit.",
-    "malayalamMeaning": "അളവെടുത്ത് കൃത്യമായി തയ്പ്പിച്ച ത്രീ-പീസ് ഫോർമൽ സ്യൂട്ടിൽ അവൻ അതീവ സുന്ദരനായി കാണപ്പെട്ടു.",
+    "malayalamMeaning": "അളവെടുത്ത് പ്രത്യേകം തുന്നിയ ത്രീ-പീസ് ഫോർമൽ സ്യൂട്ടിൽ അവൻ വളരെ ആകർഷകനായി കാണപ്പെട്ടു.",
     "usageExample": "Custom-fitted.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1707,7 +1707,7 @@
     "word": "alterations",
     "wordMeaning": "അളവ് മാറ്റങ്ങൾ",
     "englishText": "The boutique offers complimentary minor alterations on all evening gowns.",
-    "malayalamMeaning": "ഗൗണുകളിൽ ആവശ്യമായ ചെറിയ അൾട്ടറേഷനുകൾ ആ ബോട്ടിക് സൗജന്യമായി ചെയ്തുനൽകുന്നുണ്ട്.",
+    "malayalamMeaning": "എല്ലാ ഈവനിംഗ് ഗൗണുകളിലും ചെറിയ അളവ് മാറ്റങ്ങൾ ആ ബോട്ടിക് സൗജന്യമായി ചെയ്തുനൽകുന്നു.",
     "usageExample": "Adjustments.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1715,7 +1715,7 @@
     "word": "craftsmanship",
     "wordMeaning": "കരകൗശലം",
     "englishText": "The intricate wood carving displays world-class Kerala craftsmanship.",
-    "malayalamMeaning": "സൂക്ഷ്മമായ ആ മരക്കൊത്തുപണിയിൽ കേരളത്തിന്റെ ഉന്നതമായ കരകൗശല വൈദഗ്ദ്ധ്യം വ്യക്തമാണ്.",
+    "malayalamMeaning": "സൂക്ഷ്മമായ ആ മരക്കൊത്തുപണി കേരളത്തിന്റെ ലോകോത്തര കരകൗശല വൈദഗ്ദ്ധ്യം പ്രദർശിപ്പിക്കുന്നു.",
     "usageExample": "Artisanal skill.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1723,7 +1723,7 @@
     "word": "exquisite",
     "wordMeaning": "വിശിഷ്ടമായ",
     "englishText": "The museum showcased exquisite antique gold jewelry from royal times.",
-    "malayalamMeaning": "രാജഭരണകാലത്തെ അതിമനോഹരമായ പുരാതന സ്വർണ്ണാഭരണങ്ങൾ മ്യൂസിയത്തിൽ പ്രദർശിപ്പിച്ചിരുന്നു.",
+    "malayalamMeaning": "രാജഭരണകാലത്തെ വിശിഷ്ടമായ പുരാതന സ്വർണ്ണാഭരണങ്ങൾ മ്യൂസിയം പ്രദർശിപ്പിച്ചു.",
     "usageExample": "Intensely beautiful.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1731,7 +1731,7 @@
     "word": "patronage",
     "wordMeaning": "ഉപഭോക്തൃ പിന്തുണ",
     "englishText": "The local handicraft store flourished thanks to the steady patronage of tourists.",
-    "malayalamMeaning": "സഞ്ചാരികളുടെ നിരന്തരമായ പിന്തുണ കാരണമാണ് ആ നാടൻ കരകൗശല വിൽപനശാല വലിയ വിജയമായത്.",
+    "malayalamMeaning": "വിനോദസഞ്ചാരികളുടെ നിരന്തരമായ ഉപഭോക്തൃ പിന്തുണ കാരണമാണ് ആ പ്രാദേശിക കരകൗശല കട അഭിവൃദ്ധി പ്രാപിച്ചത്.",
     "usageExample": "Customer support.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1739,7 +1739,7 @@
     "word": "clientele",
     "wordMeaning": "ഇടപാടുകാർ",
     "englishText": "The luxury boutique caters to an affluent and discerning clientele.",
-    "malayalamMeaning": "ഉന്നത നിലവാരവും ആഡംബരവും ആഗ്രഹിക്കുന്ന സമ്പന്നരായ ഉപഭോക്താക്കൾക്കാണ് ആ ബോട്ടിക് സേവനം നൽകുന്നത്.",
+    "malayalamMeaning": "ആ ആഡംബര ബോട്ടിക് സമ്പന്നരും വിവേകമുള്ളവരുമായ ഇടപാടുകാർക്കാണ് സേവനം നൽകുന്നത്.",
     "usageExample": "Customer base.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1747,7 +1747,7 @@
     "word": "merchandising",
     "wordMeaning": "വിൽപ്പന പ്രദർശനം",
     "englishText": "Creative visual merchandising in the storefront draws curious shoppers inside.",
-    "malayalamMeaning": "കടയുടെ മുൻവശത്തെ ആകർഷകമായ അലങ്കാരങ്ങൾ കാണികളുടെ ശ്രദ്ധ പെട്ടെന്ന് ആകർഷിക്കുന്നു.",
+    "malayalamMeaning": "കടയുടെ മുൻവശത്തെ സർഗ്ഗാത്മകമായ ദൃശ്യ വിൽപ്പന പ്രദർശനം കൗതുകമുള്ള ഉപഭോക്താക്കളെ ഉള്ളിലേക്ക് ആകർഷിക്കുന്നു.",
     "usageExample": "Display marketing.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1763,7 +1763,7 @@
     "word": "frugal",
     "wordMeaning": "മിതവ്യയമുള്ള",
     "englishText": "Living a frugal lifestyle allows you to save money for long-term investments.",
-    "malayalamMeaning": "മിതവ്യയത്തോടെ ജീവിക്കുന്നത് ഭാവിയിലേക്കുള്ള സമ്പാദ്യത്തിനും നിക്ഷേപങ്ങൾക്കും പണം കരുതിവെക്കാൻ സഹായിക്കും.",
+    "malayalamMeaning": "മിതവ്യയമുള്ള ജീവിതശൈലി പിന്തുടരുന്നത് ദീർഘകാല നിക്ഷേപങ്ങൾക്കായി പണം സമ്പാദിക്കാൻ നിങ്ങളെ സഹായിക്കും.",
     "usageExample": "Thrifty.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1771,7 +1771,7 @@
     "word": "thrifty",
     "wordMeaning": "മിതവ്യയശീലമുള്ള",
     "englishText": "A thrifty shopper always checks price comparison apps before making purchases.",
-    "malayalamMeaning": "പണം ശ്രദ്ധയോടെ ചെലവഴിക്കുന്നവർ സാധനങ്ങൾ വാങ്ങുന്നതിന് മുൻപ് വില താരതമ്യം ചെയ്യുന്ന ആപ്പുകൾ നോക്കാറുണ്ട്.",
+    "malayalamMeaning": "മിതവ്യയശീലമുള്ള ഒരു ഉപഭോക്താവ് സാധനങ്ങൾ വാങ്ങുന്നതിന് മുൻപ് എപ്പോഴും വില താരതമ്യം ചെയ്യുന്ന ആപ്പുകൾ പരിശോധിക്കും.",
     "usageExample": "Careful with money.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1779,7 +1779,7 @@
     "word": "bargaining",
     "wordMeaning": "വിലപേശൽ",
     "englishText": "Skillful bargaining is considered an art form in traditional spice markets.",
-    "malayalamMeaning": "നാട്ടുചന്തകളിൽ വിലപേശി വാങ്ങുക എന്നത് ഒരു പ്രത്യേക കല തന്നെയാണ്.",
+    "malayalamMeaning": "പരമ്പരാഗത സുഗന്ധവ്യഞ്ജന വിപണികളിൽ സമർത്ഥമായ വിലപേശൽ ഒരു കലാരൂപമായാണ് കണക്കാക്കപ്പെടുന്നത്.",
     "usageExample": "Price negotiating.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1787,7 +1787,7 @@
     "word": "haggle",
     "wordMeaning": "വിലപേശുക",
     "englishText": "Tourists often try to haggle over the price of handmade souvenir statues.",
-    "malayalamMeaning": "കൈവേലയിൽ തീർത്ത ശിൽപ്പങ്ങളുടെ വില കുറയ്ക്കാനായി വിനോദസഞ്ചാരികൾ പലപ്പോഴും വിലപേശാറുണ്ട്.",
+    "malayalamMeaning": "കൈകൊണ്ട് നിർമ്മിച്ച സ്മാരക ശിൽപ്പങ്ങളുടെ വിലയെച്ചൊല്ലി വിനോദസഞ്ചാരികൾ പലപ്പോഴും വിലപേശാൻ ശ്രമിക്കാറുണ്ട്.",
     "usageExample": "Bargain persistently.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1795,7 +1795,7 @@
     "word": "returnable",
     "wordMeaning": "തിരികെ നൽകാവുന്ന",
     "englishText": "Perishable dairy and bakery items are strictly non-returnable once opened.",
-    "malayalamMeaning": "പാക്കറ്റ് തുറന്നുകഴിഞ്ഞാൽ പാലുൽപ്പന്നങ്ങളും ബേക്കറി സാധനങ്ങളും യാതൊരു കാരണവശാലും തിരിച്ചെടുക്കില്ല.",
+    "malayalamMeaning": "പെട്ടെന്ന് കേടാകുന്ന പാലുൽപ്പന്നങ്ങളും ബേക്കറി ഇനങ്ങളും ഒരിക്കൽ തുറന്നുകഴിഞ്ഞാൽ കർശനമായും തിരികെ നൽകാനാവാത്തവയാണ്.",
     "usageExample": "Eligible for return.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1803,7 +1803,7 @@
     "word": "exchangeable",
     "wordMeaning": "കൈമാറ്റം ചെയ്യാവുന്ന",
     "englishText": "Clothing items with original price tags intact are exchangeable within ten days.",
-    "malayalamMeaning": "പ്രൈസ് ടാഗ് കീറാത്ത വസ്ത്രങ്ങൾ പത്തു ദിവസത്തിനകം മാറ്റി വാങ്ങാവുന്നതാണ്.",
+    "malayalamMeaning": "യഥാർത്ഥ വിലച്ചീട്ടുകൾ കേടുകൂടാതെയുള്ള വസ്ത്രങ്ങൾ പത്ത് ദിവസത്തിനുള്ളിൽ കൈമാറ്റം ചെയ്യാവുന്നതാണ്.",
     "usageExample": "Eligible for swap.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1811,7 +1811,7 @@
     "word": "refundable",
     "wordMeaning": "പണം തിരികെ ലഭിക്കുന്ന",
     "englishText": "The booking fee for the luxury showroom reservation is non-refundable.",
-    "malayalamMeaning": "ഷോറൂം ബുക്കിംഗിനായി നൽകിയ അഡ്വാൻസ് തുക യാതൊരു കാരണവശാലും തിരികെ ലഭിക്കില്ല.",
+    "malayalamMeaning": "ആഡംബര ഷോറൂം റിസർവേഷനുള്ള ബുക്കിംഗ് ഫീസ് തിരികെ ലഭിക്കുന്നതല്ല.",
     "usageExample": "Eligible for refund.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1819,7 +1819,7 @@
     "word": "downpayment",
     "wordMeaning": "മുൻകൂർ തുക",
     "englishText": "We made a twenty percent downpayment when reserving the designer sofa.",
-    "malayalamMeaning": "ഡിസൈനർ സോഫ ബുക്ക് ചെയ്തപ്പോൾ ഞങ്ങൾ ഇരുപത് ശതമാനം തുക അഡ്വാൻസായി നൽകി.",
+    "malayalamMeaning": "ഡിസൈനർ സോഫ റിസർവ് ചെയ്തപ്പോൾ ഞങ്ങൾ ഇരുപത് ശതമാനം മുൻകൂർ തുകയായി നൽകി.",
     "usageExample": "Initial deposit.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1827,7 +1827,7 @@
     "word": "depreciation",
     "wordMeaning": "മൂല്യശോഷണം",
     "englishText": "Electronics suffer rapid technological depreciation within two years of release.",
-    "malayalamMeaning": "ഇലക്ട്രോണിക്സ് ഉപകരണങ്ങളുടെ വിപണി മൂല്യം രണ്ട് വർഷത്തിനുള്ളിൽ ഗണ്യമായി കുറയുന്നു.",
+    "malayalamMeaning": "ഇലക്ട്രോണിക്സ് ഉപകരണങ്ങൾക്ക് പുറത്തിറങ്ങി രണ്ട് വർഷത്തിനുള്ളിൽ വേഗത്തിലുള്ള സാങ്കേതിക മൂല്യശോഷണം സംഭവിക്കുന്നു.",
     "usageExample": "Value drop.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1835,7 +1835,7 @@
     "word": "durability",
     "wordMeaning": "ഈട്",
     "englishText": "The durability of cast-iron pans makes them treasured family heirlooms.",
-    "malayalamMeaning": "കാസ്റ്റ് അയൺ പാത്രങ്ങൾ ഒരിക്കലും കേടുവരാത്തതിനാൽ തലമുറകളോളം കൈമാറി സൂക്ഷിക്കാറുണ്ട്.",
+    "malayalamMeaning": "കാസ്റ്റ് അയൺ ചട്ടികളുടെ ഈട് അവയെ വിലമതിക്കപ്പെടുന്ന കുടുംബ പൈതൃക സ്വത്തുക്കളാക്കി മാറ്റുന്നു.",
     "usageExample": "Longevity.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1843,7 +1843,7 @@
     "word": "authenticity",
     "wordMeaning": "ആധികാരികത",
     "englishText": "The certificate of authenticity guarantees that the diamond is ethically mined.",
-    "malayalamMeaning": "വജ്രത്തിന്റെ ശുദ്ധി തെളിയിക്കുന്ന ഒറിജിനൽ സർട്ടിഫിക്കറ്റ് അതിനൊപ്പം ലഭിക്കും.",
+    "malayalamMeaning": "വജ്രം ധാർമ്മികമായി ഖനനം ചെയ്തതാണെന്ന് ആധികാരികതാ സർട്ടിഫിക്കറ്റ് ഉറപ്പുനൽകുന്നു.",
     "usageExample": "Genuineness.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1851,7 +1851,7 @@
     "word": "hallmark",
     "wordMeaning": "ഗുണമേന്മാ മുദ്ര",
     "englishText": "Look for the Bureau of Indian Standards hallmark stamped on pure gold jewelry.",
-    "malayalamMeaning": "തങ്കാഭരണങ്ങൾ വാങ്ങുമ്പോൾ അതിൽ ബി.ഐ.എസ് ഹാൾമാർക്ക് മുദ്രയുണ്ടെന്ന് ഉറപ്പുവരുത്തുക.",
+    "malayalamMeaning": "ശുദ്ധമായ സ്വർണ്ണാഭരണങ്ങളിൽ പതിപ്പിച്ചിരിക്കുന്ന ബ്യൂറോ ഓഫ് ഇന്ത്യൻ സ്റ്റാൻഡേർഡ്സ് ഗുണമേന്മാ മുദ്ര പരിശോധിക്കുക.",
     "usageExample": "Official purity mark.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1859,7 +1859,7 @@
     "word": "reputable",
     "wordMeaning": "സൽപ്പേരുള്ള",
     "englishText": "Always buy electrical appliances from reputable, authorized dealerships.",
-    "malayalamMeaning": "ഇലക്ട്രിക്കൽ ഉപകരണങ്ങൾ എപ്പോഴും പേരെടുത്ത അംഗീകൃത ഡീലർമാരിൽ നിന്ന് മാത്രം വാങ്ങുക.",
+    "malayalamMeaning": "വൈദ്യുതോപകരണങ്ങൾ എപ്പോഴും സൽപ്പേരുള്ളതും അംഗീകൃതവുമായ ഡീലർഷിപ്പുകളിൽ നിന്ന് വാങ്ങുക.",
     "usageExample": "Trustworthy.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1867,7 +1867,7 @@
     "word": "discretionary",
     "wordMeaning": "അത്യാവശ്യമല്ലാത്ത",
     "englishText": "During high inflation, consumers curtail their discretionary shopping spending.",
-    "malayalamMeaning": "വിലക്കയറ്റം കൂടുമ്പോൾ ആളുകൾ അത്യാവശ്യമല്ലാത്ത ആഡംബര ഷോപ്പിംഗുകൾ പരമാവധി കുറയ്ക്കുന്നു.",
+    "malayalamMeaning": "ഉയർന്ന പണപ്പെരുപ്പ സമയത്ത് ഉപഭോക്താക്കൾ തങ്ങളുടെ അത്യാവശ്യമല്ലാത്ത ഷോപ്പിംഗ് ചെലവുകൾ വെട്ടിക്കുറയ്ക്കുന്നു.",
     "usageExample": "Non-essential.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1875,7 +1875,7 @@
     "word": "expenditure",
     "wordMeaning": "ചെലവ്",
     "englishText": "Track your monthly clothing expenditure using a personal finance app.",
-    "malayalamMeaning": "വസ്ത്രങ്ങൾക്കായി മാസം തോറും ചെലവാകുന്ന പണം കൃത്യമായി കണക്കുകൂട്ടാൻ മണി മാനേജ്‌മെന്റ് ആപ്പുകൾ ഉപയോഗിക്കുക.",
+    "malayalamMeaning": "ഒരു വ്യക്തിഗത ധനകാര്യ ആപ്പ് ഉപയോഗിച്ച് നിങ്ങളുടെ പ്രതിമാസ വസ്ത്ര ചെലവ് നിരീക്ഷിക്കുക.",
     "usageExample": "Spending total.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1883,7 +1883,7 @@
     "word": "reimburse",
     "wordMeaning": "ചെലവ് തിരികെ നൽകുക",
     "englishText": "The store manager promised to reimburse the full courier shipping costs.",
-    "malayalamMeaning": "കൊറിയർ ചാർജ്ജ് മുഴുവനായി തിരികെ നൽകാമെന്ന് സ്റ്റോർ മാനേജർ ഉറപ്പുനൽകി.",
+    "malayalamMeaning": "മുഴുവൻ കൊറിയർ ഷിപ്പിംഗ് ചെലവും തിരികെ നൽകാമെന്ന് സ്റ്റോർ മാനേജർ വാഗ്ദാനം ചെയ്തു.",
     "usageExample": "Pay back.",
     "difficulty": "INTERMEDIATE"
   },
@@ -1891,7 +1891,7 @@
     "word": "consumerism",
     "wordMeaning": "ഉപഭോക്തൃത്വം",
     "englishText": "Unchecked modern consumerism often creates massive electronic waste.",
-    "malayalamMeaning": "അനിയന്ത്രിതമായ ഉപഭോഗ സംസ്കാരം വലിയ തോതിലുള്ള ഇ-മാലിന്യങ്ങൾ കുന്നുകൂടാൻ ഇടയാക്കുന്നു.",
+    "malayalamMeaning": "അനിയന്ത്രിതമായ ആധുനിക ഉപഭോക്തൃത്വം പലപ്പോഴും വലിയ തോതിലുള്ള ഇലക്ട്രോണിക് മാലിന്യങ്ങൾ സൃഷ്ടിക്കുന്നു.",
     "usageExample": "Culture of buying.",
     "difficulty": "ADVANCED"
   },
@@ -1899,7 +1899,7 @@
     "word": "provenance",
     "wordMeaning": "ഉത്ഭവം",
     "englishText": "The auction house verified the royal provenance of the antique necklace.",
-    "malayalamMeaning": "ആ പുരാതന മാല രാജകുടുംബത്തിൽ നിന്നുള്ളതാണെന്ന് ലേല കമ്പനി പരിശോധിച്ചു ബോധ്യപ്പെട്ടു.",
+    "malayalamMeaning": "ആ പുരാതന മാലയുടെ രാജകീയ ഉത്ഭവം ലേല സ്ഥാപനം പരിശോധിച്ചു ഉറപ്പുവരുത്തി.",
     "usageExample": "Origin history.",
     "difficulty": "ADVANCED"
   },
@@ -1907,7 +1907,7 @@
     "word": "connoisseur",
     "wordMeaning": "വിദഗ്ദ്ധ ആസ്വാദകൻ",
     "englishText": "As an antique connoisseur, he could spot a reproduction within seconds.",
-    "malayalamMeaning": "പുരാവസ്തുക്കളിൽ നല്ല അറിവുള്ളയാളായതിനാൽ വ്യാജ നിർമ്മിതികളെ നിമിഷങ്ങൾക്കുള്ളിൽ തിരിച്ചറിയാൻ അദ്ദേഹത്തിന് കഴിഞ്ഞു.",
+    "malayalamMeaning": "പുരാവസ്തുക്കളുടെ ഒരു വിദഗ്ദ്ധ ആസ്വാദകനായതിനാൽ നിമിഷങ്ങൾക്കുള്ളിൽ ഒരു പകർപ്പിനെ തിരിച്ചറിയാൻ അദ്ദേഹത്തിന് കഴിഞ്ഞു.",
     "usageExample": "Expert judge.",
     "difficulty": "ADVANCED"
   },
@@ -1915,7 +1915,7 @@
     "word": "bespoke",
     "wordMeaning": "പ്രത്യേകം തയ്യാറാക്കിയ",
     "englishText": "The diplomat commissioned a bespoke cashmere overcoat from London.",
-    "malayalamMeaning": "ലണ്ടനിലെ തയ്യൽക്കാരെക്കൊണ്ട് തന്റെ അളവിനൊത്ത പ്രത്യേക കാഷ്മീരി ഓവർകോട്ട് ആ നയതന്ത്രജ്ഞൻ തയ്യാറാക്കിച്ചു.",
+    "malayalamMeaning": "ആ നയതന്ത്രജ്ഞൻ ലണ്ടനിൽ നിന്ന് പ്രത്യേകം തയ്യാറാക്കിയ ഒരു കാഷ്മീർ ഓവർകോട്ട് ഓർഡർ ചെയ്തു തയ്യാറാക്കിച്ചു.",
     "usageExample": "Custom tailored.",
     "difficulty": "ADVANCED"
   },
@@ -1923,7 +1923,7 @@
     "word": "haute couture",
     "wordMeaning": "ആഡംബര വസ്ത്രരൂപകൽപ്പന",
     "englishText": "Paris Fashion Week remains the global pinnacle of haute couture designs.",
-    "malayalamMeaning": "ലോകത്തിലെ ഏറ്റവും മികച്ച അത്യാധുനിക ഫാഷൻ ഡിസൈനുകളുടെ വേദിയാണ് പാരീസ് ഫാഷൻ വീക്ക്.",
+    "malayalamMeaning": "പാരീസ് ഫാഷൻ വീക്ക് ആഡംബര വസ്ത്രരൂപകൽപ്പനകളുടെ ആഗോള പരകോടിയായി തുടരുന്നു.",
     "usageExample": "High fashion.",
     "difficulty": "ADVANCED"
   },
@@ -1931,7 +1931,7 @@
     "word": "sartorial",
     "wordMeaning": "വസ്ത്രധാരണ സംബന്ധിയായ",
     "englishText": "He was widely admired for his impeccable sartorial elegance at public galas.",
-    "malayalamMeaning": "പൊതുവേദികളിലെ അദ്ദേഹത്തിന്റെ കുറ്റമറ്റതും സുന്ദരവുമായ വസ്ത്രധാരണം എല്ലാവരുടെയും പ്രശംസ പിടിച്ചുപറ്റി.",
+    "malayalamMeaning": "പൊതു ആഘോഷവേദികളിലെ അദ്ദേഹത്തിന്റെ കുറ്റമറ്റ വസ്ത്രധാരണ ചാരുത വ്യാപകമായി പ്രശംസിക്കപ്പെട്ടു.",
     "usageExample": "Relating to tailoring.",
     "difficulty": "ADVANCED"
   },
@@ -1939,7 +1939,7 @@
     "word": "haberdashery",
     "wordMeaning": "തുന്നൽ സാമഗ്രി കട",
     "englishText": "The old downtown haberdashery sold buttons, sewing threads, and silk ribbons.",
-    "malayalamMeaning": "നഗരത്തിലെ ആ പഴയ തയ്യൽക്കടയിൽ ബട്ടണുകളും തുന്നൽ നൂലുകളും റിബണുകളും വിറ്റിരുന്നു.",
+    "malayalamMeaning": "നഗരമധ്യത്തിലെ ആ പഴയ തുന്നൽ സാമഗ്രി കടയിൽ ബട്ടണുകളും തുന്നൽ നൂലുകളും പട്ട് റിബണുകളും വിറ്റിരുന്നു.",
     "usageExample": "Sewing/men's shop.",
     "difficulty": "ADVANCED"
   },
@@ -1947,7 +1947,7 @@
     "word": "ostentatious",
     "wordMeaning": "പ്രകടനപരമായ",
     "englishText": "Flashing expensive diamond rings at a charity dinner was seen as ostentatious.",
-    "malayalamMeaning": "ഒരു ജീവകാരുണ്യ വിരുന്നിൽ വെച്ച് വിലകൂടിയ വജ്രമോതിരങ്ങൾ പ്രദർശിപ്പിച്ചത് അനാവശ്യ ആഡംബരമായി ആളുകൾ കണ്ടു.",
+    "malayalamMeaning": "ഒരു ജീവകാരുണ്യ വിരുന്നിൽ വെച്ച് വിലകൂടിയ വജ്രമോതിരങ്ങൾ പ്രദർശിപ്പിച്ചത് പ്രകടനപരമായ പ്രവൃത്തിയായി കാണപ്പെട്ടു.",
     "usageExample": "Showy and vulgar.",
     "difficulty": "ADVANCED"
   },
@@ -1955,7 +1955,7 @@
     "word": "parsimonious",
     "wordMeaning": "പിശുക്കുള്ള",
     "englishText": "Despite his millions, he remained astonishingly parsimonious in daily spending.",
-    "malayalamMeaning": "കോടികളുടെ സ്വത്തുണ്ടായിട്ടും ദൈനംദിന കാര്യങ്ങൾക്ക് പണം ചെലവഴിക്കുന്നതിൽ അവൻ വലിയ പിശുക്കനായിരുന്നു.",
+    "malayalamMeaning": "ദശലക്ഷക്കണക്കിന് സമ്പത്തുണ്ടായിട്ടും ദൈനംദിന ചെലവുകളിൽ അവൻ അത്ഭുതകരമാംവിധം പിശുക്കുള്ളവനായിരുന്നു.",
     "usageExample": "Miserly.",
     "difficulty": "ADVANCED"
   },
@@ -1963,7 +1963,7 @@
     "word": "opulent",
     "wordMeaning": "സമൃദ്ധമായ",
     "englishText": "The penthouse suite was furnished with opulent marble fixtures and chandeliers.",
-    "malayalamMeaning": "വിലപിടിപ്പുള്ള മാർബിളുകളും തൂക്കുവിളക്കുകളുമാണ് ആ ആഡംബര വസതിയിൽ ഒരുക്കിയിരുന്നത്.",
+    "malayalamMeaning": "ആ പെന്റ്ഹൗസ് സ്യൂട്ട് സമൃദ്ധമായ മാർബിൾ അലങ്കാരങ്ങളും തൂക്കുവിളക്കുകളും കൊണ്ട് സജ്ജീകരിച്ചിരുന്നു.",
     "usageExample": "Luxurious/wealthy.",
     "difficulty": "ADVANCED"
   },
@@ -1971,7 +1971,7 @@
     "word": "lavish",
     "wordMeaning": "ആഡംബരപൂർണ്ണമായ",
     "englishText": "The department store held a lavish launch party with live orchestral music.",
-    "malayalamMeaning": "തത്സമയ സംഗീതവിരുന്നോടെ വലിയ ആഘോഷമായാണ് ഡിപ്പാർട്ട്‌മെന്റൽ സ്റ്റോറിന്റെ ഉദ്ഘാടനം നടന്നത്.",
+    "malayalamMeaning": "തത്സമയ ഓർക്കസ്ട്രൽ സംഗീതത്തോടുകൂടിയ ആഡംബരപൂർണ്ണമായ ഒരു ഉദ്ഘാടന വിരുന്ന് ഡിപ്പാർട്ട്‌മെന്റ് സ്റ്റോർ സംഘടിപ്പിച്ചു.",
     "usageExample": "Extravagant.",
     "difficulty": "ADVANCED"
   },
@@ -1987,7 +1987,7 @@
     "word": "nominal",
     "wordMeaning": "നാമമാത്രമായ",
     "englishText": "The community library charges a nominal annual fee for book borrowing.",
-    "malayalamMeaning": "പുസ്തകങ്ങൾ വിതരണം ചെയ്യുന്നതിനായി വളരെ ചെറിയൊരു വാർഷിക ഫീസ് മാത്രമേ ആ വായനശാല ഈടാക്കുന്നുള്ളൂ.",
+    "malayalamMeaning": "പുസ്തകങ്ങൾ കടമെടുക്കുന്നതിനായി ആ കമ്മ്യൂണിറ്റി വായനശാല നാമമാത്രമായ ഒരു വാർഷിക ഫീസ് മാത്രമേ ഈടാക്കുന്നുള്ളൂ.",
     "usageExample": "Very small token.",
     "difficulty": "ADVANCED"
   },
@@ -1995,7 +1995,7 @@
     "word": "negligible",
     "wordMeaning": "നിസ്സാരമായ",
     "englishText": "The cost difference between the two cotton fabrics was negligible.",
-    "malayalamMeaning": "ആ രണ്ട് കോട്ടൺ തുണിത്തരങ്ങൾ തമ്മിൽ വിലയിൽ കാര്യമായ വ്യത്യാസമൊന്നുമില്ലായിരുന്നു.",
+    "malayalamMeaning": "ആ രണ്ട് കോട്ടൺ തുണിത്തരങ്ങൾ തമ്മിലുള്ള വില വ്യത്യാസം നിസ്സാരമായിരുന്നു.",
     "usageExample": "Insignificantly small.",
     "difficulty": "ADVANCED"
   },
@@ -2003,7 +2003,7 @@
     "word": "profligate",
     "wordMeaning": "ധൂർത്തടിക്കുന്ന",
     "englishText": "His profligate spending habits quickly depleted his substantial inheritance.",
-    "malayalamMeaning": "അളവറ്റ ധൂർത്തു കാരണം അവന് പരമ്പരാഗതമായി കിട്ടിയ വലിയ സ്വത്തെല്ലാം പെട്ടെന്ന് തന്നെ തീർന്നുപോയി.",
+    "malayalamMeaning": "അവന്റെ ധൂർത്തടിക്കുന്ന ചെലവ് ശീലങ്ങൾ അവന് പാരമ്പര്യമായി ലഭിച്ച വലിയ സ്വത്ത് വേഗത്തിൽ ഇല്ലാതാക്കി.",
     "usageExample": "Recklessly wasteful.",
     "difficulty": "ADVANCED"
   },
@@ -2011,7 +2011,7 @@
     "word": "spendthrift",
     "wordMeaning": "ധൂർത്തൻ",
     "englishText": "A notorious spendthrift, he purchased luxury sports cars on borrowed credit.",
-    "malayalamMeaning": "പണം ധൂർത്തടിക്കുന്നതിൽ കുപ്രസിദ്ധനായ അവൻ കടം വാങ്ങി ആഡംബര സ്പോർട്സ് കാറുകൾ സ്വന്തമാക്കി.",
+    "malayalamMeaning": "കുപ്രസിദ്ധനായ ഒരു ധൂർത്തനായ അവൻ കടം വാങ്ങിയ പണം കൊണ്ട് ആഡംബര സ്പോർട്സ് കാറുകൾ വാങ്ങി.",
     "usageExample": "Wasteful person.",
     "difficulty": "ADVANCED"
   },
@@ -2019,7 +2019,7 @@
     "word": "squander",
     "wordMeaning": "പാഴാക്കുക",
     "englishText": "Do not squander your hard-earned bonus on fleeting consumer gadgets.",
-    "malayalamMeaning": "കഷ്ടപ്പെട്ടുണ്ടാക്കിയ ബോണസ് തുക അനാവശ്യ ഇലക്ട്രോണിക് സാധനങ്ങൾ വാങ്ങി പാഴാക്കിക്കളയരുത്.",
+    "malayalamMeaning": "നിങ്ങൾ കഷ്ടപ്പെട്ടുണ്ടാക്കിയ ബോണസ് തുക ക്ഷണികമായ ഉപഭോക്തൃ ഗാഡ്‌ജെറ്റുകൾക്കായി പാഴാക്കരുത്.",
     "usageExample": "Waste recklessly.",
     "difficulty": "ADVANCED"
   },
@@ -2027,7 +2027,7 @@
     "word": "commodification",
     "wordMeaning": "ചരക്കുവൽക്കരണം",
     "englishText": "Critics lament the rapid commercialization and commodification of traditional arts.",
-    "malayalamMeaning": "പരമ്പരാഗത കലാരൂപങ്ങൾ കച്ചവടവൽക്കരിക്കപ്പെടുന്നതിനെ നിരൂപകർ ശക്തമായി വിമർശിക്കുന്നു.",
+    "malayalamMeaning": "പരമ്പരാഗത കലകളുടെ അതിവേഗമുള്ള വാണിജ്യവൽക്കരണത്തിലും ചരക്കുവൽക്കരണത്തിലും നിരൂപകർ ഖേദം പ്രകടിപ്പിക്കുന്നു.",
     "usageExample": "Turning into goods.",
     "difficulty": "ADVANCED"
   },
@@ -2043,7 +2043,7 @@
     "word": "transactional",
     "wordMeaning": "ഇടപാട് സംബന്ധിയായ",
     "englishText": "Keep the business interaction professional and strictly transactional.",
-    "malayalamMeaning": "ഇടപാടുകൾ എപ്പോഴും പ്രൊഫഷണലായും വ്യവസ്ഥാപിതമായും മാത്രം മുന്നോട്ടു കൊണ്ടുപോവുക.",
+    "malayalamMeaning": "ബിസിനസ്സ് ആശയവിനിമയം പ്രൊഫഷണലായും കർശനമായും ഇടപാട് സംബന്ധിയായതുമായി നിലനിർത്തുക.",
     "usageExample": "Deal-oriented.",
     "difficulty": "ADVANCED"
   },
@@ -2059,7 +2059,7 @@
     "word": "obsolescence",
     "wordMeaning": "കാലഹരണപ്പെടൽ",
     "englishText": "Built-in planned obsolescence forces consumers to upgrade gadgets frequently.",
-    "malayalamMeaning": "ഉപകരണങ്ങൾ വേഗത്തിൽ പ്രവർത്തനരഹിതമാകുന്ന തരത്തിൽ നിർമ്മിക്കുന്നത് കാരണം ആളുകൾക്ക് പുതിയവ വീണ്ടും വാങ്ങേണ്ടി വരുന്നു.",
+    "malayalamMeaning": "ആസൂത്രിതമായ കാലഹരണപ്പെടൽ ഉപഭോക്താക്കളെ ഇടയ്ക്കിടെ ഗാഡ്‌ജെറ്റുകൾ നവീകരിക്കാൻ നിർബന്ധിതരാക്കുന്നു.",
     "usageExample": "Becoming outdated.",
     "difficulty": "ADVANCED"
   },
@@ -2067,7 +2067,7 @@
     "word": "contraband",
     "wordMeaning": "നിരോധിത ചരക്ക്",
     "englishText": "Customs officers at the airport intercepted smuggled contraband electronics.",
-    "malayalamMeaning": "വിമാനത്താവളം വഴി കടത്താൻ ശ്രമിച്ച നിരോധിത ഇലക്ട്രോണിക് സാധനങ്ങൾ കസ്റ്റംസ് ഉദ്യോഗസ്ഥർ പിടിച്ചെടുത്തു.",
+    "malayalamMeaning": "വിമാനത്താവളത്തിലെ കസ്റ്റംസ് ഉദ്യോഗസ്ഥർ കള്ളക്കടത്തായി കൊണ്ടുവന്ന നിരോധിത ഇലക്ട്രോണിക് ചരക്കുകൾ പിടിച്ചെടുത്തു.",
     "usageExample": "Illegal goods.",
     "difficulty": "ADVANCED"
   },
@@ -2075,7 +2075,7 @@
     "word": "embargo",
     "wordMeaning": "ഉപരോധം",
     "englishText": "The international trade embargo halted imports of luxury automobiles.",
-    "malayalamMeaning": "അന്താരാഷ്ട്ര വ്യാപാര ഉപരോധം ആഡംബര കാറുകളുടെ ഇറക്കുമതി പൂർണ്ണമായി തടഞ്ഞു.",
+    "malayalamMeaning": "അന്താരാഷ്ട്ര വ്യാപാര ഉപരോധം ആഡംബര വാഹനങ്ങളുടെ ഇറക്കുമതി നിർത്തിവെച്ചു.",
     "usageExample": "Import ban.",
     "difficulty": "ADVANCED"
   },
@@ -2083,7 +2083,7 @@
     "word": "boycott",
     "wordMeaning": "ബഹിഷ്കരണം",
     "englishText": "Conscious consumers organized a boycott against apparel brands exploiting sweatshops.",
-    "malayalamMeaning": "തൊഴിലാളികളെ ചൂഷണം ചെയ്യുന്ന വസ്ത്ര നിർമ്മാണ കമ്പനികൾക്കെതിരെ ബോധവാന്മാരായ ഉപഭോക്താക്കൾ ബഹിഷ്കരണത്തിന് ആഹ്വാനം ചെയ്തു.",
+    "malayalamMeaning": "തൊഴിലാളികളെ ചൂഷണം ചെയ്യുന്ന ഫാക്ടറികളെ ആശ്രയിക്കുന്ന വസ്ത്ര ബ്രാൻഡുകൾക്കെതിരെ ബോധവാന്മാരായ ഉപഭോക്താക്കൾ ബഹിഷ്കരണം സംഘടിപ്പിച്ചു.",
     "usageExample": "Protest abstention.",
     "difficulty": "ADVANCED"
   },
@@ -2091,7 +2091,7 @@
     "word": "patron",
     "wordMeaning": "രക്ഷാധികാരി",
     "englishText": "The wealthy textile merchant was a generous patron of classical temple music.",
-    "malayalamMeaning": "സമ്പന്നനായ ആ വസ്ത്രവ്യാപാരി ക്ഷേത്രകലകളെയും ശാസ്ത്രീയ സംഗീതത്തെയും ഉദാരമായി സഹായിച്ചിരുന്നു.",
+    "malayalamMeaning": "സമ്പന്നനായ ആ വസ്ത്രവ്യാപാരി ശാസ്ത്രീയ ക്ഷേത്രസംഗീതത്തിന്റെ ഉദാരനായ രക്ഷാധികാരിയായിരുന്നു.",
     "usageExample": "Supporter/buyer.",
     "difficulty": "ADVANCED"
   },
@@ -2099,7 +2099,7 @@
     "word": "purveyor",
     "wordMeaning": "വിതരണക്കാരൻ",
     "englishText": "The historic bakery was an appointed purveyor of fruitcake to royal banquets.",
-    "malayalamMeaning": "രാജകൊട്ടാരത്തിലെ വിരുന്നുകളിലേക്ക് ഫ്രൂട്ട് കേക്ക് വിതരണം ചെയ്തിരുന്നത് ആ പ്രശസ്തമായ പഴയ ബേക്കറിയായിരുന്നു.",
+    "malayalamMeaning": "ആ ചരിത്രപ്രസിദ്ധമായ ബേക്കറി രാജകീയ വിരുന്നുകളിലേക്ക് ഫ്രൂട്ട് കേക്കിന്റെ നിയമിത വിതരണക്കാരനായിരുന്നു.",
     "usageExample": "Supplier of goods.",
     "difficulty": "ADVANCED"
   },
@@ -2107,7 +2107,7 @@
     "word": "emporium",
     "wordMeaning": "വിപണന കേന്ദ്രം",
     "englishText": "The city center handicraft emporium attracts thousands of international shoppers.",
-    "malayalamMeaning": "നഗരമധ്യത്തിലെ കരകൗശല വിപണന കേന്ദ്രം ആയിരക്കണക്കിന് വിദേശ സഞ്ചാരികളെ ആകർഷിക്കുന്നു.",
+    "malayalamMeaning": "നഗരമധ്യത്തിലെ കരകൗശല വിപണന കേന്ദ്രം ആയിരക്കണക്കിന് അന്താരാഷ്ട്ര ഉപഭോക്താക്കളെ ആകർഷിക്കുന്നു.",
     "usageExample": "Large bazaar/store.",
     "difficulty": "ADVANCED"
   },
@@ -2115,7 +2115,7 @@
     "word": "dispensary",
     "wordMeaning": "ഔഷധശാല",
     "englishText": "The Ayurvedic dispensary stocks rare herbal oils and medicinal powders.",
-    "malayalamMeaning": "അപൂർവ്വമായ ആയുർവേദ എണ്ണകളും ഔഷധപ്പൊടികളും ആ ആയുർവേദ ഔഷധശാലയിൽ ലഭ്യമാണ്.",
+    "malayalamMeaning": "അപൂർവ്വമായ ഔഷധ എണ്ണകളും മരുന്നുപൊടികളും ആ ആയുർവേദ ഔഷധശാലയിൽ ലഭ്യമാണ്.",
     "usageExample": "Medicine store.",
     "difficulty": "ADVANCED"
   },
@@ -2123,7 +2123,7 @@
     "word": "milliner",
     "wordMeaning": "തൊപ്പി നിർമ്മാതാവ്",
     "englishText": "The aristocratic ladies ordered custom feather hats from the city milliner.",
-    "malayalamMeaning": "ഉന്നത കുടുംബങ്ങളിലെ സ്ത്രീകൾ നഗരത്തിലെ പ്രശസ്ത തൊപ്പി നിർമ്മാതാവിൽ നിന്ന് പ്രത്യേക തൂവൽത്തൊപ്പികൾ തയ്പ്പിച്ചു.",
+    "malayalamMeaning": "പ്രഭുകുടുംബങ്ങളിലെ സ്ത്രീകൾ നഗരത്തിലെ തൊപ്പി നിർമ്മാതാവിൽ നിന്ന് പ്രത്യേക തൂവൽത്തൊപ്പികൾ ഓർഡർ ചെയ്തു.",
     "usageExample": "Hat maker.",
     "difficulty": "ADVANCED"
   },
@@ -2131,7 +2131,7 @@
     "word": "draper",
     "wordMeaning": "തുണിക്കടക്കാരൻ",
     "englishText": "The village draper measured lengths of unbleached cotton calico with a brass rod.",
-    "malayalamMeaning": "ഗ്രാമത്തിലെ തുണിക്കടക്കാരൻ പിച്ചള അളവുകോൽ ഉപയോഗിച്ച് കോട്ടൺ തുണി അളന്നു നൽകി.",
+    "malayalamMeaning": "ഗ്രാമത്തിലെ തുണിക്കടക്കാരൻ പിച്ചള അളവുകോൽ ഉപയോഗിച്ച് ബ്ലീച്ച് ചെയ്യാത്ത കോട്ടൺ കാലിക്കോ തുണി അളന്നു.",
     "usageExample": "Cloth seller.",
     "difficulty": "ADVANCED"
   },
@@ -2139,7 +2139,7 @@
     "word": "affluent",
     "wordMeaning": "സമ്പന്നമായ",
     "englishText": "The luxury shopping mall is situated near the city's most affluent enclave.",
-    "malayalamMeaning": "നഗരത്തിലെ ഏറ്റവും സമ്പന്നർ താമസിക്കുന്ന മേഖലയ്ക്ക് അടുത്താണ് ആ ആഡംബര മാൾ സ്ഥിതി ചെയ്യുന്നത്.",
+    "malayalamMeaning": "നഗരത്തിലെ ഏറ്റവും സമ്പന്നമായ മേഖലയ്ക്ക് അടുത്താണ് ആ ആഡംബര ഷോപ്പിംഗ് മാൾ സ്ഥിതി ചെയ്യുന്നത്.",
     "usageExample": "Wealthy.",
     "difficulty": "ADVANCED"
   },
@@ -2147,7 +2147,7 @@
     "word": "discerning",
     "wordMeaning": "വിവേകമുള്ള",
     "englishText": "The boutique targets discerning shoppers who value craftsmanship over logos.",
-    "malayalamMeaning": "ബ്രാൻഡ് ലേബലുകളേക്കാൾ വസ്ത്രത്തിന്റെ കരവിരുതും ഗുണനിലവാരവും നോക്കി വാങ്ങുന്ന ഉപഭോക്താക്കളെയാണ് ആ ബോട്ടിക് ലക്ഷ്യമിടുന്നത്.",
+    "malayalamMeaning": "ലോഗോകളേക്കാൾ കരകൗശലത്തിന് വിലകൽപ്പിക്കുന്ന വിവേകമുള്ള ഉപഭോക്താക്കളെയാണ് ആ ബോട്ടിക് ലക്ഷ്യമിടുന്നത്.",
     "usageExample": "Showing good taste.",
     "difficulty": "ADVANCED"
   },
@@ -2155,7 +2155,7 @@
     "word": "fastidious",
     "wordMeaning": "അതീവ സൂക്ഷ്മതയുള്ള",
     "englishText": "She was fastidious about inspecting the seams and stitching of every garment.",
-    "malayalamMeaning": "വസ്ത്രങ്ങളുടെ തുന്നലുകളും അരികുകളും സൂക്ഷ്മമായി പരിശോധിക്കുന്നതിൽ അവൾ അതീവ ശ്രദ്ധാലുവായിരുന്നു.",
+    "malayalamMeaning": "ഓരോ വസ്ത്രത്തിന്റെയും തുന്നലുകളും അരികുകളും പരിശോധിക്കുന്നതിൽ അവൾ അതീവ സൂക്ഷ്മതയുള്ളവളായിരുന്നു.",
     "usageExample": "Meticulously finicky.",
     "difficulty": "ADVANCED"
   },
@@ -2163,15 +2163,15 @@
     "word": "meticulous",
     "wordMeaning": "സൂക്ഷ്മമായ",
     "englishText": "His meticulous curation of vintage fountain pens made his shop world-famous.",
-    "malayalamMeaning": "പഴയകാല ഫൗണ്ടൻ പേനകളുടെ അപൂർവ്വ ശേഖരം ഭംഗിയായി ഒരുക്കിവെച്ചതിലൂടെ അവന്റെ കട ലോകപ്രശസ്തമായി മാറി.",
+    "malayalamMeaning": "പഴയകാല ഫൗണ്ടൻ പേനകളുടെ സൂക്ഷ്മമായ തിരഞ്ഞെടുപ്പും ഒരുക്കവും അവന്റെ കടയെ ലോകപ്രശസ്തമാക്കി.",
     "usageExample": "Painstakingly exact.",
     "difficulty": "ADVANCED"
   },
   {
     "word": "ubiquitous",
     "wordMeaning": "സർവ്വവ്യാപിയായ",
-    "englishText": "E-commerce delivery delivery vans have become ubiquitous on residential streets.",
-    "malayalamMeaning": "ഇ-കൊമേഴ്‌സ് ഡെലിവറി വണ്ടികൾ ഇന്ന് എല്ലാ ഇടവഴികളിലും സുപരിചിതമായ കാഴ്ചയായി മാറിയിരിക്കുന്നു.",
+    "englishText": "E-commerce delivery vans have become ubiquitous on residential streets.",
+    "malayalamMeaning": "താമസമേഖലയിലെ തെരുവുകളിൽ ഇ-കൊമേഴ്‌സ് ഡെലിവറി വാനുകൾ ഇന്ന് സർവ്വവ്യാപിയായി മാറിയിരിക്കുന്നു.",
     "usageExample": "Present everywhere.",
     "difficulty": "ADVANCED"
   },
@@ -2179,7 +2179,7 @@
     "word": "pragmatic",
     "wordMeaning": "പ്രായോഗികമായ",
     "englishText": "Take a pragmatic view of your budget before committing to expensive luxury buys.",
-    "malayalamMeaning": "വിലകൂടിയ ആഡംബര വസ്തുക്കൾ വാങ്ങുന്നതിന് മുൻപായി നിങ്ങളുടെ സാമ്പത്തിക സ്ഥിതിയെക്കുറിച്ച് പ്രായോഗികമായി ചിന്തിക്കുക.",
+    "malayalamMeaning": "വിലകൂടിയ ആഡംബര വസ്തുക്കൾ വാങ്ങാൻ തീരുമാനിക്കുന്നതിന് മുൻപ് നിങ്ങളുടെ ബജറ്റിനെക്കുറിച്ച് പ്രായോഗികമായ കാഴ്ചപ്പാട് സ്വീകരിക്കുക.",
     "usageExample": "Practical.",
     "difficulty": "ADVANCED"
   },
@@ -2187,7 +2187,7 @@
     "word": "lucrative",
     "wordMeaning": "ലാഭകരമായ",
     "englishText": "Securing exclusive retail rights for the European brand proved highly lucrative.",
-    "malayalamMeaning": "ആ യൂറോപ്യൻ ബ്രാൻഡിന്റെ വിൽപനാവകാശം സ്വന്തമാക്കാൻ കഴിഞ്ഞത് ബിസിനസ്സിൽ വലിയ സാമ്പത്തിക ലാഭം നൽകി.",
+    "malayalamMeaning": "ആ യൂറോപ്യൻ ബ്രാൻഡിന്റെ ഏക ചില്ലറ വിൽപ്പനാവകാശം നേടിയെടുത്തത് വളരെയധികം ലാഭകരമാണെന്ന് തെളിഞ്ഞു.",
     "usageExample": "Profitable.",
     "difficulty": "ADVANCED"
   },
@@ -2195,7 +2195,7 @@
     "word": "unprecedented",
     "wordMeaning": "അഭൂതപൂർവമായ",
     "englishText": "The festive weekend witnessed unprecedented footfalls across all shopping malls.",
-    "malayalamMeaning": "ഉത്സവ അവധിക്കാലത്ത് മാളുകളിലെല്ലാം മുൻപൊരിക്കലുമില്ലാത്ത വിധം ജനങ്ങളുടെ വൻ തിരക്കാണ് അനുഭവപ്പെട്ടത്.",
+    "malayalamMeaning": "ഉത്സവ വാരാന്ത്യത്തിൽ എല്ലാ ഷോപ്പിംഗ് മാളുകളിലും അഭൂതപൂർവമായ സന്ദർശകത്തിരക്കാണ് അനുഭവപ്പെട്ടത്.",
     "usageExample": "Never seen before.",
     "difficulty": "ADVANCED"
   },
@@ -2203,7 +2203,7 @@
     "word": "exponential",
     "wordMeaning": "അതിവേഗം വർദ്ധിക്കുന്ന",
     "englishText": "Online grocery platforms experienced exponential growth over recent years.",
-    "malayalamMeaning": "സമീപകാലത്തായി ഓൺലൈൻ പലചരക്ക് വിപണന പ്ലാറ്റ്‌ഫോമുകൾക്ക് വലിയ വളർച്ചയാണ് ഉണ്ടായത്.",
+    "malayalamMeaning": "സമീപ വർഷങ്ങളിൽ ഓൺലൈൻ പലചരക്ക് പ്ലാറ്റ്‌ഫോമുകൾക്ക് അതിവേഗം വർദ്ധിക്കുന്ന വളർച്ചയുണ്ടായി.",
     "usageExample": "Rapidly multiplying.",
     "difficulty": "ADVANCED"
   },
@@ -2211,7 +2211,7 @@
     "word": "substantiate",
     "wordMeaning": "സാധൂകരിക്കുക",
     "englishText": "You must provide your original purchase receipt to substantiate your warranty claim.",
-    "malayalamMeaning": "വാറന്റി ആനുകൂല്യം ലഭിക്കുന്നതിനായി സാധനം വാങ്ങിയ ഒറിജിനൽ ബിൽ ഹാജരാക്കേണ്ടതുണ്ട്.",
+    "malayalamMeaning": "നിങ്ങളുടെ വാറന്റി അവകാശവാദം സാധൂകരിക്കാൻ സാധനം വാങ്ങിയ യഥാർത്ഥ രസീത് ഹാജരാക്കണം.",
     "usageExample": "Prove truth of.",
     "difficulty": "ADVANCED"
   },
@@ -2219,7 +2219,7 @@
     "word": "exemplary",
     "wordMeaning": "മാതൃകാപരമായ",
     "englishText": "The store's customer service team maintained an exemplary satisfaction score.",
-    "malayalamMeaning": "ഉപഭോക്താക്കളുടെ സംതൃപ്തി ഉറപ്പുവരുത്തുന്നതിൽ ആ കടയിലെ കസ്റ്റമർ സർവീസ് ടീം മാതൃകാപരമായ നേട്ടം കൈവരിച്ചു.",
+    "malayalamMeaning": "കടയുടെ കസ്റ്റമർ സർവീസ് ടീം മാതൃകാപരമായ ഉപഭോക്തൃ സംതൃപ്തി സ്കോർ നിലനിർത്തി.",
     "usageExample": "Model quality.",
     "difficulty": "ADVANCED"
   },
@@ -2227,7 +2227,7 @@
     "word": "imperative",
     "wordMeaning": "അനിവാര്യമായ",
     "englishText": "Adopting recyclable packaging is a commercial imperative for ethical brands.",
-    "malayalamMeaning": "പ്രകൃതിസൗഹൃദമായ പാക്കിംഗ് രീതികൾ സ്വീകരിക്കുക എന്നത് ഇന്നത്തെ നല്ല ബ്രാൻഡുകൾക്ക് തികച്ചും അനിവാര്യമാണ്.",
+    "malayalamMeaning": "പുനരുപയോഗിക്കാവുന്ന പാക്കിംഗ് സ്വീകരിക്കുക എന്നത് ധാർമ്മിക ബ്രാൻഡുകൾക്ക് വാണിജ്യപരമായി അനിവാര്യമായ ഒന്നാണ്.",
     "usageExample": "Crucial requirement.",
     "difficulty": "ADVANCED"
   },
@@ -2235,7 +2235,7 @@
     "word": "perfunctory",
     "wordMeaning": "ഉപരിപ്ലവമായ",
     "englishText": "A perfunctory inspection failed to catch the hairline crack in the ceramic vase.",
-    "malayalamMeaning": "മേൽപ്പറഞ്ഞ പാത്രം കണ്ണോടിച്ച് മാത്രം പരിശോധിച്ചതിനാൽ അതിലുണ്ടായിരുന്ന ചെറിയ വിള്ളൽ ശ്രദ്ധയിൽപ്പെട്ടില്ല.",
+    "malayalamMeaning": "ഉപരിപ്ലവമായ പരിശോധനയിൽ സെറാമിക് പൂപ്പാത്രത്തിലെ നേർത്ത വിള്ളൽ കണ്ടെത്താനായില്ല.",
     "usageExample": "Superficial.",
     "difficulty": "ADVANCED"
   },
@@ -2243,7 +2243,7 @@
     "word": "expedite",
     "wordMeaning": "വേഗത്തിലാക്കുക",
     "englishText": "We paid priority shipping fees to expedite delivery of the wedding dress.",
-    "malayalamMeaning": "വിവാഹവസ്ത്രം വേഗത്തിൽ എത്തിച്ചു കിട്ടുന്നതിനായി ഞങ്ങൾ എക്സ്പ്രസ്സ് ഡെലിവറി ചാർജ്ജ് നൽകി.",
+    "malayalamMeaning": "വിവാഹവസ്ത്രത്തിന്റെ വിതരണം വേഗത്തിലാക്കാൻ ഞങ്ങൾ മുൻഗണനാ ഷിപ്പിംഗ് ഫീസ് നൽകി.",
     "usageExample": "Speed up.",
     "difficulty": "ADVANCED"
   },
@@ -2251,7 +2251,7 @@
     "word": "scrutiny",
     "wordMeaning": "സൂക്ഷ്മപരിശോധന",
     "englishText": "The jeweler's hallmarking certificates underwent thorough regulatory scrutiny.",
-    "malayalamMeaning": "ജ്വല്ലറിയുടെ ഹാൾമാർക്കിംഗ് രേഖകൾ അധികൃതരുടെ കർശനമായ പരിശോധനയ്ക്ക് വിധേയമായി.",
+    "malayalamMeaning": "ജ്വല്ലറിയുടെ ഹാൾമാർക്കിംഗ് സർട്ടിഫിക്കറ്റുകൾ സമഗ്രമായ നിയന്ത്രണ സൂക്ഷ്മപരിശോധനയ്ക്ക് വിധേയമായി.",
     "usageExample": "Close inspection.",
     "difficulty": "ADVANCED"
   },
@@ -2259,7 +2259,7 @@
     "word": "diligence",
     "wordMeaning": "സൂക്ഷ്മശ്രദ്ധ",
     "englishText": "Exercise due diligence when purchasing high-value antique furniture online.",
-    "malayalamMeaning": "വിലകൂടിയ പുരാതന ഫർണിച്ചറുകൾ ഓൺലൈൻ വഴി വാങ്ങുമ്പോൾ ആവശ്യമായ മുൻകരുതലുകളും അന്വേഷണങ്ങളും നടത്തുക.",
+    "malayalamMeaning": "ഉയർന്ന വിലയുള്ള പുരാതന ഫർണിച്ചറുകൾ ഓൺലൈനായി വാങ്ങുമ്പോൾ ഉചിതമായ സൂക്ഷ്മശ്രദ്ധ പുലർത്തുക.",
     "usageExample": "Careful attention.",
     "difficulty": "ADVANCED"
   },
@@ -2267,7 +2267,7 @@
     "word": "unambiguous",
     "wordMeaning": "തീർത്തും വ്യക്തമായ",
     "englishText": "The return policy was displayed in plain, unambiguous text at the cash counter.",
-    "malayalamMeaning": "സാധനങ്ങൾ തിരിച്ചെടുക്കുന്നതുമായി ബന്ധപ്പെട്ട വ്യവസ്ഥകൾ ബില്ലിംഗ് കൗണ്ടറിൽ വളരെ വ്യക്തമായിത്തന്നെ എഴുതിവെച്ചിട്ടുണ്ട്.",
+    "malayalamMeaning": "സാധനങ്ങൾ തിരികെ നൽകുന്നതിനുള്ള നയം ക്യാഷ് കൗണ്ടറിൽ ലളിതവും തീർത്തും വ്യക്തവുമായ വാചകങ്ങളിൽ പ്രദർശിപ്പിച്ചിരുന്നു.",
     "usageExample": "Crystal clear.",
     "difficulty": "ADVANCED"
   },
@@ -2275,7 +2275,7 @@
     "word": "concomitant",
     "wordMeaning": "ഒപ്പം ഉണ്ടാകുന്ന",
     "englishText": "The rise of fast fashion has brought concomitant environmental degradation.",
-    "malayalamMeaning": "വസ്ത്രങ്ങളുടെ അമിത ഉപയോഗം പ്രകൃതിക്ക് വലിയ തോതിലുള്ള പാരിസ്ഥിതിക നാശമാണ് വരുത്തിവെക്കുന്നത്.",
+    "malayalamMeaning": "ഫാസ്റ്റ് ഫാഷന്റെ വളർച്ച അതിനോടൊപ്പം ഉണ്ടാകുന്ന പാരിസ്ഥിതിക നാശവും കൊണ്ടുവന്നിട്ടുണ്ട്.",
     "usageExample": "Accompanying factor.",
     "difficulty": "ADVANCED"
   },
@@ -2283,7 +2283,7 @@
     "word": "efficacy",
     "wordMeaning": "ഫലപ്രാപ്തി",
     "englishText": "Scientific tests proved the cosmetic efficacy of the natural vitamin serum.",
-    "malayalamMeaning": "ഈ പ്രകൃതിദത്ത വിറ്റാമിൻ സിറം ചർമ്മത്തിന് വളരെ ഫലപ്രദമാണെന്ന് ശാസ്ത്രീയ പരീക്ഷണങ്ങളിലൂടെ തെളിഞ്ഞു.",
+    "malayalamMeaning": "പ്രകൃതിദത്ത വിറ്റാമിൻ സിറത്തിന്റെ സൗന്ദര്യവർദ്ധക ഫലപ്രാപ്തി ശാസ്ത്രീയ പരീക്ഷണങ്ങൾ തെളിയിച്ചു.",
     "usageExample": "Effectiveness.",
     "difficulty": "ADVANCED"
   },
@@ -2291,7 +2291,7 @@
     "word": "proactive",
     "wordMeaning": "മുൻകൈയെടുക്കുന്ന",
     "englishText": "The store adopted proactive measures to prevent shoplifting during sales.",
-    "malayalamMeaning": "വില്പനത്തിരക്കിനിടയിൽ മോഷണം നടക്കാതിരിക്കാൻ കടയുടമകൾ മുൻകൂട്ടി കർശന മുൻകരുതലുകൾ സ്വീകരിച്ചു.",
+    "malayalamMeaning": "വിൽപ്പനയ്ക്കിടെ കടയിൽ നിന്നുള്ള മോഷണം തടയാൻ കട മുൻകൈയെടുത്തുള്ള നടപടികൾ സ്വീകരിച്ചു.",
     "usageExample": "Forward-thinking.",
     "difficulty": "ADVANCED"
   },
@@ -2299,7 +2299,7 @@
     "word": "salient",
     "wordMeaning": "ശ്രദ്ധേയമായ",
     "englishText": "The brochure lists the salient features and warranty terms of the refrigerator.",
-    "malayalamMeaning": "റഫ്രിജറേറ്ററിന്റെ പ്രധാന സവിശേഷതകളും വാറന്റി വ്യവസ്ഥകളും ആ ബ്രോഷറിൽ വിശദീകരിച്ചിട്ടുണ്ട്.",
+    "malayalamMeaning": "റഫ്രിജറേറ്ററിന്റെ ശ്രദ്ധേയമായ സവിശേഷതകളും വാറന്റി വ്യവസ്ഥകളും ആ ലഘുപത്രിക പട്ടികപ്പെടുത്തുന്നു.",
     "usageExample": "Prominent points.",
     "difficulty": "ADVANCED"
   },
@@ -2307,7 +2307,7 @@
     "word": "indispensable",
     "wordMeaning": "ഒഴിച്ചുകൂടാനാവാത്ത",
     "englishText": "A durable pair of leather walking shoes is indispensable for active travelers.",
-    "malayalamMeaning": "യാത്രകൾ ഒരുപാട് ചെയ്യുന്നവർക്ക് നല്ലൊരു ലെതർ ഷൂ ഒഴിവാക്കാനാവാത്ത ഒന്നാണ്.",
+    "malayalamMeaning": "സജീവ സഞ്ചാരികൾക്ക് ഈടുനിൽക്കുന്ന ഒരു ജോഡി തുകൽ വാക്കിംഗ് ഷൂസ് ഒഴിച്ചുകൂടാനാവാത്ത ഒന്നാണ്.",
     "usageExample": "Essential.",
     "difficulty": "ADVANCED"
   },
@@ -2315,7 +2315,7 @@
     "word": "formidable",
     "wordMeaning": "അതിശക്തമായ",
     "englishText": "The retail chain built a formidable logistics network spanning twenty states.",
-    "malayalamMeaning": "ഇരുപത് സംസ്ഥാനങ്ങളിലായി ശക്തമായ ചരക്കുനീക്ക ശൃംഖലയാണ് ആ റീട്ടെയിൽ കമ്പനി കെട്ടിപ്പടുത്തത്.",
+    "malayalamMeaning": "ആ ചില്ലറ വിൽപ്പന ശൃംഖല ഇരുപത് സംസ്ഥാനങ്ങളിലായി വ്യാപിച്ചുകിടക്കുന്ന അതിശക്തമായ ഒരു ചരക്കുനീക്ക ശൃംഖല കെട്ടിപ്പടുത്തു.",
     "usageExample": "Powerful.",
     "difficulty": "ADVANCED"
   },
@@ -2323,7 +2323,7 @@
     "word": "monetize",
     "wordMeaning": "വരുമാനമാക്കി മാറ്റുക",
     "englishText": "Fashion bloggers often monetize their content through affiliate shopping links.",
-    "malayalamMeaning": "ഷോപ്പിംഗ് ലിങ്കുകൾ പങ്കുവെച്ചുകൊണ്ട് ഫാഷൻ ബ്ലോഗർമാർ വരുമാനം കണ്ടെത്താറുണ്ട്.",
+    "malayalamMeaning": "ഫാഷൻ ബ്ലോഗർമാർ പലപ്പോഴും അഫിലിയേറ്റ് ഷോപ്പിംഗ് ലിങ്കുകളിലൂടെ തങ്ങളുടെ ഉള്ളടക്കം വരുമാനമാക്കി മാറ്റാറുണ്ട്.",
     "usageExample": "Convert to revenue.",
     "difficulty": "ADVANCED"
   },
@@ -2331,7 +2331,7 @@
     "word": "parsimony",
     "wordMeaning": "കടുത്ത പിശുക്ക്",
     "englishText": "His legendary parsimony meant he wore the same winter overcoat for three decades.",
-    "malayalamMeaning": "അവന്റെ അസാധാരണമായ പിശുക്ക് കാരണം മുപ്പത് വർഷത്തോളം അവൻ ഒരൊറ്റ കോട്ട് തന്നെയാണ് ഉപയോഗിച്ചത്.",
+    "malayalamMeaning": "അവന്റെ പ്രസിദ്ധമായ കടുത്ത പിശുക്ക് കാരണം മൂന്ന് പതിറ്റാണ്ടോളം അവൻ ഒരേ ശൈത്യകാല ഓവർകോട്ട് തന്നെയാണ് ധരിച്ചത്.",
     "usageExample": "Extreme frugality.",
     "difficulty": "ADVANCED"
   },
@@ -2339,7 +2339,7 @@
     "word": "mercantilism",
     "wordMeaning": "വ്യാപാരവാദം",
     "englishText": "Colonial trade policies were grounded in aggressive, state-backed mercantilism.",
-    "malayalamMeaning": "കൊളോണിയൽ ഭരണകൂടത്തിന്റെ വാണിജ്യ നയങ്ങൾ കടുത്ത ചൂഷണത്തിലും സ്വന്തം നേട്ടത്തിലുമാണ് അധിഷ്ഠിതമായിരുന്നത്.",
+    "malayalamMeaning": "കൊളോണിയൽ വ്യാപാര നയങ്ങൾ തീവ്രവും ഭരണകൂട പിന്തുണയുള്ളതുമായ വ്യാപാരവാദത്തിൽ അധിഷ്ഠിതമായിരുന്നു.",
     "usageExample": "Commercialism.",
     "difficulty": "ADVANCED"
   },
@@ -2355,7 +2355,7 @@
     "word": "opulence",
     "wordMeaning": "ആഡംബരസമൃദ്ധി",
     "englishText": "The bridal suite reflected an aura of unmatched opulence and regal splendour.",
-    "malayalamMeaning": "വിവാഹ വസ്ത്രങ്ങളുടെ ആ കൗണ്ടർ സമാനതകളില്ലാത്ത പ്രൗഢിയും രാജകീയ പ്രതാപവും തുളുമ്പുന്നതായിരുന്നു.",
+    "malayalamMeaning": "ആ ബ്രൈഡൽ സ്യൂട്ട് സമാനതകളില്ലാത്ത ആഡംബരസമൃദ്ധിയുടെയും രാജകീയ പ്രതാപത്തിന്റെയും പ്രഭാവം പ്രതിഫലിപ്പിച്ചു.",
     "usageExample": "Lavish luxury.",
     "difficulty": "ADVANCED"
   },
@@ -2363,7 +2363,7 @@
     "word": "sumptuous",
     "wordMeaning": "സമൃദ്ധമായ",
     "englishText": "The department store offered a sumptuous display of imported Swiss chocolates.",
-    "malayalamMeaning": "ഇറക്കുമതി ചെയ്ത സ്വിസ് ചോക്ലേറ്റുകളുടെ കൊതിയൂറുന്ന വലിയൊരു ശേഖരമാണ് ആ സ്റ്റോറിൽ ഒരുക്കിയിരുന്നത്.",
+    "malayalamMeaning": "ഇറക്കുമതി ചെയ്ത സ്വിസ് ചോക്ലേറ്റുകളുടെ സമൃദ്ധമായ പ്രദർശനം ഡിപ്പാർട്ട്‌മെന്റ് സ്റ്റോർ ഒരുക്കിയിരുന്നു.",
     "usageExample": "Costly and lavish.",
     "difficulty": "ADVANCED"
   },
@@ -2371,7 +2371,7 @@
     "word": "cash register",
     "wordMeaning": "പണമിടപാട് യന്ത്രം",
     "englishText": "The antique cash register had brass number keys and a mechanical bell.",
-    "malayalamMeaning": "പഴയകാല പണപ്പെട്ടിയുടെ കീബോർഡുകൾ പിച്ചള കൊണ്ടുള്ളതും ബെല്ലടിക്കുന്ന സംവിധാനമുള്ളതുമായിരുന്നു.",
+    "malayalamMeaning": "ആ പുരാതന പണമിടപാട് യന്ത്രത്തിന് പിച്ചള അക്ക കീകളും ഒരു മെക്കാനിക്കൽ ബെല്ലും ഉണ്ടായിരുന്നു.",
     "usageExample": "Billing device.",
     "difficulty": "BEGINNER"
   },
@@ -2387,7 +2387,7 @@
     "word": "gift voucher",
     "wordMeaning": "സമ്മാന വൗച്ചർ",
     "englishText": "She redeemed her birthday gift voucher to buy an espresso coffee maker.",
-    "malayalamMeaning": "ജന്മദിനത്തിന് സമ്മാനമായി ലഭിച്ച ഗിഫ്റ്റ് വൗച്ചർ ഉപയോഗിച്ച് അവൾ ഒരു കോഫി മേക്കർ വാങ്ങി.",
+    "malayalamMeaning": "ഒരു എസ്പ്രെസോ കോഫി മേക്കർ വാങ്ങാൻ അവൾ തന്റെ ജന്മദിന സമ്മാന വൗച്ചർ ഉപയോഗിച്ചു.",
     "usageExample": "Promo card.",
     "difficulty": "INTERMEDIATE"
   },
@@ -2395,7 +2395,7 @@
     "word": "shopper",
     "wordMeaning": "ഉപഭോക്താവ്",
     "englishText": "A savvy shopper compares online prices before making in-store purchases.",
-    "malayalamMeaning": "ബുദ്ധിയുള്ള ഒരു ഉപഭോക്താവ് കടയിൽ നിന്ന് സാധനം വാങ്ങുന്നതിന് മുൻപ് ഓൺലൈനിലെ വില കൂടി നോക്കാറുണ്ട്.",
+    "malayalamMeaning": "ബുദ്ധിമാനായ ഒരു ഉപഭോക്താവ് കടയിൽ നിന്ന് സാധനങ്ങൾ വാങ്ങുന്നതിന് മുൻപ് ഓൺലൈൻ വിലകൾ താരതമ്യം ചെയ്യും.",
     "usageExample": "Consumer.",
     "difficulty": "INTERMEDIATE"
   }
